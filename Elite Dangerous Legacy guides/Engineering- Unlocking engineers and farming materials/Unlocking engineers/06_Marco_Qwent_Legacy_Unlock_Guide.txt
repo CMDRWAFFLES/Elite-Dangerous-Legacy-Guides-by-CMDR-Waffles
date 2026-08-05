@@ -1,0 +1,79 @@
+ELITE DANGEROUS LEGACY CONSOLE
+MARCO QWENT — STANDALONE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+UNLOCK PATH
+===============================================================================
+
+Elvira Martuuk → Marco Qwent
+
+Referral engineers normally become known after ranking the preceding
+engineer beyond Grade 3 and making some progress toward Grade 4.
+
+Dynamic mission availability, faction states, commodity supplies and
+rare-good allocations must be checked in the separate Legacy galaxy.
+
+===============================================================================
+6. MARCO QWENT
+===============================================================================
+
+Location:
+- System: Sirius — permit required
+- Base: Qwent Research Base
+
+Discovered from:
+- Elvira Martuuk at approximately Grade 3 to Grade 4
+
+Meeting requirements:
+- Become Allied with Sirius Corporation
+- Obtain the Sirius system permit
+- Complete the Sirius Corporation engineer invitation mission
+
+Unlock donation:
+- 25 tonnes of Modular Terminals
+
+Best reason to unlock:
+- Grade 4 Power Plant
+- Required referral for Professor Palin, Chloe Sedesi and Lori Jameson
+
+Efficient Sirius reputation:
+- Sell exploration data at a Sirius Corporation-controlled station outside
+  Sirius.
+- Complete missions for Sirius Corporation.
+- Once Allied, look for the Sirius permit mission.
+- After entering Sirius, look for the Marco Qwent invitation mission.
+
+Modular Terminals:
+- Mission-reward commodity
+- Requires cargo space
+- Keep selecting missions that offer them until you hold 25 tonnes
+
+Procedure:
+[ ] Raise Elvira beyond Grade 3.
+[ ] Become Allied with Sirius Corporation.
+[ ] Complete the Sirius permit mission.
+[ ] Enter Sirius and complete the Qwent invitation mission.
+[ ] Deliver 25 Modular Terminals to Qwent Research Base.
+[ ] Rank Qwent beyond Grade 3.
+[ ] Confirm discovery of Professor Palin, Chloe Sedesi and Lori Jameson.
+
+-------------------------------------------------------------------------------
+
+
+===============================================================================
+STANDALONE CHECKLIST
+===============================================================================
+
+[ ] Engineer discovered or publicly known
+[ ] Meeting requirement completed
+[ ] Invitation or permit obtained, where required
+[ ] Unlock donation collected
+[ ] Donation delivered to the engineer
+[ ] Engineer ranked high enough for desired blueprints or referrals
+[ ] Desired blueprint pinned
+[ ] Required experimental effects applied in person
+
+===============================================================================
+END OF GUIDE
+===============================================================================

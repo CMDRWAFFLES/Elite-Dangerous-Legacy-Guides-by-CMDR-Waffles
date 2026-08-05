@@ -1,0 +1,38 @@
+THARGOID BARNACLES —  LEGACY / CONSOLE TABLE
+==================================================
+
+System Name               | Planetary Body | Horizons Coordinates (Lat, Long) | Site Type            
+--------------------------+----------------+----------------------------------+----------------------
+Merope                    | 5 C            | -26.3502, -156.4050              | Common Barnacle      
+Pleiades Sector JC-U b3-2 | 1              | 21.3368, 91.9810                 | Barnacle cluster     
+Pleiades Sector JC-U b3-2 | 1              | 21.6231, 89.0229                 | Barnacle cluster     
+Pleiades Sector JC-U b3-2 | 1              | 20.1809, 86.7213                 | Barnacle cluster     
+Pleiades Sector JC-U b3-2 | 1              | 19.2466, 92.0927                 | Barnacle cluster     
+Pleiades Sector JC-U b3-2 | 1              | 22.8062, 94.0677                 | Barnacle cluster     
+Pleiades Sector JC-U b3-2 | 1              | 21.9129, 96.9749                 | Large Barnacle       
+Pleiades Sector JC-U b3-2 | 1              | -55.7840, 102.7433               | Barnacle cluster     
+Pleiades Sector JC-U b3-2 | 1              | -57.8323, 107.4274               | Barnacle cluster     
+Pleiades Sector JC-U b3-2 | 1              | 28.4238, -34.7232                | Barnacle cluster     
+Pleiades Sector JC-U b3-2 | 1              | -9.3642, -13.0645                | Barnacle cluster     
+Pleiades Sector JC-U b3-2 | 1              | -8.7990, -13.3664                | Barnacle cluster (2) 
+Pleiades Sector JC-U b3-2 | 1              | 9.3390, 22.4387                  | Barnacle cluster     
+Pleiades Sector JC-U b3-2 | 1              | 0.9977, 25.8488                  | Barnacle cluster     
+Pleiades Sector JC-U b3-2 | 1              | 2.4134, 23.5579                  | Barnacle cluster     
+Pleiades Sector JC-U b3-2 | 1              | 25.3372, 25.5319                 | Barnacle cluster (2) 
+Pleiades Sector OI-T c3-7 | A 6            | -42.7782, -21.7144               | Common Barnacle      
+Pleiades Sector IX-S b4-4 | B 1            | -40.46, 25.81                    | Common Barnacle      
+Hyades Sector AQ-Y d81    | C 2            | 9.2924, -153.9815                | Large Barnacle Forest
+Pleiades Sector PN-T b3-0 | A 5            | -4.4946, 145.6557                | Large Barnacle Forest
+HIP 16171                 | C 1            | —                                | Barnacle Site 3      
+Pleiades Sector GH-L b8-0 | A 7            | —                                | Barnacle Site 1      
+
+
+FARMABLE LOCATIONS
+==================
+
+System Name               | Planetary Body | Location          | Farmable    | Verified Yield / Method               
+--------------------------+----------------+-------------------+-------------+---------------------------------------
+Hyades Sector AQ-Y d81    | C 2            | 9.2924, -153.9815 | Meta-Alloys | Meta-Alloy             
+Pleiades Sector PN-T b3-0 | A 5            | -4.4946, 145.6557 | Meta-Alloys | Meta-Alloys   
+HIP 16171                 | C 1            | Barnacle Site 3   | Meta-Alloys | 5 per relog     
+Pleiades Sector GH-L b8-0 | A 7            | Barnacle Site 1   | Meta-Alloys | 5 spawned at site

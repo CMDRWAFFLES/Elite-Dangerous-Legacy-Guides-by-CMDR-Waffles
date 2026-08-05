@@ -1,0 +1,19 @@
+System Name               | Planetary Body | Coordinates (Lat, Long)
+--------------------------+----------------+------------------------
+Synuefe XR-H d11-102      | 1 B            | -31.7347, -128.9212    
+IC 2391 Sector GW-V b2-4  | B 1            | -29.1664, -30.5041     
+IC 2391 Sector ZE-A d101  | C 3            | 29.42, -59.54          
+Synuefe XO-P c22-17       | C 1            | 19.53, -141.76         
+Synuefe ZL-J d10-119      | 9 B            | -23.3821, 178.9094     
+Col 173 Sector KY-Q d5-47 | 8 C            | 16.2701, 18.1282       
+Col 173 Sector KY-Q d5-47 | 8 C            | 46.07, -171.33         
+HIP 39768                 | A 14 F         | 7.0924, 170.2272       
+Synuefe TP-F b44-0        | CD 1           | 59.33, 15.10           
+Synuefe TP-F b44-0        | CD 1           | 31.9672, -100.0063     
+Synuefe TP-F b44-0        | CD 1           | 31.88, -100.05         
+Col 173 Sector KY-Q d5-47 | 9 A            | -15.0842, -102.9397    
+Synuefe NL-N c23-4        | B 3            | -30.54, -24.20         
+Col 173 Sector KY-Q d5-47 | 9 A            | -37.5256, 84.2501      
+Synuefe LY-I b42-2        | C 2            | -10.07, 114.50         
+Synuefe LY-I b42-2        | C 2            | -37.31, 106.42         
+Synuefe LY-I b42-2        | C 2            | 9.02, 48.77     

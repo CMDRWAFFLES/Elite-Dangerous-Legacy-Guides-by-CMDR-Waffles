@@ -1,0 +1,68 @@
+ELITE DANGEROUS LEGACY CONSOLE
+LEI CHEUNG — STANDALONE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+UNLOCK PATH
+===============================================================================
+
+The Dweller → Lei Cheung
+
+Referral engineers normally become known after ranking the preceding
+engineer beyond Grade 3 and making some progress toward Grade 4.
+
+Dynamic mission availability, faction states, commodity supplies and
+rare-good allocations must be checked in the separate Legacy galaxy.
+
+===============================================================================
+11. LEI CHEUNG
+===============================================================================
+
+Location:
+- System: Laksak
+- Base: Trader's Rest
+
+Discovered from:
+- The Dweller at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Trade at more than 50 distinct commodity markets
+
+Unlock donation:
+- 200 tonnes of Gold
+
+Best reason to unlock:
+- Grade 5 Shield Generator
+- Grade 5 Sensors
+- Grade 5 Detailed Surface Scanner
+
+Procedure:
+[ ] Complete commodity transactions at more than 50 separate markets.
+[ ] Source Gold from Legacy markets, preferably near Laksak.
+[ ] Deliver 200 tonnes total to Trader's Rest.
+[ ] Rank Lei beyond Grade 3.
+[ ] Confirm discovery of Ram Tah.
+
+Cargo tip:
+A large ship can deliver the Gold in one trip if Trader's Rest accepts its
+landing-pad size; otherwise use a suitable medium ship and make multiple trips.
+
+-------------------------------------------------------------------------------
+
+
+===============================================================================
+STANDALONE CHECKLIST
+===============================================================================
+
+[ ] Engineer discovered or publicly known
+[ ] Meeting requirement completed
+[ ] Invitation or permit obtained, where required
+[ ] Unlock donation collected
+[ ] Donation delivered to the engineer
+[ ] Engineer ranked high enough for desired blueprints or referrals
+[ ] Desired blueprint pinned
+[ ] Required experimental effects applied in person
+
+===============================================================================
+END OF GUIDE
+===============================================================================

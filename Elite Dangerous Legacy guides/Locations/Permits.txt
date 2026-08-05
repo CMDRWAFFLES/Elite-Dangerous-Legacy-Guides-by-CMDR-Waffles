@@ -1,0 +1,56 @@
+PERMIT SYSTEMS — ELITE DANGEROUS LEGACY 3.8
+============================================
+
+OBTAINABLE / ACCESSIBLE PERMITS
+===============================
+
+System              | Sol ly  | How to obtain in Legacy                       | Reason to obtain               
+--------------------+---------+-----------------------------------------------+--------------------------------
+Sol                 | 0.00    | Fed Navy: Petty Officer                       | Federation capital; Bris Dekker
+Ross 128            | 10.94   | Fed Navy: Ensign                              | Warren Prison Mine             
+Beta Hydri          | 24.31   | Fed Navy: Chief Petty Officer                 | Founding Federation system     
+Vega                | 25.04   | Fed Navy: Chief Petty Officer                 | Vega Slimweed                  
+Exbeur              | 56.07   | Fed Navy: Lieutenant                          |                                
+Hors                | 57.06   | Fed Navy: Post Commander                      |                                
+PLX 695             | 76.20   | Fed Navy: Warrant Officer                     |                                
+LTT 198             | 72.33   | Allied: Torval Mining Ltd; permit mission at  | Modified Mining Laser at       
+                    |         | Orchestral Falcon, Tavgi                      | Zetian's Recall                
+Summerland          | 124.55  | Imperial Navy: Baron                          | 10% Gutamaya ship discount     
+Facece              | 131.09  | Imperial Navy: Earl                           | Imperial Navy headquarters     
+Achenar             | 139.45  | Imperial Navy: Squire                         | Empire capital; Tiana Fortune; 
+                    |         |                                               | Achenar 3                      
+Alioth              | 82.53   | Allied: Alioth Independents + permit mission  | Alliance capital; Bill Turner; 
+                    |         |                                               | 5% Lakon discount              
+Shinrarta Dezhra    | 64.43   | Elite in Combat, Trade OR Exploration         | Jameson Memorial; 10%          
+                    |         | (Legacy)                                      | ships/modules                  
+CD-43 11917         | 80.86   | Reach CQC rank 50, then Prestige              | Attilius Orbital discounts     
+van Maanen's Star   | 13.91   | Allied: Sublime Order; permit mission at      |                                
+                    |         | Shadows Endurant, Epsilon Eridani             |                                
+Luyten 347-14       | 18.56   | Allied: Luyten 347-14 Prison Colony; permit   |                                
+                    |         | mission at Warden's Oath, Narenses            |                                
+Sirius              | 8.59    | Allied: Sirius Corporation; permit mission    | Marco Qwent; Sirius Corporation
+Mbooni              | 51.61   | Allied: Azimuth Biotech; permit mission at    | Prospect's Deep modified       
+                    |         | Glorious Prospect, LHS 1163                   | Guardian weapons               
+Crom                | 56.46   | Allied: Crom Silver Boys; permit mission at   | Crom Silver Fesh               
+                    |         | The Silver Cove, 69 G. Carinae                |                                
+Pi Mensae           | 59.72   | Allied: Pi Mensae Brotherhood; permit mission |                                
+                    |         | at Shephard of the Mighty, LP 91-140          |                                
+Terra Mater         | 69.73   | Allied: Brotherhood of Terra Mater; permit    | Terra Mater Blood Bores        
+                    |         | mission at Daunting Hammer, Hecate            |                                
+Hodack              | 79.63   | Allied: Hodack Prison Colony; permit mission  |                                
+                    |         | at Varuna's Pledge, Pemoeri                   |                                
+Tiliala             | 86.98   | Allied: Conservatives of Tiliala; permit      |                                
+                    |         | mission at Tiliala's Lament, Akandinigua      |                                
+Nastrond            | 102.63  | Allied: Defence Party of Nastrond; permit     |                                
+                    |         | mission at The People's Vigil, Wonorne Nu     |                                
+Isinor              | 110.35  | Allied: Chapter of Isinor; permit mission at  | Convoy Beacon / Antiquities    
+                    |         | Chariot of the Faithful, HR 4803              | salvage                        
+Jotun               | 122.14  | Allied: Dukes of Jotun; permit mission at The | Jotun Mookah                   
+                    |         | Indefatigable, 38 Arietis                     |                                
+Peregrina           | 202.73  | Allied: Peregrina Aristocrats; permit mission |                                
+                    |         | at Peregrina Gateway, HIP 18609               |                                
+HIP 22460           | 362.01  | Permit auto-granted to commanders in 2022     | Proteus Wave aftermath; wrecks;
+                    |         |                                               | hostile Thargoids              
+
+
+

@@ -1,0 +1,17 @@
+System: Hyades Sector DR-V c2-23
+Body: A 5
+Coordinates: 44.8180, -31.3893
+
+USE
+---
+Dav's Hope is mostly useful for easy lower/mid-grade manufactured materials.
+For grade-5 efficiency, HGE farming plus material trading is usually better.
+
+
+1. DSS the body if necessary.
+2. Select Dav's Hope from the Horizons Navigation panel POI list.
+3. Land and deploy SRV.
+4. Drive the loop around the settlement, scooping manufactured materials.
+5. Scan the data points if desired for lore.
+6. Log to MAIN MENU.
+7. Return and repeat the material loop.

@@ -1,0 +1,117 @@
+PRE-ENGINEERED / SPECIAL MODULES — LEGACY 3.8
+==============================================
+
+HUMAN PRE-ENGINEERED MODULES
+============================
+
+1. Engineered Frame Shift Drive V1
+----------------------------------
+Class   : 5A
+Source  : Human Technology Broker
+Effect  : Increased Range + Faster Boot. An experimental effect can be added
+          afterwards; Mass Manager is the common choice.
+Cost    : 18 Datamined Wake Exceptions; 26 Tellurium; 26 Electrochemical Arrays; 28
+          Chemical Processors
+Acquire : Each payment gives one module. Pay again for additional copies.
+
+2. Engineered Detailed Surface Scanner V1
+-----------------------------------------
+Class   : 1I
+Source  : Human Technology Broker
+Effect  : Double-engineered Expanded Probe Scanning Radius.
+Cost    : 24 Niobium; 28 Mechanical Components; 22 Germanium; 26 Mechanical Scrap
+Acquire : Each payment gives one module. Pay again for additional copies.
+
+3. Engineered Seeker Missile Rack V1
+------------------------------------
+Class   : 2B Fixed
+Source  : Human Technology Broker
+Effect  : Lightweight + High Capacity + Thermal Cascade.
+Cost    : 16 Proto Radiolic Alloys; 24 Conductive Ceramics; 26 Hybrid Capacitors; 28
+          Phosphorus; 10 Osmium
+Acquire : Each payment gives one module. It cannot be further engineered.
+
+4. Modified Mining Laser
+------------------------
+Class   : 1D Fixed
+Source  : Human Technology Broker at Zetian's Recall, LTT 198
+Permit  : LTT 198 permit required.
+Effect  : Long Range + Reduced Distributor Draw + Incendiary Rounds. About 2,500 m
+          maximum range with roughly half the normal Class-1 power/distributor draw.
+Cost    : 20 Arsenic; 24 Rhenium; 28 Phosphorus; 16 Osmium
+Acquire : Each payment gives one laser. Pay again for additional copies.
+Note also obtainable from:
+Pride of Bitterwood — EGM 559
+Champion of Commerce — Laguz
+The House Ascendant — 21 Eridani
+
+AZIMUTH / SALVATION MODIFIED GUARDIAN WEAPONS
+=============================================
+
+5. Modified Guardian Gauss Cannon — Small
+-----------------------------------------
+Class   : 1D Fixed
+Source  : Azimuth/Guardian Tech Broker, Prospect's Deep, Mbooni 3 A
+Permit  : Mbooni permit required.
+Effect  : High Capacity; 4-round burst ('Hammergauss')
+Cost    : 1 Guardian Weapon Blueprint Fragment; 3 Guardian Power Conduits; 3
+          Guardian Wreckage Components; 4 Guardian Sentinel Weapon Parts; 2 Niobium
+Acquire : Materials are paid for every copy.
+
+6. Modified Guardian Gauss Cannon — Medium
+------------------------------------------
+Class   : 2B Fixed
+Source  : Azimuth/Guardian Tech Broker, Prospect's Deep, Mbooni 3 A
+Permit  : Mbooni permit required.
+Effect  : High Capacity; 4-round burst ('Hammergauss')
+Cost    : 1 Guardian Weapon Blueprint Fragment; 5 Guardian Power Cells; 5 Guardian
+          Technology Components; 4 Niobium; 2 Thermal Cooling Units
+Acquire : Materials are paid for every copy.
+
+7. Modified Guardian Plasma Charger — Small
+-------------------------------------------
+Class   : 1D Fixed
+Source  : Azimuth/Guardian Tech Broker, Prospect's Deep, Mbooni 3 A
+Permit  : Mbooni permit required.
+Effect  : Modified Salvation/Azimuth Plasma Charger
+Cost    : 1 Guardian Weapon Blueprint Fragment; 3 Guardian Power Cells; 3 Guardian
+          Sentinel Weapon Parts; 4 Guardian Technology Components; 2 Arsenic
+Acquire : Materials are paid for every copy.
+
+8. Modified Guardian Plasma Charger — Medium
+--------------------------------------------
+Class   : 2B Fixed
+Source  : Azimuth/Guardian Tech Broker, Prospect's Deep, Mbooni 3 A
+Permit  : Mbooni permit required.
+Effect  : Modified Salvation/Azimuth Plasma Charger
+Cost    : 1 Guardian Weapon Blueprint Fragment; 5 Guardian Power Conduits; 5
+          Guardian Sentinel Weapon Parts; 4 Arsenic; 2 Power Transfer Bus
+Acquire : Materials are paid for every copy.
+
+9. Modified Guardian Shard Cannon — Small
+-----------------------------------------
+Class   : 1D Fixed
+Source  : Azimuth/Guardian Tech Broker, Prospect's Deep, Mbooni 3 A
+Permit  : Mbooni permit required.
+Effect  : Focused + Long Range + Penetrator Munitions
+Cost    : 1 Guardian Weapon Blueprint Fragment; 3 Guardian Power Conduits; 3
+          Guardian Wreckage Components; 4 Guardian Sentinel Weapon Parts; 2
+          Germanium
+Acquire : Materials are paid for every copy.
+
+10. Modified Guardian Shard Cannon — Medium
+-------------------------------------------
+Class   : 2B Fixed
+Source  : Azimuth/Guardian Tech Broker, Prospect's Deep, Mbooni 3 A
+Permit  : Mbooni permit required.
+Effect  : Focused + Long Range + Penetrator Munitions
+Cost    : 1 Guardian Weapon Blueprint Fragment; 5 Guardian Wreckage Components; 5
+          Guardian Technology Components; 4 Germanium; 2 Power Converters
+Acquire : Materials are paid for every copy.
+
+
+-------------------------------------------
+
+Historical CG-only modules that a commander already earned can still exist in
+their Legacy inventory, but they are not listed above because a new Legacy
+commander cannot obtain them now.

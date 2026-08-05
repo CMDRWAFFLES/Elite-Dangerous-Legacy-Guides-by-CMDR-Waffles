@@ -1,0 +1,51 @@
+Federation: Canopus ↔ Exphiay cargo loop
+
+For maximum Federal rank per hour, Canopus–Exphiay is generally better than pure courier farming, provided you own a large cargo ship and can deal with repeated NPC interdictions.
+
+Route
+1. Canopus — Rangarajan’s Base
+2. Exphiay — Worlidge Hub
+3. Exphiay — James K Winston
+4. Return to Rangarajan’s Base
+
+The efficient order is normally Worlidge Hub first, because much of the outbound Canopus cargo tends to be delivered there. Unloading it first gives you room to accept return cargo at both Exphiay stations.
+
+Best ship
+
+In approximate order:
+
+Imperial Cutter
+Anaconda
+Type-9 Heavy
+Python, if you want something easier to evade interdictions with
+
+Aim for:
+
+Large cargo capacity
+A decent shield
+Engineered thrusters
+Enough hull strength to survive mistakes
+Chaff, optional
+A fuel scoop, optional
+
+The Cutter is particularly effective, so doing the Imperial grind first can make the Federal grind easier.
+
+Farming loop
+
+At each station:
+
+1. Accept cargo-delivery missions going only to the other system’s listed stations.
+2. Also accept data-courier missions to those destinations.
+3. Prioritize missions issued by Federation-aligned minor factions.
+4. Fill your cargo space, then use remaining mission slots for courier missions.
+5. At delivery, always select the reward with the highest REP.
+6. Take return missions and repeat.
+
+Cargo-delivery missions can offer much stronger reputation rewards than ordinary courier missions, which is what makes this route fast. The disadvantage is that stacked cargo missions generate frequent pirate interdictions, and Rangarajan’s Base is approximately 42,000 ls from the arrival star.
+
+When interdicted:
+
+Submit rather than losing the minigame.
+Boost away.
+Charge the FSD as soon as the cooldown ends.
+Avoid stopping to fight unless your ship is built for it.

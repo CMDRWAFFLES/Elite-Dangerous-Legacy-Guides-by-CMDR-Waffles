@@ -1,0 +1,141 @@
+RARE GOODS — LEGACY LOCATION TABLE
+==================================
+
+Rare Good                   | Origin System    | Origin Station            | Pad | Distance from Sol (ly)
+----------------------------+------------------+---------------------------+-----+-----------------------
+Aepyornis Egg               | 47 Ceti          | Glushko Station           | L   | 122.23                
+Aganippe Rush               | Aganippe         | Julian Market             | L   | 46.78                 
+Alacarakmo Skin Art         | Alacarakmo       | Weyl Gateway              | L   | 179.54                
+Albino Quechua Mammoth Meat | Quechua          | Crown Ring                | L   | 130.16                
+Altairian Skin              | Altair           | Solo Orbiter              | L   | 16.74                 
+Alya Body Soap              | Alya             | Malaspina Gateway         | L   | 101.01                
+Anduliga Fire Works         | Anduliga         | Celsius Estate            | M   | 138.89                
+Any Na Coffee               | Any Na           | Libby Orbital             | L   | 126.46                
+Arouca Conventual Sweets    | Arouca           | Shipton Orbital           | L   | 105.26                
+AZ Cancri Formula 42        | AZ Cancri        | Fisher Station            | L   | 50.58                 
+Azure Milk                  | Leesti           | George Lucas              | L   | 111.03                
+Baltah Sine Vacuum Krill    | Baltah'Sine      | Baltha'Sine Station       | L   | 109.77                
+Banki Amphibious Leather    | Banki            | Antonio de Andrade Vista  | L   | 105.42                
+Bast Snake Gin              | Bast             | Hart Station              | L   | 53.02                 
+Belalans Ray Leather        | Belalans         | Boscovich Ring            | L   | 138.18                
+Borasetani Pathogenetics    | Borasetani       | Katzenstein Terminal      | L   | 119.12                
+Burnham Bile Distillate     | HIP 59533        | Burnham Beacon            | M   | 141.30                
+CD-75 Kitten Brand Coffee   | CD-75 661        | Kirk Dock                 | L   | 87.67                 
+Centauri Mega Gin           | Alpha Centauri   | Hutton Orbital            | M   | 4.38                  
+Ceremonial Heike Tea        | Heike            | Brunel City               | L   | 126.02                
+Ceti Rabbits                | 47 Ceti          | Kaufmanis Hub             | L   | 122.23                
+Chameleon Cloth             | LDS 883          | Smith Reserve             | L   | 76.65                 
+Chateau De Aegaeon          | Aegaeon          | Schweickart Station       | L   | 79.55                 
+Cherbones Blood Crystals    | Cherbones        | Chalker Landing           | M   | 86.33                 
+Chi Eridani Marine Paste    | Chi Eridani      | Steve Masters             | L   | 58.23                 
+Coquim Spongiform Victuals  | Coquim           | Hirayama Installation     | L   | 91.24                 
+Crom Silver Fesh            | Crom             | Chorel Survey             | M   | 56.46                 
+Crystalline Spheres         | Bento            | Snow Moon                 | L   | 35.19                 
+Damna Carapaces             | Damna            | Nemere Market             | L   | 130.77                
+Delta Phoenicis Palms       | Delta Phoenicis  | Trading Post              | L   | 142.13                
+Deuringas Truffles          | Deuringas        | Shukor Hub                | L   | 141.98                
+Diso Ma Corn                | Diso             | Shifnalport               | L   | 112.20                
+Eden Apples Of Aerial       | Aerial           | Andrade Legacy            | L   | 144.06                
+Eleu Thermals               | Eleu             | Finney Dock               | L   | 113.75                
+Eranin Pearl Whiskey        | Eranin           | Azeban City               | L   | 43.10                 
+Eshu Umbrellas              | Eshu             | Shajn Terminal            | L   | 275.61                
+Esuseku Caviar              | Esuseku          | Savinykh Orbital          | L   | 113.80                
+Ethgreze Tea Buds           | Ethgreze         | Bloch Station             | L   | 81.87                 
+Fujin Tea                   | Fujin            | Futen Spaceport           | L   | 66.66                 
+Galactic Travel Guides      | LHS 3447         | Bluford Orbital           | L   | 71.04                 
+Geawen Dance Dust           | Geawen           | Obruchev Legacy           | M   | 174.17                
+Gerasian Gueuze Beer        | Geras            | Yurchikhin Port           | L   | 58.25                 
+Giant Irukama Snails        | Irukama          | Blaauw City               | L   | 183.85                
+Giant Verrix                | Phiagre          | Greeboski's Outpost       | L   | 107.71                
+Gilya Signature Weapons     | Gilya            | Bell Orbital              | L   | 94.72                 
+Goman Yaupon Coffee         | Goman            | Gustav Sporer Port        | L   | 232.17                
+Haidne Black Brew           | Haiden           | Searfoss Enterprise       | L   | 149.26                
+Havasupai Dream Catcher     | Havasupai        | Lovelace Port             | L   | 123.84                
+Helvetitj Pearls            | Helvetitj        | Friend Orbital            | L   | 103.77                
+HIP 10175 Bush Meat         | HIP 10175        | Stefanyshyn-Piper Station | L   | 133.71                
+HIP 118311 Swarm            | HIP 118311       | Lubbock Market            | L   | 127.82                
+HIP Organophosphates        | HIP 80364        | Stasheff Colony           | L   | 138.62                
+HIP Proto-Squid             | HIP 41181        | Andersson Station         | L   | 129.29                
+Holva Duelling Blades       | Holva            | Kreutz Orbital            | L   | 185.57                
+Honesty Pills               | LP 375-25        | King Gateway              | L   | 61.51                 
+HR 7221 Wheat               | HR 7221          | Veron City                | L   | 121.93                
+Indi Bourbon                | Epsilon Indi     | Mansfield Orbiter         | L   | 11.80                 
+Jaques Quinentian Still     | Colonia          | Jaques Station            | L   | 22000.47              
+Jaradharre Puzzle Box       | Jaradharre       | Gohar Station             | L   | 72.26                 
+Jaroua Rice                 | Jaroua           | McCool City               | L   | 194.50                
+Jotun Mookah                | Jotun            | Icelock                   | L   | 122.14                
+Kachirigin Filter Leeches   | Kachirigin       | Nowak Orbital             | L   | 131.35                
+Kamitra Cigars              | Kamitra          | Hammel Terminal           | L   | 194.28                
+Kamorin Historic Weapons    | Kamorin          | Godwin Vision             | L   | 155.06                
+Karetii Couture             | Karetii          | Sinclair Platform         | M   | 154.47                
+Karsuki Locusts             | Karsuki Ti       | West Market               | L   | 223.11                
+Kinago Violins              | Kinago           | Fozard Ring               | L   | 164.67                
+Kongga Ale                  | Kongga           | Laplace Ring              | L   | 136.89                
+Koro Kung Pellets           | Korro Kung       | Lonchakov Orbital         | L   | 101.74                
+Lavian Brandy               | Lave             | Lave Station              | L   | 114.54                
+Leathery Eggs               | Zaonce           | Ridley Scott              | L   | 117.02                
+Leestian Evil Juice         | Leesti           | George Lucas              | L   | 111.03                
+Live Hecate Sea Worms       | Hecate           | RJH1972                   | L   | 75.68                 
+LTT Hypersweet              | LTT 9360         | Smeaton Orbital           | L   | 68.29                 
+Lucan Onion Head            | Tanmark          | Cassie-L-Peia             | L   | 83.50                 
+Master Chefs                | Noti             | Weber Gateway             | L   | 89.60                 
+Mechucos High Tea           | Mechucos         | Brandenstein Port         | M   | 104.76                
+Medb Starlube               | Medb             | Vela Dock                 | L   | 41.65                 
+Mokojing Beast Feast        | Mokojing         | Noli Terminal             | L   | 93.79                 
+Momus Bog Spaniel           | Momus Reach      | Tartarus Point            | L   | 95.67                 
+Motrona Experience Jelly    | Dea Motrona      | Pinzon Dock               | M   | 70.38                 
+Mukusubii Chitin-Os         | Mukusubii        | Ledyard Dock              | L   | 167.28                
+Mulachi Giant Fungus        | Mulachi          | Clark Terminal            | L   | 36.93                 
+Neritus Berries             | Neritus          | Toll Ring                 | M   | 81.55                 
+Ngadandari Fire Opals       | Ngadandari       | Napier Terminal           | M   | 146.40                
+Nguna Modern Antiques       | Nguna            | Biggle Hub                | L   | 161.55                
+Njangari Saddles            | Njangari         | Lee Hub                   | L   | 215.47                
+Non Euclidian Exotanks      | LTT 8517         | Euclid Terminal           | M   | 76.70                 
+Ochoeng Chillies            | Ochoeng          | Roddenberry Gateway       | L   | 139.24                
+Onion Head                  | Kappa Fornacis   | Harvestport               | L   | 71.63                 
+Onionhead Alpha Strain      | Xelabara         | Navigator Market          | L   | 122.93                
+Onionhead Beta Strain       | HIP 112974       | la Cosa City              | L   | 127.73                
+Ophiuch Exino Artefacts     | 36 Ophiuchi      | Katzenstein Dock          | L   | 19.34                 
+Orrerian Vicious Brew       | Orrere           | Sharon Lee Free Market    | L   | 114.05                
+Pantaa Prayer Sticks        | George Pantazis  | Zamka Platform            | L   | 24.59                 
+Pavonis Ear Grubs           | Delta Pavonis    | Hooper Relay              | L   | 19.93                 
+Personal Gifts              | Njambalba        | Frost Dock                | M   | 156.02                
+Rajukru Multi-Stoves        | Rajukru          | Snyder Terminal           | L   | 173.18                
+Rapa Bao Snake Skins        | Rapa Bao         | Flagg Gateway             | L   | 193.44                
+Rusani Old Smokey           | Rusani           | Fernandes Market          | L   | 119.56                
+Sanuma Decorative Meat      | Sanuma           | Dunyach Gateway           | L   | 183.20                
+Shans Charis Orchid         | Arque            | Baird Gateway             | L   | 98.02                 
+Soontill Relics             | Ngurii           | Cheranovsky City          | L   | 195.20                
+Sothis Crystalline Gold     | Sothis           | Newholm Station           | L   | 494.49                
+Tanmark Tranquil Tea        | Tanmark          | Cassie-L-Peia             | L   | 83.50                 
+Tarach Spice                | Tarach Tor       | Tranquillity              | L   | 84.53                 
+Tauri Chimes                | Tarach Tor       | Tranquillity              | L   | 84.53                 
+Terra Mater Blood Bores     | Terra Mater      | GR8Minds                  | L   | 69.73                 
+The Hutton Mug              | Alpha Centauri   | Hutton Orbital            | M   | 4.38                  
+Thrutis Cream               | Thrutis          | Kingsbury Dock            | L   | 120.89                
+Tiolce Waste2Paste Units    | Tiolce           | Gordon Terminal           | L   | 44.14                 
+Toxandji Virocide           | Toxandji         | Tsunenaga Orbital         | L   | 167.14                
+Ultra-Compact Processor     | 17 Lyrae         | Langford Enterprise       | L   | 135.62                
+Uszaian Tree Grub           | Uszaa            | Guest Installation        | L   | 112.71                
+Utgaroar Millennial Eggs    | Utgaroar         | Fort Klarix               | L   | 102.90                
+Uzumoku Low-G Wings         | Uzumoku          | Sverdrup Ring             | L   | 121.07                
+V Herculis Body Rub         | V1090 Herculis   | Kaku Plant                | M   | 59.71                 
+Vanayequi Ceratomorpha Fur  | Vanayequi        | Clauss Hub                | L   | 133.24                
+Vega Slimweed               | Vega             | Taylor City               | L   | 25.04                 
+Vidavantian Lace            | Vidavanta        | Lee Mines                 | M   | 122.74                
+Void Extract Coffee         | LFT 1421         | Ehrlich Orbital           | L   | 50.70                 
+Volkhab Bee Drones          | Volkhab          | Vernadsky Dock            | L   | 172.53                
+Waters Of Shintara          | Shinrarta Dezhra | Jameson Memorial          | L   | 64.43                 
+Wheemete Wheat Cakes        | Wheemete         | Eisinga Enterprise        | L   | 241.03                
+Witchhaul Kobe Beef         | Witchhaul        | Hornby Terminal           | L   | 85.00                 
+Wolf Fesh                   | Wolf 1301        | Saunders's Dive           | L   | 88.02                 
+Wulpa Hyperbore Systems     | Wulpa            | Williams Gateway          | L   | 173.57                
+Wuthielo Ku Froth           | Wuthielo Ku      | Tarter Dock               | L   | 202.32                
+Xihe Biomorphic Companions  | Xihe             | Zhen Dock                 | L   | 52.91                 
+Yaso Kondi Leaf             | Yaso Kondi       | Wheeler Market            | L   | 175.98                
+Zeessze Ant Grub Glue       | Zeessze          | Nicollier Hanger          | —   | 24.64                 
+
+LEGACY NOTE
+===========
+Origin systems/stations are the useful archival data.
+Current allocation, price, supply and whether a rare is temporarily unavailable are BGS/server-dependent.

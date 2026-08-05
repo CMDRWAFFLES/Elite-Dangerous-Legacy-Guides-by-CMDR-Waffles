@@ -1,0 +1,44 @@
+System Name               | Planetary Body | Coordinates (Lat, Long) | Site Type                            
+--------------------------+----------------+-------------------------+--------------------------------------
+HIP 12099                 | 1 B            | -54.3803, -50.3575      | Jameson Crash Site / Cobra Mk III    
+Orrere                    | 2 B            | 43.812, -173.972        | Crashed Anaconda                     
+Koli Discii               | C 6 A          | 28.577, 7.219           | Crashed Anaconda                     
+Leucos                    | A 5 A          | -36.128, -45.243        | Crashed Anaconda                     
+HR 5906 AB                | 2 A            | 6.92017, -102.43405     | Anaconda Shipwreck Settlement                           
+Lacaille 9352             | Camp Lawrence  | 42.6781, 67.9995        | Crashed Anaconda                     
+Merope                    | 2 A            | -23.5, 75.5             | Crashed F63 Condor                   
+Col 285 Sector NI-P b20-0 | 6 A            | -8.43, -142.26          | Crashed Eagle Mk II                  
+Shui Wei Sector XU-P b5-1 | A 1            | -1.91, 173.20           | Crashed Ship Graveyard               
+Alshat                    | A 6 B          | 24.2493, -29.0171       | Expedition Vessel Odysseus / Anaconda
+
+FARMABLE MATERIALS
+==================
+
+HIP 12099 | 1 B | Jameson Crash Site
+  Adaptive Encryptors Capture (G5 encoded data)
+  Source: four scannable data beacons around the wreck
+  Reset: log out / log back in
+
+Orrere | 2 B
+  Antimony
+  Ruthenium
+  Tellurium
+  Tungsten
+  Zirconium
+  Source: cargo racks
+  Reset: relog
+
+Koli Discii | C 6 A
+  Antimony
+  Ruthenium
+  Tellurium
+  Tungsten
+  Zirconium
+  Source: cargo racks
+  Reset: relog
+
+Leucos | A 5 A
+  Vanadium
+  Manganese
+  Zinc
+  Source: wreck-site raw materials

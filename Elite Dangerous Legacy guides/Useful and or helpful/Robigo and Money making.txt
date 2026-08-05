@@ -1,0 +1,72 @@
+ROBIGO / LEGACY MONEY-MAKING METHODS
+====================================
+
+1. ROBIGO MINES -> SIRIUS ATMOSPHERICS
+======================================
+
+What it is
+----------
+Stack sightseeing passenger missions at Robigo Mines that all visit the
+Sirius Atmospherics tourist beacon in Sothis, scan the beacon, then return to
+Robigo Mines and turn every mission in.
+
+Recommended ship
+----------------
+Python.
+
+Why the Python:
+- Robigo Mines is an outpost, so the largest usable pad is Medium.
+- The Python carries a large number of passenger cabins while still fitting a
+  Medium pad.
+
+Useful setup
+------------
+- Passenger cabins in most optional slots.
+- Business cabins are useful in the large cabin slots.
+- Economy cabins fill the smaller slots efficiently.
+- Aim for at least about 30.2 ly loaded jump range.
+- Set route plotting to FASTEST, not Economical.
+
+With enough range, Robigo -> Sothis is normally two jumps each way.
+
+The loop
+--------
+1. Dock at Robigo Mines in Robigo.
+2. Open the Passenger Lounge.
+3. Take sightseeing/VIP missions whose destination is Sirius Atmospherics.
+4. Jump to Sothis.
+5. Head toward Sothis A 5.
+6. If necessary, honk the system. The Sirius Atmospherics POI appears in the
+   Navigation panel when close enough to A 5.
+7. Target Sirius Atmospherics and drop from supercruise.
+8. In normal space, target the tourist beacon and point the ship at it.
+   The normal ship scanner completes the scan automatically.
+9. Wait for the mission-complete messages.
+10. Return directly to Robigo Mines.
+11. Turn in every passenger mission and repeat.
+
+Reputation
+----------
+At first, favour REP rewards until you are Allied with the local mission
+factions. Better reputation produces the high-value passenger missions.
+
+Useful mission rewards
+----------------------
+Robigo can also provide valuable engineering materials as mission rewards,
+including:
+- Biotech Conductors
+- Exquisite Focus Crystals
+- Modified Embedded Firmware
+
+Historical Legacy-era income
+----------------------------
+Optimised commanders commonly reported roughly 90-120 million credits per hour
+in 2021-2022. Actual Legacy mission boards can be better or worse depending on
+the Legacy BGS and your faction reputation.
+
+Important
+---------
+Do not use current Live mission/BGS information to judge Robigo on console.
+The physical Robigo -> Sothis geometry is valid; the mission board is Legacy.
+
+

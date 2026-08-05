@@ -1,0 +1,72 @@
+ELITE DANGEROUS LEGACY CONSOLE
+RAM TAH — STANDALONE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+UNLOCK PATH
+===============================================================================
+
+The Dweller → Lei Cheung → Ram Tah
+
+Referral engineers normally become known after ranking the preceding
+engineer beyond Grade 3 and making some progress toward Grade 4.
+
+Dynamic mission availability, faction states, commodity supplies and
+rare-good allocations must be checked in the separate Legacy galaxy.
+
+===============================================================================
+12. RAM TAH
+===============================================================================
+
+Location:
+- System: Meene
+- Base: Phoenix Base
+
+Discovered from:
+- Lei Cheung at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Exploration rank Surveyor or higher
+
+Unlock donation:
+- 50 Classified Scan Databanks
+
+Best reason to unlock:
+- Grade 5 Heat Sink Launcher
+- Grade 5 Point Defence
+- Grade 5 Chaff Launcher
+- Grade 5 Electronic Countermeasure
+- Limpet-controller engineering
+
+Fast material method:
+- Use the Jameson Crash Site farm and an Encoded Material Trader.
+- Trade into Classified Scan Databanks if direct scanning has not supplied 50.
+
+Procedure:
+[ ] Reach Surveyor exploration rank.
+[ ] Hold 50 Classified Scan Databanks.
+[ ] Travel to Phoenix Base.
+[ ] Donate the data.
+[ ] Rank Ram Tah as desired.
+
+-------------------------------------------------------------------------------
+PHASE 4 — TOD'S BRANCH: SELENE JEAN, BILL TURNER AND DIDI VATERMANN
+-------------------------------------------------------------------------------
+
+
+===============================================================================
+STANDALONE CHECKLIST
+===============================================================================
+
+[ ] Engineer discovered or publicly known
+[ ] Meeting requirement completed
+[ ] Invitation or permit obtained, where required
+[ ] Unlock donation collected
+[ ] Donation delivered to the engineer
+[ ] Engineer ranked high enough for desired blueprints or referrals
+[ ] Desired blueprint pinned
+[ ] Required experimental effects applied in person
+
+===============================================================================
+END OF GUIDE
+===============================================================================

@@ -1,0 +1,17 @@
+System Name             | Nearby Body | Location                | Site Name                    
+------------------------+-------------+-------------------------+------------------------------
+HIP 114458              | A 2         | Orbiting A 2            | Generation Ship Achlys       
+Mu Cassiopeia           | C 1         | Orbiting C 1            | Generation Ship Artemis      
+Charick Drift           | A           | Orbiting star A         | Generation Ship Atlas        
+Mizuchi                 | 2           | Orbiting 2              | Generation Ship Demeter      
+HR 2351                 | 4           | Orbiting 4              | Generation Ship Epimetheus   
+Lalande 2966            | 4           | From 4 toward Yemaki    | Generation Ship Hyperion     
+Alaunus                 | 10          | From 10 toward Horae    | Generation Ship Lycaon       
+Ross 859                | B 1         | Orbiting B 1            | Generation Ship Odysseus     
+Cephei Sector NX-U b2-0 | B 5         | Orbiting B 5            | Generation Ship Phanes       
+Coelachi                | 3           | From 3 toward HIP 10229 | Generation Ship Phobos       
+Hez Ur                  | 5           | From 5 toward Teuten    | Generation Ship Pleione      
+HIP 21654               | 1 A         | Orbiting 1 A            | Generation Ship Spear of Hope
+Nefertem                | 6 A         | Orbiting 6 A            | Generation Ship Thetis       
+Kitae                   | —           | Toward Zephyrus         | Generation Ship Venusian     
+Virudnir                | 6           | Orbiting 6              | Lazarus Expedition 

@@ -1,0 +1,35 @@
+System Name | Planetary Body | Coordinates (Lat, Long) | Site Name                        
+------------+----------------+-------------------------+----------------------------------
+Hermitage   | 4 A            | -53.75, 157.61          | Hollis Gateway                   
+Alnath      | A 2 A A        | 4.0186, 133.5426        | Klatt Enterprises                
+HIP 59382   | 1 B            | 11.41, 177.06           | Mayes Chemical Plant             
+LP 389-95   | 7              | 57.96, 50.03            | Velasquez Medical Research Center
+Conn        | A 3 A          | 73.38, 102.37           | Almeida Landing                  
+
+FARMABLE MATERIALS / DATA
+=========================
+
+Hermitage | 4 A | Hollis Gateway
+  Random manufactured engineering-material drops
+  Encoded data from settlement Data Points
+  Reset: relog
+
+Alnath | A 2 A A | Klatt Enterprises
+  Random manufactured engineering-material drops
+  Encoded data from settlement Data Points
+  Reset: relog
+
+HIP 59382 | 1 B | Mayes Chemical Plant
+  Random manufactured engineering-material drops
+  Encoded data from settlement Data Points
+  Reset: relog
+
+LP 389-95 | 7 | Velasquez Medical Research Center
+  Random manufactured engineering-material drops
+  Encoded data from settlement Data Points
+  Reset: relog
+
+Conn | A 3 A | Almeida Landing
+  Random manufactured engineering-material drops
+  Encoded data from settlement Data Points
+  Reset: relog

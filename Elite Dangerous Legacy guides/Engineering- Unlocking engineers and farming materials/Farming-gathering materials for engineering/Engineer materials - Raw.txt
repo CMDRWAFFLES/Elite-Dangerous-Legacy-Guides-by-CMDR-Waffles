@@ -1,0 +1,144 @@
+ELITE DANGEROUS LEGACY CONSOLE
+ENGINEER MATERIALS — RAW
+DIRECT G4 FARMING CIRCUIT
+
+===============================================================================
+RAW MATERIALS: DIRECT G4 FARMING CIRCUIT
+===============================================================================
+
+Raw materials max out at Grade 4, with a storage cap of 150 each.
+
+The six crystalline-shard locations produce almost entirely one specific G4
+material.
+
+Selenium is the exception and is best gathered from brain trees.
+
+===============================================================================
+DIRECT G4 LOCATIONS
+===============================================================================
+
+G4 MATERIAL   LEGACY SYSTEM AND BODY          LEGACY COORDINATES          Site name and number
+------------  ------------------------------  -------------------------  -------------------------
+Polonium      HIP 36601 C 1 A                 −57.4599, +126.9543         Biological Signal 5
+
+Ruthenium     HIP 36601 C 1 D                 −24.6000, +105.3500         Biological Signal 3
+
+Tellurium     HIP 36601 C 3 B                 +67.0000, +131.7500         Biological Signal 4
+
+Technetium    HIP 36601 C 5 A                 +3.7460, +78.6800           Biological Signal 1, 2, 8, 10
+
+Yttrium       Outotz LS-K d8-3 B 5 A          −1.9216, −145.7013          Biological Signal 15
+
+Antimony      Outotz LS-K d8-3 B 5 C          −62.4905, +80.2426          Biological Signal 3
+
+Selenium      HR 3230 3 A A                   +45.66, −30.49              Biological Signal 3
+*FOR SELENIUM DRIVE AROUND IN THE BRAIN TREE FOREST WITH YOUR SRV, LOOK FOR POLYPOROUS GROWTHS ON 
+YOUR CONTACTS LIST. TARGET THEM THEY ARE THE MOST RELIABLE SOURCE OF SELENIUM 
+
+Note - 
+HIP 36601 is 1,598.86 LY from Sol
+Outotz LS-K d8-3 is 1,714.08 LY from Sol
+HR 3230 is 423.02 LY from Sol
+
+The first six are crystalline-shard forests.
+
+The Selenium location is a brain-tree grove.
+
+===============================================================================
+CLOSER ALTERNATIVES All under 500 LY
+===============================================================================
+
+G4 MATERIAL     LEGACY SYSTEM AND BODY          LEGACY COORDINATES
+------------    ------------------------------  -------------------------
+Polonium	Synuefe BY-F d12-39 A 2	        +36.3907, +46.3248
+Ruthenium	IC 2602 Sector BV-X b1-6 1	+21.9716, +82.7768	
+Tellurium	Kappa-1 Volantis B 7 C A	+21.3445, +36.3395	
+Technetium	Synuefe LX-G b44-11 B 2	        +20.4375, −154.1866	
+Yttrium	        Synuefe AN-H d11-101 AB 1 C     −50.2389, +103.7574	
+Antimony	V518 Carinae 2 A	        +13.7416, −91.2381	
+Selenium	HR 3230 3 A A	                +45.66, −30.49	
+
+
+The locations and surface coordinates come from the closer brain-tree circuit. These sites are grouped roughly 388–490 LY from Sol and are substantially nearer than the shard systems.
+
+These are coordinates used for the old Horizons planet generation retained by
+Legacy console.
+
+===============================================================================
+Important Notification.
+===============================================================================
+The notes under are made for the the first of locations. 
+NOT the "CLOSER ALTERNATIVES All under 500 LY"
+
+
+===============================================================================
+CRYSTALLINE-SHARD PROCEDURE
+===============================================================================
+
+BRING:
+
+[ ] An SRV
+[ ] Detailed Surface Scanner
+[ ] Fuel scoop
+[ ] Preferably a small or medium ship with reasonable jump range
+
+
+AT EACH SITE:
+
+1. Land at the coordinates.
+2. Deploy the SRV.
+3. Target the small Crystalline Clusters growing from the tall crystalline
+   shards.
+4. Shoot each cluster with the SRV repeater.
+5. Scoop the released raw material.
+6. Continue until that G4 reaches 150.
+
+
+A sufficiently dense Legacy shard forest can normally fill the relevant G4 bin
+at one site.
+
+Shard growths are not as reliably Jameson-reloggable as data beacons, so when a
+site is exhausted, move to another Biological site on the same body rather than
+depending on an immediate menu relog.
+
+===============================================================================
+SELENIUM
+===============================================================================
+
+For Selenium, drive through the brain-tree grove, shoot the harvestable growths
+and scoop the Selenium drops.
+
+It is not as pure or tidy as a crystalline-shard forest, but HR 3230 3 A A is
+the established Legacy solution for directly filling Selenium.
+
+===============================================================================
+BEST RAW-MATERIAL STRATEGY
+===============================================================================
+
+Directly fill all seven G4 materials, then use a Raw Material Trader only to
+trade downward within each material family for G1–G3 materials.
+
+That avoids the expensive cross-category exchanges and gives you access to
+every ordinary raw engineering material.
+
+So for Raw materials, your preferred approach is entirely practical:
+
+    DIRECTLY FARM EVERY MAXIMUM-GRADE MATERIAL;
+    TRADE DOWNWARD ONLY WHEN LOWER GRADES ARE NEEDED.
+
+===============================================================================
+QUICK CHECKLIST
+===============================================================================
+
+[ ] Polonium filled to 150
+[ ] Ruthenium filled to 150
+[ ] Tellurium filled to 150
+[ ] Technetium filled to 150
+[ ] Yttrium filled to 150
+[ ] Antimony filled to 150
+[ ] Selenium filled to 150
+[ ] Lower grades obtained by trading downward only
+
+===============================================================================
+END OF GUIDE
+===============================================================================

@@ -1,0 +1,73 @@
+ELITE DANGEROUS LEGACY CONSOLE
+DIDI VATERMANN — STANDALONE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+UNLOCK PATH
+===============================================================================
+
+Tod "The Blaster" McQuinn → Selene Jean → Didi Vatermann
+
+Referral engineers normally become known after ranking the preceding
+engineer beyond Grade 3 and making some progress toward Grade 4.
+
+Dynamic mission availability, faction states, commodity supplies and
+rare-good allocations must be checked in the separate Legacy galaxy.
+
+===============================================================================
+15. DIDI VATERMANN
+===============================================================================
+
+Location:
+- System: Leesti
+- Base: Vatermann LLC
+
+Discovered from:
+- Selene Jean at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Trade rank Merchant or higher
+
+Unlock donation:
+- 50 Lavian Brandy
+
+Rare-good source:
+- System: Lave
+- Station: Lave Station
+
+Best reason to unlock:
+- Grade 5 Shield Booster
+
+Procedure:
+[ ] Reach Merchant trade rank.
+[ ] Buy Lavian Brandy at Lave Station.
+[ ] Deliver it to Vatermann LLC.
+[ ] Repeat until 50 total have been donated.
+[ ] Rank Didi to Grade 5.
+
+Rare-good note:
+The available allocation may vary. You cannot accumulate a second allocation
+while still carrying the first; deliver or otherwise remove the current cargo
+before returning.
+
+-------------------------------------------------------------------------------
+PHASE 5 — LIZ RYDER'S BRANCH: HERA TANI, BROO TARQUIN AND TIANA FORTUNE
+-------------------------------------------------------------------------------
+
+
+===============================================================================
+STANDALONE CHECKLIST
+===============================================================================
+
+[ ] Engineer discovered or publicly known
+[ ] Meeting requirement completed
+[ ] Invitation or permit obtained, where required
+[ ] Unlock donation collected
+[ ] Donation delivered to the engineer
+[ ] Engineer ranked high enough for desired blueprints or referrals
+[ ] Desired blueprint pinned
+[ ] Required experimental effects applied in person
+
+===============================================================================
+END OF GUIDE
+===============================================================================

@@ -1,0 +1,194 @@
+ELITE DANGEROUS LEGACY CONSOLE
+GUARDIAN VESSEL BLUEPRINT FARMING
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+PURPOSE
+===============================================================================
+
+Guardian Vessel Blueprint Fragments are used to unlock the three Guardian
+ship-launched fighters:
+
+[ ] XG7 Trident — Plasma Autocannon
+[ ] XG8 Javelin — Shard Cannon
+[ ] XG9 Lance — Gauss Cannon
+
+Each fighter is a separate broker unlock and requires its own Vessel Blueprint
+Fragment.
+
+Vessel farming has two stages:
+
+1. Activate an orbital Guardian Beacon and collect an Ancient Key.
+
+2. Use that Ancient Key at a Vessel Blueprint Guardian Structure.
+
+===============================================================================
+SHIP PREPARATION
+===============================================================================
+
+BRING:
+
+[ ] A small or medium ship
+[ ] At least one laser weapon
+[ ] At least two tonnes of cargo capacity
+[ ] Collector limpet controller and several limpets, strongly recommended
+[ ] Data Link Scanner
+[ ] Detailed Surface Scanner
+[ ] SRV
+[ ] Upper-mounted Point Defence
+[ ] Fuel scoop
+[ ] Night vision
+
+The laser is required to activate the orbital beacon.
+
+The collector limpet is not mandatory, but manually scooping an Ancient Key
+near the beacon can be awkward.
+
+===============================================================================
+STAGE 1: OBTAIN AN ANCIENT KEY
+===============================================================================
+
+Guardian Beacon system: Synuefe KU-F b44-4
+Beacon location:        Orbiting body 4
+
+Enter the system, scan it and target the Guardian Beacon POI near body 4.
+
+-------------------------------------------------------------------------------
+BEACON ACTIVATION
+-------------------------------------------------------------------------------
+
+1. Approach the Guardian Beacon in normal space.
+2. Allow the structure to unfold.
+3. Locate its three projecting energy pylons.
+4. Shoot the glowing section of each pylon with a laser.
+5. Continue firing until all three pylons are fully charged.
+6. Target the beacon’s central orb.
+7. Scan it with the ship’s Data Link Scanner.
+8. Wait for the beacon to eject an Ancient Key.
+9. Collect the key with a collector limpet or scoop it manually.
+
+
+The beacon also identifies the linked Guardian Structure containing the Vessel
+Blueprint puzzle.
+
+The Ancient Key occupies normal cargo space.
+
+Collect one key for every Vessel Blueprint puzzle you intend to complete
+because the key is consumed when deposited.
+
+===============================================================================
+STAGE 2: OBTAIN THE VESSEL BLUEPRINT
+===============================================================================
+
+System:             Synuefe EU-Q c21-15
+Body:               A 1
+Site type:          Guardian Structure
+Layout:             Squid
+Legacy coordinates: approximately +37.8059, −111.6111
+
+This structure is linked to the Guardian Beacon in Synuefe KU-F b44-4.
+
+===============================================================================
+SURFACE PROCEDURE
+===============================================================================
+
+1. Land near the Guardian Structure.
+2. Before deploying, make sure the Ancient Key is in the ship’s cargo hold.
+3. Deploy the SRV.
+4. Use the right-panel Inventory transfer option to move the Ancient Key into
+   the SRV.
+5. Drive around and destroy the Sentinels.
+6. Raise and charge all six energy pylons.
+7. Return to the activation pad in front of the Ancient Data Terminal.
+8. Park over the illuminated pad.
+9. Jettison the Ancient Key, not an Ancient Relic.
+10. Target the orb that rises from the terminal.
+11. Scan it with the SRV Data Link Scanner.
+
+
+The scan awards one Guardian Vessel Blueprint Fragment.
+
+===============================================================================
+FARMING MULTIPLE VESSEL BLUEPRINTS
+===============================================================================
+
+Each surface puzzle consumes one Ancient Key.
+
+To unlock all three fighters, obtain at least three Ancient Keys and complete
+the structure three times.
+
+The Guardian Beacon can be activated repeatedly, while the planetary structure
+can be reset through a main-menu relog in Solo.
+
+Keep spare cargo space so several Ancient Keys can be transported together.
+
+Guardian fighters also require considerable Pattern Obelisk Data and Guardian
+components at the Technology Broker.
+
+Vessel Blueprint Fragments alone are not enough to complete the fighter
+unlocks.
+
+===============================================================================
+QUICK CHECKLIST
+===============================================================================
+
+SHIP PREPARATION
+
+[ ] Small or medium ship selected
+[ ] Laser weapon fitted
+[ ] At least two tonnes of cargo capacity available
+[ ] Collector limpet controller fitted
+[ ] Limpets aboard
+[ ] Data Link Scanner available
+[ ] Detailed Surface Scanner fitted
+[ ] SRV aboard
+[ ] Upper-mounted Point Defence fitted
+[ ] Fuel scoop fitted
+[ ] Night vision available
+
+STAGE 1 — GUARDIAN BEACON
+
+[ ] Synuefe KU-F b44-4 reached
+[ ] Body 4 located
+[ ] Guardian Beacon POI targeted
+[ ] Beacon approached in normal space
+[ ] Structure allowed to unfold
+[ ] Three energy pylons located
+[ ] All three pylons fully charged with a laser
+[ ] Central orb targeted
+[ ] Central orb scanned with the ship’s Data Link Scanner
+[ ] Ancient Key ejected
+[ ] Ancient Key collected
+[ ] One key collected for every intended puzzle
+
+STAGE 2 — GUARDIAN STRUCTURE
+
+[ ] Synuefe EU-Q c21-15 reached
+[ ] Body A 1 reached
+[ ] Squid-layout Guardian Structure located
+[ ] Ancient Key confirmed in ship cargo
+[ ] SRV deployed
+[ ] Ancient Key transferred into the SRV
+[ ] Sentinels destroyed
+[ ] All six energy pylons raised
+[ ] All six energy pylons charged
+[ ] Activation pad reached
+[ ] SRV parked over the illuminated pad
+[ ] Ancient Key jettisoned
+[ ] Ancient Relic not used
+[ ] Terminal orb targeted
+[ ] Orb scanned with the SRV Data Link Scanner
+[ ] Guardian Vessel Blueprint Fragment received
+
+MULTIPLE BLUEPRINTS
+
+[ ] At least three Ancient Keys collected for all three fighters
+[ ] Main-menu relog used in Solo
+[ ] Surface puzzle repeated as required
+[ ] Spare cargo space kept for multiple Ancient Keys
+[ ] Pattern Obelisk Data collected
+[ ] Required Guardian components collected
+
+===============================================================================
+END OF GUIDE
+===============================================================================

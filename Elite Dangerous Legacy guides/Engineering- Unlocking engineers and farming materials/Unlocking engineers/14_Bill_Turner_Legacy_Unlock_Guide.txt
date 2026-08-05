@@ -1,0 +1,72 @@
+ELITE DANGEROUS LEGACY CONSOLE
+BILL TURNER — STANDALONE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+UNLOCK PATH
+===============================================================================
+
+Tod "The Blaster" McQuinn → Selene Jean → Bill Turner
+
+Referral engineers normally become known after ranking the preceding
+engineer beyond Grade 3 and making some progress toward Grade 4.
+
+Dynamic mission availability, faction states, commodity supplies and
+rare-good allocations must be checked in the separate Legacy galaxy.
+
+===============================================================================
+14. BILL TURNER
+===============================================================================
+
+Location:
+- System: Alioth — permit required
+- Base: Turner Metallics Inc
+
+Discovered from:
+- Selene Jean at approximately Grade 3 to Grade 4
+
+Meeting requirements:
+- Friendly with the Alliance
+- Allied with Alioth Independents
+- Obtain the Alioth system permit
+
+Unlock donation:
+- 50 tonnes of Bromellite
+
+Best reason to unlock:
+- Grade 5 Plasma Accelerator
+- Grade 5 Sensors
+- Grade 5 Detailed Surface Scanner
+
+Efficient permit method:
+- Sell exploration data to Alioth Independents-controlled stations.
+- Complete missions for Alioth Independents.
+- When Allied, accept the Alioth permit mission.
+
+Procedure:
+[ ] Become Friendly with the Alliance.
+[ ] Become Allied with Alioth Independents.
+[ ] Complete the Alioth permit mission.
+[ ] Carry the retained 50 tonnes of Bromellite into Alioth.
+[ ] Donate it at Turner Metallics Inc.
+[ ] Rank Bill as desired.
+
+-------------------------------------------------------------------------------
+
+
+===============================================================================
+STANDALONE CHECKLIST
+===============================================================================
+
+[ ] Engineer discovered or publicly known
+[ ] Meeting requirement completed
+[ ] Invitation or permit obtained, where required
+[ ] Unlock donation collected
+[ ] Donation delivered to the engineer
+[ ] Engineer ranked high enough for desired blueprints or referrals
+[ ] Desired blueprint pinned
+[ ] Required experimental effects applied in person
+
+===============================================================================
+END OF GUIDE
+===============================================================================

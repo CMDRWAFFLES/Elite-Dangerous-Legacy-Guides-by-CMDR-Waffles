@@ -1,0 +1,74 @@
+ELITE DANGEROUS LEGACY CONSOLE
+TIANA FORTUNE — STANDALONE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+UNLOCK PATH
+===============================================================================
+
+Liz Ryder → Hera Tani → Tiana Fortune
+
+Referral engineers normally become known after ranking the preceding
+engineer beyond Grade 3 and making some progress toward Grade 4.
+
+Dynamic mission availability, faction states, commodity supplies and
+rare-good allocations must be checked in the separate Legacy galaxy.
+
+===============================================================================
+18. TIANA FORTUNE
+===============================================================================
+
+Location:
+- System: Achenar — permit required
+- Base: Fortune's Loss
+
+Discovered from:
+- Hera Tani at approximately Grade 3 to Grade 4
+
+Meeting requirements:
+- Friendly with the Empire
+- Imperial Navy rank Squire for the Achenar permit
+
+Unlock donation:
+- 50 Decoded Emission Data
+
+Best reason to unlock:
+- Grade 5 Sensors
+- Grade 5 Frame Shift Wake Scanner
+- Grade 5 Kill Warrant Scanner
+- Grade 5 Manifest Scanner
+- Grade 5 limpet controllers
+
+Fast material method:
+- Use Jameson Crash Site data and an Encoded Material Trader.
+- Trade into Decoded Emission Data if required.
+
+Procedure:
+[ ] Become Friendly with the Empire.
+[ ] Reach Imperial Navy rank Squire and obtain the Achenar permit.
+[ ] Hold 50 Decoded Emission Data.
+[ ] Travel to Fortune's Loss.
+[ ] Donate the data.
+[ ] Rank Tiana as desired.
+
+-------------------------------------------------------------------------------
+PHASE 6 — FELICITY'S BRANCH: JURI, THE SARGE AND BRIS DEKKER
+-------------------------------------------------------------------------------
+
+
+===============================================================================
+STANDALONE CHECKLIST
+===============================================================================
+
+[ ] Engineer discovered or publicly known
+[ ] Meeting requirement completed
+[ ] Invitation or permit obtained, where required
+[ ] Unlock donation collected
+[ ] Donation delivered to the engineer
+[ ] Engineer ranked high enough for desired blueprints or referrals
+[ ] Desired blueprint pinned
+[ ] Required experimental effects applied in person
+
+===============================================================================
+END OF GUIDE
+===============================================================================

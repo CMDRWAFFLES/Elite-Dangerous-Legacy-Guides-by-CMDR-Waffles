@@ -1,0 +1,43 @@
+Empire: Ngalinn ↔ Mainani courier loop
+
+This is the easiest and generally fastest Imperial route in Legacy.
+
+Route
+Ngalinn — Hickam Survey
+Mainani — Mies van der Rohe’s Claim
+Optional third stop: Aitvas, when return missions are scarce
+
+Ngalinn and Mainani are only about 3.8 ly apart, and both main destinations are outposts, so use a small or medium ship. Courier missions need no cargo capacity.
+
+Best ship
+
+A fast medium or small ship:
+
+Imperial Courier
+Diamondback Explorer
+Asp Explorer
+Cobra Mk III
+Python, though unnecessary
+
+Fit:
+
+Fuel scoop, optional
+Supercruise Assist, useful
+Docking computer, useful
+Good thrusters
+No cargo racks required
+
+Farming loop
+1. Go to Hickam Survey in Ngalinn.
+2. Open the mission board and filter for Transport missions.
+3. Accept every data courier mission to Mainani issued by an Empire-aligned minor faction.
+4. Prioritize missions offering the most REP symbols.
+5. Stack missions up to the normal active-mission limit.
+6. Fly to Mies van der Rohe’s Claim in Mainani.
+7. Turn them in and always select the highest Reputation reward.
+8. Take courier missions back to Ngalinn.
+9. Repeat.
+
+Once Allied with the local Imperial factions, substantially more missions become available. Donation missions from Imperial factions are also worth taking when credits are not a concern.
+
+Legacy note: current Live-PC reports that this route was disrupted by galaxy colonisation do not apply to Xbox or PlayStation. Colonisation is not present in Legacy. Mission quantities can still vary because the Legacy BGS has its own faction states.

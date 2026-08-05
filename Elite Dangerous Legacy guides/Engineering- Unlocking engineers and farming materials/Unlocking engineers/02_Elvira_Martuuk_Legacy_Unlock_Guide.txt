@@ -1,0 +1,68 @@
+ELITE DANGEROUS LEGACY CONSOLE
+ELVIRA MARTUUK — STANDALONE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+UNLOCK PATH
+===============================================================================
+
+Starting engineer
+
+Referral engineers normally become known after ranking the preceding
+engineer beyond Grade 3 and making some progress toward Grade 4.
+
+Dynamic mission availability, faction states, commodity supplies and
+rare-good allocations must be checked in the separate Legacy galaxy.
+
+===============================================================================
+2. ELVIRA MARTUUK
+===============================================================================
+
+Location:
+- System: Khun
+- Base: Long Sight Base
+
+How she becomes known:
+- Publicly known starting engineer
+
+Meeting requirement:
+- Travel at least 300 LY from your career-start system
+
+Unlock donation:
+- 3 Soontill Relics
+
+Rare-good source:
+- System: Ngurii
+- Station: Cheranovsky City
+
+Best reason to unlock:
+- Grade 5 Frame Shift Drive
+- Grade 3 Shield Generator
+
+Procedure:
+[ ] Travel at least 300 LY from your starting system.
+[ ] Buy three Soontill Relics at Cheranovsky City.
+[ ] Travel to Long Sight Base.
+[ ] Donate all three relics.
+[ ] Rank Elvira beyond Grade 3.
+[ ] Confirm discovery of Marco Qwent and Zacariah Nemo.
+
+-------------------------------------------------------------------------------
+
+
+===============================================================================
+STANDALONE CHECKLIST
+===============================================================================
+
+[ ] Engineer discovered or publicly known
+[ ] Meeting requirement completed
+[ ] Invitation or permit obtained, where required
+[ ] Unlock donation collected
+[ ] Donation delivered to the engineer
+[ ] Engineer ranked high enough for desired blueprints or referrals
+[ ] Desired blueprint pinned
+[ ] Required experimental effects applied in person
+
+===============================================================================
+END OF GUIDE
+===============================================================================

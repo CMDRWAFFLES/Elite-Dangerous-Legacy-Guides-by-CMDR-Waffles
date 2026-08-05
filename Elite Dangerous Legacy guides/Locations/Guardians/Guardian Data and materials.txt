@@ -1,0 +1,5 @@
+System Name          | Planetary Body | Coordinates (Lat, Long) | Farm Type                                     
+---------------------+----------------+-------------------------+-----------------------------------------------
+Synuefe NL-N c23-4   | B 3            | 48.1808, -48.3718       | Pattern Obelisk Data (2-obelisk relog)        
+Synuefe XR-H d11-102 | 1 B            | -31.7627, -128.9343     | Pattern Obelisk Data (4-obelisk relog)        
+Synuefe NL-N c23-4   | B 3            | -34.8383, 132.8863      | Guardian Components (destructible-panel relog)

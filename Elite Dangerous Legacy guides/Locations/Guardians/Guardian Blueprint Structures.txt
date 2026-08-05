@@ -1,0 +1,9 @@
+System Name                | Planetary Body | Coordinates (Lat, Long) | Blueprint Type
+---------------------------+----------------+-------------------------+---------------
+Vela Dark Region DL-Y d112 | 1 A            | -38.1717, -157.2472     | Module        
+Synuefe GT-H b43-1         | C 4            | -26.0524, 32.0035       | Module        
+Col 173 Sector GS-J b25-4  | D 2            | 5.5275, 144.3510        | Module        
+Synuefe NL-N c23-4         | B 3            | -34.8383, 132.8863      | Module        
+Synuefe EU-Q c21-10        | A 3            | -23.2718, 126.3758      | Weapon        
+Synuefe EN-H d11-96        | 7 A            | -3.4755, -115.2580      | Vessel        
+Synuefe IL-N c23-19        | B 2            | 12.1763, 44.3155        | Vessel        

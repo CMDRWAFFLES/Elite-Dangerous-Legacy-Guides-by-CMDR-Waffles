@@ -1,0 +1,991 @@
+ELITE DANGEROUS LEGACY CONSOLE
+ENGINEER MATERIALS — MANUFACTURED
+HIGH GRADE EMISSIONS FARMING
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+PURPOSE OF THIS GUIDE
+===============================================================================
+
+This guide explains how to find and repeatedly farm Grade 5 Manufactured
+engineering materials from High Grade Emissions signal sources.
+
+It is written specifically for:
+
+- Xbox Legacy
+- PlayStation Legacy
+- Horizons 3.8 / pre-Update 14 mechanics
+
+This is not a Live/Odyssey HGE guide.
+
+===============================================================================
+IMPORTANT TERMINOLOGY
+===============================================================================
+
+HGE
+- High Grade Emissions.
+- A temporary signal source found in supercruise.
+- HGEs contain Manufactured engineering materials.
+
+MINOR FACTION
+- A local faction operating inside a star system.
+- A system can contain several minor factions at the same time.
+- Each faction can have its own allegiance and state.
+
+FACTION ALLEGIANCE
+- Empire
+- Federation
+- Alliance
+- Independent
+
+FACTION STATE
+Examples include:
+- Boom
+- War
+- Civil War
+- Civil Unrest
+- Outbreak
+
+POWERPLAY POWER
+Examples include:
+- Aisling Duval
+- Edmund Mahon
+- Li Yong-Rui
+- Archon Delaine
+
+Powerplay is a separate system.
+
+The Powerplay ruler or exploiter does not determine HGE materials.
+
+SYSTEM GOVERNMENT
+Examples include:
+- Democracy
+- Dictatorship
+- Corporate
+- Anarchy
+
+Government does not determine the HGE material family.
+
+SYSTEM ECONOMY
+Examples include:
+- Industrial
+- High Tech
+- Refinery
+- Extraction
+
+Economy does not determine the HGE material family.
+
+===============================================================================
+THE MOST IMPORTANT HGE RULE
+===============================================================================
+
+The material inside an HGE is determined by the MINOR FACTION attached to that
+specific signal source.
+
+Do not rely only on:
+
+- The controlling faction
+- The system allegiance shown in the Galaxy Map
+- The main system state
+- The system government
+- The system economy
+- The Powerplay ruler
+- A current Live-PC website
+
+When you target an HGE, the information panel should show details such as:
+
+- Faction
+- State
+- Time remaining
+
+That specific faction and state are what matter.
+
+A system can contain several HGEs attached to different factions, so two HGEs
+inside the same system can contain completely different material families.
+
+===============================================================================
+DIRECT G5 HGE REQUIREMENTS
+===============================================================================
+
+Manufactured materials max out at Grade 5, with a storage cap of 100 each.
+
+The table below separates:
+
+REQUIRED
+- The condition that must apply to the faction attached to the HGE.
+
+PREFERRED SEARCH
+- A practical way to reduce competing HGE material families.
+- Preferred does not mean mandatory.
+
++-----------------------------+-------------------------+-------------------------+
+| G5 MATERIAL                 | REQUIRED HGE FACTION    | PREFERRED SEARCH        |
++-----------------------------+-------------------------+-------------------------+
+| Imperial Shielding          | Empire allegiance       | Empire faction without  |
+|                             |                         | Boom, War, Civil War,   |
+|                             |                         | Civil Unrest or Outbreak|
++-----------------------------+-------------------------+-------------------------+
+| Core Dynamics Composites    | Federation allegiance   | Federation faction      |
+|                             |                         | without a competing     |
+|                             |                         | special HGE state       |
++-----------------------------+-------------------------+-------------------------+
+| Proto Radiolic Alloys       | Boom state              | Independent or Alliance |
+|                             |                         | faction in Boom         |
++-----------------------------+-------------------------+-------------------------+
+| Proto Heat Radiators        | Boom state              | Independent or Alliance |
+|                             |                         | faction in Boom         |
++-----------------------------+-------------------------+-------------------------+
+| Military Grade Alloys       | War or Civil War state  | Independent or Alliance |
+|                             |                         | faction in War/Civil War|
++-----------------------------+-------------------------+-------------------------+
+| Military Supercapacitors    | War or Civil War state  | Independent or Alliance |
+|                             |                         | faction in War/Civil War|
++-----------------------------+-------------------------+-------------------------+
+| Improvised Components       | Civil Unrest state      | Independent or Alliance |
+|                             |                         | faction in Civil Unrest |
++-----------------------------+-------------------------+-------------------------+
+| Pharmaceutical Isolators    | Outbreak state          | Independent or Alliance |
+|                             |                         | faction in Outbreak     |
++-----------------------------+-------------------------+-------------------------+
+| Biotech Conductors          | Mission reward          | High-reputation mission |
+|                             |                         | boards / Robigo         |
++-----------------------------+-------------------------+-------------------------+
+| Exquisite Focus Crystals    | Mission reward          | High-reputation mission |
+|                             |                         | boards / Robigo         |
++-----------------------------+-------------------------+-------------------------+
+NOTES FROM CMDR_WAFFLES: 
+Military Supercapacitors
+Proto Heat Radiators
+Military Supercapacitors
+The three materials mention above can be super annyoing to get from HGEs 
+Your best bet is to farm Imperial Shielding, 
+which is way easier to find, and use a material trader to swap them. 
+
+===============================================================================
+WHAT EACH REQUIREMENT MEANS
+===============================================================================
+
+-------------------------------------------------------------------------------
+IMPERIAL SHIELDING
+-------------------------------------------------------------------------------
+
+REQUIRED:
+
+    THE HGE MUST BELONG TO AN EMPIRE-ALIGNED MINOR FACTION.
+
+The entire system does not have to be shown as Empire if an Empire faction
+inside that system owns the HGE.
+
+Cleanest search:
+
+- Look for an Empire-aligned faction.
+- Prefer one without Boom, War, Civil War, Civil Unrest or Outbreak.
+- This reduces competition from state-based HGE families.
+
+Possible companion or competing result:
+
+- Other faction-state materials can appear when that Empire faction is also in
+  a relevant special state.
+
+Powerplay clarification:
+
+- It does not matter whether the system is controlled or exploited by Aisling
+  Duval, Edmund Mahon or another Power.
+- The local minor faction allegiance is what matters.
+
+-------------------------------------------------------------------------------
+CORE DYNAMICS COMPOSITES
+-------------------------------------------------------------------------------
+
+REQUIRED:
+
+    THE HGE MUST BELONG TO A FEDERATION-ALIGNED MINOR FACTION.
+
+Cleanest search:
+
+- Look for a Federation-aligned faction.
+- Prefer one without a competing Boom, War, Civil War, Civil Unrest or Outbreak
+  state.
+
+Common companion material:
+
+- Proprietary Composites, Grade 4
+
+Possible complication:
+
+- A Federal faction in Boom can produce the Federal material family or the
+  Boom Proto family.
+- A Federal faction in War can compete with the Military family.
+
+-------------------------------------------------------------------------------
+PROTO RADIOLIC ALLOYS
+-------------------------------------------------------------------------------
+
+REQUIRED:
+
+    THE HGE FACTION MUST BE IN BOOM.
+
+Faction allegiance:
+
+- Independent is valid.
+- Alliance is valid.
+- Federation is valid.
+- Empire is valid.
+
+Independent or Alliance is preferred because those allegiances do not add the
+Federal or Imperial allegiance-specific HGE families.
+
+Possible results from a suitable Boom HGE:
+
+- Proto Radiolic Alloys
+- Proto Heat Radiators
+- Proto Light Alloys
+
+You cannot force a Boom HGE to contain only Proto Radiolic Alloys.
+
+-------------------------------------------------------------------------------
+PROTO HEAT RADIATORS
+-------------------------------------------------------------------------------
+
+REQUIRED:
+
+    THE HGE FACTION MUST BE IN BOOM.
+
+The same rules apply as for Proto Radiolic Alloys.
+
+Preferred search:
+
+- Independent faction in Boom
+- Alliance faction in Boom
+
+The Powerplay ruler is irrelevant.
+
+Example:
+
+A system can be:
+
+- Independent
+- Democracy
+- Industrial / High Tech
+- Exploited by Aisling Duval
+- In Boom
+
+This is a valid Proto-material search system.
+
+The only final check is whether the specific HGE belongs to a faction whose
+state is Boom.
+
+-------------------------------------------------------------------------------
+MILITARY GRADE ALLOYS
+-------------------------------------------------------------------------------
+
+REQUIRED:
+
+    THE HGE FACTION MUST BE IN WAR OR CIVIL WAR.
+
+Faction allegiance is not required.
+
+Preferred search:
+
+- Independent or Alliance faction in War/Civil War
+- This avoids adding Federal or Imperial allegiance materials to the possible
+  pool.
+
+Possible competing result:
+
+- Military Supercapacitors
+
+You may need to inspect several suitable HGEs before finding the one you need.
+
+-------------------------------------------------------------------------------
+MILITARY SUPERCAPACITORS
+-------------------------------------------------------------------------------
+
+REQUIRED:
+
+    THE HGE FACTION MUST BE IN WAR OR CIVIL WAR.
+
+Faction allegiance is not required.
+
+Possible competing result:
+
+- Military Grade Alloys
+
+The system can contain an active human Conflict Zone, but entering a Conflict
+Zone is not part of HGE farming.
+
+The HGE remains a separate signal source found in supercruise.
+
+-------------------------------------------------------------------------------
+IMPROVISED COMPONENTS
+-------------------------------------------------------------------------------
+
+REQUIRED:
+
+    THE HGE FACTION MUST BE IN CIVIL UNREST.
+
+Faction allegiance is not required.
+
+Preferred search:
+
+- Independent or Alliance faction in Civil Unrest
+
+Civil Unrest is relatively uncommon, which can make this material awkward to
+find directly in the separate Legacy BGS.
+
+When the correct state is unavailable, farming an easier G5 material and
+cross-trading may be faster.
+
+-------------------------------------------------------------------------------
+PHARMACEUTICAL ISOLATORS
+-------------------------------------------------------------------------------
+
+REQUIRED:
+
+    THE HGE FACTION MUST BE IN OUTBREAK.
+
+Faction allegiance is not required.
+
+Preferred search:
+
+- Independent or Alliance faction in Outbreak
+
+Outbreak is relatively uncommon and may exist on a secondary faction rather
+than the controlling faction.
+
+Target every HGE and read its attached faction and state before deciding
+whether to enter it.
+
+-------------------------------------------------------------------------------
+BIOTECH CONDUCTORS
+-------------------------------------------------------------------------------
+
+SOURCE:
+
+    MISSION REWARDS
+
+Biotech Conductors are not a normal HGE material.
+
+Look for them as a selectable mission reward after building reputation with
+local factions.
+
+Traditional Legacy method:
+
+    Robigo Mines -> Sirius Atmospherics passenger missions
+
+Other high-reputation mission boards can also offer them.
+
+-------------------------------------------------------------------------------
+EXQUISITE FOCUS CRYSTALS
+-------------------------------------------------------------------------------
+
+SOURCE:
+
+    MISSION REWARDS
+
+Exquisite Focus Crystals are not a normal HGE material.
+
+They can appear on the same kinds of high-reputation mission boards used for
+Biotech Conductors.
+
+Robigo passenger missions are a traditional Legacy source.
+
+===============================================================================
+REQUIRED VERSUS PREFERRED
+===============================================================================
+
+This distinction is important.
+
+EXAMPLE 1:
+
+Material wanted:
+- Proto Heat Radiators
+
+Required:
+- The HGE faction is in Boom.
+
+Preferred:
+- The HGE faction is Independent or Alliance.
+
+Independent is not the actual requirement.
+
+Boom is the requirement.
+
+-------------------------------------------------------------------------------
+
+EXAMPLE 2:
+
+Material wanted:
+- Imperial Shielding
+
+Required:
+- The HGE belongs to an Empire-aligned minor faction.
+
+Preferred:
+- That faction has no competing state such as Boom or War.
+
+The system's Powerplay controller is irrelevant.
+
+-------------------------------------------------------------------------------
+
+EXAMPLE 3:
+
+Material wanted:
+- Pharmaceutical Isolators
+
+Required:
+- The HGE faction is in Outbreak.
+
+Preferred:
+- Independent or Alliance allegiance, to reduce unrelated allegiance-based
+  HGE results.
+
+===============================================================================
+WHAT DOES NOT MATTER
+===============================================================================
+
+POWERPLAY
+
+Ignore:
+
+- Aisling Duval
+- Edmund Mahon
+- Zachary Hudson
+- Felicia Winters
+- Li Yong-Rui
+- Archon Delaine
+- Other Powerplay control or exploitation
+
+Powerplay does not decide HGE contents.
+
+-------------------------------------------------------------------------------
+
+GOVERNMENT
+
+Examples such as Democracy, Corporate, Dictatorship or Anarchy do not decide
+the HGE material family.
+
+-------------------------------------------------------------------------------
+
+ECONOMY
+
+Industrial, High Tech, Extraction and other economy types do not decide the
+HGE material family.
+
+-------------------------------------------------------------------------------
+
+POPULATION
+
+Population is not a required material condition.
+
+A system with three million inhabitants can be a valid HGE system.
+
+A much larger population does not guarantee:
+
+- More HGEs
+- A longer timer
+- The desired material
+- A faster respawn
+
+Do not reject a suitable faction merely because the population is below an
+arbitrary number quoted by another guide.
+
+===============================================================================
+HOW TO SEARCH FOR A SUITABLE SYSTEM
+===============================================================================
+
+Because Legacy has its own separate BGS, current Live-PC faction-state websites
+can be wrong for Xbox and PlayStation.
+
+Use the in-game Legacy Galaxy Map as the starting point.
+
+1. Decide which G5 material you need.
+
+2. Identify its required allegiance or faction state from the table.
+
+3. Use the Galaxy Map to look for a promising system.
+
+4. Enter the system.
+
+5. Scan the Navigation Beacon, or use the FSS, to reveal signal sources.
+
+6. Enter supercruise.
+
+7. Find and target a High Grade Emissions signal.
+
+8. Read the signal information.
+
+9. Confirm:
+   - Faction
+   - State
+   - Time remaining
+
+10. Enter only when the signal matches the material requirement.
+
+Important:
+
+The Galaxy Map usually helps you choose a promising system, but the individual
+HGE is the final authority.
+
+===============================================================================
+EXAMPLE: AN INDEPENDENT BOOM SYSTEM
+===============================================================================
+
+Suppose a system is shown as:
+
+- Allegiance: Independent
+- Population: 3 million
+- Government: Democracy
+- State: Boom
+- Economy: Industrial / High Tech
+- Powerplay: Aisling Duval or Edmund Mahon territory
+
+This is a valid system to search for:
+
+- Proto Heat Radiators
+- Proto Radiolic Alloys
+- Proto Light Alloys
+
+Why:
+
+- Boom is the relevant material condition.
+- Independent avoids Empire and Federation allegiance competition.
+- Population is acceptable but not the deciding requirement.
+- Democracy is irrelevant.
+- Industrial / High Tech is irrelevant.
+- Powerplay is irrelevant.
+
+Still target the HGE itself and confirm its faction is in Boom.
+
+===============================================================================
+HGE TIMER AND DISTANCE
+===============================================================================
+
+Every HGE has a time remaining value.
+
+The signal disappears when the timer expires.
+
+The timer continues while you:
+
+- Travel toward it
+- Collect materials
+- Close and restart the game
+
+There is no guaranteed fixed respawn schedule for a replacement HGE.
+
+New signal sources are generated dynamically.
+
+Do not sit beside an expired location expecting the same HGE to reappear after
+a known number of minutes.
+
+-------------------------------------------------------------------------------
+WHEN TO SKIP AN HGE
+-------------------------------------------------------------------------------
+
+Skip it when:
+
+- The signal is several thousand light-seconds away
+- Only a few minutes remain
+- You cannot arrive before expiration
+- There is not enough time for a console restart loop
+
+Example:
+
+    DISTANCE: 5,000 ls
+    TIME REMAINING: 3 minutes
+
+This is usually not worth travelling to unless the supercruise arrival estimate
+clearly shows that you can enter before the timer reaches zero.
+
+Even if you reach it, there is unlikely to be enough time for repeated full
+application restarts.
+
+-------------------------------------------------------------------------------
+GOOD TIMER TARGETS
+-------------------------------------------------------------------------------
+
+Bare minimum for one collection:
+- Enough time to arrive and collect
+
+Reasonable for farming:
+- Approximately 15 minutes or more
+
+Preferred:
+- Approximately 20 minutes or more
+
+Excellent:
+- 25–35 minutes remaining
+
+The more console restart cycles you intend to perform, the more time you need.
+
+===============================================================================
+LEGACY-CONSOLE HGE FARMING LOOP
+===============================================================================
+
+FIT A SHIP WITH:
+
+[ ] Collector Limpet Controller
+[ ] Cargo Rack
+[ ] Approximately 30–50 limpets
+[ ] Fuel Scoop
+[ ] Good supercruise handling
+[ ] Supercruise Assist, useful but optional
+
+A small or medium ship is convenient, but any ship that carries the required
+limpets and controller can be used.
+
+-------------------------------------------------------------------------------
+FIRST COLLECTION
+-------------------------------------------------------------------------------
+
+1. Enter a suitable Legacy system.
+
+2. Scan the Navigation Beacon or use the FSS.
+
+3. Find an HGE with plenty of time remaining.
+
+4. Target it.
+
+5. Verify the attached faction and state.
+
+6. Drop into the HGE.
+
+7. Open the Cargo Hatch.
+
+8. Release collector limpets.
+
+9. Collect every Manufactured material fragment.
+
+-------------------------------------------------------------------------------
+CONSOLE RESTART LOOP
+-------------------------------------------------------------------------------
+
+1. Return to the Xbox or PlayStation dashboard.
+
+2. Fully close Elite Dangerous.
+
+3. Restart Elite Dangerous.
+
+4. Enter the same game mode.
+
+5. Immediately enter supercruise with the throttle at zero.
+
+6. The previous HGE should be close behind the ship as an unidentified signal.
+
+7. Turn around.
+
+8. Target the signal.
+
+9. Drop back into it.
+
+10. Collect the respawned materials.
+
+11. Repeat until:
+    - The timer expires
+    - Your material storage reaches 100
+    - You run out of limpets
+
+Important:
+
+Exiting only to Elite's main menu is not the same as fully closing the console
+application for this farming method.
+
+===============================================================================
+WHY LIVE-PC HGE VIDEOS MAY LOOK DIFFERENT
+===============================================================================
+
+Later Live-PC engineering changes increased the quantity available from HGEs.
+
+Legacy consoles retain the older, smaller HGE quantity.
+
+Ignore videos in which one modern Live HGE immediately fills an entire G5 bin.
+
+On Xbox and PlayStation Legacy, the full application-restart loop remains
+useful.
+
+===============================================================================
+HGE CONTENTS AND COMPANION MATERIALS
+===============================================================================
+
+Some HGEs contain more than one material in the same family.
+
+Common examples include:
+
+- Core Dynamics Composites with Proprietary Composites
+- Proto Radiolic Alloys with Proto Light Alloys
+- Proto Heat Radiators with other Proto-family material
+- Military Grade Alloys or Military Supercapacitors
+
+Do not assume every fragment in an HGE is the same grade or exact material.
+
+Check the Contacts panel when necessary.
+
+===============================================================================
+WHAT TO DO WHEN THE CORRECT HGE WILL NOT APPEAR
+===============================================================================
+
+1. Check every HGE in the system.
+
+2. Confirm that you are reading the faction attached to the signal.
+
+3. Check whether another faction in the system has the required state.
+
+4. Jump to another suitable Legacy system.
+
+5. Scan its Navigation Beacon.
+
+6. Continue searching.
+
+7. Consider farming an easier G5 donor and using a Manufactured Material
+   Trader.
+
+Do not wait indefinitely in one system for a guaranteed respawn.
+
+===============================================================================
+MATERIAL TRADING
+===============================================================================
+
+A Manufactured Material Trader can exchange one Manufactured material for
+another.
+
+Most efficient use:
+
+- Farm a direct G5 source.
+- Trade downward within the same material family.
+- Cross-trade only when the direct source is too difficult or unavailable.
+
+Cross-category G5 trading has a poor exchange rate.
+
+Imperial Shielding is often used as a universal donor because Empire-aligned
+HGEs are comparatively easy to locate.
+
+Trading is especially useful for:
+
+- Pharmaceutical Isolators
+- Improvised Components
+- A missing Military material
+- A missing Proto material
+
+===============================================================================
+THE TWO MISSION-ONLY G5 MATERIALS
+===============================================================================
+
+BIOTECH CONDUCTORS
+
+EXQUISITE FOCUS CRYSTALS
+
+These are most efficiently collected as mission rewards.
+
+Traditional Legacy route:
+
+    Robigo Mines -> Sirius Atmospherics passenger missions
+
+Once allied with the Robigo factions:
+
+1. Inspect each passenger mission.
+
+2. Check every reward option.
+
+3. Select Biotech Conductors or Exquisite Focus Crystals when offered.
+
+Robigo can also offer Modified Embedded Firmware.
+
+Modified Embedded Firmware is Encoded Data, not a Manufactured material.
+
+Other high-reputation mission boards can also offer these materials, so Robigo
+is useful rather than mandatory.
+
+===============================================================================
+WHERE DAV'S HOPE FITS
+===============================================================================
+
+Dav's Hope is a permanent planetary relog location for Manufactured materials.
+
+System:
+- Hyades Sector DR-V c2-23
+
+Body:
+- A 5
+
+Coordinates:
+- +44.8180, -31.3893
+
+REQUIRED:
+
+[ ] Planetary Vehicle Hangar
+[ ] SRV
+[ ] Planetary landing capability
+[ ] Fuel Scoop recommended
+
+PROCEDURE:
+
+1. Land at Dav's Hope.
+
+2. Deploy the SRV.
+
+3. Drive the circuit around the abandoned settlement.
+
+4. Scoop the Manufactured materials.
+
+5. Return to the main menu.
+
+6. Reload.
+
+7. Repeat the circuit.
+
+Dav's Hope mainly produces a mixture of Grade 2–Grade 4 materials.
+
+It is excellent for:
+
+- Early engineering
+- General mid-grade stocking
+- New commanders without an HGE farming ship
+
+It is less efficient than repeatedly farming Grade 5 HGEs and trading downward
+when maximum efficiency is the goal.
+
+===============================================================================
+BEGINNER TROUBLESHOOTING
+===============================================================================
+
+NO HGES APPEAR
+
+Check:
+
+[ ] Navigation Beacon scanned or FSS used
+[ ] You are in supercruise
+[ ] Navigation-panel signal-source filters are enabled
+[ ] The system contains a faction with a suitable condition
+[ ] You are using Legacy in-game information, not current Live states
+
+Remember:
+
+A suitable faction creates the possibility of an HGE.
+
+It does not guarantee that one will be present immediately.
+
+-------------------------------------------------------------------------------
+
+THE SYSTEM LOOKS CORRECT BUT THE HGE IS WRONG
+
+The HGE may belong to a different faction.
+
+Target it and read:
+
+- Faction
+- State
+
+Do not rely only on the system description.
+
+-------------------------------------------------------------------------------
+
+THE HGE EXPIRED BEFORE I ARRIVED
+
+Move to another HGE or another suitable system.
+
+There is no guaranteed wait time for the same HGE to respawn.
+
+-------------------------------------------------------------------------------
+
+MY LIMPETS WILL NOT COLLECT
+
+Check:
+
+[ ] Cargo Hatch is open
+[ ] Collector Limpet Controller is powered
+[ ] Limpets are in the cargo hold
+[ ] Materials are not manually ignored in the Contacts panel
+[ ] You are within controller range
+
+-------------------------------------------------------------------------------
+
+THE G5 STORAGE BIN IS FULL
+
+Grade 5 Manufactured storage maximum:
+
+    100
+
+Visit a Manufactured Material Trader before returning to the same farm.
+
+Trade away enough of the farmed material to create space.
+
+===============================================================================
+QUICK REQUIREMENT SUMMARY
+===============================================================================
+
+IMPERIAL SHIELDING
+[ ] HGE faction is Empire-aligned
+[ ] Powerplay ignored
+[ ] Special competing states avoided where possible
+
+CORE DYNAMICS COMPOSITES
+[ ] HGE faction is Federation-aligned
+[ ] Proprietary Composites may accompany it
+[ ] Special competing states avoided where possible
+
+PROTO RADIOLIC ALLOYS
+[ ] HGE faction is in Boom
+[ ] Independent or Alliance preferred, not required
+[ ] Proto Heat Radiators may appear instead
+
+PROTO HEAT RADIATORS
+[ ] HGE faction is in Boom
+[ ] Independent or Alliance preferred, not required
+[ ] Proto alloys may appear instead
+
+MILITARY GRADE ALLOYS
+[ ] HGE faction is in War or Civil War
+[ ] Military Supercapacitors may appear instead
+
+MILITARY SUPERCAPACITORS
+[ ] HGE faction is in War or Civil War
+[ ] Military Grade Alloys may appear instead
+
+IMPROVISED COMPONENTS
+[ ] HGE faction is in Civil Unrest
+
+PHARMACEUTICAL ISOLATORS
+[ ] HGE faction is in Outbreak
+
+BIOTECH CONDUCTORS
+[ ] Select as mission reward
+
+EXQUISITE FOCUS CRYSTALS
+[ ] Select as mission reward
+
+===============================================================================
+FINAL CHECKLIST
+===============================================================================
+
+BEFORE SEARCHING
+
+[ ] Required material identified
+[ ] Required allegiance or state identified
+[ ] Legacy Galaxy Map used
+[ ] Powerplay ignored
+[ ] Government ignored
+[ ] Economy ignored
+[ ] Population treated as nonessential
+
+AFTER ENTERING THE SYSTEM
+
+[ ] Navigation Beacon scanned or FSS completed
+[ ] HGE signal targeted
+[ ] Attached faction checked
+[ ] Attached faction state checked
+[ ] Timer checked
+[ ] Distance checked
+[ ] Enough time remains to collect
+
+BEFORE FARMING
+
+[ ] Collector Limpet Controller fitted
+[ ] Cargo Rack fitted
+[ ] Limpets aboard
+[ ] Cargo Hatch operational
+[ ] G5 storage has room
+[ ] Full console application restart method understood
+
+===============================================================================
+END OF GUIDE
+===============================================================================

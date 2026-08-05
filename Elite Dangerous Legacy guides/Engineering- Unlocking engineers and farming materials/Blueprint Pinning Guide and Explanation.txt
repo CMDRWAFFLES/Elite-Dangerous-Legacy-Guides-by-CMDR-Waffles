@@ -1,0 +1,596 @@
+ELITE DANGEROUS LEGACY CONSOLE
+HOW PINNED ENGINEERING BLUEPRINTS WORK
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+PURPOSE
+===============================================================================
+
+Pinning an engineering blueprint allows you to apply that regular modification
+through a Remote Workshop without repeatedly travelling back to the engineer.
+
+A pinned blueprint is not:
+
+- A saved copy of a completed module
+- A free modification
+- An Experimental Effect
+- A way to skip Grades 1 through 4
+- A way to increase reputation with an engineer
+- A Technology Broker unlock
+
+Pinning simply makes one normal engineering blueprint from that engineer
+available remotely.
+
+===============================================================================
+THE MOST IMPORTANT RULE
+===============================================================================
+
+You may pin ONE blueprint from EACH engineer.
+
+This means:
+
+- Felicity Farseer can provide one pinned blueprint.
+- Elvira Martuuk can provide a different pinned blueprint.
+- The Dweller can provide another.
+- Every other unlocked ship engineer can also provide one.
+
+The limit is not one blueprint for your whole commander. It is one blueprint
+per engineer.
+
+If all 21 non-Colonia Horizons ship engineers covered by the Legacy guide are
+unlocked, you can maintain as many as 21 separate pinned blueprints.
+
+Pinning a second blueprint at the same engineer replaces that engineer's
+previous pin.
+
+===============================================================================
+WHAT EXACTLY IS PINNED?
+===============================================================================
+
+The pin applies to the blueprint type, not to one specific module, ship, size
+or engineering grade.
+
+Example:
+
+If you pin:
+
+    FRAME SHIFT DRIVE — INCREASED RANGE
+
+you can use that blueprint remotely on compatible Frame Shift Drives fitted to
+any of your ships.
+
+The pin is not tied to:
+
+- The Frame Shift Drive fitted when the blueprint was pinned
+- One particular ship
+- One module class or size
+- One specific engineering grade
+
+The highest grade available remotely is limited by:
+
+1. The maximum grade that the engineer offers for that blueprint.
+2. The grade access you have personally unlocked with that engineer.
+
+Example:
+
+If an engineer offers Increased Range Frame Shift Drive to Grade 5 but you have
+only earned Grade 3 access with that engineer, the Remote Workshop will stop at
+Grade 3.
+
+===============================================================================
+HOW TO PIN A BLUEPRINT
+===============================================================================
+
+You must visit the engineer in person to select or change their pinned
+blueprint.
+
+General procedure:
+
+1. Unlock the engineer.
+2. Travel to the engineer's workshop.
+3. Open Engineer's Workshop.
+4. Select a compatible module.
+5. Select the normal modification you want available remotely.
+6. Choose PIN BLUEPRINT.
+7. Confirm that the blueprint is marked as pinned.
+
+Recommended procedure before leaving:
+
+1. Rank the engineer as high as required.
+2. Unlock the maximum grade you intend to use.
+3. Pin the chosen blueprint.
+4. Apply any desired Experimental Effect to modules already aboard.
+5. Check the Engineer section of the right-hand panel to confirm the pin.
+
+Pinning itself does not consume engineering materials.
+
+===============================================================================
+HOW TO USE A PINNED BLUEPRINT REMOTELY
+===============================================================================
+
+At a station that offers Remote Workshop services:
+
+1. Fit the module you want to modify to your current ship.
+2. Open Starport Services.
+3. Open Remote Workshop.
+4. Select the fitted module.
+5. Select the available pinned blueprint.
+6. Spend the required materials to engineer the module.
+7. Continue through the grades as normal.
+
+Remote engineering uses the normal Legacy material recipes and engineering
+rolls. It does not make the modification cheaper.
+
+The Remote Workshop only shows pinned blueprints that are compatible with
+modules currently fitted to your ship.
+
+Example:
+
+If you have Overcharged Multi-cannon pinned but your current ship has no
+Multi-cannon fitted, that blueprint will not appear as a usable option for the
+ship.
+
+===============================================================================
+YOU STILL HAVE TO PROGRESS THROUGH THE GRADES
+===============================================================================
+
+A Grade 5 pin does not let a new module jump directly to Grade 5.
+
+Every newly engineered module starts at Grade 1.
+
+Typical progression:
+
+    Grade 1
+       ↓
+    Grade 2
+       ↓
+    Grade 3
+       ↓
+    Grade 4
+       ↓
+    Grade 5
+
+Apply enough rolls at the current grade to unlock the next grade, then move up.
+
+The pin gives remote access to the grades that you have unlocked. It does not
+remove normal grade progression from the individual module.
+
+===============================================================================
+REMOTE ENGINEERING DOES NOT RANK THE ENGINEER
+===============================================================================
+
+Engineering performed through a Remote Workshop does not increase your
+reputation or access level with the engineer.
+
+This is one of the most important restrictions.
+
+Example:
+
+- You have Grade 3 access with Felicity Farseer.
+- You pin Increased Range Frame Shift Drive.
+- You engineer several modules remotely.
+
+Those remote rolls will not raise Felicity to Grade 4 or Grade 5.
+
+To unlock higher grades and referrals, perform engineering in person at the
+engineer's workshop or use another reputation activity that the engineer
+accepts.
+
+Best practice:
+
+Rank an engineer to their desired maximum grade before relying on their pinned
+blueprint.
+
+===============================================================================
+EXPERIMENTAL EFFECTS CANNOT BE PINNED
+===============================================================================
+
+A pinned blueprint covers only the main modification.
+
+Example:
+
+Main blueprint:
+
+    Frame Shift Drive — Increased Range
+
+Possible Experimental Effects:
+
+    Mass Manager
+    Deep Charge
+    Stripped Down
+    Double Braced
+    Thermal Spread
+
+The Increased Range blueprint can be pinned.
+
+Mass Manager and the other Experimental Effects cannot be pinned or applied
+through a Remote Workshop.
+
+To add or change an Experimental Effect:
+
+1. Engineer the module normally, either remotely or in person.
+2. Fit the module to your ship.
+3. Visit an engineer who handles that module category.
+4. Apply the Experimental Effect in person.
+
+Useful travel-saving rule:
+
+The engineer applying the Experimental Effect does not have to be the same
+engineer who supplied the pinned blueprint.
+
+An engineer with lower-grade access to that module category can apply an
+Experimental Effect to a module whose main modification was completed to a
+higher grade elsewhere.
+
+Example:
+
+1. Complete a Grade 5 modification remotely using a pinned blueprint.
+2. Visit a nearby engineer who handles that type of module.
+3. Apply the desired Experimental Effect there.
+
+===============================================================================
+CHANGING A PINNED BLUEPRINT
+===============================================================================
+
+To replace an engineer's pinned blueprint:
+
+1. Visit that engineer in person.
+2. Open Engineer's Workshop.
+3. Select the new blueprint.
+4. Choose PIN BLUEPRINT.
+5. Confirm the change.
+
+The new pin replaces the previous pin from that engineer.
+
+Example:
+
+Felicity currently has:
+
+    Frame Shift Drive — Increased Range
+
+You visit Felicity and pin:
+
+    Thrusters — Dirty Drive Tuning
+
+Felicity's Increased Range FSD pin is removed and Dirty Drive Tuning becomes
+her active pin.
+
+Pins from every other engineer remain unchanged.
+
+===============================================================================
+DUPLICATE PINS
+===============================================================================
+
+Different engineers may offer the same blueprint.
+
+You can pin the same blueprint at two engineers, but this usually wastes one of
+your available pins.
+
+Example:
+
+Both Felicity Farseer and Elvira Martuuk can provide high-grade Increased Range
+Frame Shift Drive engineering.
+
+A more useful arrangement is normally:
+
+    Felicity Farseer:
+    Frame Shift Drive — Increased Range
+
+    Elvira Martuuk:
+    Shield Generator — Thermal Resistant
+
+This gives access to two useful remote blueprints instead of duplicating one.
+
+Duplicate pins can still be reasonable when:
+
+- You are temporarily ranking one engineer.
+- One engineer has not yet reached the required grade.
+- You intend to change the pins later.
+- Your personal ship-building preferences make the duplicate convenient.
+
+===============================================================================
+COMPLETE EXAMPLE — FRAME SHIFT DRIVE
+===============================================================================
+
+Goal:
+
+Engineer Frame Shift Drives for several ships without repeatedly travelling to
+Deciat.
+
+At Felicity Farseer:
+
+1. Unlock Felicity.
+2. Rank her to Grade 5.
+3. Select Frame Shift Drive — Increased Range.
+4. Pin the blueprint.
+5. Apply Mass Manager or another Experimental Effect to the FSD currently
+   aboard, if desired.
+
+Later, at another station:
+
+1. Fit an unengineered Frame Shift Drive to your current ship.
+2. Open Remote Workshop.
+3. Select Increased Range.
+4. Engineer the module from Grade 1 upward.
+5. Continue until the desired Grade 5 result is complete.
+
+To add Mass Manager:
+
+1. Visit an engineer capable of working on Frame Shift Drives.
+2. Apply Mass Manager in person.
+
+You do not need to return specifically to Felicity unless she is the engineer
+you choose for the Experimental Effect or you want to change her pin.
+
+===============================================================================
+COMPLETE EXAMPLE — POWER DISTRIBUTOR
+===============================================================================
+
+At The Dweller:
+
+1. Rank The Dweller to Grade 5.
+2. Pin Power Distributor — Charge Enhanced.
+
+At any suitable Remote Workshop:
+
+1. Fit a Power Distributor.
+2. Open Remote Workshop.
+3. Select Charge Enhanced.
+4. Engineer it through the grades.
+
+For the Experimental Effect:
+
+- Visit an engineer who handles Power Distributors.
+- Apply Super Conduits, Cluster Capacitors or another desired effect in person.
+
+===============================================================================
+WHAT HAPPENS WHEN A MODULE ALREADY HAS ENGINEERING?
+===============================================================================
+
+A pinned blueprint can continue work on a module that already uses that same
+main modification.
+
+Example:
+
+A Frame Shift Drive already has Grade 3 Increased Range.
+
+With Increased Range pinned, a Remote Workshop can continue that module toward
+Grades 4 and 5, provided those grades are unlocked with the pinning engineer.
+
+A different main blueprint is not added on top of the existing one. A module
+can only have one normal engineering modification at a time.
+
+Before replacing one main modification with another, check the module carefully
+and make sure you intend to rebuild it under the new blueprint.
+
+===============================================================================
+LEGACY MODULE WARNING
+===============================================================================
+
+Very old modules modified under the pre-Engineering-3.0 system may be marked as
+Legacy modifications.
+
+These grandfathered modules are a special case. They may need to be converted
+to the current Grade 1–5 engineering system at an engineer before normal pinned
+blueprint progression can be used.
+
+Conversion can remove the old unique roll.
+
+Do not convert a valuable grandfathered module unless you are certain that the
+new engineering result is preferable.
+
+===============================================================================
+WHAT PINNING DOES NOT PROVIDE
+===============================================================================
+
+Pinning does not provide remote access to:
+
+- Experimental Effects
+- Engineer reputation gains
+- Higher grades not yet unlocked
+- Another blueprint from the same engineer
+- Guardian Technology Broker unlocks
+- Human Technology Broker unlocks
+- Synthesis recipes
+- Module purchases
+- Special pre-engineered modules
+- Guardian weapons or modules
+- A free copy of the engineered module
+
+===============================================================================
+BEST PRACTICE WHEN UNLOCKING AN ENGINEER
+===============================================================================
+
+Use this routine at each engineer:
+
+1. Arrive with enough materials to rank the engineer.
+2. Engineer modules in person until the desired maximum grade is unlocked.
+3. Trigger any referrals that depend on engineer reputation.
+4. Choose the blueprint that will save the most future travel.
+5. Pin that blueprint.
+6. Apply Experimental Effects to any modules already aboard.
+7. Leave only after confirming the correct pin.
+
+Do not leave an engineer at Grade 2 or Grade 3 and assume remote engineering
+will finish ranking them later. It will not.
+
+===============================================================================
+HOW TO CHOOSE A GOOD PIN
+===============================================================================
+
+A good pinned blueprint is usually:
+
+- Used on many ships
+- Needed at Grade 5
+- Offered by an inconvenient or distant engineer
+- A modification you regularly apply to new modules
+- A modification whose materials you commonly keep stocked
+
+Common examples include:
+
+- Frame Shift Drive — Increased Range
+- Thrusters — Dirty Drive Tuning
+- Power Distributor — Charge Enhanced
+- Power Plant — Armoured or Overcharged
+- Shield Generator — Thermal Resistant or Reinforced
+- Shield Booster — Heavy Duty or Resistance Augmented
+- Multi-cannon — Overcharged
+- Armour — Heavy Duty
+- Hull Reinforcement Package — Heavy Duty
+- Plasma Accelerator — Efficient
+- Laser weapons — a frequently used combat blueprint
+
+There is no single perfect pin list for every commander. Exploration, trading,
+mining, PvE combat, PvP and Anti-Xeno builds use different modifications.
+
+===============================================================================
+COMMON MISTAKES
+===============================================================================
+
+MISTAKE 1:
+Assuming there is only one pin in total.
+
+CORRECTION:
+You receive one pin per engineer.
+
+-------------------------------------------------------------------------------
+
+MISTAKE 2:
+Pinning before ranking the engineer.
+
+CORRECTION:
+Remote engineering cannot raise engineer reputation. Rank the engineer in
+person first.
+
+-------------------------------------------------------------------------------
+
+MISTAKE 3:
+Expecting to jump directly to Grade 5.
+
+CORRECTION:
+Every new module must progress from Grade 1 upward.
+
+-------------------------------------------------------------------------------
+
+MISTAKE 4:
+Expecting the Experimental Effect to be included.
+
+CORRECTION:
+Experimentals require an in-person engineer visit.
+
+-------------------------------------------------------------------------------
+
+MISTAKE 5:
+Pinning the wrong blueprint with a similar name.
+
+CORRECTION:
+Read the blueprint name carefully before confirming. For example, Increased
+Range, Faster Boot Sequence and Shielded are different FSD blueprints.
+
+-------------------------------------------------------------------------------
+
+MISTAKE 6:
+The pin does not appear in Remote Workshop.
+
+CHECK:
+
+[ ] Is a compatible module fitted to the current ship?
+[ ] Does the station offer Remote Workshop?
+[ ] Is the correct blueprint actually pinned?
+[ ] Has the required grade been unlocked with the pinning engineer?
+[ ] Is the module an old grandfathered Legacy modification?
+[ ] Did another blueprint recently replace the pin?
+
+-------------------------------------------------------------------------------
+
+MISTAKE 7:
+Using two engineers to pin the same common blueprint unintentionally.
+
+CORRECTION:
+Spread pins across different useful modifications where possible.
+
+-------------------------------------------------------------------------------
+
+MISTAKE 8:
+Leaving the engineer without confirming the pin.
+
+CORRECTION:
+Check the Engineer panel before making the return journey.
+
+===============================================================================
+QUICK REFERENCE
+===============================================================================
+
+PIN LIMIT:
+- One blueprint per engineer
+
+PIN APPLIES TO:
+- One regular blueprint type
+- Compatible modules of any appropriate size
+- Any of your ships
+
+REMOTE WORKSHOP CAN:
+- Apply the pinned main modification
+- Progress a module through unlocked engineering grades
+- Continue the same modification on a partially engineered module
+
+REMOTE WORKSHOP CANNOT:
+- Increase engineer reputation
+- Unlock higher engineering grades
+- Add or change Experimental Effects
+- Apply a blueprint that is not pinned
+- Skip directly to Grade 5
+
+TO CHANGE A PIN:
+- Visit the engineer in person
+- Pin a different blueprint
+- The engineer's previous pin is replaced
+
+BEST TIME TO PIN:
+- After ranking the engineer to the highest grade you require
+
+===============================================================================
+PINNING CHECKLIST
+===============================================================================
+
+FOR EACH ENGINEER:
+
+[ ] Engineer unlocked
+[ ] Desired grade access earned in person
+[ ] Referrals triggered where required
+[ ] Most useful blueprint selected
+[ ] Blueprint pinned
+[ ] Pin confirmed in the Engineer panel
+[ ] Experimental Effects applied to modules already aboard
+
+FOR REMOTE ENGINEERING:
+
+[ ] Compatible module fitted
+[ ] Required materials available
+[ ] Station offers Remote Workshop
+[ ] Correct pinned blueprint selected
+[ ] Module progressed from Grade 1 upward
+[ ] Experimental Effect visit planned if needed
+
+===============================================================================
+LEGACY VERIFICATION NOTES
+===============================================================================
+
+This guide describes the Engineering 3.0 pinning and Remote Workshop system
+used by Elite Dangerous Legacy on Xbox and PlayStation.
+
+Key mechanics were cross-checked against Horizons-era discussions and guides
+from the Frontier Forums, including:
+
+- How Pinned Blueprints Work
+- Engineering and the Grind
+- FSD Engineering 101
+- Prepping for Felicity Farseer
+- The Horizons-era Elite: Dangerous Guides pinning reference
+
+Dynamic Live-PC engineering recommendations are not used as the authority for
+Legacy-console mechanics.
+
+===============================================================================
+END OF GUIDE
+===============================================================================

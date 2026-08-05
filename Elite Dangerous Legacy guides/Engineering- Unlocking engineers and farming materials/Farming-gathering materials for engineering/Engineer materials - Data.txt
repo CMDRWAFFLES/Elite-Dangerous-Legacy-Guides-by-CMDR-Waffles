@@ -1,0 +1,173 @@
+ELITE DANGEROUS LEGACY CONSOLE
+ENGINEER MATERIALS — DATA
+JAMESON CRASH SITE FARMING
+
+===============================================================================
+ENGINEERING MATERIALS — DATA
+===============================================================================
+
+Jameson Crash Site → Adaptive Encryptors Capture → Material Trader
+
+Jameson Crash Site is the best concentrated, reloggable encoded-material farm
+available in Horizons 3.8.
+
+Its main prize is Adaptive Encryptors Capture, a Grade-5 encoded material that
+you can cross-trade into every other encoded category.
+
+You also receive Atypical Encryption Archives and lower-grade firmware data.
+
+===============================================================================
+BEFORE LEAVING
+===============================================================================
+
+Visit an Encoded Material Trader and trade away most of your:
+
+[ ] Adaptive Encryptors Capture
+[ ] Atypical Encryption Archives
+[ ] Cracked Industrial Firmware
+[ ] Modified Consumer Firmware
+
+This creates room for the materials Jameson provides.
+
+===============================================================================
+LOCATION
+===============================================================================
+
+System:    HIP 12099
+Body:      HIP 12099 1 B
+Site:      Jameson Crash Site
+Latitude:  −54.3667
+Longitude: −50.3631
+
+Once you Discover Jameson Crash site once, you dont have to find it via cords
+the next time as it will be visible on the left NAV panel.
+
+Bring an SRV.
+
+===============================================================================
+MANUAL NAVIGATION
+===============================================================================
+
+Navigation is manual.
+
+Get close-ish to the cords from orbit. Then drop (glide) down to fly more
+accuratly when you're close.
+
+Your current latitude and longitude appear on the HUD while flying close to the
+surface.
+
+Heading 180° south lowers latitude toward −54.3667.
+
+Heading 0° north raises latitude.
+
+Heading 90° east raises longitude.
+
+Heading 270° west lowers longitude toward −50.3631.
+
+===============================================================================
+LEGACY-CONSOLE FARMING LOOP
+===============================================================================
+
+1. Land at the crash site.
+2. Deploy the SRV.
+3. Park centrally between the four Comms Control beacons.
+4. Enter turret mode and scan all four with the Data Link Scanner.
+5. Exit to the main menu.
+6. Log back in.
+7. Scan all four again.
+8. Repeat until Adaptive Encryptors Capture or Atypical Encryption Archives is
+   full.
+
+===============================================================================
+NEAREST MATERIAL TRADER — ENCONDED
+===============================================================================
+
+System:  Concordia
+Station: Stillman Hub
+
+===============================================================================
+LEGACY SITE NOTE
+===============================================================================
+
+Legacy has the original four-beacon farming arrangement.
+
+Ignore modern Live-PC guides showing nine upgraded scan points; that change was
+introduced much later and is not part of console Legacy. 
+I have included a map of the Jameson Crash site which is in the same folder 
+as this file. I recommend taking a look at it.
+
+===============================================================================
+TRADING STRATEGY
+===============================================================================
+
+Return to an Encoded Material Trader—Ray Gateway in Diaguandri is the
+traditional nearby choice—and convert the Jameson materials into everything
+else.
+
+Then return to HIP 12099 and repeat.
+
+Prioritize trades like this:
+
+1. Use Adaptive Encryptors Capture for other Grade-5 data.
+
+2. Use Atypical Encryption Archives for Grade 4 and lower.
+
+3. Use the Grade-3 and Grade-2 firmware drops for lower-grade shortages.
+
+4. Avoid spending Grade-5 materials on Grade-1 data unless you need an
+   immediate large quantity.
+
+Cross-trading into another Grade-5 family has a poor exchange rate, but Jameson
+remains faster overall because the source is stationary, safe, concentrated
+and resettable.
+
+Direct wake scanning, ship scanning and mission rewards involve travel,
+spawning or mission RNG.
+
+They are useful passively, but generally do not beat Jameson when you are
+deliberately filling encoded storage.
+
+===============================================================================
+BOTTOM LINE
+===============================================================================
+
+Empty the Jameson materials at a trader, farm the four Legacy beacons until
+full, trade everything into your shopping list, and repeat.
+
+That is the fastest general encoded-data strategy on Xbox and PlayStation
+Legacy.
+
+===============================================================================
+DATA AVAILABLE AT THE LEGACY JAMESON CRASH SITE
+===============================================================================
+
+DATA MATERIAL                   GRADE     MAXIMUM STORAGE
+------------------------------  --------  ---------------
+Modified Consumer Firmware      Grade 2   250
+
+Cracked Industrial Firmware     Grade 3   200
+
+Atypical Encryption Archives    Grade 4   150
+
+Adaptive Encryptors Capture     Grade 5   100
+
+===============================================================================
+QUICK CHECKLIST
+===============================================================================
+
+[ ] Adaptive Encryptors Capture traded down before departure
+[ ] Atypical Encryption Archives traded down before departure
+[ ] Cracked Industrial Firmware traded down before departure
+[ ] Modified Consumer Firmware traded down before departure
+[ ] SRV fitted
+[ ] HIP 12099 reached
+[ ] HIP 12099 1 B reached
+[ ] Coordinates reached
+[ ] All four Comms Control beacons scanned
+[ ] Relog loop repeated
+[ ] Material Trader visited
+[ ] Materials converted into the required data
+
+===============================================================================
+END OF GUIDE
+===============================================================================

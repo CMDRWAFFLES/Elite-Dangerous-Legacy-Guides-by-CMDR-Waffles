@@ -1,0 +1,483 @@
+ELITE DANGEROUS: LEGACY / CONSOLE
+FLEET CARRIER VENDORS AND FLEET CARRIER ADMINISTRATION
+=======================================================
+
+DATA BASIS
+==========
+
+Fleet Carrier service flags:
+EDDB stations snapshot dated 22 August 2022.
+
+This is pre-November-2022 data and is therefore appropriate as a
+Legacy / Console reference.
+
+System names and Sol distances are physical galaxy data.
+Distances are calculated from system galactic coordinates.
+
+Fleet Carrier Vendor locations: 13
+Fleet Carrier Administration systems: 392
+
+
+FLEET CARRIER VENDORS
+=====================
+
+Used to PURCHASE a new Fleet Carrier.
+
+Base Fleet Carrier price:
+5,000,000,000 CR
+
+System     | Station              |    Sol ly
+-----------+----------------------+----------
+Kruger 60  | Kepler Gateway       |     13.08
+Skeggiko O | Kuo Terminal         |     57.42
+Panoi      | Garan Hub            |     63.58
+Alcor      | Macdonald Settlement |     81.71
+Lan Tzak   | Jacobi Platform      |    111.98
+Diso       | Shifnalport          |    112.20
+Namnetes   | Jolliet Enterprise   |    112.91
+CD-47 990  | Jackson Ring         |    125.18
+Balante    | Laplace Ring         |    126.44
+Agartha    | Enoch Port           |    148.32
+Kakmbutan  | Macgregor Orbital    |    158.87
+Ehlanda    | Clark Port           |    211.86
+Colonia    | Jaques Station       | 22,000.45
+
+
+FLEET CARRIER ADMINISTRATION SYSTEMS
+====================================
+
+Used to INSTALL, REMOVE and CONFIGURE services on a Fleet Carrier
+you already own.
+
+The Fleet Carrier itself must be present in an Administration system
+when installing or removing carrier services.
+
+All Fleet Carrier Vendor systems in this EDDB snapshot also provide
+Fleet Carrier Administration.
+
+System                    |    Sol ly
+--------------------------+----------
+Kruger 60                 |     13.08
+Toolfa                    |     14.01
+TZ Arietis                |     14.61
+Ross 780                  |     15.32
+Kokary                    |     15.79
+Wolf 562                  |     20.23
+Ross 104                  |     21.73
+Ross 775                  |     21.89
+Ross 671                  |     22.35
+Arangorii                 |     26.68
+Baxbakaeris               |     27.77
+CPD-28 332                |     28.44
+Xi Ursae Majoris          |     28.98
+Beta Comae Berenices      |     29.77
+61 Ursae Majoris          |     31.33
+Ditibi                    |     31.34
+Atagat                    |     31.37
+Anlave                    |     32.86
+Tiapalan                  |     33.10
+L 190-21                  |     36.21
+Mulachi                   |     36.93
+Mufrid                    |     36.97
+Pliny                     |     38.73
+Hill Pa Hsi               |     38.92
+Zeta Trianguli Australis  |     39.51
+Ross 42                   |     41.74
+Athra                     |     42.17
+58 Eridani                |     43.33
+CD-55 1514                |     43.38
+Upsilon Andromedae        |     44.03
+Tiolce                    |     44.14
+Senlu                     |     44.96
+Ross 130                  |     45.68
+LFT 1748                  |     45.95
+LHS 355                   |     47.18
+Talitha                   |     47.31
+Euboa                     |     48.61
+Alchita                   |     48.70
+LP 320-359                |     50.17
+Borr                      |     50.66
+GD 140                    |     51.55
+LP 926-40                 |     53.40
+Khnum                     |     53.85
+LP 673-13                 |     54.32
+V352 Canis Majoris        |     54.54
+CD-58 538                 |     54.95
+LHS 6386                  |     55.29
+37 Geminorum              |     56.24
+q1 Eridani                |     56.85
+Skeggiko O                |     57.42
+G 35-15                   |     58.27
+Oto                       |     58.27
+Nuenets                   |     58.46
+Gertrud                   |     58.54
+Lalande 27055             |     59.25
+Veroandi                  |     59.62
+LHS 3713                  |     60.18
+LP 211-12                 |     60.41
+Lalande 39866             |     60.62
+Burojinura                |     60.64
+LHS 4047                  |     60.67
+Beten                     |     61.02
+HR 244                    |     61.18
+Inovik                    |     61.24
+Ikenga                    |     61.61
+Azaladshu                 |     61.82
+Ho Hsi                    |     62.35
+Ross 263                  |     62.75
+Panoi                     |     63.58
+Parjanya                  |     63.93
+V2151 Cygni               |     64.10
+LP 486-49                 |     65.21
+Sigma-2 Ursae Majoris     |     66.48
+Amun                      |     66.56
+YZ Fornacis               |     67.67
+BD-17 6172                |     69.42
+CN Bootis                 |     69.90
+V2578 Ophiuchii           |     70.19
+Apura                     |     71.17
+Ross 89                   |     71.57
+Obotrima                  |     71.74
+Lhangkambe                |     71.87
+LTT 4131                  |     72.21
+LP 726-6                  |     72.47
+Eravate                   |     73.28
+Eta Scorpii               |     73.47
+Upsilon Aquarii           |     74.00
+Kuk                       |     74.11
+Huangais                  |     74.30
+39 Leonis                 |     74.36
+Wardaliti                 |     74.53
+HR 8526                   |     75.18
+Breksta                   |     76.67
+Yarigui                   |     77.07
+LTT 16523                 |     78.28
+UBV 8670                  |     78.78
+Eta Indi                  |     78.83
+Lalande 4268              |     79.46
+Khernidjal                |     79.56
+Achelous                  |     79.57
+Suyarang                  |     79.66
+Athena                    |     79.72
+Warninohan                |     80.60
+LP 27-9                   |     81.57
+Alcor                     |     81.71
+Cebalrai                  |     81.84
+Thadshe                   |     82.12
+Mizar                     |     82.79
+G 224-46                  |     82.80
+HIP 28774                 |     83.25
+Birjorth                  |     83.33
+LTT 4428                  |     83.61
+Tatil                     |     84.31
+Wadjuk                    |     84.52
+Dhanhopi                  |     84.56
+Ongkampan                 |     85.31
+Murung                    |     85.56
+Maheou Ti                 |     85.73
+Sachmet                   |     85.86
+LP 29-188                 |     85.94
+Terminus                  |     86.01
+Har Itari                 |     86.21
+Fedmich                   |     86.61
+Beimech                   |     87.65
+HR 8170                   |     88.11
+Ascella                   |     88.20
+Norn                      |     88.37
+Mannodava                 |     88.44
+Tenche                    |     88.57
+V371 Normae               |     88.60
+Tau-3 Eridani             |     88.66
+Mortel                    |     88.84
+Zelano                    |     89.10
+Noti                      |     89.60
+LTT 9299                  |     89.96
+Sivas                     |     89.97
+Evergreen                 |     90.38
+LTT 17422                 |     90.41
+Delta Muscae              |     90.89
+51 Aquilae                |     90.91
+HR 2883                   |     91.04
+Kappa Ophiuchi            |     91.46
+Morixa                    |     91.88
+HR 3499                   |     92.48
+Kurughnaye                |     92.75
+Domoirene                 |     92.94
+Asurasairu                |     93.13
+5 Puppis                  |     93.27
+Rabay                     |     93.34
+Afli                      |     93.96
+Caraceni                  |     94.49
+Putama                    |     94.54
+Waruts                    |     94.58
+Praecipua                 |     94.86
+u Carinae                 |     94.99
+Tepehuacoc                |     95.02
+CD-36 12714               |     95.04
+LTT 1598                  |     95.08
+Tefenhua                  |     95.48
+BD+15 176                 |     95.51
+Iah Lanitei               |     95.57
+Kuwemargl                 |     95.61
+Ngadakhis                 |     95.64
+Kaunan                    |     96.34
+Furuhjelm III-674         |     96.37
+Evena                     |     96.52
+Kadu mist                 |     98.38
+Tarbi                     |     98.45
+Kuma                      |     98.67
+M Hydrae                  |     98.76
+Tripitaka                 |    100.24
+G 240-11                  |    100.25
+Sopontet                  |    100.56
+Tago                      |    100.78
+Obato                     |    100.90
+Amphisatsu                |    101.21
+Bilfrost                  |    101.43
+31 Epsilon Librae         |    101.86
+Sounti                    |    101.86
+Drevlyada                 |    101.90
+Lan Disk                  |    102.30
+Heikegani                 |    102.55
+Ch''anjie                 |    103.23
+LHS 5333                  |    103.39
+27 G. Caeli               |    103.54
+Atroco                    |    104.33
+Medimunda                 |    104.44
+LP 476-207                |    104.56
+Kuligans                  |    104.71
+Didio                     |    105.09
+Lalande 8441              |    105.43
+HR 17                     |    105.85
+Ross 718                  |    106.65
+GCRV 52424                |    107.17
+Makulu                    |    107.46
+HR 8104                   |    107.50
+Beta Volantis             |    107.53
+Supay                     |    108.04
+CD-27 5409                |    108.14
+Setesuyara                |    108.21
+Sumod                     |    108.54
+Adityan                   |    108.76
+Halbangaay                |    109.28
+GCRV 1568                 |    109.48
+Vaiurisc                  |    110.14
+UGP 120                   |    110.75
+Leesti                    |    111.03
+Maiden                    |    111.20
+Ugraswar                  |    111.29
+45 d Ophiuchi             |    111.57
+Siddha                    |    111.78
+Lan Tzak                  |    111.98
+Diso                      |    112.20
+Kammato                   |    112.28
+Lampade                   |    112.36
+27 Kappa Persei           |    112.75
+Namnetes                  |    112.91
+Tsohave                   |    113.25
+Ining                     |    113.26
+Wolf 232                  |    113.99
+Ruhanti                   |    114.21
+Wilia                     |    114.46
+Yucan                     |    114.47
+Mandh                     |    114.98
+Zeta Microscopii          |    115.36
+CD-22 9062                |    115.59
+Tawell                    |    116.26
+Zaonce                    |    117.02
+BD-17 6081                |    117.20
+Tionisla                  |    117.42
+Rauras                    |    117.45
+Quivira                   |    117.72
+Grovii                    |    117.84
+Gongalungul               |    117.85
+BD+47 2267                |    117.95
+NLTT 56881                |    118.38
+Bodb Djede                |    119.15
+Lalande 38626             |    119.28
+Imhotian                  |    119.35
+Balitcha                  |    120.08
+Ruwachis                  |    120.24
+HIP 25559                 |    120.37
+Belliya                   |    120.94
+Kanians                   |    121.10
+Tau Sagittarii            |    121.59
+Princeps                  |    121.78
+HIP 61947                 |    122.10
+Palee                     |    122.41
+HIP 74067                 |    122.51
+HIP 6796                  |    123.40
+Dvorsi                    |    124.09
+Gliese 550                |    124.29
+Bhatas                    |    124.74
+Tlapana                   |    125.00
+CD-47 990                 |    125.18
+Ru Shil                   |    125.39
+HIP 101846                |    125.45
+Manianscudo               |    126.42
+Balante                   |    126.44
+Wuru                      |    127.28
+Yamatji                   |    128.07
+Hirani                    |    128.16
+HR 1064                   |    128.50
+HIP 59879                 |    128.94
+Hyel Yeh                  |    129.29
+Yun Dun                   |    129.76
+Ngurumbha                 |    129.92
+Gliese 58                 |    130.16
+Novas                     |    130.57
+Hatmehing                 |    130.60
+Mitnahas                  |    130.99
+HIP 69982                 |    131.18
+Piran                     |    131.27
+Daraki                    |    131.33
+HIP 17298                 |    131.52
+HIP 93119                 |    131.69
+Rangtei                   |    131.72
+HIP 13750                 |    132.01
+HIP 787                   |    132.29
+Tewi''xilak               |    132.37
+Lhou Mans                 |    132.58
+83 Cancri                 |    132.59
+101 Tauri                 |    133.13
+HIP 38129                 |    133.51
+LHS 1110                  |    134.33
+HIP 27980                 |    134.45
+Ye''kuana                 |    134.77
+HIP 3540                  |    134.97
+HIP 43670                 |    135.13
+Rutu                      |    135.29
+Xamen Ek                  |    135.51
+Aramorans                 |    135.89
+59 Eridani                |    136.08
+HIP 105202                |    136.37
+Omicron Capricorni B      |    136.54
+Telin                     |    136.72
+Gandii                    |    136.90
+54 Ceti                   |    137.07
+Lao Yano                  |    137.40
+HIP 68434                 |    137.65
+HIP 33390                 |    137.73
+HIP 21778                 |    138.29
+Savi                      |    138.36
+Manktas                   |    138.48
+HR 2926                   |    138.96
+Paesici                   |    139.00
+Kornephoros               |    139.14
+Shernteniai               |    139.18
+HIP 50032                 |    139.30
+Nganji                    |    139.32
+HR 8133                   |    139.47
+Nzam Cimi                 |    139.53
+Koleti                    |    139.60
+Arugundji                 |    139.72
+Kelin Samba               |    140.41
+Tring                     |    140.49
+HIP 73314                 |    140.73
+Haidjaram                 |    140.79
+Aapelinja                 |    141.06
+Nu Wanga                  |    141.16
+HIP 27417                 |    141.19
+Xiripa                    |    141.32
+Sugal                     |    141.44
+Attacates                 |    141.53
+Candecama                 |    142.03
+HIP 67055                 |    142.27
+Acants                    |    142.32
+Hurusalki                 |    142.34
+Tsohoda                   |    142.42
+Djinba                    |    142.52
+HIP 8825                  |    143.26
+Wikmeang                  |    143.90
+60 Tauri                  |    144.78
+HR 5307                   |    144.92
+Kpelidoog                 |    145.13
+Wari                      |    145.45
+Kheretii                  |    145.65
+HIP 113980                |    145.69
+HIP 27371                 |    145.69
+Aracenus                  |    146.13
+HIP 99940                 |    146.13
+Apurui                    |    146.84
+Volciates                 |    147.22
+Lalande 32151             |    147.46
+HIP 38225                 |    147.66
+Lelabo                    |    147.72
+Sesur                     |    148.02
+Agartha                   |    148.32
+HIP 103311                |    148.95
+Ngorowai                  |    150.48
+Ga''at                    |    150.66
+HIP 88471                 |    152.25
+Tabaldak                  |    152.48
+Manhari                   |    153.07
+HIP 1389                  |    153.29
+HIP 20485                 |    153.45
+Kausasto                  |    156.53
+Jarorotri                 |    158.86
+Kakmbutan                 |    158.87
+58 Geminorum              |    158.97
+CD-62 136                 |    159.80
+16 Eta Sagittae           |    160.38
+Krinbea                   |    160.56
+HIP 46110                 |    162.50
+Khampti                   |    163.04
+Kamocan                   |    164.34
+Zemetii                   |    164.34
+40 Draconis               |    166.09
+Yapep                     |    170.70
+LTT 1873                  |    171.68
+Brians                    |    173.05
+Belgeth                   |    174.13
+Menusha                   |    177.13
+Napia                     |    177.38
+Marrallang                |    178.97
+Dumnites                  |    184.53
+HIP 113948                |    185.13
+Mula Wendes               |    186.45
+Theta-1 Microscopii       |    186.49
+HIP 117975                |    190.98
+HR 1245                   |    200.21
+HIP 14760                 |    205.79
+Ehlanda                   |    211.86
+HR 1075                   |    213.47
+HIP 14973                 |    217.02
+Coalsack Sector VU-O b6-6 |    518.28
+Tir                       | 21,993.95
+Deriso                    | 21,996.64
+Ratraii                   | 21,997.11
+Colonia                   | 22,000.45
+Luchtaine                 | 22,013.54
+Asura                     | 22,016.58
+
+
+WHAT THE TWO TYPES DO
+=====================
+
+Fleet Carrier Vendor
+--------------------
+- Purchase a new Drake-Class Fleet Carrier.
+- Base purchase price: 5,000,000,000 CR.
+- Vendor systems also have Fleet Carrier Administration.
+
+
+Fleet Carrier Administration
+-----------------------------
+Used for a Fleet Carrier you already own.
+
+Used to:
+- Install optional Fleet Carrier services.
+- Remove optional Fleet Carrier services.
+- Change service crews where applicable.
+- Buy or remove Shipyard stock packages.
+- Buy or remove Outfitting stock packages.
+
+Suspending or reactivating an already-installed service does not
+require returning to a Carrier Administration system.
+
+
+LEGACY / CONSOLE WARNING
+========================
+
+The Administration list comes from the archived EDDB service flags
+dated 22 August 2022.

@@ -1,0 +1,68 @@
+ELITE DANGEROUS LEGACY CONSOLE
+BROO TARQUIN — STANDALONE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+UNLOCK PATH
+===============================================================================
+
+Liz Ryder → Hera Tani → Broo Tarquin
+
+Referral engineers normally become known after ranking the preceding
+engineer beyond Grade 3 and making some progress toward Grade 4.
+
+Dynamic mission availability, faction states, commodity supplies and
+rare-good allocations must be checked in the separate Legacy galaxy.
+
+===============================================================================
+17. BROO TARQUIN
+===============================================================================
+
+Location:
+- System: Muang
+- Base: Broo's Legacy
+
+Discovered from:
+- Hera Tani at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Combat rank Competent or higher
+
+Unlock donation:
+- 50 Fujin Tea
+
+Rare-good source:
+- System: Fujin
+- Station: Futen Spaceport
+
+Best reason to unlock:
+- Grade 5 Beam Laser
+- Grade 5 Burst Laser
+- Grade 5 Pulse Laser
+
+Procedure:
+[ ] Reach combat rank Competent.
+[ ] Buy Fujin Tea at Futen Spaceport.
+[ ] Deliver it to Broo's Legacy.
+[ ] Repeat until 50 total have been donated.
+[ ] Rank Broo to Grade 5.
+
+-------------------------------------------------------------------------------
+
+
+===============================================================================
+STANDALONE CHECKLIST
+===============================================================================
+
+[ ] Engineer discovered or publicly known
+[ ] Meeting requirement completed
+[ ] Invitation or permit obtained, where required
+[ ] Unlock donation collected
+[ ] Donation delivered to the engineer
+[ ] Engineer ranked high enough for desired blueprints or referrals
+[ ] Desired blueprint pinned
+[ ] Required experimental effects applied in person
+
+===============================================================================
+END OF GUIDE
+===============================================================================

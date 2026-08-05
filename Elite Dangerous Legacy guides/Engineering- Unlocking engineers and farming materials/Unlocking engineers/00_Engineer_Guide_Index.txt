@@ -1,0 +1,94 @@
+ELITE DANGEROUS LEGACY CONSOLE
+INDIVIDUAL BUBBLE ENGINEER GUIDE INDEX
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+FILES INCLUDED
+===============================================================================
+
+01. Felicity Farseer
+    File: 01_Felicity_Farseer_Legacy_Unlock_Guide.txt
+    Path: Starting engineer
+
+02. Elvira Martuuk
+    File: 02_Elvira_Martuuk_Legacy_Unlock_Guide.txt
+    Path: Starting engineer
+
+03. The Dweller
+    File: 03_The_Dweller_Legacy_Unlock_Guide.txt
+    Path: Starting engineer
+
+04. Tod "The Blaster" McQuinn
+    File: 04_Tod_The_Blaster_McQuinn_Legacy_Unlock_Guide.txt
+    Path: Starting engineer
+
+05. Liz Ryder
+    File: 05_Liz_Ryder_Legacy_Unlock_Guide.txt
+    Path: Starting engineer
+
+06. Marco Qwent
+    File: 06_Marco_Qwent_Legacy_Unlock_Guide.txt
+    Path: Elvira Martuuk → Marco Qwent
+
+07. Professor Palin
+    File: 07_Professor_Palin_Legacy_Unlock_Guide.txt
+    Path: Elvira Martuuk → Marco Qwent → Professor Palin
+
+08. Chloe Sedesi
+    File: 08_Chloe_Sedesi_Legacy_Unlock_Guide.txt
+    Path: Elvira Martuuk → Marco Qwent → Chloe Sedesi
+
+09. Zacariah Nemo
+    File: 09_Zacariah_Nemo_Legacy_Unlock_Guide.txt
+    Path: Elvira Martuuk → Zacariah Nemo
+
+10. Lori Jameson
+    File: 10_Lori_Jameson_Legacy_Unlock_Guide.txt
+    Path: Elvira Martuuk → Marco Qwent → Lori Jameson
+
+11. Lei Cheung
+    File: 11_Lei_Cheung_Legacy_Unlock_Guide.txt
+    Path: The Dweller → Lei Cheung
+
+12. Ram Tah
+    File: 12_Ram_Tah_Legacy_Unlock_Guide.txt
+    Path: The Dweller → Lei Cheung → Ram Tah
+
+13. Selene Jean
+    File: 13_Selene_Jean_Legacy_Unlock_Guide.txt
+    Path: Tod "The Blaster" McQuinn → Selene Jean
+
+14. Bill Turner
+    File: 14_Bill_Turner_Legacy_Unlock_Guide.txt
+    Path: Tod "The Blaster" McQuinn → Selene Jean → Bill Turner
+
+15. Didi Vatermann
+    File: 15_Didi_Vatermann_Legacy_Unlock_Guide.txt
+    Path: Tod "The Blaster" McQuinn → Selene Jean → Didi Vatermann
+
+16. Hera Tani
+    File: 16_Hera_Tani_Legacy_Unlock_Guide.txt
+    Path: Liz Ryder → Hera Tani
+
+17. Broo Tarquin
+    File: 17_Broo_Tarquin_Legacy_Unlock_Guide.txt
+    Path: Liz Ryder → Hera Tani → Broo Tarquin
+
+18. Tiana Fortune
+    File: 18_Tiana_Fortune_Legacy_Unlock_Guide.txt
+    Path: Liz Ryder → Hera Tani → Tiana Fortune
+
+19. Juri Ishmaak
+    File: 19_Juri_Ishmaak_Legacy_Unlock_Guide.txt
+    Path: Felicity Farseer → Juri Ishmaak
+
+20. The Sarge
+    File: 20_The_Sarge_Legacy_Unlock_Guide.txt
+    Path: Felicity Farseer → Juri Ishmaak → The Sarge
+
+21. Colonel Bris Dekker
+    File: 21_Colonel_Bris_Dekker_Legacy_Unlock_Guide.txt
+    Path: Felicity Farseer → Juri Ishmaak → Colonel Bris Dekker
+
+Each guide is standalone and includes the engineer's location, discovery
+path, meeting requirement, donation, recommended procedure and checklist.

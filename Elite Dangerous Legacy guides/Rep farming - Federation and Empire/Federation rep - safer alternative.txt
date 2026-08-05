@@ -1,0 +1,33 @@
+Safer Federation alternative: Ceos ↔ Sothis
+
+Use the Ceos–Sothis courier loop when:
+
+You do not have a large cargo ship.
+You dislike interdictions.
+Canopus–Exphiay has poor Legacy mission boards.
+You want a low-risk grind similar to Ngalinn–Mainani.
+
+Stack Federal courier missions between Ceos and Sothis and select Reputation rewards. It is much safer, but usually slower and more sensitive to local faction states and mission-board quality. Historical Horizons players reported the route becoming less productive even before Odyssey, so I would treat it as the fallback rather than the primary Federal grind.
+
+Important rank rules
+
+Only missions issued by a minor faction carrying the relevant Empire or Federation symbol contribute to that superpower’s naval progression.
+
+Always choose:
+
+REP+++++ > REP++++ > REP+++ > REP++ > REP+
+
+when rank speed matters more than credits or materials.
+
+When your naval-rank bar reaches 100%, look for a mission whose title or description mentions:
+
+Imperial Navy/Naval
+Federal Navy/Naval
+
+Completing it awards the next rank. You can continue grinding while sitting at 100%; additional rank progress is stored invisibly and carries into subsequent ranks.
+
+Recommended order
+1. Run Ngalinn–Mainani to reach Imperial Duke.
+2. Buy and outfit a Cutter for cargo.
+2. Run Canopus–Exphiay to Federal Rear Admiral.
+3. Take naval promotion missions whenever convenient, but do not stop grinding merely because the displayed bar has reached 100%.

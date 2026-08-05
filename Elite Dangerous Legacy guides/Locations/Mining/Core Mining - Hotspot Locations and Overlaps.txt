@@ -1,0 +1,107 @@
+CORE MINING - HOTSPOT LOCATIONS AND OVERLAPS
+========================================================
+
+
+CORE-MINING HOTSPOT RULE
+========================
+Hotspot counts above are the number of named hotspots in that ring.
+They do NOT mean those hotspots overlap.
+
+For core mining, a hotspot increases the chance that a core you find contains
+the hotspot's named mineral. It does not increase the number of core asteroids.
+Reserve level is therefore not used as a quality ranking here.
+
+ROCKY RINGS
+===========
+A = Alexandrite | B = Benitoite | M = Monazite | Mu = Musgravite | S = Serendibite
+
+System                    | Ring    | Sol ly | Arr LS  | A  | B | M  | Mu | S
+--------------------------+---------+--------+---------+----+---+----+----+--
+Puppis Sector DL-Y d106   | 1 A     | 43.63  | 89      | 3  | 4 | 2  | 6  | 3
+Genetrix                  | 3 A     | 69.92  | 1,400   | 2  | 1 | 3  | 4  | 2
+Honoto                    | 1 A     | 85.64  | 1,730   | 2  | 3 | 4  | 4  | 3
+Algol                     | A 1 B   | 92.84  | 242     | 6  | 3 | 8  | 9  | 6
+GCRV 375                  | 2 B     | 109.09 | 1,598   | 4  | 5 | 1  | 5  | 1
+Polahukuna                | A 2 B   | 114.35 | 1,381   | 6  | 2 | 3  | 6  | 4
+Lamia                     | B 5 A   | 114.86 | 1,828   | 4  | 6 | 2  | 5  | 5
+Chapo                     | AB 3 A  | 117.02 | 1,444   | 6  | 8 | 7  | 4  | 5
+Shokwakw                  | 2 A     | 121.61 | 1,743   | 4  | 2 | 2  | 7  | 4
+Alowis                    | 2 A     | 122.37 | 1,655   | 2  | 4 | 7  | 4  | 4
+Hyades Sector QD-S c4-14  | CD 9 A  | 123.59 | 16,592  | 3  | 5 | 4  | 6  | 8
+Jeirskoku                 | 3 A     | 127.05 | 1,424   | 4  | 2 | 4  | 5  | 5
+Cocoria                   | 4 A     | 129.63 | 2,103   | 6  | 2 | 6  | 5  | 6
+Iota Microscopii          | 1 A     | 133.95 | 4,320   | 11 | 7 | 2  | 5  | 2
+Lalande 3118              | ABC 4 A | 134.75 | 2,909   | 1  | 4 | 4  | 6  | 2
+22 g Leonis               | 3 A     | 135.22 | 122     | 2  | 4 | 6  | 6  | 2
+Huachipaeri               | 4 A     | 135.60 | 713     | 4  | 0 | 2  | 7  | 1
+Omicron Capricorni B      | A 3 A   | 136.54 | 46      | 1  | 1 | 2  | 5  | 2
+Lyncis Sector FG-Y d90    | BC 4 A  | 137.01 | 114,355 | 4  | 5 | 11 | 6  | 2
+Tonessmeta                | 5 A     | 138.27 | 1,272   | 7  | 2 | 5  | 5  | 4
+Frigga                    | 4 B     | 139.74 | 59      | 2  | 5 | 4  | 6  | 7
+HR 5322                   | 1 A     | 139.77 | 1,122   | 5  | 3 | 5  | 6  | 4
+HIP 93639                 | 3 A     | 140.02 | 2,594   | 5  | 6 | 2  | 4  | 8
+Scorpii Sector HR-W c1-21 | 8 A     | 148.31 | 1,339   | 5  | 2 | 1  | 7  | 3
+Hyades Sector EB-X d1-111 | B 9 A   | 148.59 | 18,495  | 3  | 8 | 6  | 7  | 5
+Ix Chuacae                | A 17 A  | 150.69 | 2,741   | 5  | 4 | 7  | 8  | 3
+Greallu                   | 3 A     | 155.90 | 370     | 4  | 8 | 6  | 5  | 5
+Mandubii                  | A 1 A   | 156.33 | 40      | 4  | 4 | 4  | 7  | 2
+HIP 97567                 | 2 A     | 156.58 | 963     | 4  | 4 | 9  | 6  | 8
+
+ICY RINGS
+=========
+A = Alexandrite | G = Grandidierite | LTD = Low Temperature Diamonds | VO = Void Opals
+
+System                    | Ring   | Sol ly | Arr LS  | A | G | LTD | VO
+--------------------------+--------+--------+---------+---+---+-----+---
+WISE J004945              | 6 A    | 24.13  | 1,341   | 0 | 0 | 2   | 1 
+LFT 65                    | 1 B    | 32.39  | 946     | 1 | 1 | 0   | 1 
+Hermitage                 | 5 A    | 39.50  | 1,753   | 2 | 2 | 2   | 0 
+LHS 501                   | A 2 A  | 41.36  | 14,947  | 3 | 2 | 1   | 3 
+Nessa                     | 7 A    | 41.79  | 1,351   | 1 | 2 | 4   | 2 
+LHS 3056                  | 2 A    | 43.47  | 1,745   | 6 | 4 | 1   | 5 
+Core Sys Sector FW-N a6-0 | 6 A    | 46.52  | 1,232   | 1 | 1 | 4   | 1 
+BD-14 249                 | 1 B    | 76.25  | 2,137   | 6 | 7 | 4   | 3 
+Wolf 406                  | 2 B    | 85.19  | 1,127   | 5 | 4 | 3   | 7 
+Shouvul                   | 6 A    | 95.07  | 1,999   | 2 | 1 | 4   | 1 
+LTT 4350                  | 3 B    | 95.22  | 2,315   | 2 | 3 | 4   | 2 
+Namab                     | AB 1 A | 96.60  | 1,468   | 4 | 1 | 3   | 1 
+38 Virginis               | B 5 B  | 106.74 | 526,006 | 0 | 3 | 5   | 2 
+Alrai Sector GM-V b2-2    | 4 B    | 106.81 | 2,291   | 1 | 2 | 6   | 4 
+Vindinepu                 | 5 B    | 112.56 | 1,146   | 4 | 0 | 2   | 5 
+HIP 97512                 | 9 A    | 197.44 | 1,864   | 4 | 4 | 4   | 5 
+HIP 78975                 | A 8 A  | 250.69 | 2,597   | 6 | 7 | 8   | 8 
+
+METALLIC RINGS
+==============
+M = Monazite | R = Rhodplumsite | S = Serendibite
+
+System                    | Ring    | Sol ly | Arr LS | M | R | S
+--------------------------+---------+--------+--------+---+---+--
+Delkar                    | 7 A     | 83.11  | 2,802  | 3 | 1 | 3
+HR 8514                   | 5 A     | 100.89 | 2,509  | 3 | 3 | 3
+GCRV 375                  | 2 A     | 109.09 | 1,598  | 3 | 3 | 2
+GCRV 1568                 | AB 1 A  | 109.48 | 1,324  | 2 | 7 | 5
+Tofana                    | 2 A     | 109.92 | 6,863  | 6 | 2 | 2
+Polahukuna                | A 1 A   | 114.35 | 1,337  | 4 | 1 | 5
+Hyades Sector DB-X d1-112 | 1 A     | 116.18 | 2,396  | 3 | 4 | 1
+Hajong                    | 2 A     | 136.44 | 1,877  | 2 | 5 | 3
+Omicron Capricorni B      | B 1 A   | 136.54 | 11,713 | 6 | 1 | 3
+Pegasi Sector CL-X c1-17  | 1 A     | 145.94 | 1,269  | 2 | 4 | 4
+HR 7297                   | 6 A     | 146.99 | 3,079  | 6 | 1 | 3
+Kehperi                   | 1 A     | 148.54 | 1,259  | 6 | 1 | 2
+Col 285 Sector VZ-P d5-85 | 5 A     | 152.00 | 3,916  | 7 | 6 | 8
+HIP 113894                | A 3 A   | 152.88 | 368    | 2 | 4 | 2
+HIP 60953                 | ABC 8 A | 158.45 | 2,386  | 3 | 8 | 1
+Lalande 35998             | A 3 A   | 159.72 | 523    | 2 | 1 | 3
+
+SAME-MINERAL OVERLAPS
+=========================================
+
+System    | Ring  | Sol ly | Arr LS | Ring Type | Overlap                         
+----------+-------+--------+--------+-----------+-------------------------------------------
+Algol     | A 1 B | 92.84  | 242    | Rocky     | 3x Musgravite                             
+GCRV 375  | 2 B   | 109.09 | 1,598  | Rocky     | 2x Musgravite                             
+HIP 50070 | 6     | ~120   | 1,974  | Rocky     | 3x Musgravite + 2x Benitoite + 2x Monazite
+
+
+

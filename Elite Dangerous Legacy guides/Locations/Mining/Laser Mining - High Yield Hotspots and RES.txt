@@ -1,0 +1,91 @@
+Overlapping a Resource Extraction Site (RES) with a hotspot introduces a fragment-yield multiplier from the RES zone, 
+allowing you to extract significantly more tons of the target mineral from each asteroid than a standard hotspot alone.
+Note: Risk of pirates
+
+System Name                | Body / Ring | Ring Type | Reserve  | Mineral                  | Configuration             
+---------------------------+-------------+-----------+----------+--------------------------+------------------------------------
+LHS 3388                   | 2 A         | Metallic  | Pristine | Platinum                 | Haz RES @ center                   
+Lalande 34968              | AB 8 A      | Metallic  | Pristine | Platinum                 | Haz RES @ 20%                      
+Toluku                     | AB 4 A      | Metallic  | Pristine | Platinum                 | Haz RES @ 30%                      
+HIP 51652                  | 4 A         | Metallic  | Pristine | Platinum                 | Haz RES @ 35%                      
+HIP 60953                  | ABC 8 A     | Metallic  | Pristine | Platinum                 | Haz RES @ 35%; Regular RES @ 35%   
+HIP 7799                   | A 3 A       | Metallic  | Pristine | Platinum                 | Haz RES @ 550 km                   
+HIP 115736                 | 10 A        | Metallic  | Pristine | Platinum                 | Haz RES @ 60%                      
+HIP 71572                  | A 2 A       | Metallic  | Pristine | Platinum                 | Haz RES @ 60%                      
+Macua                      | 2 A         | Metallic  | Pristine | Platinum                 | Haz RES @ 60%                      
+HIP 1290                   | 11 A        | Metallic  | Pristine | Platinum                 | Haz RES @ 65%                      
+HR 2265                    | 2 A         | Metallic  | Pristine | Platinum                 | Haz RES @ 65%; Regular RES @ 45%   
+HIP 19934                  | 1 A         | Metallic  | Pristine | Platinum                 | Haz RES @ 70%                      
+Nuitu                      | 5 A         | Metallic  | Pristine | Platinum                 | Haz RES @ 70%                      
+HIP 52780                  | 5 A         | Metallic  | Pristine | Platinum                 | Haz RES @ 85%                      
+Paesia                     | 2 A         | Metallic  | Pristine | Platinum                 | Haz RES @ 75%                      
+60 Tauri                   | CD 7 A      | Metallic  | Pristine | Platinum                 | Haz RES @ 80%                      
+HIP 43054                  | AB 4 A      | Metallic  | Pristine | Platinum                 | Haz RES @ 80%                      
+Koboga                     | 2 A         | Metallic  | Pristine | Platinum                 | Haz RES @ 80%; Regular RES @ 80%   
+HIP 4005                   | 5 A         | Metallic  | Pristine | Platinum                 | Haz RES @ 80%; Regular RES @ center
+HIP 35185                  | A 3 A       | Metallic  | Pristine | Platinum                 | Haz RES @ 85%                      
+HR 8671                    | 1 A         | Metallic  | Pristine | Platinum                 | Haz RES @ 90%                      
+HIP 61632                  | 3 A         | Metallic  | Pristine | Platinum                 | Haz RES @ 90%; Regular RES @ 60%   
+HIP 28122                  | ABC 1 A     | Metallic  | Pristine | Platinum                 | Haz RES on hotspot edge            
+HR 6421                    | 4 A         | Metallic  | Pristine | Platinum                 | 2x Haz RES @ 50%                   
+G Scorpii                  | B 4 A       | Metallic  | Pristine | Platinum                 | High RES @ 80%                     
+Delkar                     | 7 A         | Metallic  | Pristine | Platinum                 | High RES @ 20%                     
+HIP 113894                 | A 3 A       | Metallic  | Pristine | Platinum                 | 2x High RES @ 50% and 75%          
+14 i Orionis               | 1 A         | Metallic  | Pristine | Platinum                 | High RES @ 500 km                  
+Gurus                      | CD 4 A      | Metallic  | Pristine | Platinum                 | High RES @ 55%                     
+HIP 62118                  | A 2 A       | Metallic  | Pristine | Platinum                 | High RES @ 60%                     
+Palliyan                   | 2 A         | Metallic  | Pristine | Platinum                 | High RES @ 65%                     
+58 Epsilon Herculis        | 3 A         | Metallic  | Pristine | Platinum                 | High RES @ 70%                     
+Atins                      | 2 A         | Metallic  | Pristine | Platinum                 | High RES @ 70%                     
+HIP 111173                 | CD 7 A      | Metallic  | Pristine | Platinum                 | High RES @ 75%                     
+HIP 115505                 | 6 A         | Metallic  | Pristine | Platinum                 | High RES @ 75%                     
+HIP 49285                  | C 4 A       | Metallic  | Pristine | Platinum                 | High RES @ 75%                     
+Wolf 1458                  | 3 A         | Metallic  | Pristine | Platinum                 | High RES @ 75%; Haz RES @ 85%      
+Pleiades Sector KC-V c2-4  | 6 A         | Metallic  | Pristine | Platinum                 | High RES on hotspot edge           
+14 i Orionis               | 7 A         | Metallic  | Pristine | Platinum                 | High RES @ 75%                     
+HIP 14134                  | 2 A         | Metallic  | Pristine | Platinum                 | High RES on hotspot edge           
+60 Herculis                | 3 A         | Metallic  | Pristine | Platinum                 | High RES; Regular RES at periphery 
+Lemayak                    | 1 A         | Metallic  | Pristine | Platinum                 | Regular RES @ 25%                  
+Maidareldi                 | 1 A         | Metallic  | Pristine | Platinum                 | Regular RES @ 70%                  
+Bhagui                     | 3 A         | Metallic  | Pristine | Platinum                 | Regular RES @ 75%                  
+71 Omicron Geminorum       | 6 A         | Metallic  | Pristine | Platinum                 | Regular RES @ 80%                  
+HIP 49846                  | 3 A         | Metallic  | Pristine | Platinum                 | Regular RES @ 85%                  
+HR 6489                    | 4 A         | Metallic  | Pristine | Platinum                 | Regular RES @ 85%                  
+20 Ophiuchi                | 6 A         | Metallic  | Pristine | Platinum                 | Low RES @ center                   
+HR 1385                    | 10 A        | Metallic  | Pristine | Platinum                 | Low RES @ 50%                      
+HIP 7245                   | 4 A         | Metallic  | Pristine | Platinum                 | Low RES @ 80%                      
+HR 5473                    | B 1 A       | Metallic  | Pristine | Platinum                 | Low RES @ 90%                      
+HIP 21991                  | 2 A         | Metallic  | —        | Painite                  | High RES @ 10%                     
+HIP 35219                  | 2 A         | Metallic  | —        | Painite                  | Haz RES @ 50%                      
+HR 1013                    | 2 A         | Metallic  | —        | Painite                  | Haz RES @ 20%                      
+Visto                      | A 3 A       | Metallic  | —        | Painite                  | Haz RES @ 30%                      
+HR 1385                    | 10 A        | Metallic  | —        | Painite                  | High RES @ 65%                     
+Irusan                     | 2 A         | Metallic  | —        | Painite                  | High RES @ 20%                     
+HIP 60953                  | ABC 8 A     | Metallic  | —        | Painite                  | Haz RES @ 75%                      
+HIP 52780                  | 3 A         | Metallic  | —        | Painite                  | High RES @ 75%                     
+Omicron Ursae Majoris      | 3 A         | Metallic  | —        | Painite                  | High RES @ 60%                     
+HIP 14922                  | 3 A         | Metallic  | —        | Painite                  | Haz RES @ 65%                      
+HIP 105408                 | 2 A         | Metallic  | —        | Painite                  | High RES @ 40%                     
+Hun Nik                    | 4 A         | Metallic  | —        | Painite                  | Haz RES @ 60%                      
+38 Lyncis                  | 4 A         | Metallic  | —        | Painite                  | Haz RES @ 70%                      
+Basika                     | A 6 A       | Metallic  | —        | Painite                  | Haz RES @ 50%; High RES @ 70%      
+Palliyan                   | 2 A         | Metallic  | —        | Painite                  | Haz RES @ 95%+; Low RES @ 20%      
+Dubbuennel                 | 3 A         | Metallic  | —        | Platinum                 | Haz RES @ 73%                      
+Los                        | A 2 A       | Icy       | —        | Tritium                  | Haz RES @ 30%                      
+Misthaka                   | AB 5 B      | Icy       | —        | Bromellite               | Haz RES @ 28%                      
+Feige 22                   | 2 A         | Icy       | —        | Bromellite               | Haz RES @ 37%                      
+Wolf 406                   | 4 A         | Icy       | —        | Bromellite               | Haz RES @ 66%                      
+Namnetes                   | 5 B         | Icy       | —        | Low Temperature Diamonds | Haz RES @ 32%                      
+Latjal                     | 6 B         | Icy       | —        | Low Temperature Diamonds | Haz RES @ 50%                      
+Clionometes                | 8 B         | Icy       | —        | Low Temperature Diamonds | High RES @ 50%                     
+Bhotho                     | AB 4 A      | Icy       | —        | Tritium                  | Haz RES @ 15%                      
+Ngbato                     | 9 A         | Icy       | —        | Tritium                  | Haz RES @ 30%                      
+HIP 13179                  | 9 B         | Icy       | —        | Tritium                  | High RES @ 33%                     
+Coeus                      | A 2 B       | Icy       | —        | Bromellite               | Haz RES                            
+Col 285 Sector KM-V d2-106 | 5 A         | Metallic  | Pristine | Platinum                 | 2x Platinum hotspot overlap        
+Omicron Capricorni B       | B 1 A       | Metallic  | Pristine | Platinum                 | 2x Platinum hotspot overlap        
+GCRV 1568                  | AB 1 A      | Metallic  | —        | Painite                  | 2x Painite hotspot overlap         
+Hyades Sector DB-X d1-112  | 2 A         | Metallic  | —        | Painite                  | 2x Painite hotspot overlap         
+HR 8461                    | 6 A         | Metallic  | —        | Painite                  | 2x Painite hotspot overlap         
+Col 285 Sector WP-E c12-17 | 1 A         | Metallic  | —        | Painite                  | Painite hotspot overlap            
+HR 4296                    | 5 A         | Metallic  | —        | Painite                  | Painite hotspot overlap            

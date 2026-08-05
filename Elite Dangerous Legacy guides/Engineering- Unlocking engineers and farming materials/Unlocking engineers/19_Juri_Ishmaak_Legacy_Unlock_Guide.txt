@@ -1,0 +1,78 @@
+ELITE DANGEROUS LEGACY CONSOLE
+JURI ISHMAAK — STANDALONE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+UNLOCK PATH
+===============================================================================
+
+Felicity Farseer → Juri Ishmaak
+
+Referral engineers normally become known after ranking the preceding
+engineer beyond Grade 3 and making some progress toward Grade 4.
+
+Dynamic mission availability, faction states, commodity supplies and
+rare-good allocations must be checked in the separate Legacy galaxy.
+
+===============================================================================
+19. JURI ISHMAAK
+===============================================================================
+
+Location:
+- System: Giryak
+- Base: Pater's Memorial
+
+Discovered from:
+- Felicity Farseer at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Claim more than 50 Federal combat bonds
+
+Unlock donation:
+- Federal combat bonds worth the amount shown in your Engineer panel
+
+Legacy warning:
+The displayed donation has historically appeared as either 100,000 or
+1,000,000 credits under different conditions. Carry at least 1,000,000 credits
+in valid Federal combat bonds and follow the exact amount shown in your
+Legacy Engineer panel.
+
+Best reason to unlock:
+- Grade 5 Sensors
+- Grade 5 Detailed Surface Scanner
+- Grade 5 Mine Launcher
+
+Efficient method:
+1. Find a Legacy system in War or Civil War.
+2. Enter a Conflict Zone.
+3. Use the Communications panel to side with a Federation-aligned faction.
+4. Destroy and claim bonds for more than 50 enemy ships.
+5. Retain enough bonds for Juri's donation.
+
+Procedure:
+[ ] Claim more than 50 qualifying combat bonds.
+[ ] Carry sufficient Federal combat bonds.
+[ ] Travel to Pater's Memorial.
+[ ] Donate the required bonds.
+[ ] Rank Juri beyond Grade 3.
+[ ] Confirm discovery of The Sarge and Colonel Bris Dekker.
+
+-------------------------------------------------------------------------------
+
+
+===============================================================================
+STANDALONE CHECKLIST
+===============================================================================
+
+[ ] Engineer discovered or publicly known
+[ ] Meeting requirement completed
+[ ] Invitation or permit obtained, where required
+[ ] Unlock donation collected
+[ ] Donation delivered to the engineer
+[ ] Engineer ranked high enough for desired blueprints or referrals
+[ ] Desired blueprint pinned
+[ ] Required experimental effects applied in person
+
+===============================================================================
+END OF GUIDE
+===============================================================================

@@ -1,0 +1,69 @@
+ELITE DANGEROUS LEGACY CONSOLE
+TOD "THE BLASTER" MCQUINN — STANDALONE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+UNLOCK PATH
+===============================================================================
+
+Starting engineer
+
+Referral engineers normally become known after ranking the preceding
+engineer beyond Grade 3 and making some progress toward Grade 4.
+
+Dynamic mission availability, faction states, commodity supplies and
+rare-good allocations must be checked in the separate Legacy galaxy.
+
+===============================================================================
+4. TOD "THE BLASTER" McQUINN
+===============================================================================
+
+Location:
+- System: Wolf 397
+- Base: Trophy Camp
+
+How he becomes known:
+- Publicly known starting engineer
+
+Meeting requirement:
+- Earn 15 or more bounty vouchers
+
+Unlock donation:
+- At least 100,000 credits in bounty vouchers
+
+Best reason to unlock:
+- Grade 5 Multi-cannon
+- Grade 5 Rail Gun
+
+Fast method:
+- Hunt wanted ships at a Nav Beacon or Resource Extraction Site.
+- Claim enough separate bounty vouchers to satisfy the count.
+- Retain at least 100,000 credits of vouchers for Trophy Camp.
+
+Procedure:
+[ ] Accumulate more than 15 bounty vouchers.
+[ ] Hold at least 100,000 credits of bounty vouchers.
+[ ] Travel to Trophy Camp.
+[ ] Redeem the required vouchers through the engineer unlock.
+[ ] Rank Tod beyond Grade 3.
+[ ] Confirm discovery of Selene Jean.
+
+-------------------------------------------------------------------------------
+
+
+===============================================================================
+STANDALONE CHECKLIST
+===============================================================================
+
+[ ] Engineer discovered or publicly known
+[ ] Meeting requirement completed
+[ ] Invitation or permit obtained, where required
+[ ] Unlock donation collected
+[ ] Donation delivered to the engineer
+[ ] Engineer ranked high enough for desired blueprints or referrals
+[ ] Desired blueprint pinned
+[ ] Required experimental effects applied in person
+
+===============================================================================
+END OF GUIDE
+===============================================================================

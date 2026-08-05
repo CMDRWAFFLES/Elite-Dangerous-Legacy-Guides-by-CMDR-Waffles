@@ -1,0 +1,270 @@
+ELITE DANGEROUS LEGACY CONSOLE
+MOST EFFICIENT COMPLETE ENGINEERING-MATERIAL ROUTINE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+PURPOSE
+===============================================================================
+
+This route minimizes cross-category trading while avoiding inefficient RNG
+hunts.
+
+It is strictly for Xbox/PlayStation Legacy Horizons 3.8.
+
+===============================================================================
+1. ENCODED DATA
+===============================================================================
+
+MAIN UNIVERSAL FARM:
+
+JAMESON CRASH SITE
+
+LOCATION:
+
+System:      HIP 12099
+Body:        1 B
+Coordinates: −54.3667, −50.3631
+
+-------------------------------------------------------------------------------
+FARMING PROCEDURE
+-------------------------------------------------------------------------------
+
+1. Scan the four comms beacons with the SRV Data Link Scanner.
+2. Return to the main menu.
+3. Reload.
+4. Repeat.
+
+
+TIP:
+
+You can park your SRV inbetween each of the four comms so you dont have to move
+at all, just go into turret mode, rotate and scan each, go to main menu and go
+back in and repeat.
+
+-------------------------------------------------------------------------------
+MATERIALS RECEIVED
+-------------------------------------------------------------------------------
+
+MATERIAL                       GRADE   CATEGORY
+-----------------------------  ------  -------------------
+Modified Consumer Firmware     G2      Encoded Firmware
+
+Cracked Industrial Firmware    G3      Encoded Firmware
+
+Atypical Encryption Archives   G4      Encryption Files
+
+Adaptive Encryptors Capture    G5      Encryption Files
+
+
+This is the fastest general encoded-data farm because the four stationary
+beacons can be scanned every relog.
+
+You can farm for the other Encoded data directly but the best laziest way to
+get them is just to go to a material trader - encoded and trade the G4 and G5
+to the other G4 and G5 encoded data, then just going back to Jameson Crash Site
+and repeat.
+
+===============================================================================
+2. RAW MATERIALS
+===============================================================================
+
+Raw materials top out at Grade 4.
+
+Legacy’s concentrated crystalline-shard biological POIs allow six of the seven
+G4 materials to be farmed directly and predictably.
+
+-------------------------------------------------------------------------------
+DIRECT G4 SHARD CIRCUIT
+-------------------------------------------------------------------------------
+
+G4 MATERIAL   LEGACY LOCATION
+------------  ------------------------------------------------------
+Polonium      HIP 36601 C 1 A — Biological sites
+
+Ruthenium     HIP 36601 C 1 D — Biological sites
+
+Tellurium     HIP 36601 C 3 B — Biological sites
+
+Technetium    HIP 36601 C 5 A — Biological sites
+
+Yttrium       Outotz  LS-K d8-3 B 5 A — Biological sites
+
+Antimony      Outotz LS-K d8-3 B 5 C — Biological sites
+
+Selenium      Brain-tree sites, rather than crystalline shards
+
+
+Map each body with the DSS and select Biological, not Geological, signals.
+
+Drive through the shard forest, shoot the Crystalline Clusters and scoop the G4
+drops.
+
+Legacy retains the old discrete biological POIs that disappeared from the
+later 4.0 planet system.
+
+-------------------------------------------------------------------------------
+EFFICIENT RAW ROUTINE
+-------------------------------------------------------------------------------
+
+1. Travel to HIP 36601 and fill Polonium, Ruthenium, Tellurium and Technetium.
+2. Travel to Outotz LS-K d8-3 and fill Yttrium and Antimony.
+3. Farm Selenium at a known brain-tree site.
+4. Trade downward within each column for its corresponding G1–G3 materials.
+
+
+Direct Selenium collection is less clean than the six shard materials.
+
+For maximum speed rather than maximum direct collection, filling the six shard
+materials and cross-trading some of them into Selenium can be reasonable.
+
+===============================================================================
+3. MANUFACTURED MATERIALS
+===============================================================================
+
+The main Legacy manufactured farm is High Grade Emissions.
+
+Unlike Jameson, HGEs are temporary signal sources governed by faction
+allegiance and state.
+
+-------------------------------------------------------------------------------
+DIRECT G5 MANUFACTURED SOURCES
+-------------------------------------------------------------------------------
+
+G5 MATERIAL                    LEGACY SOURCE
+-----------------------------  --------------------------------
+Imperial Shielding             Empire-aligned HGE
+
+Core Dynamics Composites       Federation-aligned HGE
+
+Proto Heat Radiators           Boom HGE
+
+Proto Radiolic Alloys          Boom HGE
+
+Military Grade Alloys          War or Civil War HGE
+
+Military Supercapacitors       War or Civil War HGE
+
+Pharmaceutical Isolators       Outbreak HGE
+
+Improvised Components          Civil Unrest HGE
+
+Biotech Conductors             Mission rewards
+
+Exquisite Focus Crystals       Mission rewards
+
+
+The signal’s associated faction matters—not merely the system’s headline state.
+
+Scan the Navigation Beacon or use the FSS, then inspect each HGE’s faction and
+timer.
+
+-------------------------------------------------------------------------------
+EFFICIENT MANUFACTURED ROUTINE
+-------------------------------------------------------------------------------
+
+1. Farm Imperial Shielding whenever possible; it is generally the cleanest
+   universal manufactured donor.
+
+2. Farm Core Dynamics Composites in Federation space.
+
+3. Collect the two Boom materials whenever useful Boom HGEs appear.
+
+4. Directly hunt War, Civil War, Outbreak and Civil Unrest HGEs when those
+   Legacy states are available.
+
+5. Select Biotech Conductors and Exquisite Focus Crystals from mission rewards;
+   Robigo passenger missions can offer both.
+
+6. Cross-trade Imperial Shielding for particularly troublesome materials when
+   searching for the required state takes longer than another Imperial
+   Shielding run.
+
+
+Dav’s Hope is useful for broad stocks of mid-grade manufactured materials, but
+it is not competitive with G5 HGEs plus downward trading when maximum
+efficiency is the goal.
+
+The commonly recommended Horizons strategy is therefore to farm high-grade
+sources and use the trader rather than individually searching for every lower
+grade.
+
+===============================================================================
+BEST COMBINED ORDER
+===============================================================================
+
+For a major engineering-stockpile run:
+
+1. Jameson Crash Site:
+   Fill AEC and AEA.
+
+2. Raw shard expedition:
+   Fill the six crystalline-shard G4 bins; gather Selenium or trade for it.
+
+3. Imperial space:
+   Fill Imperial Shielding from HGEs.
+
+4. Federation space:
+   Collect Core Dynamics Composites if needed.
+
+5. State-specific HGEs:
+   Target Boom, War, Outbreak and Civil Unrest only where useful Legacy states
+   currently exist.
+
+6. Robigo Mines:
+   Collect Biotech Conductors, Exquisite Focus Crystals and Modified Embedded
+   Firmware from passenger rewards.
+
+7. Optional Distribution Centre:
+   Directly stock wake data.
+
+8. Finish at the three Material Trader types and trade downward or across only
+   where required.
+
+===============================================================================
+MASTER CHECKLIST
+===============================================================================
+
+ENCODED DATA
+
+[ ] Travel to Jameson Crash Site
+[ ] Park between the four comms beacons
+[ ] Scan all four beacons
+[ ] Relog and repeat
+[ ] Fill Adaptive Encryptors Capture
+[ ] Fill Atypical Encryption Archives
+[ ] Trade into required Encoded materials
+
+RAW MATERIALS
+
+[ ] Fill Polonium
+[ ] Fill Ruthenium
+[ ] Fill Tellurium
+[ ] Fill Technetium
+[ ] Fill Yttrium
+[ ] Fill Antimony
+[ ] Gather or trade for Selenium
+[ ] Trade downward for G1–G3 materials
+
+MANUFACTURED MATERIALS
+
+[ ] Farm Imperial Shielding
+[ ] Farm Core Dynamics Composites if needed
+[ ] Farm Boom HGEs
+[ ] Farm War or Civil War HGEs
+[ ] Farm Outbreak HGEs
+[ ] Farm Civil Unrest HGEs
+[ ] Collect Biotech Conductors from missions
+[ ] Collect Exquisite Focus Crystals from missions
+[ ] Trade Imperial Shielding where required
+
+FINAL TRADING
+
+[ ] Encoded Material Trader visited
+[ ] Raw Material Trader visited
+[ ] Manufactured Material Trader visited
+[ ] Lower grades filled
+[ ] Required cross-category trades completed
+
+===============================================================================
+END OF GUIDE
+===============================================================================

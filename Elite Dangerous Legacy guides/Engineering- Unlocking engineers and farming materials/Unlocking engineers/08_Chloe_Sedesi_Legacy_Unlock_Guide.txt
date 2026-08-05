@@ -1,0 +1,68 @@
+ELITE DANGEROUS LEGACY CONSOLE
+CHLOE SEDESI — STANDALONE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+UNLOCK PATH
+===============================================================================
+
+Elvira Martuuk → Marco Qwent → Chloe Sedesi
+
+Referral engineers normally become known after ranking the preceding
+engineer beyond Grade 3 and making some progress toward Grade 4.
+
+Dynamic mission availability, faction states, commodity supplies and
+rare-good allocations must be checked in the separate Legacy galaxy.
+
+===============================================================================
+8. CHLOE SEDESI
+===============================================================================
+
+Location:
+- System: Shenve
+- Base: Cinder Dock
+
+Discovered from:
+- Marco Qwent at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Travel at least 5,000 LY from your career-start system
+
+Unlock donation:
+- 25 Sensor Fragments
+
+Best reason to unlock:
+- Grade 5 Thrusters
+- Alternative to Professor Palin, particularly for commanders operating near
+  the Witch Head region
+
+Procedure:
+[ ] Confirm the 5,000-LY career-distance requirement.
+[ ] Hold 25 additional Sensor Fragments.
+[ ] Travel to Cinder Dock in Shenve.
+[ ] Donate the fragments.
+[ ] Rank Chloe to Grade 5.
+
+Note:
+Chloe is not located in the central Bubble, but is included in this complete
+non-Colonia Horizons engineer guide.
+
+-------------------------------------------------------------------------------
+
+
+===============================================================================
+STANDALONE CHECKLIST
+===============================================================================
+
+[ ] Engineer discovered or publicly known
+[ ] Meeting requirement completed
+[ ] Invitation or permit obtained, where required
+[ ] Unlock donation collected
+[ ] Donation delivered to the engineer
+[ ] Engineer ranked high enough for desired blueprints or referrals
+[ ] Desired blueprint pinned
+[ ] Required experimental effects applied in person
+
+===============================================================================
+END OF GUIDE
+===============================================================================

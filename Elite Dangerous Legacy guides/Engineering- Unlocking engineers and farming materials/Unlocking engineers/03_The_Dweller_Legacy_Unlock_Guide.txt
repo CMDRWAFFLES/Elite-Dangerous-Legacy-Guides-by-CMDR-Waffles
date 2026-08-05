@@ -1,0 +1,75 @@
+ELITE DANGEROUS LEGACY CONSOLE
+THE DWELLER — STANDALONE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+UNLOCK PATH
+===============================================================================
+
+Starting engineer
+
+Referral engineers normally become known after ranking the preceding
+engineer beyond Grade 3 and making some progress toward Grade 4.
+
+Dynamic mission availability, faction states, commodity supplies and
+rare-good allocations must be checked in the separate Legacy galaxy.
+
+===============================================================================
+3. THE DWELLER
+===============================================================================
+
+Location:
+- System: Wyrd
+- Base: Black Hide
+
+How he becomes known:
+- Publicly known starting engineer
+
+Meeting requirement:
+- Sell goods at five different black markets
+
+Unlock donation:
+- 500,000 credits
+
+Best reason to unlock:
+- Grade 5 Power Distributor
+- Laser engineering up to Grade 4
+
+Fast method:
+1. Obtain at least five units of illegal or stolen cargo.
+2. Find five separate stations that have an active Black Market.
+3. Confirm that your cargo is illegal at each station.
+4. Sell at least one unit at each of the five different Black Markets.
+
+Important:
+- Five sales at one station do not count.
+- A legal commodity will not be accepted by the Black Market merely because
+  the station has one.
+- Black Market availability can vary with the Legacy BGS.
+
+Procedure:
+[ ] Complete sales at five distinct Black Markets.
+[ ] Travel to Black Hide.
+[ ] Pay 500,000 credits.
+[ ] Rank The Dweller beyond Grade 3.
+[ ] Confirm discovery of Lei Cheung.
+
+-------------------------------------------------------------------------------
+
+
+===============================================================================
+STANDALONE CHECKLIST
+===============================================================================
+
+[ ] Engineer discovered or publicly known
+[ ] Meeting requirement completed
+[ ] Invitation or permit obtained, where required
+[ ] Unlock donation collected
+[ ] Donation delivered to the engineer
+[ ] Engineer ranked high enough for desired blueprints or referrals
+[ ] Desired blueprint pinned
+[ ] Required experimental effects applied in person
+
+===============================================================================
+END OF GUIDE
+===============================================================================

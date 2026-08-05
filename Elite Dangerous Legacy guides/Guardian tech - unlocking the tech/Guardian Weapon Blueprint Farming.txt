@@ -1,0 +1,128 @@
+ELITE DANGEROUS LEGACY CONSOLE
+GUARDIAN WEAPON BLUEPRINT FARMING
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+PURPOSE
+===============================================================================
+
+Guardian Weapon Blueprint Fragments unlock standard Legacy Guardian weapons,
+including variants of:
+
+[ ] Guardian Gauss Cannon
+[ ] Guardian Shard Cannon
+[ ] Guardian Plasma Charger
+
+Each class and mounting variant listed by the normal Guardian Technology Broker
+is a separate unlock and normally requires one Weapon Blueprint Fragment.
+
+Modified Guardian weapons associated with later Live-PC content are not part of
+this Legacy guide.
+
+===============================================================================
+RECOMMENDED LOCATION
+===============================================================================
+
+System:             Synuefe EU-Q c21-10
+Body:               A 3
+Site type:          Guardian Structure
+Layout:             Bear
+Legacy coordinates: approximately −23.2718, +126.3758
+
+Map A 3 with the Detailed Surface Scanner and target the Guardian Structure.
+
+The Bear layout has three obvious corner legs, with the fourth corner
+comparatively open.
+
+===============================================================================
+BRING
+===============================================================================
+
+[ ] An SRV
+[ ] Detailed Surface Scanner
+[ ] Fuel scoop
+[ ] Small or medium ship
+[ ] Upper-mounted Point Defence
+[ ] SRV repair, ammunition and refuel synthesis materials
+[ ] Night vision
+[ ] Two-SRV hangar recommended
+
+No ship-mounted weapon or cargo rack is required for a Weapon Blueprint puzzle.
+
+===============================================================================
+BLUEPRINT PROCEDURE
+===============================================================================
+
+1. Land near the edge of the structure.
+2. Deploy the SRV.
+3. Drive around the outer legs and destroy the Sentinels before starting the
+   timer.
+4. Shoot one of the glowing relic towers.
+5. Scoop one Ancient Relic.
+6. Locate the Ancient Data Terminal at the head of the Bear layout.
+7. Drive near each of the six pylon positions so they rise.
+8. Shoot the glowing section of every pylon until fully charged.
+9. Return to the activation pad in front of the terminal.
+10. Park over the illuminated triangle.
+11. Jettison the Ancient Relic from the SRV Inventory.
+12. Target the raised terminal orb.
+13. Scan it with the SRV Data Link Scanner.
+
+
+You receive one Guardian Weapon Blueprint Fragment per completed puzzle.
+
+===============================================================================
+FARMING ADDITIONAL FRAGMENTS
+===============================================================================
+
+Return to the main menu, reload in Solo and repeat the puzzle.
+
+The Weapon site is generally easier than the Turtle Module site because it has
+fewer Sentinel encounters and a comparatively straightforward layout.
+
+One blueprint is required for each separate weapon unlock, so commanders
+intending to unlock several sizes or mounting types should repeat the site
+multiple times.
+
+Destroy the Sentinels and scoop their drops while farming.
+
+Guardian Sentinel Weapon Parts are needed for some weapon and fighter broker
+unlocks.
+
+===============================================================================
+QUICK CHECKLIST
+===============================================================================
+
+PREPARATION
+
+[ ] Synuefe EU-Q c21-10 reached
+[ ] Body A 3 mapped
+[ ] Guardian Structure targeted
+[ ] SRV aboard
+[ ] Upper-mounted Point Defence fitted
+[ ] SRV synthesis materials stocked
+[ ] Night vision available
+
+PUZZLE
+
+[ ] Sentinels destroyed
+[ ] Ancient Relic collected
+[ ] Ancient Data Terminal located
+[ ] All six pylons raised
+[ ] All six pylons fully charged
+[ ] Ancient Relic jettisoned on the illuminated triangle
+[ ] Terminal orb targeted
+[ ] Orb scanned with the SRV Data Link Scanner
+[ ] Guardian Weapon Blueprint Fragment received
+
+ADDITIONAL FARMING
+
+[ ] Returned to the main menu
+[ ] Reloaded in Solo
+[ ] Puzzle repeated as required
+[ ] Sentinel drops collected
+[ ] Guardian Sentinel Weapon Parts collected
+
+===============================================================================
+END OF GUIDE
+===============================================================================

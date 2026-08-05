@@ -1,0 +1,68 @@
+ACTIVE THARGOID SURFACE STRUCTURES
+==================================
+
+System Name              | Planetary Body | Horizons Coordinates (Lat, Long)
+-------------------------+----------------+---------------------------------
+Mel 22 Sector NX-U d2-31 | 3 A            | -51.7229, -110.0287             
+Mel 22 Sector UE-G b11-0 | A 2            | -33.2026, 141.7225              
+Mel 22 Sector BV-P c5-2  | 1 A            | -21.9701, -113.2261             
+Mel 22 Sector TT-R c4-2  | 3 A            | -27.3214, 63.0988               
+
+
+INACTIVE THARGOID SURFACE STRUCTURES
+====================================
+
+System Name                  | Planetary Body | Horizons Coordinates (Lat, Long)
+-----------------------------+----------------+---------------------------------
+HIP 19026                    | B 1 C          | -17.9575, -152.6994             
+Pleiades Sector OS-U c2-7    | 4 A            | 58.4244, -177.0446              
+Aries Dark Region DB-X d1-63 | A 7 A          | 25.5553, 78.1765                
+Col 285 Sector CV-Y d57      | AB 4 A         | 4.7654, 136.2398                
+HIP 14909                    | 2 A            | -26.4561, -27.4742              
+Mel 22 Sector ZU-P c5-1      | 4 A            | -63.5266, 8.0136                
+
+
+ADDITIONAL CONSOLE-LEGACY MATERIAL SITE
+=======================================
+
+System Name | Planetary Body | Horizons Coordinates (Lat, Long) |  Material
+------------+----------------+----------------------------------+------------------
+Delphi      | 5 A            | -36.5491, -143.6091              | Meta-Alloys      
+
+
+FARMABLE MATERIALS / DATA
+=========================
+
+ALL ACTIVE + INACTIVE STRUCTURES LISTED ABOVE
+
+  THARGOID SCAVENGERS — RESPAWNING / FARMABLE
+    Thargoid Carapace
+    Thargoid Energy Cell
+    Sensor Fragment
+    Thargoid Organic Circuitry
+    Thargoid Technology Components
+    Thargoid Ship Signature
+    Thargoid Wake Data
+
+  ORGANIC STRUCTURES
+    Meta-Alloys
+    Sulphur
+    Iron
+    Phosphorus
+    Carbon
+    Manganese
+    Germanium
+    Antimony
+
+  THARGOID UPLINK DEVICES — SCANNABLE DATA
+    Thargoid Material Composition Data
+    Thargoid Residue Data Analysis
+    Thargoid Structural Data
+
+    Quick relog farm: NOT VERIFIED
+
+
+
+DELPHI | 5 A | -36.5491, -143.6091
+  Meta-Alloys
+    Source: destructible organic/barnacle structures around the Thargoid site

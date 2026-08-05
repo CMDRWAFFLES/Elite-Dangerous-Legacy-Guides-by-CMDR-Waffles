@@ -1,0 +1,27 @@
+GUARDIAN TECHNOLOGY BROKERS
+===========================
+
+System Name         | Station            | Broker Type                | Distance from Sol (ly) |                      
+--------------------+--------------------+----------------------------+------------------------+
+EZ Aquarii          | Magnus Gateway     | Guardian                   | 11.10                  |         
+LHS 20              | Ohm City           | Guardian                   | 50.36                  |                                 
+Mbooni              | Prospect's Deep    | Guardian — Special/Azimuth | 51.61                  |                                
+Shinrarta Dezhra    | Jameson Memorial   | Guardian                   | 64.43                  |                           
+LHS 3885            | Alvarado Ring      | Guardian                   | 26.80                  | 
+Diaguandri          | Ray Gateway        | Guardian                   | 127.32                 |            
+HIP 22961           | Saberhagen Orbital | Guardian                   | 127.42                 |                 
+Brestla             | i Sola Prospect    | Guardian                   | 191.26                 |                
+Synuefe EN-H d11-96 | The Prospect       | Guardian                   | 783.98                 |                    
+Colonia             | Jaques Station     | Guardian                   | 22000.47               |                                  
+
+
+HUMAN TECHNOLOGY BROKERS
+========================
+
+System Name    | Station                 | Broker Type | Distance from Sol (ly) |
+---------------+-------------------------+-------------+------------------------+
+WISE 1506+7027 | Dobrovolskiy Enterprise | Human       | 10.52                  |          
+LTT 3290       | Grissom Dock            | Human       | 101.57                 |          
+Chemaluk       | Virts Dock              | Human       | 111.49                 |            
+Chakyum        | Lyell Port              | Human       | 134.36                 |          
+Krinda         | Xiaoguan Station        | Human       | 159.38                 |    

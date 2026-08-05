@@ -1,0 +1,145 @@
+Guardian Frame Shift Drive Booster Unlock
+Dedicated Legacy Xbox and PlayStation guide
+
+****************************************************************
+
+What the module does
+
+The Guardian Frame Shift Drive Booster is an optional internal module that adds a fixed amount of jump range. It is not a replacement Frame Shift Drive.
+
+Unlocking it once permanently allows you to purchase all available Booster sizes from stations that stock Guardian technology. The unlock does not give you a free module; each Booster must still be purchased and fitted through Outfitting.
+
+****************************************************************
+
+Complete Legacy unlock requirements
+Requirement	                        Amount
+Guardian Module Blueprint Fragment	1
+Guardian Power Cell	                21
+Guardian Technology Component    	21
+Focus Crystals	                        24
+HN Shock Mounts	                        8 tonnes
+
+These are the normal pre-Update 14 Guardian Technology Broker requirements used in Legacy Horizons.
+
+****************************************************************
+
+Before travelling
+
+Fit:
+
+Detailed Surface Scanner
+SRV hangar
+Upper-mounted Point Defence
+Fuel scoop
+Small shield
+Good jump range
+SRV synthesis materials
+
+You do not need to carry the HN Shock Mounts to Guardian space. It is normally easier to purchase them after returning to the Bubble, immediately before visiting the Technology Broker.
+
+Step 1: Obtain the Module Blueprint
+
+Travel to:
+
+Synuefe NL-N c23-4 — B 3
+Guardian Structure — Turtle layout
+Legacy coordinates: −34.8383, +132.8863
+
+At the site:
+
+1. Scoop an Ancient Relic.
+2. Raise and charge all six pylons.
+3. Jettison the relic on the activation pad.
+4. Scan the raised terminal orb with the SRV Data Link Scanner.
+
+This awards the required one Guardian Module Blueprint Fragment.
+
+****************************************************************
+
+Step 2: Collect Guardian Power Cells and Technology Components
+
+Shoot the targetable destructible panels around the Guardian structure. Scoop every material released.
+
+You need:
+
+21 Guardian Power Cells
+21 Guardian Technology Components
+
+Each material pickup adds three units to storage, so you need at least seven successful drops of each material. Power Cells are common; Technology Components are usually the slower requirement.
+
+When the useful panels are exhausted:
+
+1. Return to the main menu.
+2. Reload in Solo.
+3. Revisit the panel locations.
+4. Repeat until both requirements are complete.
+
+You do not need to solve the blueprint puzzle again unless you want Module Blueprint Fragments for other Guardian modules.
+
+****************************************************************
+
+Step 3: Obtain Focus Crystals
+
+You need 24 Focus Crystals, equivalent to eight normal three-unit material pickups.
+
+The efficient options are:
+
+Use Focus Crystals already collected from combat or signal sources.
+Trade higher-grade manufactured materials downward at a Manufactured Material Trader.
+Collect them from manufactured-material surface sites such as Dav’s Hope.
+
+Because Focus Crystals are ordinary manufactured materials, they do not require another Guardian-site puzzle.
+
+****************************************************************
+
+Step 4: Purchase HN Shock Mounts
+
+Purchase eight tonnes of HN Shock Mounts from a commodity market and place them in the ship’s cargo hold.
+
+The commodities must physically be aboard your current ship when using the Technology Broker. You therefore need at least eight tonnes of cargo capacity for the final hand-in.
+
+****************************************************************
+
+Step 5: Visit a Guardian Technology Broker
+
+Land at a station with a Guardian Technology Broker.
+
+Open:
+
+Starport Services → Contacts → Technology Broker
+
+Select the Guardian Frame Shift Drive Booster and submit:
+
+One Module Blueprint Fragment
+21 Guardian Power Cells
+21 Guardian Technology Components
+24 Focus Crystals
+Eight HN Shock Mounts
+
+The broker permanently unlocks the Booster for purchase.
+
+****************************************************************
+
+Step 6: Purchase and fit the Booster
+
+Open Outfitting and look under optional internal modules for the Guardian Frame Shift Drive Booster.
+
+The module is available in Classes 1 through 5. Larger classes provide a larger fixed jump-range increase but consume a larger internal compartment and more power.
+
+The FSD Booster cannot be engineered and does not receive experimental effects. It works alongside an engineered conventional Frame Shift Drive.
+
+****************************************************************
+
+Minimum trip checklist
+
+Before leaving the Guardian structure, verify that you have:
+
+1 Guardian Module Blueprint Fragment
+21 Guardian Power Cells
+21 Guardian Technology Components
+
+Before visiting the broker, verify that you additionally have:
+
+24 Focus Crystals
+8 tonnes of HN Shock Mounts
+Cargo space carrying those HN Shock Mounts

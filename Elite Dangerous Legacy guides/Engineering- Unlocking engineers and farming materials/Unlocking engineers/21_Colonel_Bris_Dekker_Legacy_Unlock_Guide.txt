@@ -1,0 +1,68 @@
+ELITE DANGEROUS LEGACY CONSOLE
+COLONEL BRIS DEKKER — STANDALONE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+UNLOCK PATH
+===============================================================================
+
+Felicity Farseer → Juri Ishmaak → Colonel Bris Dekker
+
+Referral engineers normally become known after ranking the preceding
+engineer beyond Grade 3 and making some progress toward Grade 4.
+
+Dynamic mission availability, faction states, commodity supplies and
+rare-good allocations must be checked in the separate Legacy galaxy.
+
+===============================================================================
+21. COLONEL BRIS DEKKER
+===============================================================================
+
+Location:
+- System: Sol — permit required
+- Base: Dekker's Yard
+
+Discovered from:
+- Juri Ishmaak at approximately Grade 3 to Grade 4
+
+Meeting requirements:
+- Friendly with the Federation
+- Federal Navy rank Petty Officer for the Sol permit
+
+Unlock donation:
+- Federal combat bonds worth the amount shown in your Engineer panel
+
+Legacy warning:
+The displayed donation has historically appeared as either 1,000,000 or
+10,000,000 credits under different conditions. Retain enough valid Federal
+combat bonds to meet the exact amount displayed in your Legacy Engineer panel.
+
+Best reason to unlock:
+- Grade 4 Frame Shift Drive Interdictor
+- Grade 3 Frame Shift Drive
+
+Procedure:
+[ ] Become Friendly with the Federation.
+[ ] Reach Federal Navy rank Petty Officer.
+[ ] Confirm that the Sol permit has been awarded.
+[ ] Earn and retain the required value of Federal combat bonds.
+[ ] Travel to Dekker's Yard in Sol.
+[ ] Donate the bonds.
+[ ] Rank Bris Dekker as desired.
+
+===============================================================================
+STANDALONE CHECKLIST
+===============================================================================
+
+[ ] Engineer discovered or publicly known
+[ ] Meeting requirement completed
+[ ] Invitation or permit obtained, where required
+[ ] Unlock donation collected
+[ ] Donation delivered to the engineer
+[ ] Engineer ranked high enough for desired blueprints or referrals
+[ ] Desired blueprint pinned
+[ ] Required experimental effects applied in person
+
+===============================================================================
+END OF GUIDE
+===============================================================================

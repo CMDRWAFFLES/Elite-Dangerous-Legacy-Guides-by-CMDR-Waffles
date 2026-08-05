@@ -1,0 +1,23 @@
+System Name | Planetary Body | Coordinates (Lat, Long) | Site Type       
+------------+----------------+-------------------------+-----------------
+Orrere      | 2 B            | 43.812, -173.972        | Crashed Anaconda
+Koli Discii | C 6 A          | 28.577, 7.219           | Crashed Anaconda
+
+FARMABLE MATERIALS
+==================
+
+Orrere | 2 B
+  Antimony
+  Ruthenium
+  Tellurium
+  Tungsten
+  Zirconium
+  Reset: relog
+
+Koli Discii | C 6 A
+  Antimony
+  Ruthenium
+  Tellurium
+  Tungsten
+  Zirconium
+  Reset: relog

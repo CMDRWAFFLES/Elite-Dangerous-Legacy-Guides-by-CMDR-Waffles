@@ -1,0 +1,1296 @@
+ELITE DANGEROUS LEGACY CONSOLE
+COMPLETE BUBBLE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+SCOPE
+===============================================================================
+
+This guide covers all 21 non-Colonia ship engineers available in Elite
+Dangerous Legacy on Xbox and PlayStation.
+
+Included:
+- The five starting engineers
+- Every engineer reached through their referral chains
+- Professor Palin and Chloe Sedesi
+- Permit-locked engineers in Sirius, Alioth, Sol, Achenar and Shinrarta Dezhra
+
+Excluded:
+- Odyssey suit and handheld-weapon engineers
+- Colonia engineers
+- Live-PC-only mechanics and later engineering additions
+
+Chloe Sedesi is outside the central Bubble in the Witch Head area, but she is
+included because she is a Horizons ship engineer and is not a Colonia engineer.
+
+===============================================================================
+THE ENGINEER TREE
+===============================================================================
+
+STARTING ENGINEERS
+
+Felicity Farseer
+└── Juri Ishmaak
+    ├── The Sarge
+    └── Colonel Bris Dekker
+
+Elvira Martuuk
+├── Zacariah Nemo
+└── Marco Qwent
+    ├── Professor Palin
+    ├── Chloe Sedesi
+    └── Lori Jameson
+
+The Dweller
+└── Lei Cheung
+    └── Ram Tah
+
+Tod "The Blaster" McQuinn
+└── Selene Jean
+    ├── Bill Turner
+    └── Didi Vatermann
+
+Liz Ryder
+└── Hera Tani
+    ├── Broo Tarquin
+    └── Tiana Fortune
+
+===============================================================================
+IMPORTANT ENGINEERING RULES
+===============================================================================
+
+1. REFERRAL PROGRESS
+
+Most referral engineers become known when the preceding engineer reaches
+approximately Grade 3 plus one-third of the progress toward Grade 4.
+
+For simplicity, take each engineer to Grade 4 or to their maximum grade before
+moving on. This ensures the referrals trigger and makes future engineering more
+material-efficient.
+
+2. RANKING AN ENGINEER
+
+Engineer reputation is increased by performing modifications in person at the
+engineer's workshop. Some engineers also accept exploration data or another
+activity at their base.
+
+Remote Workshop modifications do not increase reputation with the engineer.
+
+3. EXPERIMENTAL EFFECTS
+
+Experimental effects must be applied in person at an engineer who handles that
+type of module. A pinned blueprint lets you perform ordinary engineering
+remotely, but not apply an experimental effect.
+
+4. TRIGGER DELAYS
+
+If a referral, invitation or permit does not appear after meeting the
+requirements:
+
+- Return to the main menu and reload.
+- Check the Engineer section of the right-hand panel.
+- Check the mission board at a station controlled by the required faction.
+- Confirm that the preceding engineer is beyond Grade 3.
+- Confirm that you are playing Legacy rather than using Live-galaxy information.
+
+5. LEGACY BGS AND MARKETS
+
+Legacy has a separate Background Simulation from Live PC. Faction states,
+station services, commodity supplies and mission boards can differ.
+
+Use the in-game Legacy Galaxy Map, System Map and station services for current
+conditions. Current Live-only database listings are not reliable for dynamic
+Legacy information.
+
+===============================================================================
+RECOMMENDED SHIPS AND PREPARATION
+===============================================================================
+
+A. GENERAL TRAVEL / CARGO SHIP
+
+Recommended:
+- Asp Explorer
+- Krait Phantom
+- Python
+- Anaconda
+- Any ship with good jump range and at least 50 tonnes of cargo space
+
+Useful equipment:
+- Fuel scoop
+- Detailed Surface Scanner
+- SRV hangar
+- Cargo racks
+- Collector limpet controller
+- Small shield
+- Engineered Frame Shift Drive as early as possible
+
+A Python is particularly convenient because it can carry large amounts of
+unlock cargo and still land at outposts.
+
+B. COMBAT SHIP
+
+Required for:
+- Bounty vouchers
+- Combat bonds
+- Combat-rank gates
+- Federal and Imperial rank missions when combat variants appear
+
+C. MINING SHIP
+
+Required for:
+- Mining and refining 500 tonnes for Selene Jean
+- Ten tonnes of mined Painite
+- Fifty tonnes of Bromellite for Bill Turner
+
+Recommended equipment:
+- Mining lasers
+- A-rated Prospector Limpet Controller
+- Collector Limpet Controller
+- Refinery
+- Detailed Surface Scanner
+- Cargo racks
+- Limpets
+
+===============================================================================
+START THESE LONG-TERM REQUIREMENTS IMMEDIATELY
+===============================================================================
+
+[ ] TRADE AT 50 DIFFERENT COMMODITY MARKETS
+
+Lei Cheung requires transactions at more than 50 separate markets.
+
+At every new station:
+1. Buy at least one tonne of an ordinary commodity.
+2. Sell it at another station.
+3. Continue using new markets until the requirement completes.
+
+The requirement counts distinct commodity markets, not fifty transactions at
+the same market.
+
+[ ] SAVE MODULAR TERMINALS
+
+Marco Qwent requires 25 tonnes of Modular Terminals.
+
+Modular Terminals are mission-reward commodities. Check mission reward choices
+and store them in your ship until you have 25. They occupy cargo space and may
+attract pirates.
+
+[ ] PLAN A 5,000-LY EXPEDITION
+
+Professor Palin and Chloe Sedesi both require a maximum distance of at least
+5,000 light years from the system where your commander began their career.
+
+Before leaving:
+- Fit a fuel scoop and Detailed Surface Scanner.
+- Collect enough Sensor Fragments for both engineers if possible.
+- Make sure the journey exceeds 5,000 LY from your career-start system, not
+  merely 5,000 LY from your current position.
+
+Scan systems during the trip. The exploration data can be used to gain
+reputation with Sirius Corporation, Alioth Independents and Eurybia Blue Mafia,
+and can rank engineers who accept exploration data.
+
+[ ] WORK ON SUPERPOWER RANK
+
+Federal requirements:
+- Midshipman for The Sarge
+- Petty Officer for the Sol permit needed by Colonel Bris Dekker
+- Friendly overall Federation reputation for Bris Dekker
+
+Imperial requirements:
+- Outsider for Hera Tani
+- Squire for the Achenar permit needed by Tiana Fortune
+- Friendly overall Empire reputation for Tiana Fortune
+
+[ ] BEGIN MINING PROGRESS
+
+Selene Jean counts all ore that you personally mine and refine.
+
+While completing the 500-tonne requirement, retain:
+- 10 tonnes of Painite for Selene Jean
+- 50 tonnes of Bromellite for Bill Turner
+
+Do not sell or discard those quantities before making the donations.
+
+===============================================================================
+OPTIMIZED COMPLETE PROGRESSION ORDER
+===============================================================================
+
+The order below unlocks useful core engineering early and combines tasks where
+possible. Some independent branches may be completed in a different order.
+
+-------------------------------------------------------------------------------
+PHASE 1 — OPEN THE FIVE STARTING ENGINEERS
+-------------------------------------------------------------------------------
+
+===============================================================================
+1. FELICITY FARSEER
+===============================================================================
+
+Location:
+- System: Deciat
+- Base: Farseer Inc
+
+How she becomes known:
+- Publicly known starting engineer
+
+Meeting requirement:
+- Exploration rank Scout or higher
+
+Unlock donation:
+- 1 Meta-Alloy
+
+Reliable Legacy source:
+- Darnielle's Progress in Maia normally sells Meta-Alloys.
+- Carry at least one tonne of cargo space.
+
+Best reason to unlock:
+- Grade 5 Frame Shift Drive
+- Grade 3 Thrusters
+- Grade 3 Sensors and Detailed Surface Scanner
+
+Procedure:
+[ ] Reach Scout exploration rank.
+[ ] Acquire one Meta-Alloy.
+[ ] Travel to Farseer Inc in Deciat.
+[ ] Donate the Meta-Alloy.
+[ ] Engineer a Frame Shift Drive and rank Felicity to at least Grade 3 plus
+    progress toward Grade 4.
+[ ] Confirm that Juri Ishmaak has been discovered.
+
+Efficiency note:
+A Grade 5 Increased Range FSD makes every later unlock substantially faster.
+Deciat is a well-known player-traffic system; Solo is the safest mode.
+
+-------------------------------------------------------------------------------
+
+===============================================================================
+2. ELVIRA MARTUUK
+===============================================================================
+
+Location:
+- System: Khun
+- Base: Long Sight Base
+
+How she becomes known:
+- Publicly known starting engineer
+
+Meeting requirement:
+- Travel at least 300 LY from your career-start system
+
+Unlock donation:
+- 3 Soontill Relics
+
+Rare-good source:
+- System: Ngurii
+- Station: Cheranovsky City
+
+Best reason to unlock:
+- Grade 5 Frame Shift Drive
+- Grade 3 Shield Generator
+
+Procedure:
+[ ] Travel at least 300 LY from your starting system.
+[ ] Buy three Soontill Relics at Cheranovsky City.
+[ ] Travel to Long Sight Base.
+[ ] Donate all three relics.
+[ ] Rank Elvira beyond Grade 3.
+[ ] Confirm discovery of Marco Qwent and Zacariah Nemo.
+
+-------------------------------------------------------------------------------
+
+===============================================================================
+3. THE DWELLER
+===============================================================================
+
+Location:
+- System: Wyrd
+- Base: Black Hide
+
+How he becomes known:
+- Publicly known starting engineer
+
+Meeting requirement:
+- Sell goods at five different black markets
+
+Unlock donation:
+- 500,000 credits
+
+Best reason to unlock:
+- Grade 5 Power Distributor
+- Laser engineering up to Grade 4
+
+Fast method:
+1. Obtain at least five units of illegal or stolen cargo.
+2. Find five separate stations that have an active Black Market.
+3. Confirm that your cargo is illegal at each station.
+4. Sell at least one unit at each of the five different Black Markets.
+
+Important:
+- Five sales at one station do not count.
+- A legal commodity will not be accepted by the Black Market merely because
+  the station has one.
+- Black Market availability can vary with the Legacy BGS.
+
+Procedure:
+[ ] Complete sales at five distinct Black Markets.
+[ ] Travel to Black Hide.
+[ ] Pay 500,000 credits.
+[ ] Rank The Dweller beyond Grade 3.
+[ ] Confirm discovery of Lei Cheung.
+
+-------------------------------------------------------------------------------
+
+===============================================================================
+4. TOD "THE BLASTER" McQUINN
+===============================================================================
+
+Location:
+- System: Wolf 397
+- Base: Trophy Camp
+
+How he becomes known:
+- Publicly known starting engineer
+
+Meeting requirement:
+- Earn 15 or more bounty vouchers
+
+Unlock donation:
+- At least 100,000 credits in bounty vouchers
+
+Best reason to unlock:
+- Grade 5 Multi-cannon
+- Grade 5 Rail Gun
+
+Fast method:
+- Hunt wanted ships at a Nav Beacon or Resource Extraction Site.
+- Claim enough separate bounty vouchers to satisfy the count.
+- Retain at least 100,000 credits of vouchers for Trophy Camp.
+
+Procedure:
+[ ] Accumulate more than 15 bounty vouchers.
+[ ] Hold at least 100,000 credits of bounty vouchers.
+[ ] Travel to Trophy Camp.
+[ ] Redeem the required vouchers through the engineer unlock.
+[ ] Rank Tod beyond Grade 3.
+[ ] Confirm discovery of Selene Jean.
+
+-------------------------------------------------------------------------------
+
+===============================================================================
+5. LIZ RYDER
+===============================================================================
+
+Location:
+- System: Eurybia
+- Base: Demolition Unlimited
+
+How she becomes known:
+- Publicly known starting engineer
+
+Meeting requirement:
+- Become Cordial or Friendly with Eurybia Blue Mafia
+- Complete their engineer invitation mission when offered
+
+Unlock donation:
+- 200 tonnes of Landmines
+
+Best reason to unlock:
+- Grade 5 Missile Rack
+- Grade 5 Seeker Missile Rack
+- Grade 5 Torpedo Pylon
+
+Efficient reputation method:
+- Sell exploration data at a station controlled by Eurybia Blue Mafia.
+- Alternatively complete missions for the faction.
+
+Landmines:
+- Landmines are normal cargo, commonly available from appropriate military or
+  industrial markets.
+- Use a large cargo ship to reduce the number of trips.
+- Verify supply using the Legacy in-game market.
+
+Procedure:
+[ ] Reach Cordial or Friendly with Eurybia Blue Mafia.
+[ ] Complete the engineer invitation mission.
+[ ] Source and deliver 200 tonnes of Landmines.
+[ ] Rank Liz beyond Grade 3.
+[ ] Confirm discovery of Hera Tani.
+
+-------------------------------------------------------------------------------
+PHASE 2 — ELVIRA'S BRANCH: QWENT, PALIN, SEDESI, NEMO AND JAMESON
+-------------------------------------------------------------------------------
+
+===============================================================================
+6. MARCO QWENT
+===============================================================================
+
+Location:
+- System: Sirius — permit required
+- Base: Qwent Research Base
+
+Discovered from:
+- Elvira Martuuk at approximately Grade 3 to Grade 4
+
+Meeting requirements:
+- Become Allied with Sirius Corporation
+- Obtain the Sirius system permit
+- Complete the Sirius Corporation engineer invitation mission
+
+Unlock donation:
+- 25 tonnes of Modular Terminals
+
+Best reason to unlock:
+- Grade 4 Power Plant
+- Required referral for Professor Palin, Chloe Sedesi and Lori Jameson
+
+Efficient Sirius reputation:
+- Sell exploration data at a Sirius Corporation-controlled station outside
+  Sirius.
+- Complete missions for Sirius Corporation.
+- Once Allied, look for the Sirius permit mission.
+- After entering Sirius, look for the Marco Qwent invitation mission.
+
+Modular Terminals:
+- Mission-reward commodity
+- Requires cargo space
+- Keep selecting missions that offer them until you hold 25 tonnes
+
+Procedure:
+[ ] Raise Elvira beyond Grade 3.
+[ ] Become Allied with Sirius Corporation.
+[ ] Complete the Sirius permit mission.
+[ ] Enter Sirius and complete the Qwent invitation mission.
+[ ] Deliver 25 Modular Terminals to Qwent Research Base.
+[ ] Rank Qwent beyond Grade 3.
+[ ] Confirm discovery of Professor Palin, Chloe Sedesi and Lori Jameson.
+
+-------------------------------------------------------------------------------
+
+===============================================================================
+7. PROFESSOR PALIN
+===============================================================================
+
+Location:
+- System: Arque
+- Base: Abel Laboratory
+
+Discovered from:
+- Marco Qwent at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Travel at least 5,000 LY from your career-start system
+
+Unlock donation:
+- 25 Sensor Fragments
+
+Best reason to unlock:
+- Grade 5 Thrusters
+
+Sensor Fragments:
+- Obtain them by destroying Thargoid Sensors found at appropriate Thargoid
+  wreck sites.
+- Sensor Fragments are engineering materials and do not require cargo space.
+- Collect at least 50 total if you intend to unlock both Palin and Chloe.
+
+Procedure:
+[ ] Confirm that your maximum career distance exceeds 5,000 LY.
+[ ] Hold at least 25 Sensor Fragments.
+[ ] Travel to Abel Laboratory in Arque.
+[ ] Donate 25 Sensor Fragments.
+[ ] Rank Palin to Grade 5.
+
+-------------------------------------------------------------------------------
+
+===============================================================================
+8. CHLOE SEDESI
+===============================================================================
+
+Location:
+- System: Shenve
+- Base: Cinder Dock
+
+Discovered from:
+- Marco Qwent at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Travel at least 5,000 LY from your career-start system
+
+Unlock donation:
+- 25 Sensor Fragments
+
+Best reason to unlock:
+- Grade 5 Thrusters
+- Alternative to Professor Palin, particularly for commanders operating near
+  the Witch Head region
+
+Procedure:
+[ ] Confirm the 5,000-LY career-distance requirement.
+[ ] Hold 25 additional Sensor Fragments.
+[ ] Travel to Cinder Dock in Shenve.
+[ ] Donate the fragments.
+[ ] Rank Chloe to Grade 5.
+
+Note:
+Chloe is not located in the central Bubble, but is included in this complete
+non-Colonia Horizons engineer guide.
+
+-------------------------------------------------------------------------------
+
+===============================================================================
+9. ZACARIAH NEMO
+===============================================================================
+
+Location:
+- System: Yoru
+- Base: Nemo Cyber Party Base
+
+Discovered from:
+- Elvira Martuuk at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Become Friendly with Party of Yoru
+- Complete their engineer invitation mission
+
+Unlock donation:
+- 25 Xihe Biomorphic Companions
+
+Rare-good source:
+- System: Xihe
+- Station: Zhen Dock
+
+Best reason to unlock:
+- Grade 5 Fragment Cannon
+
+Procedure:
+[ ] Become Friendly with Party of Yoru through missions, trade, bounty
+    redemption or exploration data where available.
+[ ] Check Party of Yoru-controlled mission boards for the invitation mission.
+[ ] Buy Xihe Biomorphic Companions at Zhen Dock.
+[ ] Deliver 25 total to Nemo Cyber Party Base.
+[ ] Rank Nemo as desired.
+
+Rare-good note:
+The station may not sell all 25 in one allocation. Deliver your current cargo
+to Nemo, return to Xihe and repeat.
+
+-------------------------------------------------------------------------------
+
+===============================================================================
+10. LORI JAMESON
+===============================================================================
+
+Location:
+- System: Shinrarta Dezhra — permit required
+- Base: Jameson Base
+
+Discovered from:
+- Marco Qwent at approximately Grade 3 to Grade 4
+
+Meeting requirements:
+- Combat rank Dangerous or higher
+- Access to Shinrarta Dezhra by reaching Elite in at least one main career rank
+
+Unlock donation:
+- 25 Kongga Ale
+
+Rare-good source:
+- System: Kongga
+- Station: Laplace Ring
+
+Best reason to unlock:
+- Grade 5 Sensors
+- Grade 5 Detailed Surface Scanner
+- Grade 4 Life Support, Fuel Scoop, AFMU and Refinery
+
+Procedure:
+[ ] Reach combat rank Dangerous.
+[ ] Reach Elite in at least one qualifying career rank for the Shinrarta permit.
+[ ] Buy Kongga Ale at Laplace Ring.
+[ ] Deliver 25 total to Jameson Base.
+[ ] Rank Lori as desired.
+
+This is normally one of the last engineers unlocked because of the Dangerous
+combat-rank gate and Shinrarta permit.
+
+-------------------------------------------------------------------------------
+PHASE 3 — THE DWELLER'S BRANCH: LEI CHEUNG AND RAM TAH
+-------------------------------------------------------------------------------
+
+===============================================================================
+11. LEI CHEUNG
+===============================================================================
+
+Location:
+- System: Laksak
+- Base: Trader's Rest
+
+Discovered from:
+- The Dweller at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Trade at more than 50 distinct commodity markets
+
+Unlock donation:
+- 200 tonnes of Gold
+
+Best reason to unlock:
+- Grade 5 Shield Generator
+- Grade 5 Sensors
+- Grade 5 Detailed Surface Scanner
+
+Procedure:
+[ ] Complete commodity transactions at more than 50 separate markets.
+[ ] Source Gold from Legacy markets, preferably near Laksak.
+[ ] Deliver 200 tonnes total to Trader's Rest.
+[ ] Rank Lei beyond Grade 3.
+[ ] Confirm discovery of Ram Tah.
+
+Cargo tip:
+A large ship can deliver the Gold in one trip if Trader's Rest accepts its
+landing-pad size; otherwise use a suitable medium ship and make multiple trips.
+
+-------------------------------------------------------------------------------
+
+===============================================================================
+12. RAM TAH
+===============================================================================
+
+Location:
+- System: Meene
+- Base: Phoenix Base
+
+Discovered from:
+- Lei Cheung at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Exploration rank Surveyor or higher
+
+Unlock donation:
+- 50 Classified Scan Databanks
+
+Best reason to unlock:
+- Grade 5 Heat Sink Launcher
+- Grade 5 Point Defence
+- Grade 5 Chaff Launcher
+- Grade 5 Electronic Countermeasure
+- Limpet-controller engineering
+
+Fast material method:
+- Use the Jameson Crash Site farm and an Encoded Material Trader.
+- Trade into Classified Scan Databanks if direct scanning has not supplied 50.
+
+Procedure:
+[ ] Reach Surveyor exploration rank.
+[ ] Hold 50 Classified Scan Databanks.
+[ ] Travel to Phoenix Base.
+[ ] Donate the data.
+[ ] Rank Ram Tah as desired.
+
+-------------------------------------------------------------------------------
+PHASE 4 — TOD'S BRANCH: SELENE JEAN, BILL TURNER AND DIDI VATERMANN
+-------------------------------------------------------------------------------
+
+===============================================================================
+13. SELENE JEAN
+===============================================================================
+
+Location:
+- System: Kuk
+- Base: Prospector's Rest
+
+Discovered from:
+- Tod McQuinn at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Mine and refine at least 500 tonnes of ore
+
+Unlock donation:
+- 10 tonnes of mined Painite
+
+Best reason to unlock:
+- Grade 5 Armour
+- Grade 5 Hull Reinforcement Package
+
+Efficient method:
+1. Mine in a metallic ring until you have ten tonnes of Painite.
+2. Continue mining until the career total reaches 500 tonnes.
+3. Mine in an icy ring as necessary and retain 50 tonnes of Bromellite for
+   Bill Turner.
+4. Do not sell the ten Painite before visiting Selene.
+
+Important:
+The Painite must have been mined. Bought Painite does not satisfy the intended
+unlock route.
+
+Procedure:
+[ ] Mine and refine 500 tonnes total.
+[ ] Keep ten tonnes of mined Painite.
+[ ] Keep fifty tonnes of Bromellite.
+[ ] Deliver the Painite to Prospector's Rest.
+[ ] Rank Selene beyond Grade 3.
+[ ] Confirm discovery of Bill Turner and Didi Vatermann.
+
+-------------------------------------------------------------------------------
+
+===============================================================================
+14. BILL TURNER
+===============================================================================
+
+Location:
+- System: Alioth — permit required
+- Base: Turner Metallics Inc
+
+Discovered from:
+- Selene Jean at approximately Grade 3 to Grade 4
+
+Meeting requirements:
+- Friendly with the Alliance
+- Allied with Alioth Independents
+- Obtain the Alioth system permit
+
+Unlock donation:
+- 50 tonnes of Bromellite
+
+Best reason to unlock:
+- Grade 5 Plasma Accelerator
+- Grade 5 Sensors
+- Grade 5 Detailed Surface Scanner
+
+Efficient permit method:
+- Sell exploration data to Alioth Independents-controlled stations.
+- Complete missions for Alioth Independents.
+- When Allied, accept the Alioth permit mission.
+
+Procedure:
+[ ] Become Friendly with the Alliance.
+[ ] Become Allied with Alioth Independents.
+[ ] Complete the Alioth permit mission.
+[ ] Carry the retained 50 tonnes of Bromellite into Alioth.
+[ ] Donate it at Turner Metallics Inc.
+[ ] Rank Bill as desired.
+
+-------------------------------------------------------------------------------
+
+===============================================================================
+15. DIDI VATERMANN
+===============================================================================
+
+Location:
+- System: Leesti
+- Base: Vatermann LLC
+
+Discovered from:
+- Selene Jean at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Trade rank Merchant or higher
+
+Unlock donation:
+- 50 Lavian Brandy
+
+Rare-good source:
+- System: Lave
+- Station: Lave Station
+
+Best reason to unlock:
+- Grade 5 Shield Booster
+
+Procedure:
+[ ] Reach Merchant trade rank.
+[ ] Buy Lavian Brandy at Lave Station.
+[ ] Deliver it to Vatermann LLC.
+[ ] Repeat until 50 total have been donated.
+[ ] Rank Didi to Grade 5.
+
+Rare-good note:
+The available allocation may vary. You cannot accumulate a second allocation
+while still carrying the first; deliver or otherwise remove the current cargo
+before returning.
+
+-------------------------------------------------------------------------------
+PHASE 5 — LIZ RYDER'S BRANCH: HERA TANI, BROO TARQUIN AND TIANA FORTUNE
+-------------------------------------------------------------------------------
+
+===============================================================================
+16. HERA TANI
+===============================================================================
+
+Location:
+- System: Kuwemaki
+- Base: The Jet's Hole
+
+Discovered from:
+- Liz Ryder at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Imperial Navy rank Outsider or higher
+
+Unlock donation:
+- 50 Kamitra Cigars
+
+Rare-good source:
+- System: Kamitra
+- Station: Hammel Terminal
+
+Best reason to unlock:
+- Grade 5 Power Plant
+- Grade 5 Detailed Surface Scanner
+
+Procedure:
+[ ] Reach Imperial Navy rank Outsider.
+[ ] Buy Kamitra Cigars at Hammel Terminal.
+[ ] Deliver them to The Jet's Hole.
+[ ] Repeat until 50 total have been donated.
+[ ] Rank Hera beyond Grade 3.
+[ ] Confirm discovery of Broo Tarquin and Tiana Fortune.
+
+-------------------------------------------------------------------------------
+
+===============================================================================
+17. BROO TARQUIN
+===============================================================================
+
+Location:
+- System: Muang
+- Base: Broo's Legacy
+
+Discovered from:
+- Hera Tani at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Combat rank Competent or higher
+
+Unlock donation:
+- 50 Fujin Tea
+
+Rare-good source:
+- System: Fujin
+- Station: Futen Spaceport
+
+Best reason to unlock:
+- Grade 5 Beam Laser
+- Grade 5 Burst Laser
+- Grade 5 Pulse Laser
+
+Procedure:
+[ ] Reach combat rank Competent.
+[ ] Buy Fujin Tea at Futen Spaceport.
+[ ] Deliver it to Broo's Legacy.
+[ ] Repeat until 50 total have been donated.
+[ ] Rank Broo to Grade 5.
+
+-------------------------------------------------------------------------------
+
+===============================================================================
+18. TIANA FORTUNE
+===============================================================================
+
+Location:
+- System: Achenar — permit required
+- Base: Fortune's Loss
+
+Discovered from:
+- Hera Tani at approximately Grade 3 to Grade 4
+
+Meeting requirements:
+- Friendly with the Empire
+- Imperial Navy rank Squire for the Achenar permit
+
+Unlock donation:
+- 50 Decoded Emission Data
+
+Best reason to unlock:
+- Grade 5 Sensors
+- Grade 5 Frame Shift Wake Scanner
+- Grade 5 Kill Warrant Scanner
+- Grade 5 Manifest Scanner
+- Grade 5 limpet controllers
+
+Fast material method:
+- Use Jameson Crash Site data and an Encoded Material Trader.
+- Trade into Decoded Emission Data if required.
+
+Procedure:
+[ ] Become Friendly with the Empire.
+[ ] Reach Imperial Navy rank Squire and obtain the Achenar permit.
+[ ] Hold 50 Decoded Emission Data.
+[ ] Travel to Fortune's Loss.
+[ ] Donate the data.
+[ ] Rank Tiana as desired.
+
+-------------------------------------------------------------------------------
+PHASE 6 — FELICITY'S BRANCH: JURI, THE SARGE AND BRIS DEKKER
+-------------------------------------------------------------------------------
+
+===============================================================================
+19. JURI ISHMAAK
+===============================================================================
+
+Location:
+- System: Giryak
+- Base: Pater's Memorial
+
+Discovered from:
+- Felicity Farseer at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Claim more than 50 Federal combat bonds
+
+Unlock donation:
+- Federal combat bonds worth the amount shown in your Engineer panel
+
+Legacy warning:
+The displayed donation has historically appeared as either 100,000 or
+1,000,000 credits under different conditions. Carry at least 1,000,000 credits
+in valid Federal combat bonds and follow the exact amount shown in your
+Legacy Engineer panel.
+
+Best reason to unlock:
+- Grade 5 Sensors
+- Grade 5 Detailed Surface Scanner
+- Grade 5 Mine Launcher
+
+Efficient method:
+1. Find a Legacy system in War or Civil War.
+2. Enter a Conflict Zone.
+3. Use the Communications panel to side with a Federation-aligned faction.
+4. Destroy and claim bonds for more than 50 enemy ships.
+5. Retain enough bonds for Juri's donation.
+
+Procedure:
+[ ] Claim more than 50 qualifying combat bonds.
+[ ] Carry sufficient Federal combat bonds.
+[ ] Travel to Pater's Memorial.
+[ ] Donate the required bonds.
+[ ] Rank Juri beyond Grade 3.
+[ ] Confirm discovery of The Sarge and Colonel Bris Dekker.
+
+-------------------------------------------------------------------------------
+
+===============================================================================
+20. THE SARGE
+===============================================================================
+
+Location:
+- System: Beta-3 Tucani
+- Base: The Beach
+
+Discovered from:
+- Juri Ishmaak at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Federal Navy rank Midshipman or higher
+
+Unlock donation:
+- 50 Aberrant Shield Pattern Analysis
+
+Best reason to unlock:
+- Grade 5 Cannon
+- Grade 5 Collector, Fuel Transfer, Hatch Breaker and Prospector Limpet
+  Controllers
+
+Fast material method:
+- Use Jameson Crash Site data and an Encoded Material Trader.
+- Trade into Aberrant Shield Pattern Analysis.
+
+Procedure:
+[ ] Reach Federal Navy rank Midshipman.
+[ ] Hold 50 Aberrant Shield Pattern Analysis.
+[ ] Travel to The Beach.
+[ ] Donate the data.
+[ ] Rank The Sarge as desired.
+
+-------------------------------------------------------------------------------
+
+===============================================================================
+21. COLONEL BRIS DEKKER
+===============================================================================
+
+Location:
+- System: Sol — permit required
+- Base: Dekker's Yard
+
+Discovered from:
+- Juri Ishmaak at approximately Grade 3 to Grade 4
+
+Meeting requirements:
+- Friendly with the Federation
+- Federal Navy rank Petty Officer for the Sol permit
+
+Unlock donation:
+- Federal combat bonds worth the amount shown in your Engineer panel
+
+Legacy warning:
+The displayed donation has historically appeared as either 1,000,000 or
+10,000,000 credits under different conditions. Retain enough valid Federal
+combat bonds to meet the exact amount displayed in your Legacy Engineer panel.
+
+Best reason to unlock:
+- Grade 4 Frame Shift Drive Interdictor
+- Grade 3 Frame Shift Drive
+
+Procedure:
+[ ] Become Friendly with the Federation.
+[ ] Reach Federal Navy rank Petty Officer.
+[ ] Confirm that the Sol permit has been awarded.
+[ ] Earn and retain the required value of Federal combat bonds.
+[ ] Travel to Dekker's Yard in Sol.
+[ ] Donate the bonds.
+[ ] Rank Bris Dekker as desired.
+
+===============================================================================
+MASTER COMPLETION CHECKLIST
+===============================================================================
+
+STARTING ENGINEERS
+
+[ ] Felicity Farseer
+    [ ] Scout exploration rank
+    [ ] 1 Meta-Alloy
+    [ ] Ranked far enough to discover Juri Ishmaak
+
+[ ] Elvira Martuuk
+    [ ] 300-LY maximum distance
+    [ ] 3 Soontill Relics
+    [ ] Ranked far enough to discover Qwent and Nemo
+
+[ ] The Dweller
+    [ ] Sales at 5 different Black Markets
+    [ ] 500,000 credits
+    [ ] Ranked far enough to discover Lei Cheung
+
+[ ] Tod "The Blaster" McQuinn
+    [ ] More than 15 bounty vouchers
+    [ ] 100,000 credits of bounty vouchers
+    [ ] Ranked far enough to discover Selene Jean
+
+[ ] Liz Ryder
+    [ ] Cordial/Friendly with Eurybia Blue Mafia
+    [ ] Invitation mission
+    [ ] 200 Landmines
+    [ ] Ranked far enough to discover Hera Tani
+
+ELVIRA / QWENT BRANCH
+
+[ ] Marco Qwent
+    [ ] Allied with Sirius Corporation
+    [ ] Sirius permit
+    [ ] Qwent invitation mission
+    [ ] 25 Modular Terminals
+    [ ] Ranked far enough to reveal Palin, Chloe and Lori
+
+[ ] Professor Palin
+    [ ] 5,000-LY maximum distance
+    [ ] 25 Sensor Fragments
+
+[ ] Chloe Sedesi
+    [ ] 5,000-LY maximum distance
+    [ ] 25 Sensor Fragments
+
+[ ] Zacariah Nemo
+    [ ] Friendly with Party of Yoru
+    [ ] Invitation mission
+    [ ] 25 Xihe Biomorphic Companions
+
+[ ] Lori Jameson
+    [ ] Combat rank Dangerous
+    [ ] Shinrarta Dezhra permit through an Elite rank
+    [ ] 25 Kongga Ale
+
+DWELLER BRANCH
+
+[ ] Lei Cheung
+    [ ] More than 50 distinct markets traded
+    [ ] 200 Gold
+    [ ] Ranked far enough to discover Ram Tah
+
+[ ] Ram Tah
+    [ ] Exploration rank Surveyor
+    [ ] 50 Classified Scan Databanks
+
+TOD BRANCH
+
+[ ] Selene Jean
+    [ ] 500 tonnes mined and refined
+    [ ] 10 tonnes of mined Painite
+    [ ] Ranked far enough to reveal Bill and Didi
+
+[ ] Bill Turner
+    [ ] Friendly with Alliance
+    [ ] Allied with Alioth Independents
+    [ ] Alioth permit
+    [ ] 50 Bromellite
+
+[ ] Didi Vatermann
+    [ ] Trade rank Merchant
+    [ ] 50 Lavian Brandy
+
+LIZ / HERA BRANCH
+
+[ ] Hera Tani
+    [ ] Imperial rank Outsider
+    [ ] 50 Kamitra Cigars
+    [ ] Ranked far enough to reveal Broo and Tiana
+
+[ ] Broo Tarquin
+    [ ] Combat rank Competent
+    [ ] 50 Fujin Tea
+
+[ ] Tiana Fortune
+    [ ] Friendly with Empire
+    [ ] Imperial rank Squire
+    [ ] Achenar permit
+    [ ] 50 Decoded Emission Data
+
+FELICITY / JURI BRANCH
+
+[ ] Juri Ishmaak
+    [ ] More than 50 Federal combat bonds
+    [ ] Required Federal combat-bond donation
+    [ ] Ranked far enough to reveal Sarge and Bris
+
+[ ] The Sarge
+    [ ] Federal rank Midshipman
+    [ ] 50 Aberrant Shield Pattern Analysis
+
+[ ] Colonel Bris Dekker
+    [ ] Friendly with Federation
+    [ ] Federal rank Petty Officer
+    [ ] Sol permit
+    [ ] Required Federal combat-bond donation
+
+===============================================================================
+TOTAL UNLOCK CARGO AND DATA SHOPPING LIST
+===============================================================================
+
+RARE GOODS
+
+[ ] 3 Soontill Relics
+    Source: Cheranovsky City, Ngurii
+
+[ ] 25 Xihe Biomorphic Companions
+    Source: Zhen Dock, Xihe
+
+[ ] 25 Kongga Ale
+    Source: Laplace Ring, Kongga
+
+[ ] 50 Lavian Brandy
+    Source: Lave Station, Lave
+
+[ ] 50 Kamitra Cigars
+    Source: Hammel Terminal, Kamitra
+
+[ ] 50 Fujin Tea
+    Source: Futen Spaceport, Fujin
+
+NORMAL / MINING / MISSION CARGO
+
+[ ] 1 Meta-Alloy
+[ ] 25 Modular Terminals
+[ ] 200 Gold
+[ ] 200 Landmines
+[ ] 10 mined Painite
+[ ] 50 Bromellite
+
+ENCODED MATERIALS
+
+[ ] 50 Sensor Fragments for Palin and Chloe combined
+[ ] 50 Classified Scan Databanks
+[ ] 50 Decoded Emission Data
+[ ] 50 Aberrant Shield Pattern Analysis
+
+VOUCHERS AND BONDS
+
+[ ] More than 15 bounty vouchers
+[ ] At least 100,000 credits of bounty vouchers for Tod
+[ ] More than 50 qualifying Federal combat bonds for Juri
+[ ] Juri's displayed Federal combat-bond donation
+[ ] Bris Dekker's displayed Federal combat-bond donation
+
+===============================================================================
+RARE-GOOD RULES
+===============================================================================
+
+Rare commodities have limited allocations. The exact quantity can vary with
+Legacy BGS conditions and your local reputation.
+
+Important:
+- Carrying your current allocation normally prevents another allocation from
+  appearing.
+- Deliver the goods to the engineer before returning for more.
+- Do not rely on a modern Live-PC market quantity.
+- Fleet Carriers may sell rare unlock goods, but stock and location are
+  player-dependent; this guide uses permanent source stations.
+
+===============================================================================
+PERMIT SUMMARY
+===============================================================================
+
+SIRIUS
+- Allied with Sirius Corporation
+- Complete the Sirius permit mission
+- Needed for Marco Qwent
+
+ALIOTH
+- Friendly with Alliance
+- Allied with Alioth Independents
+- Complete the Alioth permit mission
+- Needed for Bill Turner
+
+SOL
+- Federal Navy rank Petty Officer
+- Needed for Colonel Bris Dekker
+
+ACHENAR
+- Imperial Navy rank Squire
+- Needed for Tiana Fortune
+
+SHINRARTA DEZHRA
+- Reach Elite in at least one qualifying main career rank
+- Needed for Lori Jameson
+
+===============================================================================
+FASTEST OVERALL CAMPAIGN SUMMARY
+===============================================================================
+
+1. Unlock Felicity and engineer an Increased Range FSD.
+2. Unlock Elvira, Dweller, Tod and Liz.
+3. Begin buying and selling one commodity at every unique market.
+4. Save Modular Terminals from missions.
+5. Collect 50 Sensor Fragments.
+6. Make a 5,000-LY expedition and gather exploration data.
+7. Use that data to help reach Allied with Sirius Corporation and Alioth
+   Independents, and Friendly with Eurybia Blue Mafia.
+8. Unlock Qwent, then Palin and Chloe.
+9. Complete the 50-market requirement and unlock Lei Cheung, then Ram Tah.
+10. Mine 500 tonnes while saving ten Painite and fifty Bromellite.
+11. Unlock Selene Jean, Bill Turner and Didi Vatermann.
+12. Complete Imperial rank to at least Squire.
+13. Unlock Hera Tani, Broo Tarquin and Tiana Fortune.
+14. Complete Federal rank to at least Petty Officer.
+15. Earn the necessary Federal combat bonds.
+16. Unlock Juri Ishmaak, The Sarge and Colonel Bris Dekker.
+17. Unlock Zacariah Nemo whenever Party of Yoru reputation is convenient.
+18. Unlock Lori Jameson after reaching Dangerous combat rank and obtaining the
+    Shinrarta Dezhra permit.
+
+===============================================================================
+LEGACY VERIFICATION NOTES
+===============================================================================
+
+This guide uses the pre-Odyssey Horizons ship-engineer tree retained by Elite
+Dangerous Legacy on Xbox and PlayStation.
+
+The unlock tree, workshop locations and requirements were cross-checked against:
+- The Horizons engineer unlock tree and requirements compiled by Inara
+- Elite: Dangerous Guides — Unlocking Engineers
+- Fox's pre-Odyssey Comprehensive Guide to Engineer Unlocking
+- Elite Materials — Horizons engineering reference
+
+Dynamic details such as mission availability, faction state, commodity supply
+and rare-good allocation must be checked in the Legacy game itself.
+
+===============================================================================
+END OF GUIDE
+===============================================================================

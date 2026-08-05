@@ -1,0 +1,147 @@
+Guardian technology: efficient Legacy plan
+
+Guardian unlocks divide into three blueprint types:
+
+Blueprint	                Used for	                                                Recommended site
+Module Blueprint Fragment	FSD Booster, reinforcement modules, hybrid power modules	Synuefe NL-N c23-4 — B 3
+Weapon Blueprint Fragment	Gauss, shard and plasma weapons	                                Synuefe EU-Q c21-10 — A 3
+Vessel Blueprint Fragment	Guardian ship-launched fighters	                                Separate vessel site plus an Ancient Key
+
+Each completed Guardian-site puzzle gives one blueprint fragment. The site layout determines which blueprint type it awards; Module and Weapon sites use an Ancient Relic, while Vessel sites require an Ancient Key obtained from an orbital Guardian Beacon.
+
+**********************************************************
+
+Recommended Legacy unlock order
+1. Guardian Frame Shift Drive Booster
+2. Class 2 Fixed Guardian Gauss Cannon, when preparing for Thargoid combat
+3. Guardian Module Reinforcement Package
+4. Guardian Shield Reinforcement Package
+5. Guardian Shard Cannons or Plasma Chargers for specialized builds
+6. Guardian Hybrid Power Distributor and Power Plant as convenient alternatives to engineering
+7. Guardian fighters, mostly for enjoyment rather than efficiency
+
+**********************************************************
+
+The FSD Booster is the clear first unlock because one unlock makes all five module sizes available for purchase, providing between +4.00 and +10.50 ly depending on class.
+
+First expedition: Guardian FSD Booster
+What you need to unlock it
+Requirement	                        Amount
+Guardian Module Blueprint Fragment	1
+Guardian Power Cell              	21
+Guardian Technology Component   	21
+Focus Crystals                   	24
+HN Shock Mount commodities	        8
+
+This is the Legacy-compatible Technology Broker recipe. Ignore any Live-only Guardian engineering, anti-Guardian-zone modifications or post-Update 14 additions.
+
+Where each item comes from
+*Module Blueprint Fragment: complete the Guardian puzzle once.
+*Power Cells: destructible panels around the structure.
+*Technology Components: destructible panels; these are usually the limiting Guardian material.
+*Focus Crystals: ordinary manufactured engineering material—use your existing manufactured stock or a trader.
+*HN Shock Mounts: purchasable market commodity. Buy these after returning to the Bubble if convenient.
+
+**********************************************************
+
+Recommended ship setup
+
+A DBX, Asp Explorer, Krait Phantom, Cobra or similar small/medium ship is ideal.
+
+Bring:
+
+*Fuel scoop
+*Detailed Surface Scanner
+*Two-SRV hangar, strongly recommended
+*Two Point Defence utility modules where possible
+*Point Defence mounted on the upper surface of the ship
+*Small shield
+*Good jump range
+*Materials for SRV fuel, ammunition and repair synthesis
+
+Your ship’s Point Defence can shoot down Guardian Sentinel missiles while you are driving nearby, provided the weapons have a clear upward firing arc.
+
+You do not need cargo space for the Module Blueprint puzzle. The Ancient Relic is carried by the SRV and used at the site.
+
+**********************************************************
+
+Module-blueprint location
+
+System: Synuefe NL-N c23-4
+Body: B 3
+POI: Guardian Structure
+Legacy structure coordinates: approximately −34.8383, +132.8863
+
+This is a Turtle-layout site that awards Guardian Module Blueprint Fragments.
+
+Map B 3 with the DSS and target the Guardian Structure, not one of the nearby Ancient Ruins. The body contains multiple Guardian POIs, but only the Guardian Structure contains the blueprint puzzle.
+
+**********************************************************
+
+What to do at the site
+1. Before starting the timer
+2. Land as close as practical, with the top-mounted Point Defence facing the structure.
+3. Deploy the SRV.
+4. Drive around and destroy Guardian Sentinels as they appear.
+5. Shoot every targetable Destructible Panel.
+6. Scoop Guardian Power Cells and Guardian Technology Components.
+7. Locate all six energy-pylon positions.
+8. Shoot a glowing relic tower and scoop one Ancient Relic.
+
+Destructible panels and destroyed Sentinels provide the Guardian manufactured materials needed for broker unlocks.
+
+**********************************************************
+
+Complete the puzzle
+1. Approach the main Ancient Data Terminal to raise its nearby pylons.
+2. Raise all six pylons by driving close to their triangular bases.
+3. Shoot the glowing centre of each pylon until it becomes fully charged and sends a beam upward.
+4. Charge all six before the timer expires.
+5. Return to the illuminated triangular pad in front of the terminal.
+6. Park directly over it.
+7. In the SRV Inventory panel, jettison one Ancient Relic.
+8. Target the orb that rises from the terminal.
+9. Scan it with the SRV Data Link Scanner.
+
+You will receive one Guardian Module Blueprint Fragment. The timer gains additional time as pylons are charged, so locating them before beginning makes the run much easier.
+
+**********************************************************
+
+Farming additional materials
+
+After completing the run:
+
+1. Return to the main menu.
+2. Log back into Solo.
+3. Panels, Sentinels, relics and the blueprint puzzle reset.
+4. Repeat until you have the Guardian materials needed for your intended unlocks.
+
+For the FSD Booster alone, you only need to solve the blueprint puzzle once, but you may need several panel-reset loops to reach 21 Guardian Technology Components.
+
+**********************************************************
+
+Returning to the Bubble
+
+At a normal Guardian Technology Broker:
+
+1. Ensure the eight HN Shock Mounts are aboard your ship.
+2. Open Technology Broker services.
+3. Unlock the Guardian FSD Booster.
+4. Enter Outfitting and purchase the desired class with credits.
+
+The unlock is permanent and covers Classes 1–5. It does not award a free module; it makes the Booster purchasable from stations carrying Guardian technology.
+
+**********************************************************
+
+Efficient broader expedition
+
+While you are already in Guardian space, the efficient approach is to collect:
+
+At least six Module Blueprint Fragments if you expect to unlock most useful Guardian modules
+*A large reserve of Guardian Technology Components
+*Guardian Power Cells and Power Conduits
+*Guardian Sentinel Weapon Parts
+*Guardian Wreckage Components
+*Pattern Alpha through Epsilon Obelisk Data
+
+However, for the immediate trip, prioritize the FSD Booster requirements rather than trying to fill every Guardian-material bin before you know which modules you actually want.

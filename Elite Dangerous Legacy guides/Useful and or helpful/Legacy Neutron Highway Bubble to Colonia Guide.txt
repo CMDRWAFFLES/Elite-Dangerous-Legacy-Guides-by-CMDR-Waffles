@@ -1,0 +1,1102 @@
+ELITE DANGEROUS LEGACY CONSOLE
+NEUTRON HIGHWAY: THE BUBBLE TO COLONIA
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+SCOPE
+===============================================================================
+
+This guide covers Legacy neutron-star travel from the Bubble to Colonia:
+ship choice, outfitting, route plotting, safe cone entry, fuel management,
+repairs, emergencies and permanent Horizons-era repair stops.
+
+Purpose
+The purpose of using the neutron highway is to travel very long distances much faster by using neutron stars to temporarily supercharge your Frame Shift Drive.
+
+In Elite Dangerous Legacy, a neutron-star supercharge gives your ship roughly four times its normal jump range for one jump.
+
+For example:
+
+A 40 LY ship can jump about 160 LY.
+A 50 LY ship can jump about 200 LY.
+A 65 LY ship can jump about 260 LY.
+
+This greatly reduces the number of jumps needed between the Bubble and Colonia. Instead of making hundreds of ordinary jumps, you travel through a chain of neutron stars and make much longer jumps between them.
+
+Why use it?
+
+The neutron highway is most useful when:
+
+Travelling quickly between the Bubble and Colonia
+Reaching Sagittarius A* or other distant destinations
+Returning from an expedition quickly
+Moving an exploration ship across the galaxy
+Reducing repetitive jump-and-scoop travel
+
+It is mainly a travel-speed method, not an exploration-profit method. Because you skip across larger distances, you visit fewer systems and therefore collect less exploration data than someone travelling normally and scanning everything.
+
+Not included:
+- SCO Frame Shift Drives
+- Mandalay or other Live-only ships
+- Odyssey mechanics
+- Post-Update 14 neutron changes
+
+===============================================================================
+HOW THE NEUTRON HIGHWAY WORKS
+===============================================================================
+
+A Fuel Scoop lets the ship collect exotic particles from a neutron-star jet
+while remaining in supercruise.
+
+LEGACY BOOST VALUES
+
+Neutron star:
+- +300% range
+- 4 times normal jump range
+- Lasts for one hyperspace jump
+
+White dwarf:
+- +50% range
+- 1.5 times normal jump range
+- Much larger exclusion zone relative to the cone
+
+Example:
+
+Normal range: 50 LY
+Neutron-supercharged range: about 200 LY
+
+Each supercharge causes roughly 1% Frame Shift Drive integrity damage.
+
+Neutron stars and white dwarfs do not normally refill the fuel tank. Refuel at:
+
+    K G B F O A M
+
+Remember:
+
+    KGB FOAM
+
+===============================================================================
+RECOMMENDED SHIPS
+===============================================================================
+
+DIAMONDBACK EXPLORER
+
+Advantages:
+- Excellent range
+- Low rebuy
+- Cool-running
+- Easy to land
+
+Disadvantages:
+- Slower refuelling because of limited Fuel Scoop size
+- Tight optional-internal space
+
+Best for:
+- Cheap, high-range travel
+
+-------------------------------------------------------------------------------
+
+ASP EXPLORER
+
+Advantages:
+- Large Fuel Scoop
+- Good jump range
+- Excellent cockpit view
+- Enough space for AFMU, SRV and repair equipment
+
+Best for:
+- A first Bubble-to-Colonia trip
+
+-------------------------------------------------------------------------------
+
+KRAIT PHANTOM
+
+Advantages:
+- Excellent range
+- Large Fuel Scoop
+- Good heat performance
+- Plenty of internal space
+- Comfortable neutron handling
+
+Best for:
+- The strongest all-round Legacy exploration package
+
+-------------------------------------------------------------------------------
+
+ANACONDA
+
+Advantages:
+- Highest potential Legacy jump range
+- Large scoop
+- Extensive repair and exploration capacity
+
+Disadvantages:
+- Slow supercruise turning
+- More awkward cone alignment
+- Expensive rebuy
+- Large landing footprint
+
+Best for:
+- Experienced commanders and maximum-range builds
+
+-------------------------------------------------------------------------------
+
+DOLPHIN
+
+Advantages:
+- Very cool-running
+- Small and easy to handle
+- Good internal space for its size
+- Low rebuy
+
+Best for:
+- Safe and comfortable travel over absolute maximum range
+
+===============================================================================
+PRACTICAL RANGE TARGETS
+===============================================================================
+
+Under 30 LY:
+- Possible, but slow
+- Some aggressive neutron routes may contain unusable gaps
+
+30–40 LY:
+- Usable
+
+40–55 LY:
+- Comfortable for a first trip
+
+55–70+ LY:
+- Fast dedicated travel build
+
+Use the ship's CURRENT laden jump range in route planners, not an empty-tank
+maximum.
+
+===============================================================================
+ENGINEERING PRIORITIES
+===============================================================================
+
+1. Frame Shift Drive
+   - Increased Range
+   - Highest available grade
+   - Mass Manager is the common exploration Experimental Effect on larger FSDs
+
+2. Guardian Frame Shift Drive Booster
+   - Fit the largest practical class
+
+3. Lightweight modules
+   - D-rated Life Support
+   - D-rated Sensors
+   - Lightweight engineering where useful
+
+4. Power Plant
+   - Smallest A-rated plant that safely powers the build
+   - Armoured with Thermal Spread is a robust exploration choice
+   - Avoid making the Power Plant needlessly fragile; it cannot be field-repaired
+
+5. Thrusters
+   - D-rated saves mass
+   - Do not undersize them so much that planetary landing becomes unsafe
+
+6. Shield
+   - A small D-rated shield is strongly recommended for landing and docking
+
+===============================================================================
+ESSENTIAL MODULES
+===============================================================================
+
+[ ] Largest A-rated Frame Shift Drive
+[ ] Largest practical A-rated Fuel Scoop
+[ ] One AFMU
+[ ] Detailed Surface Scanner
+[ ] Guardian FSD Booster
+[ ] Small shield
+[ ] Fuel scoop active and powered
+
+The Fuel Scoop is required for neutron supercharging.
+
+The AFMU repairs:
+- Frame Shift Drive
+- Thrusters
+- Fuel Scoop
+- Sensors
+- Shield Generator
+- Life Support
+- Most other modules
+- Damaged canopy before complete breach
+
+The AFMU cannot repair:
+- Hull
+- Power Plant
+- Itself
+
+One AFMU is enough for Bubble to Colonia if the ship is flown carefully.
+
+===============================================================================
+OPTIONAL SAFETY MODULES
+===============================================================================
+
+REPAIR LIMPET CONTROLLER
+
+Repairs hull, not modules.
+
+Recommended:
+- 1D Repair Limpet Controller
+- Cargo capacity for at least four limpets
+
+To repair your own hull:
+1. Drop to normal space.
+2. Clear all targets.
+3. Stop.
+4. Fire one Repair Limpet.
+5. Let it finish before moving aggressively.
+
+Limpet synthesis:
+- 10 Iron
+- 10 Nickel
+- Produces four limpets
+
+-------------------------------------------------------------------------------
+
+SECOND AFMU
+
+Useful for:
+- Repairing the first AFMU
+- Very long expeditions
+- Redundancy
+
+Not essential for a one-way Colonia trip.
+
+-------------------------------------------------------------------------------
+
+SRV HANGAR
+
+Useful for:
+- Gathering raw synthesis materials
+- Replenishing Iron and Nickel
+- Collecting AFMU refill materials
+- Surface exploration
+
+-------------------------------------------------------------------------------
+
+HEAT SINK LAUNCHER
+
+Useful for:
+- Bad scoop approaches
+- Emergency star arrival
+- Severe heat after a mistake
+
+-------------------------------------------------------------------------------
+
+SUPERCRUISE ASSIST AND DOCKING COMPUTER
+
+Optional convenience only.
+
+Neither is required for neutron travel.
+
+===============================================================================
+SYNTHESIS MATERIALS TO STOCK
+===============================================================================
+
+BASIC AFMU REFILL
+
+- 2 Nickel
+- 2 Zinc
+- 2 Chromium
+- 3 Vanadium
+
+LIMPETS
+
+- 10 Iron
+- 10 Nickel
+- Produces four limpets
+
+FSD INJECTIONS
+
+Basic:
+- +25% range
+
+Standard:
+- +50% range
+
+Premium:
+- +100% range
+
+FSD Injection does not stack with a neutron-star boost.
+
+Injections remain useful for:
+- Reaching a fuel star
+- Escaping sparse regions
+- Crossing a gap when not currently neutron-supercharged
+
+Also stock:
+[ ] Life Support refill materials
+[ ] SRV refuel materials
+[ ] SRV repair materials
+[ ] SRV ammunition materials
+[ ] Several AFMU refills
+[ ] At least two limpet syntheses
+
+===============================================================================
+POWER PRIORITIES
+===============================================================================
+
+PRIORITY 1
+- Frame Shift Drive
+- Thrusters
+- Life Support
+
+PRIORITY 2
+- Fuel Scoop
+- Sensors
+- Shield
+
+PRIORITY 3
+- Detailed Surface Scanner
+- Heat Sink Launcher
+
+PRIORITY 4 OR DISABLED DURING TRAVEL
+- AFMU
+- Repair Limpet Controller
+- SRV Hangar
+- Docking Computer
+
+When repairing:
+1. Drop to normal space.
+2. Stop.
+3. Enable the AFMU.
+4. Repair the module.
+5. Re-enable the repaired module.
+6. Disable the AFMU again if power is limited.
+
+===============================================================================
+ROUTE PLOTTING — IN-GAME METHOD
+===============================================================================
+
+Open:
+
+    Galaxy Map
+      → Route Settings
+      → Fastest Routes
+      → Use Jet-Cone Boost
+
+The Legacy in-game route plotter is limited to approximately 20,000 LY.
+
+The Bubble-to-Colonia journey is approximately 22,000 LY.
+
+Plot the journey in at least two legs.
+
+Good midpoint choices:
+- Sacaqawea Space Port
+- Gagarin Gate
+- Caravanserai
+- Another known system around the middle of the route
+
+STAR FILTERS
+
+Include:
+- K, G, B, F, O, A and M stars
+- Non-Sequence stars
+
+Where practical:
+- Exclude white-dwarf categories
+- Keep Use Jet-Cone Boost enabled
+- Use Fastest Routes
+
+Do not restrict the route to only scoopable stars while expecting neutron use.
+
+===============================================================================
+ROUTE PLOTTING — EXTERNAL NEUTRON ROUTER
+===============================================================================
+
+A neutron router such as the Spansh Neutron Plotter can produce a more
+neutron-heavy route than the in-game plotter.
+
+For Legacy:
+- Enter the exact start system
+- Enter Colonia as destination
+- Enter the ship's actual Legacy jump range manually
+- Use a slightly conservative range if uncertain
+- Ignore Live-only ship and SCO options
+- Use the generated star-system names only
+
+Neutron-star positions are static galaxy data, so manually entering the Legacy
+ship range makes this type of route usable on console.
+
+Console disadvantage:
+- More manual Galaxy Map entry
+- Fuel stops still need to be planned
+- AFMU repairs still need to be managed
+
+The in-game plotter is easier.
+
+The external router is usually faster.
+
+===============================================================================
+SAFE NEUTRON SUPERCHARGE PROCEDURE
+===============================================================================
+
+STEP 1 — ARRIVE AT ZERO THROTTLE
+
+During the hyperspace jump, hold throttle-down so the ship enters the neutron
+system at minimum supercruise speed.
+
+Do not arrive at full throttle.
+
+-------------------------------------------------------------------------------
+
+STEP 2 — USE THE OUTER END OF THE CONE
+
+Choose the wide outer third of either jet.
+
+Avoid:
+- The narrow cone close to the star
+- The exclusion-zone boundary
+- A path aimed toward the star
+- Crossing the cone at a steep angle
+
+The safest direction is:
+
+    ENTER NEAR THE OUTER END
+    TRAVEL GENERALLY AWAY FROM THE STAR
+
+-------------------------------------------------------------------------------
+
+STEP 3 — APPROACH AT A SHALLOW ANGLE
+
+Aim roughly along the cone rather than straight across it.
+
+Use low or moderate throttle.
+
+A good setup has:
+- The star behind and to one side
+- The nose pointed toward open space
+- The ship entering near the wide end
+
+-------------------------------------------------------------------------------
+
+STEP 4 — ENTER AND REDUCE THROTTLE
+
+Inside the cone:
+- The cockpit shakes
+- Controls become unstable
+- The FSD warning appears
+- The Fuel Scoop begins collecting particles
+
+Reduce throttle to minimum once safely inside.
+
+Make small corrections.
+
+-------------------------------------------------------------------------------
+
+STEP 5 — WAIT FOR CONFIRMATION
+
+Do not leave after the first safety warning.
+
+Wait until the ship announces:
+
+    FRAME SHIFT DRIVE SUPERCHARGED
+
+The warning means charging has started.
+
+The supercharged message means the boost is complete.
+
+-------------------------------------------------------------------------------
+
+STEP 6 — EXIT AWAY FROM THE STAR
+
+Increase throttle and fly toward open space.
+
+Leave the turbulence before aligning for the next jump.
+
+Never drop from supercruise inside the cone.
+
+-------------------------------------------------------------------------------
+
+STEP 7 — MAKE THE BOOSTED JUMP
+
+If following an in-game route:
+- Select the next route target
+- Align
+- Jump
+
+If routing manually:
+- Select a system within boosted range
+- Plot the jump
+- Confirm the route accepts it
+- Jump
+
+The boost is consumed by that hyperspace jump.
+
+===============================================================================
+FSD DAMAGE AND REPAIR
+===============================================================================
+
+Each supercharge causes roughly 1% FSD damage.
+
+Recommended repair point:
+
+    ABOUT 90%
+
+Practical warning:
+
+    AVOID GOING BELOW 80%
+
+Below approximately 80%, the FSD can begin to malfunction.
+
+Malfunctions can:
+- Cancel charging
+- Delay a jump
+- Require another attempt
+- Become dangerous near a jet
+
+HOW TO REPAIR THE FSD
+
+1. Leave the cone.
+2. Move away from the star.
+3. Drop to normal space.
+4. Stop the ship.
+5. Open the right-hand Modules panel.
+6. Enable the AFMU.
+7. Select the Frame Shift Drive.
+8. Choose REPAIR.
+9. Wait until the desired integrity is restored.
+10. Stop repair.
+11. Re-enable the FSD.
+12. Disable the AFMU if normally left off.
+13. Return to supercruise.
+
+DO NOT REPAIR THE FSD WHILE IN SUPERCRUISE.
+
+Repairing the FSD switches it off and can cause an emergency drop.
+
+===============================================================================
+FUEL MANAGEMENT
+===============================================================================
+
+Neutron stars do not normally refuel the ship.
+
+Every boosted jump still consumes ordinary hyperspace fuel.
+
+SAFE RULE:
+
+Do not continue a neutron chain with only one normal jump remaining.
+
+Recommended:
+- Refuel before dropping below two normal jumps
+- Keep enough reserve to divert to KGBFOAM
+- Check the fuel line before every boosted jump
+
+If low:
+1. Stop following the neutron route.
+2. Filter the Galaxy Map to KGBFOAM.
+3. Plot to a reachable fuel star.
+4. Refuel fully.
+5. Replot toward the next neutron waypoint.
+
+Some neutron systems have scoopable companion stars.
+
+Never assume that every neutron system does.
+
+===============================================================================
+HULL, CANOPY AND POWER PLANT REPAIR
+===============================================================================
+
+HULL
+
+Repair with:
+- Repair Limpets
+- Station or surface-port repair
+
+The AFMU cannot repair hull.
+
+-------------------------------------------------------------------------------
+
+CANOPY
+
+A damaged but unbroken canopy can be repaired with an AFMU.
+
+A completely breached canopy requires a port.
+
+After a breach:
+- Life Support begins counting down
+- Fly to the nearest repair facility
+- Synthesize oxygen before the timer becomes critically low
+
+-------------------------------------------------------------------------------
+
+POWER PLANT
+
+Cannot be repaired by:
+- AFMU
+- Repair Limpets
+
+It requires:
+- Station repair
+- Surface-port repair
+- A suitable carrier service if independently available in Legacy
+
+Do not rely on player carriers for a planned route.
+
+===============================================================================
+THE COLONIA CONNECTION HIGHWAY
+===============================================================================
+
+The Colonia Connection Highway is a chain of permanent Horizons-era ports
+between the Bubble and Colonia.
+
+Use them to:
+- Repair hull
+- Repair Power Plant
+- Restore modules
+- Refill AFMU ammunition
+- Restock limpets
+- Sell exploration data
+- Stop safely between sessions
+
+It is not the same as the neutron highway.
+
+The neutron highway is a travel technique.
+
+The Colonia Connection Highway is a line of inhabited service stops.
+
+-------------------------------------------------------------------------------
+HILLARY DEPOT
+-------------------------------------------------------------------------------
+
+System:
+    Blu Thua AI-A c14-10
+
+Body:
+    A 4 A
+
+Approximate distance from Sol:
+    2,100 LY
+
+-------------------------------------------------------------------------------
+AMUNDSEN TERMINAL
+-------------------------------------------------------------------------------
+
+System:
+    Lagoon Sector NI-S b4-10
+
+Body:
+    1
+
+Approximate distance from Sol:
+    4,500 LY
+
+-------------------------------------------------------------------------------
+EAGLE'S LANDING
+-------------------------------------------------------------------------------
+
+System:
+    Eagle Sector IR-W d1-117
+
+Body:
+    2 A
+
+Approximate distance from Sol:
+    7,000 LY
+
+-------------------------------------------------------------------------------
+SACAQAWEA SPACE PORT
+-------------------------------------------------------------------------------
+
+System:
+    Skaudai CH-B d14-34
+
+Body:
+    1 A
+
+Approximate distance from Sol:
+    11,800 LY
+
+Useful midpoint stop.
+
+-------------------------------------------------------------------------------
+GAGARIN GATE
+-------------------------------------------------------------------------------
+
+System:
+    Gru Hypue KS-T d3-31
+
+Body:
+    4
+
+Approximate distance from Sol:
+    14,300 LY
+
+-------------------------------------------------------------------------------
+POLO HARBOUR
+-------------------------------------------------------------------------------
+
+System:
+    Boewnst KS-S c20-959
+
+Body:
+    2 A
+
+Approximate distance from Sol:
+    17,600 LY
+
+-------------------------------------------------------------------------------
+ALTERNATIVE ORBITAL STOPS
+-------------------------------------------------------------------------------
+
+Eudaemon Anchorage
+    System: Rohini
+    Approximately 7,700 LY from Sol
+
+Caravanserai
+    System: Gandharvi
+    Approximately 15,600 LY from Sol
+
+Vihara Gate
+    System: Kashyapa
+    Approximately 19,500 LY from Sol
+
+Orbital ports are often quicker than planetary bases when only repairs and
+refuelling are needed.
+
+===============================================================================
+RECOMMENDED FIRST-JOURNEY ROUTE
+===============================================================================
+
+LEG 1
+Bubble → Hillary Depot
+
+Purpose:
+- Test scoop, AFMU and route settings
+
+LEG 2
+Hillary Depot → Eagle's Landing or Eudaemon Anchorage
+
+Purpose:
+- Begin regular neutron use
+- Check FSD condition
+
+LEG 3
+Eagle's Landing/Eudaemon Anchorage → Sacaqawea Space Port
+
+Purpose:
+- Midpoint full repair
+- Refill AFMU and limpets
+- Sell data if desired
+
+LEG 4
+Sacaqawea → Gagarin Gate or Caravanserai
+
+Purpose:
+- Continue neutron chain
+- Repair FSD whenever it approaches 90%
+
+LEG 5
+Gagarin Gate/Caravanserai → Polo Harbour or Vihara Gate
+
+Purpose:
+- Final major repair stop
+
+LEG 6
+Polo Harbour/Vihara Gate → Colonia
+
+Destination:
+    Jaques Station
+    Colonia
+
+This is slower than an uninterrupted optimized neutron route but much safer for
+a first trip.
+
+===============================================================================
+EMERGENCIES
+===============================================================================
+
+CAUGHT IN THE CONE BUT STILL IN SUPERCRUISE
+
+1. Do not drop.
+2. Point away from the star.
+3. Use small control inputs.
+4. Fly toward the nearest outer edge.
+5. Exit the cone before trying to align for hyperspace.
+
+-------------------------------------------------------------------------------
+
+EMERGENCY-DROPPED INSIDE THE CONE
+
+1. Stay calm.
+2. Use a Heat Sink if overheating.
+3. Select SUPERCRUISE rather than a distant hyperspace target.
+4. Charge the FSD.
+5. Point toward open space.
+6. Enter supercruise as soon as alignment permits.
+7. Escape the cone.
+8. Move away from the star.
+9. Inspect hull, canopy, FSD and Power Plant.
+10. Repair everything possible.
+
+Normal-space exposure inside a neutron jet causes severe module and hull damage.
+
+-------------------------------------------------------------------------------
+
+FSD MALFUNCTION
+
+1. Move away from the star.
+2. Drop to safe normal space.
+3. Repair the FSD with the AFMU.
+4. Restore it above 90%.
+5. Continue only after confirming normal operation.
+
+If the FSD reaches 0%:
+- Try Reboot/Repair
+- Use the AFMU once the module is restored above 0%
+- Seek player rescue if necessary
+
+-------------------------------------------------------------------------------
+
+LOW FUEL
+
+If a scoopable star is reachable:
+- Stop the neutron route
+- Plot to KGBFOAM
+- Use an FSD Injection if required
+- Refuel completely
+
+If none is reachable:
+- Drop to normal space
+- Switch off nonessential modules
+- Stop wasting fuel in supercruise
+- Log out if necessary
+- Seek a Legacy-compatible fuel rescue
+
+Do not immediately self-destruct.
+
+-------------------------------------------------------------------------------
+
+LOW HULL
+
+Above 80%:
+- Continue cautiously
+
+50–80%:
+- Use repair limpets
+- Consider a Highway port
+
+Below 50%:
+- Stop unnecessary neutron use
+- Avoid planetary landing
+- Repair immediately
+
+Critical:
+- Travel only to the nearest safe repair facility
+
+===============================================================================
+COMMON MISTAKES
+===============================================================================
+
+1. Pointing toward the star inside the cone
+   - Enter at the outer end while moving away
+
+2. Treating a white dwarf like a neutron star
+   - White dwarfs are riskier and only give 1.5× in Legacy
+
+3. Leaving after the first warning
+   - Wait for FRAME SHIFT DRIVE SUPERCHARGED
+
+4. Forgetting the Fuel Scoop
+   - It is required for supercharging
+
+5. Forgetting neutrons do not refuel the tank
+   - Divert to KGBFOAM regularly
+
+6. Letting FSD integrity fall below 80%
+   - Repair around 90%
+
+7. Repairing FSD in supercruise
+   - Drop to normal space first
+
+8. Assuming the AFMU repairs hull
+   - Use Repair Limpets or a port
+
+9. Assuming the AFMU repairs Power Plant
+   - Use a port
+
+10. Plotting Bubble to Colonia in one in-game route
+    - Legacy route limit is about 20,000 LY; use multiple legs
+
+11. Using empty-tank range in a route planner
+    - Use current laden range
+
+12. Continuing while tired
+    - Stop at a port or safe normal space
+
+===============================================================================
+BEFORE LEAVING THE BUBBLE
+===============================================================================
+
+[ ] Engineer the Frame Shift Drive
+[ ] Apply FSD Experimental Effect
+[ ] Unlock and fit Guardian FSD Booster
+[ ] Fit large A-rated Fuel Scoop
+[ ] Fit and test AFMU
+[ ] Fit Detailed Surface Scanner
+[ ] Fit small shield
+[ ] Consider Repair Limpets
+[ ] Consider SRV
+[ ] Consider Heat Sink Launcher
+[ ] Stock synthesis materials
+[ ] Repair hull and all modules to 100%
+[ ] Refill AFMU and Heat Sinks
+[ ] Remove unnecessary cargo
+[ ] Keep rebuy credits
+[ ] Practice at Jackson's Lighthouse
+[ ] Pin important Bubble engineer blueprints
+[ ] Complete any Bubble referrals needed for Colonia engineers
+
+===============================================================================
+ARRIVING IN COLONIA
+===============================================================================
+
+Recommended first destination:
+
+    Jaques Station
+    Colonia
+
+On arrival:
+
+1. Dock.
+2. Repair hull.
+3. Repair all modules.
+4. Repair Power Plant.
+5. Refill AFMU ammunition.
+6. Restock limpets and Heat Sinks.
+7. Sell exploration data.
+8. Check Colonia engineer invitation progress.
+9. Review outfitting before starting another expedition.
+
+Do not assume every Bubble module is available locally.
+
+===============================================================================
+QUICK REFERENCE
+===============================================================================
+
+Neutron boost:
+- 4× normal range
+- One jump
+
+White-dwarf boost:
+- 1.5× normal range
+- Usually not worth the risk
+
+FSD damage:
+- Roughly 1% per supercharge
+
+Repair:
+- Repair FSD at about 90%
+- Avoid going below 80%
+
+AFMU:
+- Repairs modules
+- Does not repair hull, Power Plant or itself
+
+Hull:
+- Repair Limpets or port
+
+Fuel:
+- KGB FOAM
+
+Route:
+- Fastest Routes
+- Use Jet-Cone Boost
+- Include Non-Sequence stars
+- Plot in multiple legs
+
+Safe entry:
+- Outer third of cone
+- Shallow angle
+- Moving away from star
+
+Never:
+- Drop inside the cone
+- Repair FSD in supercruise
+- Assume neutron stars provide fuel
+- Continue with badly damaged FSD
+
+===============================================================================
+MASTER CHECKLIST
+===============================================================================
+
+SHIP
+
+[ ] A-rated engineered FSD
+[ ] Large A-rated Fuel Scoop
+[ ] Guardian FSD Booster
+[ ] AFMU
+[ ] Detailed Surface Scanner
+[ ] Shield
+[ ] Repair Limpet Controller, optional
+[ ] Cargo Rack, optional
+[ ] SRV, optional
+[ ] Heat Sink Launcher, optional
+
+CONDITION
+
+[ ] Hull 100%
+[ ] Power Plant 100%
+[ ] FSD 100%
+[ ] Canopy 100%
+[ ] Fuel full
+[ ] AFMU full
+[ ] Heat Sinks full
+
+MATERIALS
+
+[ ] AFMU refill materials
+[ ] Iron and Nickel for limpets
+[ ] FSD Injection materials
+[ ] Life Support materials
+[ ] SRV materials
+
+ROUTE
+
+[ ] First leg under 20,000 LY
+[ ] Fastest Routes
+[ ] Use Jet-Cone Boost
+[ ] KGBFOAM included
+[ ] Non-Sequence included
+[ ] Midpoint repair stop recorded
+[ ] Final leg to Colonia planned
+
+SKILLS
+
+[ ] Practised neutron entry
+[ ] Know how to use AFMU
+[ ] Know how to synthesize limpets
+[ ] Know how to repair own hull
+[ ] Know how to find fuel stars
+[ ] Know how to use Reboot/Repair
+[ ] Know never to drop inside the cone
+
+===============================================================================
+LEGACY VERIFICATION NOTES
+===============================================================================
+
+This guide uses the stable pre-Update 14 Horizons mechanics retained in Elite
+Dangerous Legacy:
+
+- Neutron boost: +300%, or 4× range
+- White dwarf boost: +50%, or 1.5× range
+- Roughly 1% FSD damage per supercharge
+- FSD malfunction risk below approximately 80%
+- AFMU repairs most modules but not hull, Power Plant or itself
+- Repair Limpets repair hull
+- Use Jet-Cone Boost is available in the Legacy Galaxy Map
+- In-game routes are limited to approximately 20,000 LY
+- Bubble to Colonia is approximately 22,000 LY
+- Original Colonia Connection Highway ports are permanent Horizons locations
+
+Dynamic market stock, Fleet Carrier availability and faction conditions must be
+checked inside the Legacy galaxy.
+
+===============================================================================
+END OF GUIDE
+===============================================================================

@@ -1,0 +1,72 @@
+ELITE DANGEROUS LEGACY CONSOLE
+ZACARIAH NEMO — STANDALONE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+UNLOCK PATH
+===============================================================================
+
+Elvira Martuuk → Zacariah Nemo
+
+Referral engineers normally become known after ranking the preceding
+engineer beyond Grade 3 and making some progress toward Grade 4.
+
+Dynamic mission availability, faction states, commodity supplies and
+rare-good allocations must be checked in the separate Legacy galaxy.
+
+===============================================================================
+9. ZACARIAH NEMO
+===============================================================================
+
+Location:
+- System: Yoru
+- Base: Nemo Cyber Party Base
+
+Discovered from:
+- Elvira Martuuk at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Become Friendly with Party of Yoru
+- Complete their engineer invitation mission
+
+Unlock donation:
+- 25 Xihe Biomorphic Companions
+
+Rare-good source:
+- System: Xihe
+- Station: Zhen Dock
+
+Best reason to unlock:
+- Grade 5 Fragment Cannon
+
+Procedure:
+[ ] Become Friendly with Party of Yoru through missions, trade, bounty
+    redemption or exploration data where available.
+[ ] Check Party of Yoru-controlled mission boards for the invitation mission.
+[ ] Buy Xihe Biomorphic Companions at Zhen Dock.
+[ ] Deliver 25 total to Nemo Cyber Party Base.
+[ ] Rank Nemo as desired.
+
+Rare-good note:
+The station may not sell all 25 in one allocation. Deliver your current cargo
+to Nemo, return to Xihe and repeat.
+
+-------------------------------------------------------------------------------
+
+
+===============================================================================
+STANDALONE CHECKLIST
+===============================================================================
+
+[ ] Engineer discovered or publicly known
+[ ] Meeting requirement completed
+[ ] Invitation or permit obtained, where required
+[ ] Unlock donation collected
+[ ] Donation delivered to the engineer
+[ ] Engineer ranked high enough for desired blueprints or referrals
+[ ] Desired blueprint pinned
+[ ] Required experimental effects applied in person
+
+===============================================================================
+END OF GUIDE
+===============================================================================

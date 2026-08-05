@@ -1,0 +1,87 @@
+Guardian Module Blueprint Farming
+Elite Dangerous Legacy — Xbox and PlayStation
+
+**********************************************************
+
+Purpose
+
+Guardian Module Blueprint Fragments unlock the following standard Guardian modules at a Guardian Technology Broker:
+
+Guardian Frame Shift Drive Booster
+Guardian Module Reinforcement Package
+Guardian Shield Reinforcement Package
+Guardian Hull Reinforcement Package
+Guardian Hybrid Power Plant
+Guardian Hybrid Power Distributor
+
+Each separate module unlock requires one Module Blueprint Fragment. Therefore, collect one for only the FSD Booster, three for the FSD Booster plus the two most useful reinforcement modules, or six to unlock every standard Legacy Guardian module.
+
+**********************************************************
+
+Recommended location
+
+System: Synuefe NL-N c23-4
+Body: B 3
+Site type: Guardian Structure
+Layout: Turtle
+Legacy coordinates: approximately −34.8383, +132.8863
+
+Map the body with a Detailed Surface Scanner and select the Guardian Structure. Do not accidentally land at one of the Ancient Ruins on the same body.
+
+**********************************************************
+
+Bring
+An SRV
+Detailed Surface Scanner
+Fuel scoop
+Small or medium ship
+One or two Point Defence modules mounted on the upper surface
+SRV repair, refuel and ammunition synthesis materials
+Night vision
+A two-SRV hangar is recommended but not mandatory
+
+Top-mounted Point Defence can intercept missiles launched at your SRV while your ship is parked near the structure. Park outside the ruins so your ship does not interfere with the SRV turret.
+
+**********************************************************
+NOTE: There is a map in the same folder this txt file is located called "MAP - Synuefe NL-N c23-4 — B 3 - Module Blueprint site" You can use that to more easily orientate yourself and navigate around the site and find the Pylons. 
+The guide below will refer to a turtle, if you look at the map, the layout of the guaridan stucture looks like a turtle.
+Name differences in the map compared to this file: 
+Circles: Pylons
+Star: is where you deposit the relic after you've Powered up all the pylons, it is also the same location where the Ancient Data terminal is.
+
+
+Blueprint procedure
+1. Land close enough for Point Defence coverage.
+2. Deploy the SRV.
+3. Drive around the structure and destroy the Guardian Sentinels.
+4. Shoot a glowing relic tower.
+5. Scoop the dropped Ancient Relic into the SRV.
+6. Locate the Ancient Data Terminal at the head of the Turtle layout.
+7. Approach the trigger area so the first pylons rise.
+8. Drive to all six pylon positions and make each pylon rise.
+9. Shoot the glowing blue section of every pylon until it is fully charged.
+10. After all six are charged, return to the triangular activation pad in front of the terminal.
+11. Park the SRV over the illuminated pad.
+12. Open the SRV Inventory and jettison one Ancient Relic.
+13. Target the orb that rises from the terminal.
+14. Scan the orb using the SRV Data Link Scanner.
+
+The scan awards one Guardian Module Blueprint Fragment. The timer begins when the first pylon is charged, and each additional charged pylon adds time. The timer disappears once all six are active.
+
+**********************************************************
+
+Farming additional fragments
+
+Return to the main menu and reload in Solo. The puzzle, relics, destructible panels and Sentinels reset.
+
+Repeat the full puzzle once for each additional Module Blueprint Fragment required.
+
+While farming, shoot the targetable destructible panels around the site and scoop:
+
+Guardian Technology Components
+Guardian Power Cells
+Guardian Power Conduits
+Guardian Sentinel Weapon Parts
+Guardian Wreckage Components
+
+Guardian Technology Components are particularly valuable and are often the limiting material for Guardian broker unlocks.

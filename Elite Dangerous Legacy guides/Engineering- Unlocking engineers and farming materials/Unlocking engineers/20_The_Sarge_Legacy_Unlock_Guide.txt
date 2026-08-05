@@ -1,0 +1,68 @@
+ELITE DANGEROUS LEGACY CONSOLE
+THE SARGE — STANDALONE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+UNLOCK PATH
+===============================================================================
+
+Felicity Farseer → Juri Ishmaak → The Sarge
+
+Referral engineers normally become known after ranking the preceding
+engineer beyond Grade 3 and making some progress toward Grade 4.
+
+Dynamic mission availability, faction states, commodity supplies and
+rare-good allocations must be checked in the separate Legacy galaxy.
+
+===============================================================================
+20. THE SARGE
+===============================================================================
+
+Location:
+- System: Beta-3 Tucani
+- Base: The Beach
+
+Discovered from:
+- Juri Ishmaak at approximately Grade 3 to Grade 4
+
+Meeting requirement:
+- Federal Navy rank Midshipman or higher
+
+Unlock donation:
+- 50 Aberrant Shield Pattern Analysis
+
+Best reason to unlock:
+- Grade 5 Cannon
+- Grade 5 Collector, Fuel Transfer, Hatch Breaker and Prospector Limpet
+  Controllers
+
+Fast material method:
+- Use Jameson Crash Site data and an Encoded Material Trader.
+- Trade into Aberrant Shield Pattern Analysis.
+
+Procedure:
+[ ] Reach Federal Navy rank Midshipman.
+[ ] Hold 50 Aberrant Shield Pattern Analysis.
+[ ] Travel to The Beach.
+[ ] Donate the data.
+[ ] Rank The Sarge as desired.
+
+-------------------------------------------------------------------------------
+
+
+===============================================================================
+STANDALONE CHECKLIST
+===============================================================================
+
+[ ] Engineer discovered or publicly known
+[ ] Meeting requirement completed
+[ ] Invitation or permit obtained, where required
+[ ] Unlock donation collected
+[ ] Donation delivered to the engineer
+[ ] Engineer ranked high enough for desired blueprints or referrals
+[ ] Desired blueprint pinned
+[ ] Required experimental effects applied in person
+
+===============================================================================
+END OF GUIDE
+===============================================================================

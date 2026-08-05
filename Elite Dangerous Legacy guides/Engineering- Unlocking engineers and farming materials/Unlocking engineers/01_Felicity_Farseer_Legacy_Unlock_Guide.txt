@@ -1,0 +1,74 @@
+ELITE DANGEROUS LEGACY CONSOLE
+FELICITY FARSEER — STANDALONE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+UNLOCK PATH
+===============================================================================
+
+Starting engineer
+
+Referral engineers normally become known after ranking the preceding
+engineer beyond Grade 3 and making some progress toward Grade 4.
+
+Dynamic mission availability, faction states, commodity supplies and
+rare-good allocations must be checked in the separate Legacy galaxy.
+
+===============================================================================
+1. FELICITY FARSEER
+===============================================================================
+
+Location:
+- System: Deciat
+- Base: Farseer Inc
+
+How she becomes known:
+- Publicly known starting engineer
+
+Meeting requirement:
+- Exploration rank Scout or higher
+
+Unlock donation:
+- 1 Meta-Alloy
+
+Reliable Legacy source:
+- Darnielle's Progress in Maia normally sells Meta-Alloys.
+- Carry at least one tonne of cargo space.
+
+Best reason to unlock:
+- Grade 5 Frame Shift Drive
+- Grade 3 Thrusters
+- Grade 3 Sensors and Detailed Surface Scanner
+
+Procedure:
+[ ] Reach Scout exploration rank.
+[ ] Acquire one Meta-Alloy.
+[ ] Travel to Farseer Inc in Deciat.
+[ ] Donate the Meta-Alloy.
+[ ] Engineer a Frame Shift Drive and rank Felicity to at least Grade 3 plus
+    progress toward Grade 4.
+[ ] Confirm that Juri Ishmaak has been discovered.
+
+Efficiency note:
+A Grade 5 Increased Range FSD makes every later unlock substantially faster.
+Deciat is a well-known player-traffic system; Solo is the safest mode.
+
+-------------------------------------------------------------------------------
+
+
+===============================================================================
+STANDALONE CHECKLIST
+===============================================================================
+
+[ ] Engineer discovered or publicly known
+[ ] Meeting requirement completed
+[ ] Invitation or permit obtained, where required
+[ ] Unlock donation collected
+[ ] Donation delivered to the engineer
+[ ] Engineer ranked high enough for desired blueprints or referrals
+[ ] Desired blueprint pinned
+[ ] Required experimental effects applied in person
+
+===============================================================================
+END OF GUIDE
+===============================================================================

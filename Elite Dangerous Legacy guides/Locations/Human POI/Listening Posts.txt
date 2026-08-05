@@ -1,0 +1,26 @@
+LISTENING POSTS — LEGACY 3.8
+============================
+
+WHAT LISTENING POSTS ARE
+========================
+Listening Posts are scannable space beacons used for environmental-storytelling puzzles.
+Many old Horizons chains use multiple posts: each message supplies partial range/body/coordinate clues that can be combined to locate a wreck, base, 
+megaship or other hidden site.
+
+System         | Nearby Body | Distance from Sol (ly) | What It Is               | What It Leads To / Why Visit                                  
+---------------+-------------+------------------------+--------------------------+---------------------------------------------------------------
+Alpha Centauri | B 1         | 4.38                   | Mystery / clue beacon    | Part of the Alvin Deefer mystery                              
+NLTT 55164     | 2 A         | 26.29                  | Generation Ship clue     | Leads toward Generation Ship Artemis in Mu Cassiopeia         
+58 Eridani     | A 1         | 43.33                  | Derelict cargo-ship clue | Leads to Samson-class bulk cargo ship Nemb in LP 892-51       
+Bhadaba        | 6           | 56.70                  | Crash-site clue          | Leads to Stargazer crash site in HIP 16378                    
+Bilfrost       | AB 2        | 101.43                 | Generation Ship clue     | Leads to Lazarus Expedition in Virudnir                       
+Belispel       | A 3         | 133.77                 | Abandoned-site clue      | Leads to Orion's Folly in Col 285 Sector UZ-O c6-9            
+Chukchan       | 5 B         | 158.64                 | Ghost-ship clue chain    | Starts/continues Hesperus clue chain                          
+Cerritics      | 2           | 169.10                 | Shipwreck clue           | Leads to Ariane's Pride in HIP 32001                          
+5 Chi Lupi     | 1           | 195.16                 | Research-facility clue   | Leads to Research Facility 5592 in HR 5991                    
+42 N Persei    | A 7         | 268.47                 | Survey-vessel clue       | Leads to Survey Vessel Pandora in HIP 21478                   
+Celaeno        | 1           | 377.10                 | Derelict megaship clue   | Leads to Hogan-class bulk cargo ship PTK-179 'Aida' in Electra
+Batar A 1      | A 1         | —                      | Crashed-ship clue        | Leads to crashed Anaconda in Koli Discii                      
+Chipi          | 1 A         | —                      | Crashed-ship clue        | Leads to crashed Anaconda in Koli Discii                      
+
+

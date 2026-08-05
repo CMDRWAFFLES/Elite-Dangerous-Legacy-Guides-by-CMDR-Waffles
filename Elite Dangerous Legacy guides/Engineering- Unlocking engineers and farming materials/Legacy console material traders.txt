@@ -1,0 +1,1650 @@
+ELITE DANGEROUS LEGACY CONSOLE - MATERIAL TRADERS
+
+Snapshot: EDDB stations, 22 August 2022
+Legacy-compatible entries: 1,634
+Raw: 677 | Manufactured: 539 | Encoded: 418
+Distances are straight-line light-years from Sol.
+
++-------------+-----------------------------+--------------------------------+--------------+
+| Sol distance | System                      | Station                        | Trader type  |
++-------------+-----------------------------+--------------------------------+--------------+
+|        8.59 | Sirius                      | Patterson Enterprise           | Raw          |
+|       11.10 | EZ Aquarii                  | Magnus Gateway                 | Encoded      |
+|       11.37 | 61 Cygni                    | Broglie Terminal               | Manufactured |
+|       12.07 | YZ Ceti                     | Clement Orbital                | Encoded      |
+|       13.08 | Kruger 60                   | Kepler Gateway                 | Encoded      |
+|       13.85 | LHS 380                     | Qureshi Orbital                | Raw          |
+|       15.39 | V1581 Cygni                 | Peary Dock                     | Manufactured |
+|       19.09 | Bhritzameno                 | Feynman Terminal               | Encoded      |
+|       19.71 | 82 Eridani                  | Bresnik Port                   | Manufactured |
+|       19.93 | Delta Pavonis               | Hooper Relay                   | Raw          |
+|       20.13 | Struve 1321                 | Apt Station                    | Manufactured |
+|       20.19 | EQ Pegasi                   | Merbold Ring                   | Encoded      |
+|       20.24 | LTT 3572                    | Horowitz Hub                   | Manufactured |
+|       20.62 | Saktsak                     | Bursch Enterprise              | Encoded      |
+|       21.54 | Gommat                      | Cayley Dock                    | Manufactured |
+|       21.87 | Carener                     | Butz Port                      | Encoded      |
+|       22.18 | LHS 3836                    | Gell-Mann Station              | Manufactured |
+|       24.57 | Haghole                     | Messerschmid City              | Manufactured |
+|       24.59 | George Pantazis             | Zamka Platform                 | Raw          |
+|       24.94 | Ross 490                    | Dunyach Enterprise             | Encoded      |
+|       26.32 | Tabit                       | Haber City                     | Manufactured |
+|       26.80 | LHS 3885                    | Alvarado Ring                  | Encoded      |
+|       28.41 | LHS 200                     | Tsunenaga Port                 | Manufactured |
+|       28.69 | WISE 1800+0134              | Underwood Dock                 | Manufactured |
+|       28.85 | Ross 695                    | Bresnik Orbital                | Encoded      |
+|       28.93 | LHS 2429                    | Acaba Dock                     | Manufactured |
+|       28.94 | Nanomam                     | Gresley Dock                   | Encoded      |
+|       29.05 | V374 Pegasi                 | MacKellar Hub                  | Raw          |
+|       29.10 | LHS 235                     | Shatalov Gateway               | Encoded      |
+|       29.87 | Hyroks                      | Watson Horizons                | Encoded      |
+|       30.27 | LHS 1339                    | Bosch City                     | Manufactured |
+|       30.27 | Ross 33                     | Crown City                     | Manufactured |
+|       30.59 | LHS 215                     | Spring Gateway                 | Encoded      |
+|       32.30 | LFT 69                      | Anning Enterprise              | Encoded      |
+|       32.59 | L 26-27                     | McCoy City                     | Manufactured |
+|       32.84 | LHS 115                     | Aleksandrov Gateway            | Encoded      |
+|       32.97 | Slink's Eye                 | Kelleam Ring                   | Manufactured |
+|       33.06 | Mombaluma                   | Leavitt Orbital                | Manufactured |
+|       33.10 | LB 3303                     | Poindexter Horizons            | Manufactured |
+|       33.18 | Tollan                      | Gordon Plant                   | Manufactured |
+|       33.65 | LHS 1446                    | Blalock Orbital                | Encoded      |
+|       33.73 | LHS 262                     | Boodt Port                     | Encoded      |
+|       33.99 | LHS 54                      | Nelson Dock                    | Manufactured |
+|       34.45 | Wolf 636                    | Nikolayev Dock                 | Manufactured |
+|       34.49 | Byel Taca                   | Melroy Horizons                | Manufactured |
+|       34.93 | Scori                       | Lonchakov Gateway              | Manufactured |
+|       35.03 | LTT 1678                    | Vishweswarayya Station         | Manufactured |
+|       35.10 | BD+02 305                   | Swainson Station               | Encoded      |
+|       35.67 | Bolg                        | Moxon's Mojo                   | Encoded      |
+|       35.98 | Sekhenses                   | Herzfeld Hub                   | Manufactured |
+|       36.22 | LP 715-52                   | Melnick Ring                   | Encoded      |
+|       36.24 | Segais                      | Bates Orbital                  | Encoded      |
+|       36.25 | LP 205-44                   | Kaku Horizons                  | Raw          |
+|       36.33 | Corbenic                    | Hertz City                     | Manufactured |
+|       36.70 | Ross 85                     | Mohmand Station                | Encoded      |
+|       37.47 | LHS 2037                    | Meikle Dock                    | Encoded      |
+|       37.89 | GQ Virginis                 | Ray Enterprise                 | Encoded      |
+|       38.39 | DS Leonis                   | Grandin Terminal               | Encoded      |
+|       38.67 | FT Piscium                  | Feynman City                   | Raw          |
+|       38.97 | G 173-53                    | McArthur Landing               | Raw          |
+|       39.75 | LHS 2106                    | Gooch Vision                   | Encoded      |
+|       40.10 | LFT 142                     | Rozhdestvensky Dock            | Manufactured |
+|       40.25 | LHS 3295                    | Yang Hub                       | Encoded      |
+|       40.26 | LP 336-4                    | Bolotov City                   | Manufactured |
+|       40.72 | LFT 424                     | Coke Dock                      | Manufactured |
+|       40.75 | Fionn                       | Currie Enterprise              | Encoded      |
+|       40.79 | LHS 3577                    | Elgin Terminal                 | Encoded      |
+|       40.82 | LHS 246                     | Gooch Terminal                 | Manufactured |
+|       41.65 | Medb                        | Vela Dock                      | Manufactured |
+|       41.84 | LP 462-19                   | Tarelkin Dock                  | Manufactured |
+|       41.95 | Furbaide                    | Effinger Port                  | Manufactured |
+|       42.36 | G 139-3                     | O'Connor Dock                  | Manufactured |
+|       42.38 | LFT 174                     | Berezovoy Gateway              | Encoded      |
+|       42.53 | Mikir                       | Payette Settlement             | Raw          |
+|       42.90 | Eme                         | Pausch City                    | Manufactured |
+|       42.92 | LHS 1197                    | Chretien Terminal              | Encoded      |
+|       42.92 | LP 390-16                   | Readdy Orbital                 | Encoded      |
+|       43.03 | LP 672-42                   | Piercy City                    | Manufactured |
+|       43.50 | LP 255-11                   | Burbank Port                   | Manufactured |
+|       44.44 | LHS 28                      | Flade Enterprise               | Encoded      |
+|       44.76 | Iota Piscium                | Virts City                     | Encoded      |
+|       44.89 | ZZ Piscium                  | Buffett Survey                 | Encoded      |
+|       44.95 | Wolf 1373                   | Allen Refinery                 | Manufactured |
+|       44.99 | LHS 350                     | al-Haytham Enterprise          | Raw          |
+|       45.23 | Huokang                     | Steiner City                   | Encoded      |
+|       45.31 | Abi                         | Grechko Dock                   | Raw          |
+|       45.34 | San Tu                      | Chomsky Terminal               | Encoded      |
+|       45.56 | 10 Tauri                    | Clairaut City                  | Manufactured |
+|       45.81 | Fusang                      | Cleve Vision                   | Encoded      |
+|       46.03 | Alrai                       | Bounds Hub                     | Encoded      |
+|       46.55 | LFT 1103                    | Kirk Ring                      | Encoded      |
+|       46.93 | Wolf 906                    | Herbert Dock                   | Encoded      |
+|       47.58 | BD+41 1865                  | Cori City                      | Encoded      |
+|       47.81 | Quapa                       | Grabe Dock                     | Manufactured |
+|       48.26 | Jaburara                    | Reynolds Hub                   | Manufactured |
+|       48.54 | G 141-52                    | Chilton Co-operative           | Raw          |
+|       48.56 | G 190-28                    | Guidoni Dock                   | Encoded      |
+|       48.70 | LHS 6028                    | Tryggvason Orbital             | Manufactured |
+|       48.86 | Nanabozho                   | Lamarck Orbital                | Encoded      |
+|       48.90 | Kunggi                      | Vesalius City                  | Encoded      |
+|       50.36 | m Tauri                     | Garay City                     | Manufactured |
+|       50.36 | LHS 20                      | Ohm City                       | Encoded      |
+|       50.40 | LU Velorum                  | Miletus Station                | Encoded      |
+|       50.52 | LHS 1212                    | Bramah Port                    | Encoded      |
+|       50.58 | AZ Cancri                   | Fisher Station                 | Encoded      |
+|       50.94 | LP 906-9                    | Hertz Orbital                  | Encoded      |
+|       51.43 | Arth                        | Midgeley Dock                  | Encoded      |
+|       52.28 | Marici                      | Gidzenko Dock                  | Manufactured |
+|       52.32 | Ross 1008                   | Yamazaki Hub                   | Manufactured |
+|       52.33 | Shapash                     | Frick Refinery                 | Manufactured |
+|       52.50 | Meliae                      | Whitson Hub                    | Manufactured |
+|       52.58 | LP 908-11                   | So-yeon City                   | Encoded      |
+|       52.60 | LFT 625                     | Fox Enterprise                 | Encoded      |
+|       53.11 | LHS 277                     | Rowley Port                    | Manufactured |
+|       53.34 | Ross 720                    | Raleigh Orbital                | Manufactured |
+|       53.45 | G 180-18                    | Hale Port                      | Raw          |
+|       53.65 | Sekhemet                    | Nasmyth Station                | Manufactured |
+|       53.79 | HN Bootis                   | Duckworth Orbital              | Manufactured |
+|       53.98 | V886 Centauri               | Tanner City                    | Manufactured |
+|       54.32 | LHS 317                     | Northrop Port                  | Manufactured |
+|       54.33 | LHS 2764a                   | Low Orbital                    | Raw          |
+|       54.35 | G 138-40                    | Leonov Dock                    | Manufactured |
+|       54.36 | Balatu                      | Haise Dock                     | Raw          |
+|       54.57 | Muth                        | Gutierrez Hub                  | Manufactured |
+|       54.80 | Mitra                       | Volterra Horizons              | Manufactured |
+|       54.84 | BD+75 58                    | Stephenson Station             | Encoded      |
+|       55.20 | Saranyu                     | Gurney Enterprise              | Raw          |
+|       55.27 | LP 620-3                    | Jensen Enterprise              | Manufactured |
+|       55.28 | LP 340-547                  | Pauli Orbital                  | Manufactured |
+|       55.28 | LHS 2430                    | Dana City                      | Manufactured |
+|       55.30 | LP 291-34                   | Garratt City                   | Raw          |
+|       55.44 | Neto                        | Ising Vision                   | Encoded      |
+|       55.57 | LHS 446                     | Ryazanski Terminal             | Manufactured |
+|       55.59 | LHS 191                     | Zamka Station                  | Manufactured |
+|       55.79 | Nagnatae                    | Howard City                    | Manufactured |
+|       56.22 | Varayah                     | Lind Terminal                  | Manufactured |
+|       56.85 | Wailladyan                  | Bass Port                      | Encoded      |
+|       57.19 | Kokojina                    | Ali Ring                       | Encoded      |
+|       57.22 | LHS 3615                    | Wrangell Port                  | Manufactured |
+|       57.50 | Kachian                     | Goddard Station                | Encoded      |
+|       57.50 | LFT 820                     | Michelson Hub                  | Manufactured |
+|       57.85 | Wu Kuku                     | Al Saud Terminal               | Encoded      |
+|       58.16 | LHS 3923                    | Kadenyuk Station               | Manufactured |
+|       58.23 | Kairos                      | Boodt Dock                     | Manufactured |
+|       59.29 | Vertumnus                   | Rawn City                      | Manufactured |
+|       59.32 | LP 834-42                   | Moisuc Dock                    | Manufactured |
+|       59.51 | Bunuras                     | Noguchi Enterprise             | Manufactured |
+|       59.54 | G 5-32                      | Kovalyonok Landing             | Manufactured |
+|       59.68 | LHS 21                      | Quimper Ring                   | Encoded      |
+|       60.31 | Delta Equulei               | Bisson Hub                     | Manufactured |
+|       60.41 | LHS 1663                    | Frobisher City                 | Encoded      |
+|       60.42 | LFT 133                     | Sullivan Dock                  | Raw          |
+|       60.44 | San Qin Gu                  | Sinclair Colony                | Manufactured |
+|       60.50 | Lamaku                      | Northrop City                  | Manufactured |
+|       60.51 | LHS 2995                    | Schmitt Station                | Encoded      |
+|       61.51 | LP 375-25                   | King Gateway                   | Raw          |
+|       61.51 | Kala                        | Pauling City                   | Manufactured |
+|       61.57 | LFT 42                      | Bennett Vision                 | Manufactured |
+|       61.89 | LFT 926                     | Meredith City                  | Encoded      |
+|       62.19 | Ross 733                    | Strekalov Gateway              | Raw          |
+|       62.39 | Bhotega                     | Savitskaya Ring                | Manufactured |
+|       62.62 | LP 121-41                   | Kennan Co-operative            | Manufactured |
+|       62.72 | BD+27 1739                  | Dyomin Terminal                | Encoded      |
+|       62.88 | LTT 16522                   | Bluford Dock                   | Manufactured |
+|       62.88 | Ditia                       | Arkwright City                 | Encoded      |
+|       63.10 | LHS 184                     | Tarski Port                    | Manufactured |
+|       63.10 | Ross 878                    | Jakes Enterprise               | Encoded      |
+|       63.17 | Perkunas                    | Murdoch City                   | Encoded      |
+|       63.46 | Ngolibardu                  | Vernadsky Port                 | Manufactured |
+|       63.58 | Panoi                       | Garan Hub                      | Manufactured |
+|       63.64 | LHS 2094                    | Patterson Vision               | Manufactured |
+|       63.76 | 45 c Bootis                 | Ride Hub                       | Encoded      |
+|       63.84 | 16 c Ursae Majoris          | Daimler Station                | Encoded      |
+|       63.93 | Chaac                       | Lem Dock                       | Manufactured |
+|       63.96 | Bragurom Du                 | Pellegrino Station             | Encoded      |
+|       64.13 | Aryak                       | Garneau Port                   | Manufactured |
+|       64.19 | Wolf 1409                   | Zamka Terminal                 | Manufactured |
+|       64.20 | Liu Baja                    | Ray Dock                       | Raw          |
+|       64.99 | Belarsuk                    | Kurland Hub                    | Encoded      |
+|       65.22 | LHS 2771                    | Sarafanov Vision               | Encoded      |
+|       65.22 | LHS 3384                    | Michelson Gateway              | Raw          |
+|       65.31 | Skollung                    | Melvin Hub                     | Encoded      |
+|       65.36 | Zosia                       | Sharp Enterprise               | Encoded      |
+|       65.90 | Ross 478                    | Carson Hub                     | Manufactured |
+|       65.96 | LHS 2948                    | Higginbotham Port              | Manufactured |
+|       66.01 | LHS 2651                    | Kennan Dock                    | Encoded      |
+|       66.26 | LTT 2396                    | Galton Vision                  | Manufactured |
+|       66.29 | Neche                       | Descartes Station              | Encoded      |
+|       66.35 | Kharinda                    | Chadwick Orbital               | Raw          |
+|       66.42 | Mazahuanses                 | Messerschmid Orbital           | Encoded      |
+|       66.74 | BD+03 2279                  | Smith Hub                      | Manufactured |
+|       67.40 | V2213 Ophiuchii             | de Andrade Dock                | Manufactured |
+|       67.54 | LHS 529                     | Stiegler Dock                  | Raw          |
+|       67.76 | Julanggarri                 | Willis City                    | Manufactured |
+|       67.94 | G 139-50                    | Filipchenko City               | Encoded      |
+|       67.97 | LFT 300                     | Wedge Hangar                   | Manufactured |
+|       68.06 | Ye'kuape                    | Bobko Hub                      | Manufactured |
+|       68.08 | 9 Ceti                      | Fanning Vision                 | Encoded      |
+|       68.18 | Wolf 324                    | Weber Port                     | Manufactured |
+|       68.33 | Ross 835                    | Dobrovolskiy City              | Encoded      |
+|       68.33 | Pacana                      | Savitskaya Terminal            | Manufactured |
+|       68.60 | Rhea                        | Ito Orbital                    | Encoded      |
+|       68.99 | Fong Wang                   | Schachner Dock                 | Manufactured |
+|       69.09 | LHS 2494                    | Ivanishin City                 | Manufactured |
+|       69.15 | Ho Parerme                  | Finney City                    | Manufactured |
+|       69.68 | 40 Leonis                   | Goeschke Horizons              | Manufactured |
+|       70.20 | Gladutjin                   | Chadwick Port                  | Encoded      |
+|       70.21 | Anu                         | Lichtenberg Terminal           | Manufactured |
+|       70.61 | Kremainn                    | Wohler Terminal                | Manufactured |
+|       70.90 | LFT 78                      | Coye Orbital                   | Manufactured |
+|       70.91 | Salibal                     | Alpers City                    | Manufactured |
+|       71.03 | Arigens                     | Ordway Ring                    | Manufactured |
+|       71.37 | Apala                       | Wilson City                    | Encoded      |
+|       71.39 | Luan Yun Di                 | Gaiman Dock                    | Manufactured |
+|       71.65 | LTT 9795                    | Smith Port                     | Manufactured |
+|       71.82 | LP 460-60                   | Julian Enterprise              | Manufactured |
+|       71.98 | Capukanga                   | Melnick Station                | Raw          |
+|       72.18 | LHS 1228                    | Cooper City                    | Manufactured |
+|       72.19 | NLTT 34715                  | McAllaster Terminal            | Raw          |
+|       72.20 | Timbalderis                 | Levi-Montalcini Gateway        | Raw          |
+|       72.32 | Berzitibi                   | Whitworth Gateway              | Raw          |
+|       72.48 | Vetta                       | Bobko Terminal                 | Manufactured |
+|       72.49 | GD 1192                     | Melvin Hub                     | Raw          |
+|       72.50 | LP 355-65                   | Barba Ring                     | Raw          |
+|       72.51 | LP 580-33                   | Shkaplerov Ring                | Encoded      |
+|       72.57 | Sak Nicopa                  | Pauli Settlement               | Manufactured |
+|       72.63 | NLTT 44958                  | Anderson Orbital               | Manufactured |
+|       72.68 | HK Aquarii                  | Leestma Enterprise             | Manufactured |
+|       72.97 | BD+40 2903                  | Hahn Dock                      | Encoded      |
+|       73.38 | CD-46 14401                 | Klein Enterprise               | Encoded      |
+|       73.47 | BD+28 4660                  | Somerset Enterprise            | Manufactured |
+|       74.09 | LHS 2931                    | Lee Station                    | Encoded      |
+|       74.11 | LP 167-71                   | Ziemianski Dock                | Manufactured |
+|       74.13 | StHA 181                    | Andreas Hub                    | Manufactured |
+|       74.44 | Tavgi                       | Gordon Enterprise              | Encoded      |
+|       74.51 | Maljenni                    | Bowersox Enterprise            | Encoded      |
+|       74.59 | LTT 6563                    | Leeuwenhoek Hub                | Encoded      |
+|       74.62 | Monoto                      | Reed Dock                      | Raw          |
+|       75.09 | LTT 1349                    | Lundwall City                  | Encoded      |
+|       75.15 | HR 6828                     | Celsius Hub                    | Encoded      |
+|       75.53 | Sungai                      | Willis Station                 | Manufactured |
+|       75.82 | LP 685-43                   | Lie Ring                       | Encoded      |
+|       75.83 | G 166-21                    | Lagrange Dock                  | Manufactured |
+|       75.85 | V749 Herculis               | Pauling Gateway                | Encoded      |
+|       75.86 | LP 60-205                   | Kneale Ring                    | Encoded      |
+|       75.87 | LTT 17156                   | Kimberlin Orbital              | Encoded      |
+|       76.06 | StKM 1-616                  | Davy Gateway                   | Raw          |
+|       76.13 | Frendan                     | Adams Dock                     | Manufactured |
+|       76.14 | Tauernonese                 | Wakata Port                    | Raw          |
+|       76.57 | Heveri                      | Wiberg Hub                     | Manufactured |
+|       76.97 | Inktasa                     | Oleskiw Station                | Manufactured |
+|       77.04 | WW Piscis Austrini          | Ivins Vision                   | Encoded      |
+|       77.09 | LTT 9156                    | Korolev Hub                    | Encoded      |
+|       77.17 | Yorua                       | Blackwell Hub                  | Manufactured |
+|       77.26 | Winiama                     | Bowersox Port                  | Raw          |
+|       77.64 | Ross 112                    | Egan Orbital                   | Encoded      |
+|       77.64 | LTT 12360                   | Benyovszky Terminal            | Encoded      |
+|       77.65 | LTT 14019                   | Ballard Gateway                | Encoded      |
+|       77.67 | Kappa Phoenicis             | Filipchenko Hub                | Raw          |
+|       77.68 | Mabe                        | Cummings Port                  | Encoded      |
+|       77.69 | NLTT 16389                  | Wrangell Dock                  | Manufactured |
+|       77.75 | Llyr                        | Baraniecki Vision              | Encoded      |
+|       77.85 | Amarak                      | Vela Port                      | Encoded      |
+|       78.07 | Nandh                       | Nemere Terminal                | Manufactured |
+|       78.13 | CPD-51 3323                 | Tuan Dock                      | Raw          |
+|       78.20 | Cama Zotz                   | Stanier Gateway                | Encoded      |
+|       78.41 | Ao Qin                      | Brunner Horizons               | Encoded      |
+|       78.41 | Hoder                       | Jacquard Orbital               | Raw          |
+|       78.57 | Huichi                      | Collins Station                | Manufactured |
+|       78.59 | Yakabugai                   | Serebrov Station               | Manufactured |
+|       78.69 | Esumindii                   | Nourse City                    | Encoded      |
+|       78.72 | FT Ceti                     | Greenland City                 | Manufactured |
+|       78.92 | Gliese 563.1                | Matteucci Ring                 | Manufactured |
+|       78.97 | CPD-70 2439                 | Weyn Dock                      | Manufactured |
+|       79.23 | Namte                       | Johnson Orbital                | Manufactured |
+|       79.42 | Ngalkin                     | Frechet Station                | Encoded      |
+|       79.55 | LHS 2637                    | Perez Ring                     | Encoded      |
+|       79.56 | Akheilos                    | Smith City                     | Manufactured |
+|       79.58 | BD+55 570                   | Ray Orbital                    | Manufactured |
+|       79.58 | BZ Ceti                     | Coleman Ring                   | Manufactured |
+|       79.83 | NLTT 11599                  | Babakin Terminal               | Encoded      |
+|       79.88 | Docleachi                   | al-Haytham Station             | Manufactured |
+|       79.96 | MCC 858                     | Rennie City                    | Manufactured |
+|       80.09 | Catuntinigi                 | Hui Enterprise                 | Encoded      |
+|       80.39 | Tzu I                       | Howard Enterprise              | Manufactured |
+|       80.67 | Bhumatz                     | Cabrera Terminal               | Raw          |
+|       80.69 | BD+87 118                   | Patrick Ring                   | Raw          |
+|       80.82 | HDS 1879                    | Shaikh Dock                    | Manufactured |
+|       80.86 | Kayimali                    | Schweickart Enterprise         | Raw          |
+|       80.87 | BD+23 2640                  | Wagner Dock                    | Manufactured |
+|       80.90 | LO Pegasi                   | Garcia Station                 | Encoded      |
+|       80.92 | Mehet                       | Schwann Dock                   | Encoded      |
+|       80.96 | Gorgon                      | Ray Hub                        | Manufactured |
+|       80.98 | BD+07 2008                  | Sarrantonio Ring               | Manufactured |
+|       81.07 | Hun Chonses                 | Al-Khalili Hub                 | Manufactured |
+|       81.48 | Zandu                       | Vaucanson Hub                  | Encoded      |
+|       81.51 | LTT 5855                    | Knipling Enterprise            | Raw          |
+|       81.56 | LP 128-32                   | Bulychev Hub                   | Encoded      |
+|       81.56 | Duwaredari                  | Scott Dock                     | Manufactured |
+|       81.56 | LHS 4046                    | Malchiodi Port                 | Encoded      |
+|       81.58 | LHS 6027                    | Joliot-Curie Station           | Raw          |
+|       81.59 | Lalande 30699               | Filipchenko Gateway            | Encoded      |
+|       81.98 | Kwattrages                  | Roentgen Port                  | Manufactured |
+|       82.14 | LHS 2875                    | Kerwin Horizons                | Encoded      |
+|       82.26 | Macoceleuta                 | Watson Hub                     | Raw          |
+|       82.31 | LHS 3666                    | Meyrink Orbital                | Encoded      |
+|       82.49 | MCC 686                     | Smith City                     | Manufactured |
+|       82.50 | Telmarch                    | Beliaev Dock                   | Manufactured |
+|       82.71 | LTT 4376                    | Goulart Vision                 | Manufactured |
+|       83.04 | 68 Eridani                  | Voss Dock                      | Encoded      |
+|       83.14 | LTT 15899                   | Kekule Orbital                 | Raw          |
+|       83.34 | Fular                       | Kotov Orbital                  | Encoded      |
+|       83.39 | GD 175                      | Wegener Terminal               | Encoded      |
+|       83.41 | Hooriayan                   | Davis Port                     | Manufactured |
+|       83.48 | Kistha                      | Elion City                     | Manufactured |
+|       83.61 | Gl 606.1 B                  | Harvey Ring                    | Manufactured |
+|       83.78 | BD+02 4718                  | Abernathy Enterprise           | Encoded      |
+|       83.82 | Corn Pin                    | Boodt Terminal                 | Manufactured |
+|       83.91 | Cromovit                    | Watts Installation             | Manufactured |
+|       84.12 | Du Shenge                   | Moore Orbital                  | Manufactured |
+|       84.16 | LHS 3067                    | Glenn Station                  | Raw          |
+|       84.28 | Jadlillke                   | Markham Orbital                | Encoded      |
+|       84.52 | Hualarna                    | Foda Plant                     | Manufactured |
+|       84.54 | Peneng Wa                   | Szameit Ring                   | Encoded      |
+|       84.67 | CPD-59 314                  | Helin Hub                      | Encoded      |
+|       84.72 | LTT 15574                   | Haxel Port                     | Raw          |
+|       84.79 | Nagarlaw                    | Crown Dock                     | Manufactured |
+|       84.88 | Ghimr                       | Kingsmill Hub                  | Manufactured |
+|       84.90 | Lidpar                      | Carlisle Station               | Encoded      |
+|       84.93 | LTT 14850                   | Franklin Vision                | Encoded      |
+|       85.19 | Wolf 406                    | Hamilton Gateway               | Encoded      |
+|       85.21 | Guragwe                     | Onizuka Ring                   | Manufactured |
+|       85.30 | Ross 754                    | Dana Gateway                   | Raw          |
+|       85.39 | Ba Po                       | Mullane Mines                  | Raw          |
+|       85.57 | Mundii                      | Elder Hub                      | Raw          |
+|       85.64 | HR 7793                     | Benyovszky Ring                | Raw          |
+|       85.70 | Ross 129                    | Yang Hub                       | Raw          |
+|       85.75 | Oshepra                     | Kozeyev Ring                   | Encoded      |
+|       85.99 | Lorden                      | Roentgen Horizons              | Raw          |
+|       86.14 | LTT 7548                    | Boltzmann Gateway              | Encoded      |
+|       86.14 | Tyr                         | Glashow Dock                   | Manufactured |
+|       86.27 | Aasgay                      | Solovyev Hub                   | Raw          |
+|       86.29 | Dalevard                    | Shepherd City                  | Encoded      |
+|       86.46 | Belanit                     | Pavlov Dock                    | Manufactured |
+|       86.50 | 37 Ursae Majoris            | Oppenheimer Dock               | Raw          |
+|       86.52 | Branglal                    | Skripochka Gateway             | Encoded      |
+|       86.65 | BD+55 1142                  | Humphreys Terminal             | Encoded      |
+|       86.71 | Ringardha                   | Lagrange Gateway               | Encoded      |
+|       86.85 | Venux                       | Hughes-Fulford Dock            | Manufactured |
+|       86.85 | G146-60                     | Lee Hub                        | Manufactured |
+|       86.95 | Feige 22                    | Allen Gateway                  | Manufactured |
+|       87.05 | CD-24 5005                  | Hoshi Port                     | Encoded      |
+|       87.27 | LTT 7669                    | Virts Orbital                  | Manufactured |
+|       87.28 | Cenufo                      | Crippen Terminal               | Raw          |
+|       87.28 | Ngombivas                   | Linaweaver Port                | Manufactured |
+|       87.36 | Varpet                      | Gaiman Station                 | Manufactured |
+|       87.39 | Hmargk                      | McKay Dock                     | Raw          |
+|       87.46 | NLTT 2969                   | MacLeod City                   | Encoded      |
+|       87.47 | Oresqu                      | Libby Horizons                 | Manufactured |
+|       87.56 | Beronii                     | Howard Dock                    | Raw          |
+|       87.59 | Putamasin                   | Weil Orbital                   | Manufactured |
+|       87.69 | LHS 3564                    | Froude Enterprise              | Encoded      |
+|       87.73 | 16 Librae                   | Borisenko Station              | Raw          |
+|       87.77 | Largarayu                   | Mills Enterprise               | Raw          |
+|       87.79 | Gigaliep                    | Weston Dock                    | Manufactured |
+|       87.82 | Ho Hsien                    | Dutton Station                 | Encoded      |
+|       88.12 | LHS 3980                    | Gresley Enterprise             | Manufactured |
+|       88.13 | BD+72 545                   | Rangarajan Enterprise          | Manufactured |
+|       88.24 | Komovoy                     | Silves Dock                    | Manufactured |
+|       88.35 | LTT 17102                   | Velazquez Ring                 | Encoded      |
+|       88.39 | HR 5996                     | Bailey Orbital                 | Manufactured |
+|       88.51 | Indrians                    | Silves Port                    | Encoded      |
+|       88.52 | Lindol                      | Stein Terminal                 | Manufactured |
+|       88.59 | Malloc                      | Julian Gateway                 | Manufactured |
+|       88.66 | Juan                        | Lyell Hub                      | Manufactured |
+|       88.76 | Songol                      | Glazkov Gateway                | Manufactured |
+|       88.91 | Perkana                     | Dann Vision                    | Encoded      |
+|       89.17 | Pinouphis                   | Watts Dock                     | Manufactured |
+|       89.18 | Tibitibi                    | Torricelli Station             | Manufactured |
+|       89.21 | LTT 982                     | Lagerkvist Port                | Manufactured |
+|       89.29 | Zaragas                     | Jenner Hub                     | Encoded      |
+|       89.45 | Tukualang                   | Davidson Terminal              | Raw          |
+|       89.50 | Tamalhikas                  | Budarin Terminal               | Manufactured |
+|       89.53 | Lenore                      | Gamow Hub                      | Raw          |
+|       89.53 | 37 Lyncis                   | Rorschach Ring                 | Manufactured |
+|       90.05 | Asgaa                       | Wheeler Horizons               | Encoded      |
+|       90.38 | Cabru                       | Pook City                      | Manufactured |
+|       90.76 | STF 2841                    | Hackworth Orbital              | Encoded      |
+|       90.97 | BD-15 447                   | Good Enterprise                | Manufactured |
+|       91.38 | Andel                       | Sharp Dock                     | Encoded      |
+|       91.46 | Aranka                      | Walker Port                    | Manufactured |
+|       91.54 | Guttun                      | Grover Terminal                | Encoded      |
+|       91.71 | Yimakuapa                   | Frobisher Terminal             | Encoded      |
+|       91.84 | Bagalis                     | Stephenson Port                | Manufactured |
+|       91.86 | Chapsugaibo                 | Schlesinger City               | Raw          |
+|       91.92 | LHS 1832                    | Coney Gateway                  | Encoded      |
+|       92.03 | Quan Gurus                  | Russell Dock                   | Manufactured |
+|       92.22 | Cerno                       | Kanwar Enterprise              | Encoded      |
+|       92.24 | Liu Links                   | Stevin Dock                    | Raw          |
+|       92.29 | V405 Hydrae                 | Tennyson d'Eyncourt Gateway    | Manufactured |
+|       92.46 | Oluf                        | Ayerdhal Port                  | Raw          |
+|       92.47 | Raksaka                     | Trevithick Port                | Manufactured |
+|       92.96 | Acan                        | Phillifent Dock                | Manufactured |
+|       92.97 | Nankul                      | Tombaugh Ring                  | Encoded      |
+|       92.98 | Jupali                      | Blaha Ring                     | Manufactured |
+|       92.99 | Uzumoxii                    | Ferguson Ring                  | Raw          |
+|       93.01 | LP 672-4                    | Newton City                    | Manufactured |
+|       93.02 | G 180-47                    | McCulley Hub                   | Raw          |
+|       93.09 | Freng                       | Bear City                      | Manufactured |
+|       93.12 | Djau                        | Oluwafemi Terminal             | Raw          |
+|       93.15 | Lalande 45292               | Phillips City                  | Manufactured |
+|       93.16 | IV Comae Berenices          | Litke Dock                     | Encoded      |
+|       93.35 | Helgaedi                    | Joliot-Curie Enterprise        | Manufactured |
+|       93.43 | Thiana                      | Gemar Horizons                 | Encoded      |
+|       93.49 | Elska                       | Qurra Dock                     | Encoded      |
+|       93.51 | Beta Caeli                  | Lloyd Port                     | Raw          |
+|       93.53 | Sifjar                      | Herschel Landing               | Raw          |
+|       93.63 | Nyanktona                   | MacKellar Dock                 | Raw          |
+|       93.78 | Alino                       | Hadfield Orbital               | Raw          |
+|       94.19 | Smethells 97                | Cousin Hub                     | Encoded      |
+|       94.29 | Walmiri                     | Virtanen Hub                   | Manufactured |
+|       94.40 | LTT 11655                   | Hodgkin Orbital                | Manufactured |
+|       94.41 | 50 Omega Tauri              | Mondeh Port                    | Raw          |
+|       94.45 | DP Camelopardalis           | Zewail Dock                    | Manufactured |
+|       94.63 | Qama                        | Thurston Ring                  | Encoded      |
+|       94.72 | Gilya                       | Bell Orbital                   | Encoded      |
+|       94.95 | Valtys                      | Oleskiw City                   | Raw          |
+|       95.04 | Naunin                      | MacLeod Hub                    | Manufactured |
+|       95.20 | Seleru Bao                  | Leinster Ring                  | Encoded      |
+|       95.31 | Didarengu                   | Bolotov Gateway                | Raw          |
+|       95.33 | Kalumar                     | Andreas Ring                   | Manufactured |
+|       95.42 | Vaka                        | Zenbei Orbital                 | Encoded      |
+|       95.43 | Nanditi                     | Hale Orbital                   | Manufactured |
+|       95.45 | Tote                        | Whitelaw Enterprise            | Encoded      |
+|       95.54 | LP 350-75                   | Butler Dock                    | Manufactured |
+|       95.54 | Fetill                      | Huygens City                   | Manufactured |
+|       95.55 | LTT 12696                   | Low Orbital                    | Raw          |
+|       95.61 | Wolf 1022                   | McDivitt Port                  | Encoded      |
+|       95.68 | Pemede                      | Leavitt Orbital                | Raw          |
+|       95.74 | Marowalan                   | Carter City                    | Raw          |
+|       96.35 | LTT 1798                    | Gilliland Ring                 | Encoded      |
+|       96.68 | Onyaksas                    | Sadi Carnot Orbital            | Encoded      |
+|       96.75 | HR 692                      | Zindell Gateway                | Encoded      |
+|       96.75 | Svass                       | Maria's Rest                   | Encoded      |
+|       96.84 | Tsondama                    | Trinh Terminal                 | Manufactured |
+|       96.92 | LHS 5116                    | Britnev Dock                   | Manufactured |
+|       97.00 | Hixkar                      | Dobrovolski Gateway            | Manufactured |
+|       97.05 | HERZ 13422                  | Hassanein Hub                  | Encoded      |
+|       97.35 | Cimmerighe                  | Van Scyoc Station              | Manufactured |
+|       97.57 | BD+24 1451                  | Marshburn Terminal             | Encoded      |
+|       97.57 | Skeller                     | Linge Station                  | Raw          |
+|       97.62 | Katocudatta                 | Burke Hub                      | Manufactured |
+|       97.80 | Parenses                    | Dobrovolskiy Ring              | Encoded      |
+|       97.80 | LHS 6326                    | Semeonis Dock                  | Manufactured |
+|       97.84 | Wolf 363                    | Pirsan Station                 | Raw          |
+|       97.97 | Merki                       | Conti Hub                      | Manufactured |
+|       97.97 | Ross 209                    | Janes Terminal                 | Raw          |
+|       98.01 | Manbatz                     | Bretnor Terminal               | Manufactured |
+|       98.08 | Allowair                    | Skripochka Survey              | Raw          |
+|       98.08 | Ryijin                      | Bryant Gateway                 | Manufactured |
+|       98.27 | Dread                       | von Bellingshausen Port        | Manufactured |
+|       98.28 | Tjapan                      | Berezovoy Ring                 | Manufactured |
+|       98.55 | Sons                        | Ross Enterprise                | Encoded      |
+|       98.90 | Yu Di Yi                    | Aksyonov Orbital               | Raw          |
+|       98.91 | Corngari                    | Tedin Station                  | Raw          |
+|       99.01 | Orishis                     | Piccard Dock                   | Manufactured |
+|       99.32 | Lalande 9828                | Adams Orbital                  | Manufactured |
+|       99.35 | Chelmen                     | Emshwiller Hub                 | Encoded      |
+|       99.45 | 25 Nu-2 Draconis            | Avicenna City                  | Manufactured |
+|       99.47 | Lumbla                      | Perrin Ring                    | Raw          |
+|       99.60 | Na Chem                     | Rorschach Horizons             | Encoded      |
+|       99.62 | Muthniu                     | Chargaff Ring                  | Raw          |
+|       99.63 | Nakulha                     | Tucker City                    | Manufactured |
+|       99.68 | CPC 22 212                  | Roed Odegaard City             | Encoded      |
+|       99.69 | Jafnhau                     | Battuta Port                   | Raw          |
+|       99.70 | Pared                       | Reed Station                   | Manufactured |
+|       99.78 | Turir                       | Brooks Terminal                | Encoded      |
+|      100.04 | Una                         | Hoard Orbital                  | Encoded      |
+|      100.11 | NLTT 52560                  | Gresley Orbital                | Encoded      |
+|      100.18 | LTT 2513                    | Kadenyuk Gateway               | Encoded      |
+|      100.22 | Mantuate                    | Marriott Ring                  | Raw          |
+|      100.38 | Andlit                      | Hilmers Ring                   | Encoded      |
+|      100.55 | Meinjhalara                 | Fremont Port                   | Encoded      |
+|      100.76 | Wolf 110                    | Clute City                     | Encoded      |
+|      100.84 | Kuruacani                   | Fujimori Hub                   | Manufactured |
+|      100.89 | Rotanev                     | Ride Ring                      | Encoded      |
+|      100.98 | Kaukamine                   | Vinci Station                  | Encoded      |
+|      100.99 | Utar                        | Melroy City                    | Manufactured |
+|      101.13 | Shenich                     | Wafer Terminal                 | Encoded      |
+|      101.25 | BD+19 2443                  | Clifford Dock                  | Raw          |
+|      101.31 | Alfheim                     | Grant Terminal                 | Manufactured |
+|      101.38 | Imantana                    | Brongniart Orbital             | Manufactured |
+|      101.49 | Latjal                      | Skvortsov Terminal             | Manufactured |
+|      101.53 | Ngugirawa                   | Hadfield Enterprise            | Raw          |
+|      101.56 | Sorbago                     | Hencke Orbital                 | Raw          |
+|      101.58 | LHS 3631                    | Burbank Hub                    | Manufactured |
+|      101.61 | Hmar                        | Wiley Terminal                 | Raw          |
+|      101.63 | Wulpurna                    | Lousma Enterprise              | Manufactured |
+|      101.67 | 35 Leonis                   | Potrykus City                  | Raw          |
+|      101.91 | Lumba                       | Fujimori Orbital               | Manufactured |
+|      101.93 | Awawar                      | Cartwright Orbital             | Encoded      |
+|      102.01 | Tegidana                    | Dickson Settlement             | Raw          |
+|      102.23 | Alano                       | Leestma Port                   | Encoded      |
+|      102.41 | Midgard                     | Rontgen Port                   | Raw          |
+|      102.43 | Kathans                     | Cantor Hub                     | Raw          |
+|      102.46 | 13 Trianguli                | Bartoe Hub                     | Raw          |
+|      102.50 | LTT 9097                    | Fox Gateway                    | Encoded      |
+|      102.69 | Udegoci                     | Kroehl Orbital                 | Encoded      |
+|      102.75 | Ross 706                    | Shatalov Dock                  | Manufactured |
+|      102.81 | Hunbul                      | Hartlib Orbital                | Raw          |
+|      102.83 | Wonneriti                   | Coulomb Terminal               | Raw          |
+|      102.95 | Kaushpoos                   | Neville Horizons               | Encoded      |
+|      103.23 | Disci                       | Snodgrass Orbital              | Encoded      |
+|      103.25 | Banda                       | Poleshchuk Port                | Raw          |
+|      103.31 | Nyoru                       | Bombelli Port                  | Encoded      |
+|      103.37 | Wolf 318                    | Gidzenko Enterprise            | Manufactured |
+|      103.41 | Ragnorak                    | Morgan Orbital                 | Manufactured |
+|      103.42 | RMK 6                       | Zudov Hub                      | Manufactured |
+|      103.49 | Yavapai                     | Virtanen Gateway               | Manufactured |
+|      103.72 | Tai Qing                    | Soto Station                   | Encoded      |
+|      103.72 | La Tenha                    | Rozhdestvensky Horizons        | Encoded      |
+|      103.77 | LTT 1483                    | Hedin Gateway                  | Manufactured |
+|      103.77 | Cantjarisni                 | Cochrane Enterprise            | Encoded      |
+|      103.86 | Kolaga                      | Britnev Hub                    | Encoded      |
+|      103.90 | Changda                     | Bondar Mines                   | Raw          |
+|      104.04 | Conchucos                   | Bereznyak Dock                 | Raw          |
+|      104.20 | Cempsigi                    | Flint Terminal                 | Raw          |
+|      104.49 | Tyrfing                     | Cheli City                     | Manufactured |
+|      104.59 | Har Pahary                  | Leonard Station                | Encoded      |
+|      104.61 | Akuni                       | Vinci Orbital                  | Manufactured |
+|      104.69 | Leucosimha                  | Scott Station                  | Manufactured |
+|      104.75 | Thep No Cha                 | Garay Terminal                 | Raw          |
+|      104.92 | Lenchis                     | Dietz Gateway                  | Manufactured |
+|      104.97 | Hranit                      | Al-Jazari Orbital              | Raw          |
+|      105.07 | CD-82 331                   | Lee Dock                       | Manufactured |
+|      105.22 | ALS 16791                   | Malerba Terminal               | Manufactured |
+|      105.23 | Narri                       | Bobko City                     | Raw          |
+|      105.42 | LTT 7979                    | Steinmuller Gateway            | Raw          |
+|      105.46 | Gladyak                     | Anthony Terminal               | Manufactured |
+|      105.46 | Rio Po                      | Ride Enterprise                | Raw          |
+|      105.52 | Pikum                       | Rushworth Station              | Manufactured |
+|      105.56 | Ngbato                      | Kornbluth Orbital              | Manufactured |
+|      105.84 | GCRV 61007                  | Ohm Dock                       | Manufactured |
+|      105.84 | Omicron Columbae            | Alexander Dock                 | Encoded      |
+|      105.90 | Zosi                        | Citi Enterprise                | Raw          |
+|      106.18 | Mundjiga                    | Sagan Port                     | Encoded      |
+|      106.27 | 109 Piscium                 | Ising Dock                     | Manufactured |
+|      106.38 | Tau-1 Gruis                 | Kelly Station                  | Raw          |
+|      106.40 | Cocorix                     | Miletus Dock                   | Manufactured |
+|      106.49 | Banisas                     | Weyn Ring                      | Encoded      |
+|      106.63 | Kokoller                    | Utley Hub                      | Manufactured |
+|      106.74 | 38 Virginis                 | Bamford Ring                   | Manufactured |
+|      106.89 | Njikan                      | Smeaton Port                   | Encoded      |
+|      106.90 | Bestakas                    | Norton Station                 | Manufactured |
+|      107.00 | Tjindjin                    | Cousin Ring                    | Encoded      |
+|      107.17 | BD+22 2271                  | Wankel Station                 | Raw          |
+|      107.23 | Edanditis                   | Wisoff Port                    | Manufactured |
+|      107.28 | LTT 2337                    | Bowen Terminal                 | Encoded      |
+|      107.29 | Smethells 56                | Moisuc Dock                    | Encoded      |
+|      107.62 | Kalasar                     | Hedley Terminal                | Raw          |
+|      107.65 | Mudhrid                     | Payne-Scott City               | Manufactured |
+|      107.68 | Trumuye                     | Yakovlev Port                  | Raw          |
+|      107.68 | Uzbekree                    | Armstrong City                 | Manufactured |
+|      107.71 | Njulngan                    | Tesla Terminal                 | Raw          |
+|      107.72 | Finteno                     | Kolmogorov Station             | Encoded      |
+|      107.78 | Coriabog                    | Carter Enterprise              | Raw          |
+|      107.86 | Kulingga                    | Vogel Gateway                  | Raw          |
+|      107.99 | Capoos                      | Hirase Enterprise              | Manufactured |
+|      108.04 | Otshirvani                  | Xuanzang Station               | Raw          |
+|      108.22 | Nogatas                     | Wilhelm von Struve Dock        | Raw          |
+|      108.22 | San Muss                    | Fraas Ring                     | Manufactured |
+|      108.24 | Catun                       | Gardner Orbital                | Encoded      |
+|      108.28 | Tsohodiae                   | Navigator Platform             | Manufactured |
+|      108.36 | CD-30 9687                  | Savitskaya Ring                | Manufactured |
+|      108.37 | BD+50 1864                  | Rothman Dock                   | Raw          |
+|      108.49 | LTT 16548                   | Tyson Gateway                  | Encoded      |
+|      108.50 | Baila                       | Celsius Gateway                | Manufactured |
+|      108.56 | Tz'utuls                    | Kanwar Orbital                 | Encoded      |
+|      108.72 | CD-25 636                   | Fieseler Dock                  | Raw          |
+|      108.73 | LTT 5013                    | Margulis Station               | Encoded      |
+|      108.80 | Qi Yomisii                  | Seddon Terminal                | Encoded      |
+|      108.81 | Bango                       | Leiber Orbital                 | Raw          |
+|      108.82 | LP 158-2                    | Winne Ring                     | Manufactured |
+|      109.00 | Sokolsci                    | Manarov Vision                 | Encoded      |
+|      109.01 | Haste                       | Roberts Ring                   | Manufactured |
+|      109.13 | Kokobii                     | Bauman Station                 | Encoded      |
+|      109.44 | LTT 2963                    | Leestma City                   | Manufactured |
+|      109.75 | Lembava                     | Goldstein Port                 | Encoded      |
+|      109.78 | Jambavan                    | Land Orbital                   | Encoded      |
+|      109.87 | Yembo                       | Naddoddur Terminal             | Encoded      |
+|      109.91 | Lalande 27958               | Kirchoff Port                  | Manufactured |
+|      110.08 | MCC 549                     | Biggle Dock                    | Manufactured |
+|      110.17 | Bhotho                      | Baker Holdings                 | Manufactured |
+|      110.23 | CD-54 9671                  | Somayaji Terminal              | Encoded      |
+|      110.27 | Pyemmatsety                 | McKay Settlement               | Raw          |
+|      110.27 | Wulganda                    | Cassidy Orbital                | Raw          |
+|      110.27 | Nervi                       | Savitskaya Vision              | Encoded      |
+|      110.36 | Kulungan                    | Bursch Enterprise              | Manufactured |
+|      110.36 | Haeduwong                   | Bulleid Settlement             | Manufactured |
+|      110.36 | Babas                       | Binder Orbital                 | Manufactured |
+|      110.43 | LTT 11648                   | Wiberg Hub                     | Manufactured |
+|      110.50 | Sherbo                      | Albategnius Terminal           | Raw          |
+|      110.69 | Gaunab                      | Veron Port                     | Raw          |
+|      110.75 | Estae                       | Cogswell Dock                  | Manufactured |
+|      110.95 | CD-34 9020                  | Back Enterprise                | Raw          |
+|      111.03 | 63 Geminorum                | Fairbairn Enterprise           | Raw          |
+|      111.36 | CD-28 12950                 | Keyes Port                     | Encoded      |
+|      111.37 | Sedi                        | Beregovoi Orbital              | Raw          |
+|      111.45 | Arexe                       | Janes Horizons                 | Encoded      |
+|      111.56 | LTT 4961                    | Conway City                    | Encoded      |
+|      111.61 | LP 490-68                   | Shaara Ring                    | Manufactured |
+|      111.83 | Capoya                      | Wilhelm Station                | Manufactured |
+|      111.83 | Har Itariu                  | Grandin City                   | Encoded      |
+|      112.03 | Songlalis                   | Fernandez Gateway              | Manufactured |
+|      112.06 | NLTT 8653                   | Seamans Landing                | Encoded      |
+|      112.07 | Gambara                     | Tarelkin Ring                  | Manufactured |
+|      112.12 | Mu Telescopii               | Weil Orbital                   | Manufactured |
+|      112.14 | Loharii                     | Dorsett Port                   | Encoded      |
+|      112.15 | LTT 15278                   | Zholobov Enterprise            | Encoded      |
+|      112.17 | Kaliki                      | Oren City                      | Encoded      |
+|      112.36 | Kanaheim                    | Sutter Dock                    | Raw          |
+|      112.36 | BD-22 1050                  | Barratt Port                   | Manufactured |
+|      112.39 | Jarowair                    | Julian Hub                     | Raw          |
+|      112.40 | Callici                     | Czerneda Enterprise            | Raw          |
+|      112.54 | BD+11 2925                  | Zajdel Terminal                | Raw          |
+|      112.64 | Ross 491                    | Ozanne Station                 | Raw          |
+|      112.76 | LP 802-68                   | Pausch Enterprise              | Raw          |
+|      112.92 | Kotaition                   | Gardner Landing                | Encoded      |
+|      113.06 | Dongzi                      | Penrose Ring                   | Raw          |
+|      113.15 | Kausan                      | Lyulka Ring                    | Manufactured |
+|      113.29 | Kher                        | Arkwright Port                 | Manufactured |
+|      113.29 | Firenses                    | Roberts Gateway                | Raw          |
+|      113.37 | Arawere                     | Korolyov Hub                   | Raw          |
+|      113.42 | Oisi                        | Sheckley Station               | Encoded      |
+|      113.59 | Soch                        | Whitcomb Ring                  | Encoded      |
+|      113.61 | Thereila                    | Gann Dock                      | Manufactured |
+|      113.65 | Kotigeni                    | Shaw Port                      | Raw          |
+|      113.66 | Aobrogii                    | Thuot Hub                      | Manufactured |
+|      113.77 | Lotia                       | Bass Horizons                  | Raw          |
+|      113.80 | UGP 184                     | Bohrmann Terminal              | Manufactured |
+|      113.84 | Shonpono                    | Tucker Enterprise              | Encoded      |
+|      113.86 | Wong Guin                   | Heiles Terminal                | Encoded      |
+|      114.01 | NLTT 8234                   | Flettner Vision                | Manufactured |
+|      114.13 | Canezti                     | Stewart Port                   | Manufactured |
+|      114.14 | Santjalan                   | Cantor Terminal                | Encoded      |
+|      114.28 | LTT 7488                    | Rubin Vision                   | Encoded      |
+|      114.30 | Aleumoxii                   | Ferguson City                  | Encoded      |
+|      114.32 | Peche                       | Pavlov Station                 | Manufactured |
+|      114.35 | Polahukuna                  | Hardy Dock                     | Manufactured |
+|      114.38 | BD+73 447                   | Johnson City                   | Encoded      |
+|      114.39 | Wiljanherbi                 | Bayliss Enterprise             | Manufactured |
+|      114.42 | Tian Di                     | Hornblower Gateway             | Manufactured |
+|      114.43 | Gabin                       | Shipton Terminal               | Raw          |
+|      114.54 | Pongo                       | Antonelli City                 | Manufactured |
+|      114.60 | CD-26 14379                 | Frimout Terminal               | Manufactured |
+|      114.66 | Jurokkju                    | Nakamura Port                  | Raw          |
+|      114.68 | CD-63 1560                  | Watanabe City                  | Encoded      |
+|      114.76 | Airsetanoa                  | Baturin Orbital                | Manufactured |
+|      114.80 | Kamuti                      | Smith Terminal                 | Raw          |
+|      115.00 | Rauta                       | Giraud Station                 | Encoded      |
+|      115.01 | Thiansi                     | Worlidge Port                  | Encoded      |
+|      115.03 | LTT 6714                    | Lunan Station                  | Encoded      |
+|      115.08 | Kokojawa                    | Tayler Enterprise              | Raw          |
+|      115.15 | Chao Wu                     | Tanaka Port                    | Raw          |
+|      115.22 | LTT 8260                    | Biesbroeck Hub                 | Raw          |
+|      115.28 | Indri                       | Shelley Mines                  | Raw          |
+|      115.37 | Jok Isuani                  | Cassidy Port                   | Raw          |
+|      115.47 | HR 1257                     | Jacobi Platform                | Encoded      |
+|      115.58 | LTT 12294                   | Haignere Ring                  | Encoded      |
+|      115.66 | Valkups                     | Henry Dock                     | Raw          |
+|      115.86 | Guoji                       | Kirchoff Terminal              | Manufactured |
+|      116.01 | Windit                      | Delsanti Hub                   | Raw          |
+|      116.05 | Kotait                      | Burke Gateway                  | Raw          |
+|      116.06 | GCRV 61377                  | Mallett Port                   | Manufactured |
+|      116.16 | Shottunche                  | Jones Dock                     | Manufactured |
+|      116.18 | Anotchadiae                 | Malerba Orbital                | Raw          |
+|      116.35 | BD+56 1773                  | Bertin City                    | Encoded      |
+|      116.36 | Sha Wa                      | Horowitz Dock                  | Raw          |
+|      116.50 | Zeta Pictoris               | Hickman Orbital                | Manufactured |
+|      116.52 | Dis Pater                   | Lazutkin Gateway               | Encoded      |
+|      116.55 | BV Phoenicis                | Aoki Dock                      | Raw          |
+|      116.58 | Haithis                     | Crippen Port                   | Manufactured |
+|      116.62 | LP 888-62                   | Goodricke Port                 | Encoded      |
+|      116.64 | Uracaretii                  | Northrop Ring                  | Manufactured |
+|      116.65 | Peradjariu                  | Vries Port                     | Manufactured |
+|      116.68 | Condovichs                  | Walters Port                   | Raw          |
+|      116.91 | Carpaka                     | Whitney Dock                   | Encoded      |
+|      116.97 | Piriti                      | Fadlan Enterprise              | Raw          |
+|      116.98 | CD-44 10336                 | Margulis Station               | Encoded      |
+|      117.00 | Maidubii                    | Nielsen Orbital                | Manufactured |
+|      117.12 | NLTT 33782                  | Nearchus City                  | Raw          |
+|      117.14 | Pachita                     | Al-Battani Ring                | Encoded      |
+|      117.26 | Wen Tsao Gu                 | Oxley Dock                     | Manufactured |
+|      117.42 | Kuan Ti                     | Niemeyer Hub                   | Raw          |
+|      117.53 | Loki Tan                    | Worden City                    | Manufactured |
+|      117.63 | CH Aquilae                  | Cori Station                   | Manufactured |
+|      117.65 | Igbirikan                   | Barratt Hub                    | Raw          |
+|      117.75 | BD-17 1955                  | Wang Gateway                   | Raw          |
+|      117.79 | Bugayaman                   | Asprin Orbital                 | Encoded      |
+|      117.81 | Apadecavi                   | Fontenay City                  | Encoded      |
+|      117.81 | Apishna                     | Hamuy Port                     | Raw          |
+|      117.86 | Ayoro Nage                  | Ashby Terminal                 | Manufactured |
+|      117.89 | Unegak Maku                 | Porsche Dock                   | Encoded      |
+|      118.06 | Lakheo                      | Leeuwenhoek Port               | Manufactured |
+|      118.08 | Sak Manka                   | Impey Vision                   | Encoded      |
+|      118.16 | Contien                     | Eanes Vision                   | Manufactured |
+|      118.18 | CD-36 1535                  | Aoki Hub                       | Raw          |
+|      118.21 | Nu Wana                     | Cori Colony                    | Manufactured |
+|      118.27 | LTT 4851                    | Cabana Gateway                 | Manufactured |
+|      118.31 | Wu Kong                     | Ryman Dock                     | Manufactured |
+|      118.36 | Erivia                      | Cottenot Hub                   | Encoded      |
+|      118.45 | Atata                       | Zahn Enterprise                | Encoded      |
+|      118.47 | HR 2798                     | Cugnot Station                 | Encoded      |
+|      118.55 | Clayahu                     | von Biela Dock                 | Raw          |
+|      118.60 | Farowalan                   | Bamford City                   | Raw          |
+|      118.67 | Ruganike                    | Armero Hub                     | Raw          |
+|      118.82 | BD-20 2665                  | Curie Port                     | Encoded      |
+|      118.88 | Asgar                       | Windt Station                  | Manufactured |
+|      119.12 | Borasetani                  | Katzenstein Terminal           | Encoded      |
+|      119.24 | Ross 342                    | Gilliland Station              | Raw          |
+|      119.39 | Lu Pardan                   | Sacco Port                     | Encoded      |
+|      119.47 | Suessetani                  | Gutierrez Orbital              | Manufactured |
+|      119.55 | Bondhr                      | Jakes Orbital                  | Manufactured |
+|      119.64 | HM Bootis                   | Fernandez Co-operative         | Raw          |
+|      119.75 | Nangkano                    | Sarafanov Hub                  | Manufactured |
+|      119.88 | Nurundere                   | Gubarev Port                   | Raw          |
+|      120.03 | Iota Crucis                 | Drebbel Terminal               | Raw          |
+|      120.04 | Mara                        | Lange Vision                   | Manufactured |
+|      120.28 | Bylgit                      | Thornycroft Gateway            | Raw          |
+|      120.30 | 1 G. Caeli                  | Smoot Gateway                  | Raw          |
+|      120.31 | Wolf 1326                   | Frimout Terminal               | Raw          |
+|      120.36 | Badia                       | Kempf Station                  | Raw          |
+|      120.53 | HIP 43310                   | MacKellar Dock                 | Manufactured |
+|      120.54 | Gliese 9073                 | Gresley Orbital                | Raw          |
+|      120.65 | Bamu                        | Tiedemann Dock                 | Raw          |
+|      120.77 | Morronii                    | Wheelock Terminal              | Raw          |
+|      120.86 | HIP 18527                   | Zacuto Ring                    | Raw          |
+|      120.89 | Rutena                      | Weitz City                     | Encoded      |
+|      121.07 | Uzumoku                     | Sverdrup Ring                  | Encoded      |
+|      121.25 | Anumclaw                    | Jensen Ring                    | Raw          |
+|      121.28 | Wolf 1241                   | Thomas Orbital                 | Raw          |
+|      121.28 | Minagnaiwa                  | Fettman Terminal               | Raw          |
+|      121.31 | HIP 54697                   | Davy Terminal                  | Encoded      |
+|      121.48 | Kuri Hsing                  | North Terminal                 | Raw          |
+|      121.49 | Panik                       | Bennett City                   | Raw          |
+|      121.56 | Aasgaa                      | Steiner Platform               | Manufactured |
+|      121.64 | Volkhabe                    | Offutt Enterprise              | Raw          |
+|      121.75 | HR 7808                     | Haack Hub                      | Raw          |
+|      121.79 | Mehime                      | Bode Vision                    | Raw          |
+|      121.82 | Gandza                      | Tesla Dock                     | Encoded      |
+|      121.84 | Muncheim                    | Hubble Ring                    | Manufactured |
+|      121.87 | HIP 80242                   | Csoma Ring                     | Encoded      |
+|      121.87 | Atiusia                     | Ziljak Port                    | Raw          |
+|      121.89 | Djeranses                   | Hauck Gateway                  | Manufactured |
+|      121.93 | HIP 79152                   | Makarov City                   | Raw          |
+|      122.09 | HIP 7396                    | Seares Ring                    | Manufactured |
+|      122.11 | Caeritis                    | Bernoulli Vision               | Encoded      |
+|      122.26 | Ngandowa                    | Fisher Orbital                 | Raw          |
+|      122.28 | CD-86 4                     | Cummings Dock                  | Encoded      |
+|      122.30 | Kuntae                      | Tognini Horizons               | Encoded      |
+|      122.37 | Cadubi                      | Leydenfrost Hub                | Raw          |
+|      122.37 | Chuquiba                    | Beckman Port                   | Manufactured |
+|      122.46 | Koljankirna                 | Jendrassik Vision              | Encoded      |
+|      122.54 | Turona                      | McNair Terminal                | Encoded      |
+|      122.61 | Recuanque                   | Vishweswarayya Enterprise      | Raw          |
+|      122.77 | Taras                       | Schmitz Gateway                | Manufactured |
+|      122.97 | Bidiono                     | Wellman Dock                   | Manufactured |
+|      122.98 | Ts'in Yanka                 | Linge Gateway                  | Raw          |
+|      123.09 | Teveri                      | Wiley Port                     | Raw          |
+|      123.11 | Khuzwane                    | Fiennes Port                   | Raw          |
+|      123.13 | Polevnic                    | Tanner Settlement              | Raw          |
+|      123.18 | Wikanawal                   | Schwann Hub                    | Manufactured |
+|      123.19 | HIP 8865                    | Solovyev Port                  | Manufactured |
+|      123.26 | Aitvanec                    | Julian Gateway                 | Manufactured |
+|      123.26 | Moriosong                   | Kwolek City                    | Raw          |
+|      123.37 | Bunuvivia                   | Ellison Enterprise             | Manufactured |
+|      123.57 | Lactonacaya                 | Lavochkin Terminal             | Raw          |
+|      123.62 | 73 Rho Cygni                | Edgeworth Platform             | Raw          |
+|      123.65 | Prajau                      | Landis Orbital                 | Manufactured |
+|      123.75 | Usipedi                     | Ali Dock                       | Raw          |
+|      123.89 | HIP 8525                    | Wohler Mines                   | Raw          |
+|      123.99 | HIP 36954                   | Parry Enterprise               | Encoded      |
+|      124.10 | Anedjete                    | Struzan Hub                    | Raw          |
+|      124.12 | Irukami                     | Lanchester City                | Manufactured |
+|      124.13 | Tepi                        | Fibonacci Orbital              | Manufactured |
+|      124.24 | Omagatae                    | Hiroyuki Vision                | Encoded      |
+|      124.32 | Yab Cameni                  | South Orbital                  | Raw          |
+|      124.36 | Aninohini                   | Griffith Orbital               | Raw          |
+|      124.40 | Galapana                    | Diesel Station                 | Manufactured |
+|      124.40 | Tougeir                     | Janes Dock                     | Manufactured |
+|      124.45 | FAUST 68                    | Slipher Hub                    | Encoded      |
+|      124.48 | Kamaki                      | Shinjo Station                 | Encoded      |
+|      124.50 | HIP 23259                   | Banks Port                     | Raw          |
+|      124.55 | CD-40 395                   | Oort Port                      | Raw          |
+|      124.80 | Ongkala                     | Lukyanenko Orbital             | Encoded      |
+|      124.81 | Latjil                      | Al-Farabi Hub                  | Encoded      |
+|      124.90 | HIP 114044                  | Gurney Terminal                | Raw          |
+|      125.07 | Sigma Geminorum             | Fulton City                    | Encoded      |
+|      125.15 | Hernir                      | Gunn Ring                      | Raw          |
+|      125.36 | HIP 9989                    | Capek Orbital                  | Manufactured |
+|      125.44 | HIP 80221                   | Griggs City                    | Raw          |
+|      125.56 | HIP 13179                   | Avdeyev City                   | Raw          |
+|      125.60 | Tsanluo Wu                  | Deere Dock                     | Manufactured |
+|      125.76 | HIP 20342                   | Bowen City                     | Manufactured |
+|      125.86 | Lalande 11206               | Kovalyonok Gateway             | Raw          |
+|      125.91 | HIP 112506                  | Antonelli Terminal             | Manufactured |
+|      125.97 | Zhu Vedani                  | Pratchett Vision               | Raw          |
+|      126.08 | HIP 47110                   | Francisco de Almeida Ring      | Raw          |
+|      126.08 | HIP 36037                   | Lyakhov Terminal               | Raw          |
+|      126.09 | Amaragua                    | Bean Gateway                   | Raw          |
+|      126.10 | HIP 4103                    | Utley Dock                     | Manufactured |
+|      126.16 | HIP 76203                   | Pettit Terminal                | Manufactured |
+|      126.23 | Devane                      | Davies City                    | Encoded      |
+|      126.30 | HIP 116213                  | Yolen Hub                      | Encoded      |
+|      126.43 | Liu Huang                   | McDivitt Dock                  | Encoded      |
+|      126.74 | 60 b Leonis                 | Flade Port                     | Manufactured |
+|      126.99 | Hilla                       | Siemens Vision                 | Manufactured |
+|      127.02 | Tricorii                    | Hippalus Orbital               | Manufactured |
+|      127.05 | Jeirskoku                   | Tanner Hub                     | Manufactured |
+|      127.08 | Kamito                      | Newcomb Hub                    | Encoded      |
+|      127.19 | HIP 46422                   | Gustafsson Orbital             | Raw          |
+|      127.23 | HIP 105483                  | Kirtley Dock                   | Raw          |
+|      127.27 | Gwri                        | Poindexter Landing             | Raw          |
+|      127.29 | Balis                       | Hardy Dock                     | Raw          |
+|      127.31 | HIP 107385                  | Winthrop Enterprise            | Raw          |
+|      127.32 | Diaguandri                  | Ray Gateway                    | Encoded      |
+|      127.42 | HIP 22961                   | Saberhagen Orbital             | Encoded      |
+|      127.58 | Ritila                      | Kennedy Dock                   | Manufactured |
+|      128.05 | HR 3584                     | Gooch Orbital                  | Raw          |
+|      128.13 | Likohochna                  | Aksyonov Colony                | Raw          |
+|      128.13 | HR 4926                     | Yano Orbital                   | Manufactured |
+|      128.22 | Segoveduwa                  | Mason Hub                      | Encoded      |
+|      128.30 | Cadupi                      | Grunsfeld Station              | Raw          |
+|      128.36 | Gunapa                      | Haber Orbital                  | Raw          |
+|      128.41 | CD-62 1454                  | Baille City                    | Encoded      |
+|      128.46 | HIP 82495                   | Townshend Terminal             | Manufactured |
+|      128.78 | HIP 57350                   | Knapp Enterprise               | Raw          |
+|      128.78 | San Huang                   | Joliot-Curie Port              | Encoded      |
+|      129.00 | Ix                          | Scully-Power Station           | Encoded      |
+|      129.00 | HIP 108158                  | Alexeyev Terminal              | Encoded      |
+|      129.18 | HIP 9753                    | Harawi Enterprise              | Raw          |
+|      129.21 | Muracing                    | Bethe Station                  | Encoded      |
+|      129.49 | Mehuenomici                 | Bohr Gateway                   | Encoded      |
+|      129.55 | Zenufangwe                  | Murray Port                    | Manufactured |
+|      129.60 | Ida Dhor                    | Vancouver Gateway              | Encoded      |
+|      129.66 | HIP 50694                   | Zebrowski Enterprise           | Encoded      |
+|      129.68 | Ixbakald                    | Hanke-Woods Orbital            | Encoded      |
+|      129.73 | Fotla                       | Penzias Dock                   | Encoded      |
+|      129.84 | Virus                       | Macgregor Dock                 | Manufactured |
+|      130.03 | Prthi                       | Noakes Gateway                 | Manufactured |
+|      130.11 | Garabaei                    | Ampere Hub                     | Raw          |
+|      130.13 | Inarajajara                 | Laval Terminal                 | Manufactured |
+|      130.25 | Gliese 9553                 | O'Connor City                  | Manufactured |
+|      130.25 | Ramit                       | Diesel Ring                    | Raw          |
+|      130.28 | Subra                       | Jahn Station                   | Raw          |
+|      130.28 | Vucainigus                  | Leavitt Port                   | Manufactured |
+|      130.29 | Maityan                     | Maughmer Ring                  | Raw          |
+|      130.35 | Yapelici                    | Kubasov Station                | Manufactured |
+|      130.37 | Warnones                    | Humboldt Station               | Raw          |
+|      130.38 | Betse Aibes                 | Williams Station               | Manufactured |
+|      130.45 | HIP 71515                   | Velho Dock                     | Manufactured |
+|      130.51 | HIP 58412                   | Pawelczyk Dock                 | Manufactured |
+|      130.54 | Tengye                      | Braun Orbital                  | Raw          |
+|      130.61 | Nariansan                   | Burkin Hub                     | Raw          |
+|      130.68 | HIP 55459                   | Kennedy Port                   | Manufactured |
+|      130.69 | Yakaeriate                  | Gresley Ring                   | Encoded      |
+|      130.70 | Kuru                        | Carstensz Dock                 | Raw          |
+|      130.73 | Bhare                       | Pacheco Orbital                | Manufactured |
+|      130.77 | Nakula                      | Fisher Port                    | Raw          |
+|      130.78 | Peckolsumij                 | Zamyatin Co-operative          | Manufactured |
+|      130.94 | Ewah                        | Newton City                    | Manufactured |
+|      130.98 | HIP 54530                   | Northrop Enterprise            | Encoded      |
+|      131.01 | HIP 37162                   | Serebrov Ring                  | Encoded      |
+|      131.05 | HIP 2453                    | Lubin Ring                     | Manufactured |
+|      131.06 | HIP 1885                    | Nijland Station                | Raw          |
+|      131.07 | HIP 76768                   | Bethe Orbital                  | Manufactured |
+|      131.27 | HIP 109528                  | Doyle Dock                     | Manufactured |
+|      131.28 | Abrog                       | Thagard Ring                   | Manufactured |
+|      131.39 | Njemari                     | Ramsbottom Station             | Raw          |
+|      131.39 | Waimi                       | Hahn Dock                      | Manufactured |
+|      131.44 | Mendego                     | Koch City                      | Manufactured |
+|      131.46 | Hurukuntak                  | Bauschinger Terminal           | Encoded      |
+|      131.50 | HIP 9599                    | Guidoni Enterprise             | Manufactured |
+|      131.56 | HIP 43477                   | Hilbert Dock                   | Manufactured |
+|      131.76 | Feng Tanga                  | Weaver Port                    | Encoded      |
+|      131.86 | Ga Gu                       | Fernandes Dock                 | Manufactured |
+|      132.10 | HIP 43756                   | Jensen Ring                    | Manufactured |
+|      132.11 | Pisamazin                   | Ghez City                      | Raw          |
+|      132.16 | Ankou                       | Kirby Orbital                  | Encoded      |
+|      132.22 | Berrivi                     | Rashid Station                 | Raw          |
+|      132.29 | Grafias                     | Gubarev Landing                | Encoded      |
+|      132.31 | HIP 63322                   | Crowley Dock                   | Manufactured |
+|      132.42 | Erio                        | Babakin Hub                    | Encoded      |
+|      132.46 | HIP 65632                   | Springer Dock                  | Raw          |
+|      132.50 | HIP 13653                   | Vinge Dock                     | Raw          |
+|      132.54 | Yama                        | Akers Hub                      | Raw          |
+|      132.62 | HIP 19428                   | Fontana Gateway                | Manufactured |
+|      132.66 | Khruvani                    | Disch Station                  | Manufactured |
+|      132.84 | 64 Ceti                     | Jensen Gateway                 | Raw          |
+|      132.91 | Yukpenon                    | Stokes Enterprise              | Raw          |
+|      132.96 | HIP 80096                   | Franklin Terminal              | Manufactured |
+|      133.02 | Enawar                      | Adams Dock                     | Raw          |
+|      133.13 | Nasiaverni                  | Marshburn Station              | Manufactured |
+|      133.46 | Lulunguni                   | Lovelace Terminal              | Raw          |
+|      133.54 | Lu Wanja                    | Carr Enterprise                | Manufactured |
+|      133.69 | HIP 10322                   | Linteris Ring                  | Encoded      |
+|      133.70 | Nijuna                      | Potez Station                  | Raw          |
+|      133.75 | Bokowatiko                  | Johnson Orbital                | Manufactured |
+|      133.81 | HIP 18187                   | Tuttle Gateway                 | Encoded      |
+|      133.89 | Osanartar                   | Ayton Innes Port               | Manufactured |
+|      133.91 | Songbe                      | Precourt City                  | Manufactured |
+|      133.91 | Erdi                        | Bresnik Orbital                | Raw          |
+|      133.98 | Unelinte                    | Paulmier de Gonneville Station | Raw          |
+|      134.13 | Maorsi                      | Karachkina City                | Encoded      |
+|      134.16 | HIP 16343                   | Patsayev Port                  | Raw          |
+|      134.25 | Tolians                     | Kuo Dock                       | Raw          |
+|      134.28 | Li Jungu                    | Dantec Terminal                | Raw          |
+|      134.29 | Het                         | Schweickart Terminal           | Raw          |
+|      134.36 | 77 Aquarii                  | Chertok City                   | Raw          |
+|      134.41 | HIP 79636                   | Nakamura City                  | Encoded      |
+|      134.44 | Calch                       | McCandless Gateway             | Raw          |
+|      134.46 | Daibara                     | McKay Port                     | Raw          |
+|      134.53 | HR 5740                     | Morukov Hub                    | Manufactured |
+|      134.55 | Bagalatuba                  | Becquerel Dock                 | Raw          |
+|      134.61 | Machigga                    | Gooch Port                     | Raw          |
+|      134.71 | Khwatka                     | Hernandez Dock                 | Manufactured |
+|      134.72 | Mariarna                    | Frechet Gateway                | Raw          |
+|      134.80 | Matec                       | Wafa Enterprise                | Raw          |
+|      134.82 | HR 1201                     | Antonelli Station              | Raw          |
+|      134.95 | Abasses                     | Morrow Vision                  | Raw          |
+|      135.06 | HIP 91187                   | Thompson Port                  | Raw          |
+|      135.13 | HIP 43670                   | Shaara Gateway                 | Manufactured |
+|      135.17 | Rindjibal                   | Lopez de Legazpi Orbital       | Raw          |
+|      135.33 | Tsao Wang                   | Budarin Terminal               | Manufactured |
+|      135.36 | Lan Tie Yu                  | Herrington Vision              | Manufactured |
+|      135.43 | Gamatcho                    | Fabian Hub                     | Manufactured |
+|      135.46 | HIP 41090                   | Henderson City                 | Manufactured |
+|      135.50 | Wolf 1431                   | Qureshi Enterprise             | Encoded      |
+|      135.52 | Bhutas                      | Feynman Terminal               | Encoded      |
+|      135.56 | 12 Lambda Coronae Borealis  | Tucker City                    | Manufactured |
+|      135.60 | Morrigan                    | Tryggvason City                | Manufactured |
+|      135.64 | Yaming                      | Makeev Orbital                 | Raw          |
+|      135.67 | Trinar                      | McClintock Terminal            | Manufactured |
+|      135.74 | CD-51 102                   | McDermott Enterprise           | Encoded      |
+|      135.79 | Guai Shou                   | Bakewell Gateway               | Manufactured |
+|      135.81 | Gui Banni                   | Wilder Port                    | Raw          |
+|      135.81 | Koirada                     | Gooch Orbital                  | Manufactured |
+|      135.82 | Varli                       | Qureshi Enterprise             | Raw          |
+|      135.93 | Savantzil                   | He Dock                        | Raw          |
+|      135.98 | HIP 67152                   | Kubasov Gateway                | Encoded      |
+|      135.99 | HIP 53509                   | Glidden Gateway                | Encoded      |
+|      136.01 | Dakshalli                   | Reeves Dock                    | Raw          |
+|      136.11 | Kausa                       | Volta Dock                     | Raw          |
+|      136.12 | Teppanik                    | Ohm Terminal                   | Encoded      |
+|      136.25 | HD 222582                   | McMonagle Ring                 | Raw          |
+|      136.29 | Yen K'uie                   | Siddha Gateway                 | Encoded      |
+|      136.55 | Njiri                       | Helin Dock                     | Raw          |
+|      136.58 | HIP 18828                   | Ruppelt City                   | Encoded      |
+|      136.63 | HIP 44791                   | Scheutz Dock                   | Raw          |
+|      136.68 | HIP 74734                   | Arrhenius Station              | Encoded      |
+|      136.71 | HIP 18327                   | Stevens Orbital                | Raw          |
+|      136.71 | Gio                         | Issigonis Enterprise           | Raw          |
+|      136.74 | Wuli                        | Behnken Gateway                | Encoded      |
+|      136.75 | HIP 94863                   | Grimwood Ring                  | Encoded      |
+|      136.78 | Bakaduninka                 | Vinge Ring                     | Raw          |
+|      136.89 | HIP 7420                    | Morgan Terminal                | Raw          |
+|      137.01 | Ross 777                    | Bradley Dock                   | Manufactured |
+|      137.05 | Pendilla                    | Tyurin Orbital                 | Encoded      |
+|      137.06 | Bajoji                      | Cramer Gateway                 | Encoded      |
+|      137.06 | Sairwar                     | Malocello Orbital              | Raw          |
+|      137.19 | Dechengh                    | Fischer City                   | Manufactured |
+|      137.24 | HIP 58945                   | Garfinkle Dock                 | Manufactured |
+|      137.39 | Liu Yines                   | Baraniecki Orbital             | Encoded      |
+|      137.57 | Cotidji                     | Dayuan Co-operative            | Raw          |
+|      137.60 | Nankobi                     | Deslandres Station             | Manufactured |
+|      137.79 | Wulidjin                    | Nikolayev Ring                 | Manufactured |
+|      137.81 | Paraudika                   | Tem Station                    | Manufactured |
+|      137.86 | HIP 116033                  | Auwers Terminal                | Manufactured |
+|      137.99 | Maricoriang                 | Sekowski Dock                  | Raw          |
+|      138.18 | Basuki An                   | Jacobi Hub                     | Manufactured |
+|      138.21 | Ch'i Lin                    | Fallows Orbital                | Manufactured |
+|      138.23 | HIP 83204                   | Ciferri Ring                   | Raw          |
+|      138.29 | Ethwain                     | Shalatula Gateway              | Raw          |
+|      138.31 | HIP 75262                   | Ochoa Terminal                 | Encoded      |
+|      138.40 | Mopaditis                   | Mayor Port                     | Encoded      |
+|      138.41 | Picuni                      | Arrhenius Gateway              | Raw          |
+|      138.44 | Oppi                        | Reiter City                    | Raw          |
+|      138.50 | Hiranyaksha                 | Wood Ring                      | Encoded      |
+|      138.60 | Ross 444                    | Chretien Terminal              | Raw          |
+|      138.72 | Medungni                    | Bester Enterprise              | Encoded      |
+|      138.75 | Kwakwakwal                  | Thagard Station                | Manufactured |
+|      138.77 | Indraseno                   | McMonagle Station              | Manufactured |
+|      138.90 | Paliti                      | Schmitz Port                   | Manufactured |
+|      139.03 | HIP 53051                   | Peary Enterprise               | Manufactured |
+|      139.07 | HIP 223                     | Gibson Ring                    | Encoded      |
+|      139.11 | Zorya Nong                  | Struzan Enterprise             | Raw          |
+|      139.48 | HIP 71682                   | Bachman Orbital                | Manufactured |
+|      139.74 | Frigga                      | Henson Ring                    | Manufactured |
+|      139.77 | Cennicenino                 | Zahn Enterprise                | Raw          |
+|      139.78 | Bakabienil                  | Smith Terminal                 | Raw          |
+|      139.79 | Tvastyas                    | Howard Terminal                | Raw          |
+|      139.81 | Gladyangar                  | Debye Dock                     | Raw          |
+|      139.89 | Gautas                      | Levy Dock                      | Encoded      |
+|      140.01 | HIP 15266                   | Linnehan Orbital               | Raw          |
+|      140.12 | Baramanago                  | Fremion Dock                   | Raw          |
+|      140.21 | HIP 76701                   | Rubruck Dock                   | Manufactured |
+|      140.34 | HIP 53898                   | Fowler Enterprise              | Raw          |
+|      140.38 | Sharamo                     | Slipher Terminal               | Manufactured |
+|      140.79 | NLTT 7856                   | Hussey Survey                  | Raw          |
+|      140.98 | Adeka                       | Helms Orbital                  | Raw          |
+|      141.05 | Suya                        | Rutherford Port                | Encoded      |
+|      141.10 | HIP 9659                    | Shinn City                     | Raw          |
+|      141.14 | Goller                      | Ban Enterprise                 | Encoded      |
+|      141.22 | Dian                        | Fallows Orbital                | Raw          |
+|      141.28 | Tlakakaltan                 | Harding Orbital                | Raw          |
+|      141.41 | Wei Chang                   | Ray City                       | Encoded      |
+|      141.49 | Caspatsuria                 | Binney Dock                    | Raw          |
+|      141.50 | Mulac                       | Benz City                      | Raw          |
+|      141.53 | Guan Tun                    | Crouch Orbital                 | Manufactured |
+|      141.56 | HR 6565                     | Naubakht Station               | Encoded      |
+|      141.65 | Chuanabosso                 | Quick Vision                   | Encoded      |
+|      141.66 | Bhairmat                    | Boming Gateway                 | Manufactured |
+|      141.66 | Loperada                    | Bloch Vision                   | Encoded      |
+|      141.67 | Kirram                      | Disch Station                  | Encoded      |
+|      141.73 | Chengurr                    | Hilmers Terminal               | Manufactured |
+|      141.88 | HIP 21923                   | Samuda Enterprise              | Raw          |
+|      142.07 | HIP 96854                   | Dowie Port                     | Raw          |
+|      142.12 | Havalokul                   | Fidalgo Dock                   | Encoded      |
+|      142.32 | Kholu                       | Abetti Vision                  | Encoded      |
+|      142.53 | New Chana                   | Tilman Point                   | Manufactured |
+|      142.60 | HIP 71276                   | J. G. Ballard Orbital          | Encoded      |
+|      142.70 | HIP 12779                   | Rechtin Vision                 | Raw          |
+|      142.72 | Kwatsu                      | Fossum Ring                    | Raw          |
+|      142.72 | Eledolyaks                  | Kimberlin Ring                 | Manufactured |
+|      142.88 | HIP 12605                   | Rigaux Gateway                 | Raw          |
+|      142.92 | Choujem                     | Gromov Orbital                 | Manufactured |
+|      143.06 | Swazahua                    | Narvaez Terminal               | Raw          |
+|      143.13 | HIP 20277                   | Fabian City                    | Raw          |
+|      143.13 | HIP 29312                   | Ohm Horizons                   | Encoded      |
+|      143.17 | Jormor                      | Cardano Port                   | Raw          |
+|      143.36 | HR 7047                     | Grant Dock                     | Raw          |
+|      143.36 | Karama                      | i Sola Ring                    | Raw          |
+|      143.46 | Latucano                    | Jeury Hub                      | Raw          |
+|      143.48 | Xuangu                      | Schroter Terminal              | Encoded      |
+|      143.70 | Atorii                      | Lu Terminal                    | Raw          |
+|      143.73 | HIP 96932                   | Bond Dock                      | Raw          |
+|      143.93 | Bered                       | Horch Orbital                  | Manufactured |
+|      144.09 | HIP 8109                    | Beebe Dock                     | Manufactured |
+|      144.15 | Mehit                       | Bottego Hub                    | Raw          |
+|      144.16 | Saka                        | Zel'dovich Station             | Manufactured |
+|      144.22 | Wurango                     | Piaget Orbital                 | Encoded      |
+|      144.28 | Lakurbal                    | Schrodinger City               | Raw          |
+|      144.45 | HIP 53257                   | Rawn Orbital                   | Manufactured |
+|      144.51 | HIP 81010                   | Polansky Hub                   | Raw          |
+|      144.59 | Avikarli                    | Killough Vision                | Encoded      |
+|      144.59 | HIP 99680                   | Hubble Gateway                 | Manufactured |
+|      144.61 | HIP 46236                   | Yamazaki Station               | Raw          |
+|      144.68 | HIP 7564                    | Stewart Orbital                | Raw          |
+|      144.76 | HIP 78074                   | Sargent City                   | Manufactured |
+|      144.90 | Betseoltana                 | Henricks Port                  | Raw          |
+|      144.97 | Satva                       | Borisenko Ring                 | Raw          |
+|      144.99 | Baroahy                     | Treshchov Gateway              | Raw          |
+|      145.13 | Guan Yun                    | Darlton Terminal               | Raw          |
+|      145.32 | Xuanec                      | Ibold Port                     | Raw          |
+|      145.35 | HIP 94501                   | Leopold Orbital                | Raw          |
+|      145.42 | Ross 750                    | Holdstock Hub                  | Manufactured |
+|      145.47 | Lombi                       | Xin Hub                        | Raw          |
+|      145.54 | HIP 100379                  | Cesar Janssen Gateway          | Raw          |
+|      145.54 | Aowicha                     | Altman Ring                    | Raw          |
+|      145.65 | Phraces                     | Potter Enterprise              | Raw          |
+|      145.72 | Giryampi                    | Cottenot Terminal              | Encoded      |
+|      145.84 | Alkuylkano                  | Ryumin Orbital                 | Manufactured |
+|      145.86 | HIP 75446                   | Crowley Enterprise             | Encoded      |
+|      145.87 | Kungadutji                  | Marusek City                   | Raw          |
+|      145.93 | Dongasa                     | Dawson Enterprise              | Raw          |
+|      145.94 | Yulandh                     | Berners-Lee City               | Manufactured |
+|      145.95 | Jitabos                     | Finney Ring                    | Encoded      |
+|      146.11 | Iteliuona                   | Krylov Hub                     | Manufactured |
+|      146.21 | HIP 1427                    | Parazynski Port                | Encoded      |
+|      146.23 | Valtam                      | Dalton Terminal                | Raw          |
+|      146.25 | CD-53 136                   | Schuster Dock                  | Raw          |
+|      146.26 | Chande                      | Heng Port                      | Manufactured |
+|      146.34 | Idini                       | Gurney Enterprise              | Encoded      |
+|      146.45 | Lodhary                     | Lagrange Gateway               | Raw          |
+|      146.54 | Songballa                   | Herbert Dock                   | Manufactured |
+|      146.58 | HIP 105368                  | Newcomb Dock                   | Encoded      |
+|      146.59 | 25 d2 Cancri                | Doi Station                    | Raw          |
+|      146.66 | Avalon                      | Noctilux                       | Encoded      |
+|      146.90 | Nehet                       | Xuesen Orbital                 | Encoded      |
+|      146.92 | Igalumathi                  | Szilard Orbital                | Raw          |
+|      147.04 | HIP 80065                   | Cayley Station                 | Encoded      |
+|      147.15 | Ndanbain                    | Linteris Orbital               | Raw          |
+|      147.20 | Djeriman                    | Stebler City                   | Raw          |
+|      147.21 | Gliese 44                   | Rizvi Orbital                  | Raw          |
+|      147.27 | Marian Nungari              | West Orbital                   | Raw          |
+|      147.39 | Amuzgo                      | Geston Gateway                 | Raw          |
+|      147.66 | HIP 99241                   | Beadle Ring                    | Manufactured |
+|      147.70 | Zuruaha                     | O'Connor Dock                  | Raw          |
+|      147.85 | Bochica                     | Ziegel Orbital                 | Manufactured |
+|      148.04 | Laksar                      | Mandel Port                    | Encoded      |
+|      148.12 | HIP 48391                   | Bushkov City                   | Raw          |
+|      148.14 | HIP 36485                   | Alexeyev Hub                   | Encoded      |
+|      148.25 | Irusan                      | Bella Port                     | Manufactured |
+|      148.29 | HIP 12638                   | Galouye Gateway                | Raw          |
+|      148.31 | Shokuth                     | Hyecho Port                    | Raw          |
+|      148.41 | Kappa                       | Poisson Orbital                | Encoded      |
+|      148.45 | Adnoannoda                  | Boyle Enterprise               | Raw          |
+|      148.48 | Chuku                       | Hahn Terminal                  | Raw          |
+|      148.63 | HIP 49161                   | Shiras Terminal                | Raw          |
+|      148.69 | Fu Xianses                  | Benford Colony                 | Raw          |
+|      148.70 | Lundji                      | Singer Hub                     | Manufactured |
+|      148.74 | Audheim                     | Lanier Ring                    | Raw          |
+|      148.85 | Ngandins                    | Cavalieri City                 | Encoded      |
+|      149.11 | Jaakari                     | Haxel Orbital                  | Raw          |
+|      149.22 | Soyota                      | Gohar Hub                      | Manufactured |
+|      149.24 | Concani                     | Grant Enterprise               | Manufactured |
+|      149.24 | Koli Discii                 | MacLean Terminal               | Raw          |
+|      149.25 | Kuwair                      | Thornycroft Terminal           | Encoded      |
+|      149.32 | Karka                       | Chandler Ring                  | Raw          |
+|      149.36 | Polecteri                   | Hudson Ring                    | Manufactured |
+|      149.37 | HIP 20019                   | Selye Orbital                  | Manufactured |
+|      149.38 | Igboniu                     | Harness City                   | Encoded      |
+|      149.43 | Holvandalla                 | Shalatula Ring                 | Manufactured |
+|      149.46 | Cumalam                     | Ambartsumian Dock              | Raw          |
+|      149.51 | Cerni                       | Sagan Port                     | Raw          |
+|      149.53 | Ba Devaci                   | Bardeen Hub                    | Manufactured |
+|      149.61 | Addovik                     | Ziegler Dock                   | Raw          |
+|      149.68 | HIP 75124                   | Svavarsson Gateway             | Raw          |
+|      149.80 | Bukua                       | Harvey Orbital                 | Manufactured |
+|      149.92 | Veroo                       | Hunziker Terminal              | Manufactured |
+|      150.02 | BD+48 738                   | Linnaeus Enterprise            | Raw          |
+|      150.07 | Janjiwa                     | White Station                  | Raw          |
+|      150.18 | Akba Atacab                 | Jones City                     | Manufactured |
+|      150.23 | Gende                       | Baliunas Hub                   | Encoded      |
+|      150.37 | Ghekree                     | Heceta Terminal                | Raw          |
+|      150.57 | Shosak                      | Afanasyev Orbital              | Raw          |
+|      150.71 | Murato                      | Tietjen Ring                   | Encoded      |
+|      150.91 | Sakar                       | Shirley Station                | Raw          |
+|      151.10 | Wayilwa                     | Shonin Gateway                 | Raw          |
+|      151.11 | HIP 64131                   | Caselberg Orbital              | Encoded      |
+|      151.19 | Monjadi                     | Noriega Port                   | Manufactured |
+|      151.22 | Kamas                       | Beg Terminal                   | Encoded      |
+|      151.30 | Cocopa                      | Walter Station                 | Raw          |
+|      151.37 | Turni                       | Liska Hub                      | Manufactured |
+|      151.38 | Siro                        | Garneau Gateway                | Manufactured |
+|      151.48 | 17 Kappa-1 Bootis           | Grimwood Enterprise            | Raw          |
+|      151.86 | HIP 23716                   | Wakata Station                 | Raw          |
+|      152.16 | HR 404                      | Wasden Enterprise              | Manufactured |
+|      152.23 | Macuayan                    | Tarter Dock                    | Encoded      |
+|      152.23 | HIP 23027                   | Sawyer Vision                  | Manufactured |
+|      152.34 | Russa                       | Lee Gateway                    | Raw          |
+|      152.35 | Meliontit                   | Abe Hub                        | Encoded      |
+|      152.37 | Pukkeitsi                   | Chiao Hub                      | Raw          |
+|      152.66 | Zvaithhogg                  | Laming Vision                  | Encoded      |
+|      152.81 | Koamu Yi                    | Moore Dock                     | Raw          |
+|      152.82 | HIP 73269                   | Pournelle Terminal             | Raw          |
+|      152.87 | Tarakah                     | Evans Port                     | Raw          |
+|      152.88 | HIP 3930                    | Pratchett Gateway              | Raw          |
+|      152.94 | Concordia                   | Stillman Hub                   | Encoded      |
+|      152.99 | HIP 305                     | Mohr Port                      | Encoded      |
+|      152.99 | HIP 110887                  | Antonov Port                   | Raw          |
+|      152.99 | HR 1717                     | Martins Dock                   | Manufactured |
+|      153.01 | Valis                       | Mitchell Hub                   | Raw          |
+|      153.02 | Jok Odudu                   | August von Steinheil Vision    | Raw          |
+|      153.13 | Ebana                       | Caillie Hub                    | Encoded      |
+|      153.15 | HIP 12067                   | Vaucanson Gateway              | Raw          |
+|      153.45 | Amariba                     | Newcomen Gateway               | Raw          |
+|      153.49 | HIP 1866                    | Gulyaev City                   | Manufactured |
+|      153.62 | Gienah                      | Nourse Orbital                 | Raw          |
+|      153.63 | Kairrodo                    | Yu Dock                        | Manufactured |
+|      153.72 | HR 1403                     | Chang-Diaz Station             | Raw          |
+|      153.73 | HIP 20527                   | Wundt Ring                     | Raw          |
+|      153.77 | HIP 85285                   | Samuda Dock                    | Manufactured |
+|      153.79 | 30 Ceti                     | Schiaparelli Vision            | Encoded      |
+|      153.80 | Laga                        | Reynolds City                  | Manufactured |
+|      154.04 | Ariameni                    | Patrick Enterprise             | Raw          |
+|      154.05 | Sapiety                     | Skripochka Hub                 | Raw          |
+|      154.13 | San Wu                      | Evans Orbital                  | Manufactured |
+|      154.22 | HIP 117036                  | Wegener Station                | Raw          |
+|      154.34 | Kapurri                     | Rosse Dock                     | Raw          |
+|      154.36 | Thridan                     | Rozhdestvensky Enterprise      | Raw          |
+|      154.55 | Hou Yangk                   | Bunsen Port                    | Manufactured |
+|      154.58 | Atatis                      | Abel Terminal                  | Encoded      |
+|      154.60 | Lida                        | Murray Settlement              | Raw          |
+|      154.78 | HR 4373                     | Haber Dock                     | Manufactured |
+|      154.80 | Magari                      | Baturin Station                | Manufactured |
+|      154.82 | Liu Di                      | Sudworth Orbital               | Encoded      |
+|      154.93 | HIP 112113                  | Nomen Vision                   | Encoded      |
+|      155.06 | Onuris                      | Stokes Dock                    | Manufactured |
+|      155.07 | Kao Wanga                   | De City                        | Manufactured |
+|      155.10 | HIP 9414                    | Mori Station                   | Raw          |
+|      155.21 | Kaiakul                     | Barlowe Station                | Raw          |
+|      155.23 | Ember                       | van Houten Station             | Raw          |
+|      155.39 | Aspelintup                  | Kavandi Gateway                | Manufactured |
+|      155.50 | Evnike                      | Burstein Port                  | Manufactured |
+|      155.52 | Latones                     | Clark Ring                     | Raw          |
+|      155.59 | Li Nang Yi                  | Velho City                     | Manufactured |
+|      155.64 | Woyo Mina                   | Cannon Vision                  | Raw          |
+|      155.67 | Almad                       | Heinkel City                   | Raw          |
+|      155.74 | HIP 101587                  | Hynek Terminal                 | Encoded      |
+|      155.96 | Ngartha                     | Savinykh Terminal              | Manufactured |
+|      155.97 | Yudhumij                    | Zaschka City                   | Raw          |
+|      156.26 | Clionenses                  | Ferguson Platform              | Raw          |
+|      156.41 | Benapem                     | Shepherd Ring                  | Raw          |
+|      156.44 | HR 6999                     | Slayton Port                   | Manufactured |
+|      156.67 | HR 826                      | Bradfield Ring                 | Encoded      |
+|      156.74 | Andrungarri                 | Disch Port                     | Manufactured |
+|      156.87 | Kitchang Mu                 | Stefansson Station             | Encoded      |
+|      156.88 | HIP 107476                  | Ayers Vision                   | Encoded      |
+|      156.97 | Wonno                       | Brashear City                  | Manufactured |
+|      156.99 | Naunet                      | Zelazny Gateway                | Manufactured |
+|      157.06 | Deive                       | Obruchev Orbital               | Encoded      |
+|      157.13 | Tagomane                    | Thomas Dock                    | Raw          |
+|      157.15 | Ahemakino                   | Mattingly Port                 | Manufactured |
+|      157.16 | HIP 72600                   | Wnuk-Lipinski Enterprise       | Manufactured |
+|      157.28 | Latuba                      | Soukup City                    | Encoded      |
+|      157.29 | Nut                         | Babcock Gateway                | Encoded      |
+|      157.33 | Mudrama Kaze                | Israel Port                    | Encoded      |
+|      157.56 | HIP 69699                   | Starzl Colony                  | Manufactured |
+|      157.86 | Lohan                       | Connes Port                    | Raw          |
+|      157.88 | HIP 2311                    | Cayley Vision                  | Raw          |
+|      157.95 | Jawul                       | Rushd City                     | Raw          |
+|      157.98 | Cuachini                    | Gibson Gateway                 | Encoded      |
+|      158.09 | HR 4720                     | Tarelkin Port                  | Manufactured |
+|      158.18 | HIP 18714                   | Jackson Port                   | Raw          |
+|      158.30 | Jang O                      | Poleshchuk Port                | Raw          |
+|      158.41 | HIP 58180                   | Marius Orbital                 | Encoded      |
+|      158.44 | Khan Gubii                  | Alpers City                    | Encoded      |
+|      158.45 | HIP 60953                   | Pailes Vision                  | Encoded      |
+|      158.45 | Hisaaka                     | Kahn Vision                    | Manufactured |
+|      158.51 | Wu Kich                     | Tasman Vision                  | Encoded      |
+|      158.66 | Luvalla                     | Ejeta Station                  | Encoded      |
+|      158.84 | Achrende                    | Vogel Enterprise               | Encoded      |
+|      158.84 | Beliukis                    | Conti Orbital                  | Raw          |
+|      158.95 | Washodia                    | Rayhan al-Biruni Port          | Manufactured |
+|      159.18 | Crom Dubh                   | Ball Station                   | Raw          |
+|      159.40 | HIP 71527                   | Helms Enterprise               | Raw          |
+|      159.41 | Bhado                       | Rasmussen Enterprise           | Raw          |
+|      159.44 | Corbago                     | Pratchett Hub                  | Encoded      |
+|      159.47 | Punavatii                   | Cayley Enterprise              | Raw          |
+|      159.55 | Nyora                       | Pasteur Port                   | Raw          |
+|      159.65 | Woyemsit                    | Lewis Hub                      | Raw          |
+|      159.74 | HIP 21991                   | Charlois City                  | Encoded      |
+|      159.79 | Yi Trica                    | Tshang Vision                  | Encoded      |
+|      159.83 | Omukula                     | Wirtanen Orbital               | Raw          |
+|      160.01 | Aakushu                     | Flagg Dock                     | Encoded      |
+|      160.10 | Jou Tung                    | Padalka Station                | Raw          |
+|      160.14 | Isitani                     | Creamer Ring                   | Manufactured |
+|      160.19 | 14 Vulpeculae               | Gurragchaa Terminal            | Manufactured |
+|      160.21 | HIP 103390                  | von Zach Station               | Raw          |
+|      160.41 | Verovichili                 | Gibson Gateway                 | Manufactured |
+|      160.52 | HIP 18339                   | Broglie Gateway                | Raw          |
+|      160.52 | HIP 100500                  | Swigert Terminal               | Manufactured |
+|      160.65 | Latormodur                  | Jung Terminal                  | Raw          |
+|      160.66 | Bwgcolmasci                 | Hedin Station                  | Manufactured |
+|      160.83 | Belaako                     | Lamarck Station                | Manufactured |
+|      160.96 | Yukpeng                     | Oppenheimer Platform           | Raw          |
+|      160.97 | Koara                       | Harding Gateway                | Manufactured |
+|      161.00 | HIP 114530                  | Hansen City                    | Raw          |
+|      161.05 | HIP 39391                   | Goulart Dock                   | Manufactured |
+|      161.21 | Ipilyaqa                    | Furuta Orbital                 | Raw          |
+|      161.23 | Patakaka                    | Pasteur City                   | Raw          |
+|      161.30 | HR 8527                     | Seki Refinery                  | Raw          |
+|      161.30 | CD-44 224                   | Koolhaas Vision                | Encoded      |
+|      161.30 | HIP 42532                   | Gotz Ring                      | Raw          |
+|      161.61 | HIP 52649                   | Dunbar City                    | Raw          |
+|      161.74 | Nu Kuang                    | Bean Station                   | Encoded      |
+|      161.80 | HIP 118213                  | Lorenz Hub                     | Raw          |
+|      161.85 | Mangiliri                   | Bailey Vision                  | Raw          |
+|      161.90 | HIP 20806                   | Parker Vision                  | Encoded      |
+|      162.19 | Sanopijcha                  | Maire City                     | Manufactured |
+|      162.27 | Eravians                    | Thuot Gateway                  | Manufactured |
+|      162.35 | Equagei                     | Leckie City                    | Raw          |
+|      162.47 | HIP 22616                   | Phillifent Dock                | Raw          |
+|      162.98 | Bjortii                     | Vavrova Station                | Raw          |
+|      163.10 | Machatkwa                   | Ikeya Orbital                  | Raw          |
+|      163.13 | Asturindjin                 | Melvin Terminal                | Encoded      |
+|      163.16 | Amanaye                     | Mieville Port                  | Raw          |
+|      163.26 | Sokobii                     | Dashiell Orbital               | Raw          |
+|      163.31 | Talantas                    | Scheerbart Orbital             | Raw          |
+|      163.49 | Shoribelu                   | Johnson Dock                   | Raw          |
+|      163.57 | Bibri                       | Maire Port                     | Raw          |
+|      163.62 | Jamariges                   | Kidinnu Hub                    | Raw          |
+|      163.67 | Shanteneri                  | Carnera Station                | Raw          |
+|      163.69 | Kanooks                     | Drexler Port                   | Raw          |
+|      163.73 | Angui                       | Rayhan al-Biruni Port          | Manufactured |
+|      163.75 | HIP 101760                  | Haldeman II Enterprise         | Encoded      |
+|      163.76 | HIP 16607                   | Thome Gateway                  | Encoded      |
+|      163.77 | Machadan                    | Bernoulli City                 | Manufactured |
+|      163.82 | Enaworka                    | Kaiser Dock                    | Raw          |
+|      163.84 | Minanes                     | Rutan Terminal                 | Raw          |
+|      164.12 | Alkabalavs                  | Folland Ring                   | Raw          |
+|      164.14 | HIP 57589                   | Cavendish Terminal             | Manufactured |
+|      164.28 | Bahinga                     | Harawi Ring                    | Manufactured |
+|      164.33 | Sowathara                   | Milne Orbital                  | Raw          |
+|      164.39 | Chonti                      | Hadid Vision                   | Raw          |
+|      164.46 | Hamoco                      | Broglie Enterprise             | Manufactured |
+|      164.74 | Salikians                   | Gardner Port                   | Encoded      |
+|      164.94 | Lobeduning                  | Harris Orbital                 | Raw          |
+|      165.03 | Autrimpe                    | Leberecht Tempel Vision        | Manufactured |
+|      165.13 | Qahamoano                   | Bloch Orbital                  | Raw          |
+|      165.15 | Kupana                      | Hume Port                      | Encoded      |
+|      165.27 | Montet                      | Seddon Gateway                 | Manufactured |
+|      165.45 | Atins                       | Veach Hub                      | Manufactured |
+|      165.47 | Ugrivirii                   | Jefferies Port                 | Raw          |
+|      165.67 | Mac Cha                     | Watanabe Dock                  | Manufactured |
+|      165.68 | Tiraon                      | Hippalus Hub                   | Manufactured |
+|      165.99 | Regir                       | Grushin Dock                   | Raw          |
+|      165.99 | Jeirretes                   | Schmidt Port                   | Encoded      |
+|      166.06 | Gliese 225.1                | Zander Prospect                | Raw          |
+|      166.19 | Sivara                      | Suri Port                      | Raw          |
+|      166.32 | Koirao                      | Kuhn City                      | Raw          |
+|      166.40 | Tjiwuar                     | Felice Station                 | Encoded      |
+|      166.47 | Pukkeitha                   | Foster Hub                     | Raw          |
+|      166.63 | Menutes                     | Akiyama Gateway                | Raw          |
+|      166.78 | Tsim Biko                   | Evans Dock                     | Manufactured |
+|      166.82 | Ngalyod                     | Cottenot Hub                   | Raw          |
+|      166.84 | Pleutarama                  | Ball Orbital                   | Raw          |
+|      166.87 | Cordenses                   | Wylie Co-operative             | Manufactured |
+|      166.90 | Wapiya                      | Brothers Vision                | Raw          |
+|      166.93 | CD-72 190                   | Phillips Terminal              | Raw          |
+|      166.95 | Fintamans                   | Walker Orbital                 | Manufactured |
+|      166.97 | Gakia                       | Khan Dock                      | Manufactured |
+|      167.00 | Baltalfi                    | Savery Gateway                 | Raw          |
+|      167.14 | Toxandji                    | Tsunenaga Orbital              | Encoded      |
+|      167.67 | Huldr                       | Flade Dock                     | Manufactured |
+|      167.70 | Toluku                      | Foden Orbital                  | Manufactured |
+|      167.77 | HIP 30953                   | Bigourdan City                 | Raw          |
+|      167.87 | HIP 114519                  | Yakovlev Orbital               | Raw          |
+|      167.88 | Catalauni                   | Lander Station                 | Manufactured |
+|      167.91 | Panjabell                   | Moore Hub                      | Raw          |
+|      167.95 | Winifex                     | Gonnessiat City                | Manufactured |
+|      168.10 | Dyava                       | Ellis Enterprise               | Manufactured |
+|      168.23 | Herme                       | Suydam Orbital                 | Encoded      |
+|      168.25 | Arine                       | Wescott Terminal               | Manufactured |
+|      168.33 | Garongxians                 | Vries Terminal                 | Raw          |
+|      168.38 | Skandini                    | Stableford Refinery            | Manufactured |
+|      168.46 | HIP 29444                   | Swift Vision                   | Encoded      |
+|      168.48 | Chona                       | Smoot Station                  | Encoded      |
+|      168.49 | Beta-2 Tucanae              | Mouchez Orbital                | Raw          |
+|      168.84 | HIP 17272                   | Zebrowski Orbital              | Raw          |
+|      168.91 | Miquitagat                  | Gurney Hub                     | Raw          |
+|      169.10 | Cerritics                   | Townshend Station              | Encoded      |
+|      169.25 | HIP 93685                   | Scott Station                  | Encoded      |
+|      169.45 | Adnyayar                    | Shiras Hub                     | Manufactured |
+|      169.57 | Xi Wangda                   | Cartier City                   | Encoded      |
+|      169.59 | 32 Mu Serpentis             | Herodotus Dock                 | Encoded      |
+|      169.72 | Thari                       | Jones Orbital                  | Encoded      |
+|      169.73 | HIP 116222                  | Adams Dock                     | Raw          |
+|      169.93 | HIP 57181                   | Jiushao Terminal               | Raw          |
+|      170.14 | Mapor                       | Clayton Horizons               | Encoded      |
+|      170.20 | Backluitaji                 | Revin Orbital                  | Raw          |
+|      170.21 | Bactrimpox                  | Coney Enterprise               | Encoded      |
+|      170.28 | Dakshmandi                  | Hevelius Enterprise            | Raw          |
+|      170.33 | Niflhel                     | Biruni Port                    | Manufactured |
+|      170.51 | Anum                        | Dubyago Port                   | Encoded      |
+|      170.61 | Waraswarre                  | Mendeleev Enterprise           | Raw          |
+|      171.13 | Run                         | Smithport                      | Encoded      |
+|      171.21 | San Zangjel                 | Chandler Dock                  | Manufactured |
+|      171.31 | HIP 82964                   | Kessel Station                 | Raw          |
+|      171.41 | Shou Wu Gu                  | Artsutanov Estate              | Raw          |
+|      171.62 | Bataenich                   | Tuttle Terminal                | Raw          |
+|      171.85 | Upaniklis                   | Fozard Port                    | Raw          |
+|      171.92 | HIP 35211                   | Paul Terminal                  | Raw          |
+|      172.01 | Chingaa                     | Hovell Dock                    | Raw          |
+|      172.11 | Austa                       | Slipher Orbital                | Manufactured |
+|      172.30 | Kharaitis                   | Barbuy Orbital                 | Raw          |
+|      172.34 | Biela                       | Euclid Gateway                 | Manufactured |
+|      172.37 | Njambula                    | Kotzebue Terminal              | Raw          |
+|      172.43 | Allo                        | Crick Landing                  | Raw          |
+|      172.48 | Kitaki                      | Paola Vision                   | Raw          |
+|      172.53 | Volkhab                     | Vernadsky Dock                 | Raw          |
+|      172.59 | Apsarillici                 | Korolyov Terminal              | Raw          |
+|      172.74 | Damona                      | Littrow City                   | Raw          |
+|      172.78 | HIP 35449                   | Dashiell Hub                   | Raw          |
+|      173.13 | HIP 118321                  | Herzog Gateway                 | Raw          |
+|      173.20 | HIP 56278                   | Malenchenko Dock               | Manufactured |
+|      173.40 | Apurusia                    | Herbig Station                 | Raw          |
+|      173.58 | Laumaia                     | Hirayama Enterprise            | Raw          |
+|      173.65 | Muang                       | Al-Khujandi Enterprise         | Raw          |
+|      173.66 | Djalakuru                   | Vancouver Orbital              | Raw          |
+|      173.69 | Bastana                     | Lopez de Legazpi Enterprise    | Raw          |
+|      173.79 | Namamasairu                 | Ptack Station                  | Manufactured |
+|      173.86 | 12 G. Canis Minoris         | Fancher Enterprise             | Raw          |
+|      173.96 | Altani                      | Hartmann Ring                  | Manufactured |
+|      174.05 | Beta Sculptoris             | Fan Horizons                   | Raw          |
+|      174.16 | Tolofi                      | Bernoulli Orbital              | Manufactured |
+|      174.21 | HIP 34961                   | Sorayama Station               | Raw          |
+|      174.46 | Multuring                   | Brorsen Port                   | Raw          |
+|      174.48 | Sokond                      | Tanner Ring                    | Raw          |
+|      174.94 | Hirpinyi                    | Altshuller Gateway             | Manufactured |
+|      175.03 | Tapiete                     | Scotti Hub                     | Raw          |
+|      175.16 | LTT 518                     | Janjetov Port                  | Raw          |
+|      175.36 | Andarici                    | Esposito Terminal              | Raw          |
+|      175.58 | Nandovices                  | Nakamura Dock                  | Raw          |
+|      175.58 | Suteni                      | Dassault Orbital               | Encoded      |
+|      175.62 | Khowahing                   | Buckey Terminal                | Raw          |
+|      175.63 | Khambara                    | Macgregor Station              | Raw          |
+|      175.64 | Shilluk                     | Stebbins Port                  | Raw          |
+|      175.78 | Aarti                       | Marius Station                 | Raw          |
+|      175.84 | Lodemowo                    | Bluford Hub                    | Raw          |
+|      175.90 | HIP 39242                   | Tyson Terminal                 | Raw          |
+|      175.94 | Blatuntino                  | Apianus Terminal               | Raw          |
+|      176.04 | Guuguyni                    | Shen Terminal                  | Encoded      |
+|      176.04 | HIP 1745                    | Ilyushin Vision                | Raw          |
+|      176.31 | Bugulmara                   | Coulomb Port                   | Manufactured |
+|      176.41 | Zoquagsang                  | Bernard City                   | Manufactured |
+|      176.42 | Ramandji                    | Wetherill Horizons             | Raw          |
+|      176.65 | Xbaquitae                   | Snodgrass Orbital              | Raw          |
+|      176.73 | Barbaram                    | Citi Orbital                   | Raw          |
+|      176.91 | Baro                        | Creamer Port                   | Raw          |
+|      177.24 | Malanges                    | Heng Ring                      | Raw          |
+|      177.57 | HIP 33368                   | Barjavel Station               | Raw          |
+|      177.71 | Bhavas                      | Sugano Orbital                 | Encoded      |
+|      177.83 | Yan Musu                    | Sutter Dock                    | Manufactured |
+|      177.92 | Khruttones                  | Morgan Port                    | Raw          |
+|      177.94 | Angurongo                   | Dahm Port                      | Raw          |
+|      178.25 | HR 943                      | Hildebrandt Terminal           | Encoded      |
+|      178.41 | HIP 35965                   | Brash Dock                     | Raw          |
+|      178.85 | Nang Di                     | Ziegler Orbital                | Encoded      |
+|      178.92 | Paeste                      | Vishweswarayya Dock            | Manufactured |
+|      179.14 | HIP 14031                   | Porco City                     | Encoded      |
+|      179.16 | Daibais                     | Flammarion Terminal            | Raw          |
+|      179.21 | HIP 64128                   | Rasmussen Ring                 | Raw          |
+|      179.21 | Kitani                      | Ing Port                       | Raw          |
+|      179.21 | LTT 537                     | Gurshtein Hub                  | Raw          |
+|      179.54 | Alacarakmo                  | Weyl Gateway                   | Raw          |
+|      179.63 | Ngalites                    | Peters Gateway                 | Raw          |
+|      179.77 | Lambo                       | Common Terminal                | Raw          |
+|      179.85 | Suhte                       | Ballard Survey                 | Raw          |
+|      179.97 | Kwatee                      | Herreshoff Gateway             | Manufactured |
+|      179.98 | Shonessa                    | Herzog City                    | Raw          |
+|      180.03 | Karbon                      | Budrys Installation            | Manufactured |
+|      180.30 | HR 780                      | Denning Terminal               | Raw          |
+|      180.65 | No Myoin                    | Bounds Terminal                | Manufactured |
+|      180.69 | Pauang                      | Zettel City                    | Raw          |
+|      180.71 | Heryshaf                    | Sheremetevsky Dock             | Raw          |
+|      180.73 | Torno                       | Young Dock                     | Manufactured |
+|      181.30 | Miwobo Kuki                 | Kopff Platform                 | Raw          |
+|      181.41 | HIP 9216                    | Goldreich Orbital              | Raw          |
+|      181.41 | HIP 23277                   | Peirce Port                    | Raw          |
+|      181.51 | HIP 76837                   | Zettel Station                 | Raw          |
+|      181.70 | Antal                       | Lobachevsky Station            | Encoded      |
+|      181.72 | HIP 76466                   | Budrys Station                 | Manufactured |
+|      181.73 | HIP 13257                   | Garnier City                   | Manufactured |
+|      182.01 | Tau Puppis                  | Pogson Vision                  | Raw          |
+|      182.01 | Tailpiri                    | Fanning Ring                   | Raw          |
+|      182.09 | Slatas                      | Bennett Vision                 | Raw          |
+|      182.17 | Nan Wera                    | Hansteen Terminal              | Raw          |
+|      182.32 | Arugbatz                    | Francisco de Almeida Landing   | Raw          |
+|      182.38 | 80 Leonis                   | Isherwood Dock                 | Raw          |
+|      183.43 | Ngarawe                     | Lozino-Lozinskiy Vision        | Raw          |
+|      183.46 | HIP 20184                   | Pritchard Orbital              | Raw          |
+|      183.71 | Pequenenses                 | Hague Mines                    | Raw          |
+|      183.76 | HIP 8894                    | Bullialdus Gateway             | Raw          |
+|      183.94 | HR 5791                     | Robinson Dock                  | Manufactured |
+|      185.03 | HIP 112462                  | Lyot Vision                    | Manufactured |
+|      186.77 | Daii                        | Sopwith Enterprise             | Raw          |
+|      186.77 | HIP 60679                   | Cady Enterprise                | Raw          |
+|      187.02 | HR 6767                     | Dickson Dock                   | Raw          |
+|      187.75 | Songzi                      | van der Riet Woolley Vision    | Encoded      |
+|      187.79 | Andonnus                    | Mrkos Vision                   | Encoded      |
+|      188.51 | Baldur                      | Thollon Station                | Raw          |
+|      189.46 | Desubi                      | Hay Hub                        | Encoded      |
+|      189.61 | HIP 42727                   | Marriott Orbital               | Raw          |
+|      190.20 | HIP 14249                   | Shen Platform                  | Raw          |
+|      190.25 | Birhodiweu                  | Hogg Port                      | Raw          |
+|      190.26 | Kanagoto                    | Kemurdzhian Enterprise         | Raw          |
+|      190.57 | Clido Pi                    | Abbot Port                     | Raw          |
+|      190.63 | 8 Piscis Austrini           | Gehry Dock                     | Raw          |
+|      191.18 | Rishair                     | Lindblad Port                  | Manufactured |
+|      191.26 | Brestla                     | Roed Odegaard Port             | Raw          |
+|      191.44 | HIP 18870                   | Carrington Vision              | Raw          |
+|      191.95 | Uodigi                      | Argelander Hub                 | Raw          |
+|      192.45 | Muruidooges                 | Emshwiller Hub                 | Raw          |
+|      192.47 | Osci                        | Hague Port                     | Raw          |
+|      192.50 | Snotock Ek                  | Cowling Survey                 | Raw          |
+|      192.86 | Kartenes                    | Parkinson Port                 | Raw          |
+|      193.32 | Frao                        | Tarter Colony                  | Raw          |
+|      193.37 | TaexaliTemu                 | Xuesen Dock                    | Raw          |
+|      193.79 | Kou Hua                     | Olahus Hub                     | Raw          |
+|      194.03 | Umastae                     | Isherwood Dock                 | Manufactured |
+|      194.35 | Penai                       | Oshima Dock                    | Raw          |
+|      194.42 | Yum Kacoc                   | Biruni Orbital                 | Raw          |
+|      195.14 | Dhruva                      | Shinjo City                    | Raw          |
+|      195.20 | Ngurii                      | Cheranovsky City               | Raw          |
+|      195.25 | Guangngel                   | Kaluta Dock                    | Raw          |
+|      195.70 | Jambaraya                   | Sturgeon Dock                  | Raw          |
+|      195.76 | HIP 64714                   | Hawkes Enterprise              | Raw          |
+|      195.98 | Xi-2 Lupi                   | Pellegrino Hub                 | Manufactured |
+|      196.08 | Nyororor                    | Biermann Dock                  | Encoded      |
+|      197.26 | Songa                       | Robinson Hub                   | Raw          |
+|      197.31 | HIP 108701                  | MacCready Dock                 | Raw          |
+|      198.07 | HIP 12314                   | Bentham Station                | Manufactured |
+|      198.65 | Liv                         | Edmondson Station              | Manufactured |
+|      198.67 | Djakah                      | Al-Khujandi Hub                | Raw          |
+|      199.36 | HIP 108971                  | Babakin Station                | Raw          |
+|      199.47 | HIP 38235                   | Pytheas Dock                   | Raw          |
+|      199.59 | Tankobung                   | Berkey Terminal                | Raw          |
+|      199.95 | HIP 73293                   | Matthaus Olbers Station        | Raw          |
+|      200.25 | HIP 9452                    | Ore Terminal                   | Raw          |
+|      200.58 | Mandigo                     | Muramatsu Station              | Raw          |
+|      200.93 | Huntics                     | Bartini Gateway                | Manufactured |
+|      201.21 | Oshanla                     | Reid Gateway                   | Raw          |
+|      203.48 | HIP 110442                  | Bowell Horizons                | Raw          |
+|      204.14 | HIP 11192                   | Kawasato Port                  | Raw          |
+|      204.23 | Ualar                       | Rubin Ring                     | Raw          |
+|      204.26 | HIP 116125                  | Vess Dock                      | Manufactured |
+|      204.29 | Havared                     | Albumasar Hub                  | Raw          |
+|      204.62 | HIP 3035                    | Meuron Port                    | Manufactured |
+|      204.86 | Vukuracians                 | Herbig Station                 | Raw          |
+|      205.30 | Lwena                       | Paczynski Station              | Raw          |
+|      205.88 | Ngobe                       | Hinz Hub                       | Raw          |
+|      206.09 | Volcani                     | Barnard Station                | Raw          |
+|      206.11 | No Cha                      | de Seversky Port               | Manufactured |
+|      206.62 | Mariga                      | Lavochkin Terminal             | Raw          |
+|      206.72 | HR 8444                     | Maskelyne Vision               | Raw          |
+|      207.76 | HIP 116910                  | Puiseux Terminal               | Raw          |
+|      208.58 | Kamchadals                  | Dalgarno Station               | Raw          |
+|      209.57 | Tacahuti                    | Jones Terminal                 | Raw          |
+|      210.01 | Mati                        | Bickel Dock                    | Raw          |
+|      210.08 | Khowei                      | De Horizons                    | Raw          |
+|      210.22 | Ch'unga                     | Tyson City                     | Raw          |
+|      210.32 | San Wu Gu                   | Cannon Orbital                 | Raw          |
+|      210.57 | Bikeggirina                 | Condit Terminal                | Raw          |
+|      211.39 | HIP 290                     | Dolgov Port                    | Raw          |
+|      211.42 | Ngadjuk                     | Becvar Enterprise              | Raw          |
+|      212.13 | Lescherty                   | Guth Vision                    | Raw          |
+|      213.13 | Autroch                     | Okuni Port                     | Raw          |
+|      213.21 | Varati                      | Thompson Dock                  | Manufactured |
+|      213.67 | Aruntei                     | Piano Settlement               | Raw          |
+|      213.88 | Theemim                     | Niemeyer City                  | Manufactured |
+|      214.62 | Djalkyries                  | Boscovich Survey               | Raw          |
+|      215.29 | HIP 1937                    | Gunter Port                    | Raw          |
+|      215.39 | Namat                       | Goryu Terminal                 | Raw          |
+|      216.97 | Djera                       | Scotti Dock                    | Raw          |
+|      217.29 | Iama Kheph                  | Skjellerup Port                | Raw          |
+|      217.45 | HIP 862                     | Kanai Terminal                 | Raw          |
+|      217.87 | HIP 9741                    | d'Arrest Terminal              | Raw          |
+|      219.83 | Greidu                      | Auzout Orbital                 | Raw          |
+|      221.49 | Swahili                     | Coggia Hub                     | Manufactured |
+|      221.90 | HIP 118127                  | Keldysh Station                | Raw          |
+|      222.10 | Tschapa                     | Fraknoi Hub                    | Raw          |
+|      222.18 | HIP 23185                   | Bolkow Dock                    | Raw          |
+|      222.95 | HIP 23046                   | Greenstein Vision              | Raw          |
+|      223.85 | HIP 16272                   | Behnisch Orbital               | Raw          |
+|      223.95 | Arapipi                     | Naylor Ring                    | Raw          |
+|      224.31 | Gangga                      | Wigura Station                 | Manufactured |
+|      224.68 | Anhurs                      | Axon Terminal                  | Manufactured |
+|      225.70 | Coyotani                    | Oberth Dock                    | Raw          |
+|      225.80 | Yun Tzu                     | Freas Station                  | Raw          |
+|      226.46 | Karakasis                   | Resnik Vision                  | Raw          |
+|      227.74 | Dhan                        | Kidd Station                   | Raw          |
+|      227.94 | Backlum                     | Resnik Orbital                 | Raw          |
+|      228.48 | Nijolam                     | Salam Orbital                  | Raw          |
+|      228.52 | Kano                        | Stevenson Mines                | Raw          |
+|      228.88 | Yavatas                     | Westerhout Port                | Raw          |
+|      229.94 | Ru Shun                     | Louis de Lacaille Station      | Raw          |
+|      230.18 | HIP 11958                   | Maunder Terminal               | Raw          |
+|      231.15 | Viromi                      | Walotsky Orbital               | Raw          |
+|      231.21 | Kwamindjara                 | Paczynski Station              | Raw          |
+|      231.93 | Irukaiabozo                 | Suri Ring                      | Raw          |
+|      232.50 | HIP 2902                    | Cassini City                   | Raw          |
+|      233.46 | HIP 8119                    | Seitter City                   | Raw          |
+|      233.51 | Kuki An                     | Paola Prospect                 | Raw          |
+|      233.69 | Penapasoak                  | Neugebauer Port                | Raw          |
+|      235.00 | HIP 110952                  | Melia Gateway                  | Raw          |
+|      235.42 | Kauruku                     | Axon Orbital                   | Raw          |
+|      236.49 | HIP 31666                   | Shunkai Orbital                | Raw          |
+|      237.30 | Mutpuri                     | Kopal Terminal                 | Raw          |
+|      238.73 | Medui                       | Dowty Hub                      | Raw          |
+|      238.93 | Isiti                       | Altuna Port                    | Raw          |
+|      238.94 | Sabines                     | Woodroffe Terminal             | Raw          |
+|      238.96 | Reshesh                     | Humason Terminal               | Raw          |
+|      240.86 | Wiradjuri                   | Chacornac Orbital              | Manufactured |
+|      243.56 | Lagar                       | Ban Vision                     | Raw          |
+|      244.34 | HIP 8758                    | Firsoff Orbital                | Raw          |
+|      245.20 | Larg                        | Kagawa Survey                  | Raw          |
+|      245.74 | Jokudiri                    | Krigstein Prospect             | Raw          |
+|      246.36 | HIP 307                     | Roche Hub                      | Raw          |
+|      246.71 | Raijuhan Yi                 | Mattei Hub                     | Raw          |
+|      246.94 | Keerama                     | Shajn Terminal                 | Raw          |
+|      247.30 | Baudurotri                  | Wilhelm von Struve Orbital     | Manufactured |
+|      247.85 | HIP 4794                    | Hickman Orbital                | Raw          |
+|      249.19 | Mimisina                    | Daqing Gateway                 | Raw          |
+|      249.20 | Maikpod                     | Bisnovatyi-Kogan Landing       | Raw          |
+|      250.52 | HIP 1742                    | Davies Vision                  | Raw          |
+|      251.30 | HIP 6108                    | Wheeler Hub                    | Raw          |
+|      251.58 | Inars                       | Chawla Dock                    | Raw          |
+|      251.72 | Maria Bhuti                 | van de Sande Bakhuyzen Station | Raw          |
+|      253.93 | Shamaphan                   | Truman Station                 | Raw          |
+|      254.60 | Kats                        | Truman Hub                     | Manufactured |
+|      254.82 | HIP 117254                  | Hirayama Port                  | Raw          |
+|      254.91 | Ahaut                       | Goldberg Orbital               | Raw          |
+|      256.12 | Gundji                      | Harrison Dock                  | Raw          |
+|      257.43 | HIP 115501                  | Nomen Vision                   | Manufactured |
+|      258.99 | Wadjirusi                   | Wegener Port                   | Raw          |
+|      259.60 | Havans                      | Anita's Legacy                 | Raw          |
+|      259.69 | HIP 15614                   | Hevelius Hub                   | Raw          |
+|      261.03 | Sotiate                     | Sweet Dock                     | Raw          |
+|      261.30 | Basuseku                    | Apianus Dock                   | Raw          |
+|      262.08 | Sagartiaci                  | Kirby Port                     | Manufactured |
+|      262.87 | Tacabs                      | Hirayama Dock                  | Raw          |
+|      263.02 | Maker                       | Royo Terminal                  | Raw          |
+|      265.24 | Konoto                      | Jeans Vision                   | Raw          |
+|      268.25 | Kureserians                 | Lambert Vision                 | Raw          |
+|      268.71 | Selkit                      | Baily Enterprise               | Raw          |
+|      274.77 | HIP 117831                  | Peters Station                 | Raw          |
+|      275.84 | Zaparo                      | Arfstrom Terminal              | Raw          |
+|      277.13 | HIP 114333                  | Sweet Orbital                  | Raw          |
+|      277.19 | Lwendecht                   | Wilhelm Enterprise             | Raw          |
+|      280.41 | Ibisanyan                   | Kuo Mines                      | Raw          |
+|      281.17 | HIP 1536                    | Anderson Hub                   | Raw          |
+|      284.21 | Bende                       | Somayaji Station               | Raw          |
+|      285.55 | Kising                      | Lambert Orbital                | Raw          |
+|      291.48 | HIP 1781                    | Chretien Oudemans Port         | Manufactured |
+|      293.05 | HIP 11469                   | Gaughan Station                | Raw          |
+|      298.16 | HIP 8396                    | Titus Station                  | Raw          |
+|      315.54 | Shorodo                     | Akiyama Hub                    | Manufactured |
+|      485.52 | Coalsack Sector KN-S b4-9   | Bering port                    | Raw          |
+|      486.64 | Ceos                        | Brunel Hub                     | Encoded      |
+|      494.49 | Sothis                      | Velinski Enterprise            | Manufactured |
+|      518.28 | Coalsack Sector VU-O b6-6   | Cole Point                     | Raw          |
+|      520.11 | Musca Dark Region PJ-P b6-1 | Betancourt Base                | Raw          |
+|      887.63 | Jaralis                     | Ratchet Hub                    | Manufactured |
+|     1387.02 | Pru Euq WO-D b53-8          | Zerreiss Station               | Encoded      |
+|     4215.55 | NGC 6530 Sector ZE-X b2-0   | Helgrind Gateway               | Raw          |
+|     9028.36 | Flyiedge VN-W c4-51         | Vladmir McDoogle's Triumph     | Raw          |
+|    12216.39 | Prua Phoe MI-B b17-5        | Canonn Complex                 | Raw          |
+|    16455.06 | Blua Eaec WW-E c14-1293     | Promium Relay                  | Raw          |
+|    19923.75 | Eoch Flyuae QK-E d12-2118   | Venatores Hub                  | Manufactured |
+|    21997.11 | Ratraii                     | Colonia Dream                  | Manufactured |
+|    21998.44 | Kojeara                     | TolaGarf's Junkyard            | Raw          |
+|    22027.97 | Coeus                       | Foster Terminal                | Manufactured |
++-------------+-----------------------------+--------------------------------+--------------+
+
+Notes:
+- Sorted nearest to farthest from Sol.
+- Four Odyssey-only surface engineer bases were excluded.
+- A trader may be temporarily unavailable if its station is damaged or in lockdown.

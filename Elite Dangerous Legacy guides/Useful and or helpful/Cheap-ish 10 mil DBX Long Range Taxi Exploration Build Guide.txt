@@ -1,0 +1,1161 @@
+ELITE DANGEROUS LEGACY CONSOLE
+DIAMONDBACK EXPLORER — LONG-RANGE TAXI AND EXPLORATION BUILD
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+BUILD PURPOSE
+===============================================================================
+
+This Diamondback Explorer is a lightweight, long-range utility ship designed
+primarily for travelling rather than fighting.
+
+Its strongest roles are:
+
+- General Bubble taxi
+- Engineer-unlock travel
+- Data courier missions
+- Federal and Imperial courier rank loops
+- Guardian-site trips
+- Engineering-material expeditions
+- Rare-good collection in small quantities
+- Surface-site visits with an SRV
+- Short and medium exploration journeys
+- Long-distance travel after adding an AFMU 
+- Neutron-assisted travel after adding an AFMU (See Legacy Neutron Highway Bubble to Colonia Guide for more information)
+- Visiting permit systems, Technology Brokers and Material Traders
+
+Useful info for newer CMDRS:
+Unengineered 36 LY jumprange 
+Engineered 63 LY jumprange 
+Engineered + Guardian FSD 72 LY jumprange
+
+The build combines:
+
+- A Grade 5 Increased Range 5A Frame Shift Drive 
+- Mass Manager Experimental Effect
+- Class 4 Guardian FSD Booster
+- 32-tonne fuel tank
+- Class 4A Fuel Scoop
+- Small shield
+- Eight tonnes of cargo space
+- One SRV
+- One Heat Sink Launcher
+- No weapons
+
+This makes it fast, economical and convenient, but not combat-capable.
+
+===============================================================================
+ORIGINAL CORIOLIS BUILD
+===============================================================================
+
+Build link:
+
+https://coriolis.io/outfit/diamondback_explorer?code=A0p5tdFfldddsdf5---02---321P4302v6---4F.Iw18aQ%3D%3D.Aw18aQ%3D%3D.H4sIAAAAAAAAA2P%2BJ8XAwPCXFUj8qQAS%2FCq%2F%2Fv8X2sHNwCBSI8rAIHEHKPP%2FPwMAbA6BIicAAAA%3D.EweloBhBmSQUwIYHMA28QgIwVyKBQA%3D%3D
+
+===============================================================================
+LEGACY BUILD CHECKLIST
+===============================================================================
+
+TOTAL COST
+13.5 MIL (With guardian FSD Booster, 10 mil without)
+
+CORE INTERNALS
+
+[ ] Lightweight Alloy
+[ ] 3A Power Plant
+[ ] 4D Thrusters
+[ ] 5A FSD — Grade 5 Increased Range
+[ ] Mass Manager Experimental Effect
+[ ] 3D Life Support
+[ ] 3D Power Distributor
+[ ] 3D Sensors
+[ ] 5C Fuel Tank
+
+OPTIONAL INTERNALS
+
+[ ] 4A Fuel Scoop
+[ ] 4H Guardian FSD Booster
+[ ] 3D Shield Generator
+[ ] 3E Cargo Rack — 8 tonnes
+[ ] 2G Planetary Vehicle Hangar — 1 SRV
+[ ] 2A AFMU recommended
+[ ] 1I Detailed Surface Scanner recommended
+[ ] Final Class 1 slot selected for intended role
+[ ] Standard Legacy Planetary Approach Suite
+
+HARDPOINTS
+
+[ ] Large hardpoint empty
+[ ] Medium hardpoint empty
+[ ] Medium hardpoint empty
+
+UTILITY MOUNTS
+
+[ ] Heat Sink Launcher
+[ ] Point Defence fitted temporarily for Guardian sites if needed
+[ ] Remaining utilities empty unless required
+
+The link was decoded into the module list below.
+
+LEGACY CORRECTION:
+
+The current Coriolis data serialises the built-in approach module as an
+"Advanced Planetary Approach Suite."
+
+That is not the correct console module.
+
+On Xbox and PlayStation Legacy, the ship uses the standard:
+
+    PLANETARY APPROACH SUITE
+
+The slot is built into the ship and does not require a normal optional-internal
+compartment.
+
+
+===============================================================================
+YOU DO NOT HAVE TO READ PAST THIS POINT, JUST LOTS OF EXTRA INFO AND EXPLANATIONS
+===============================================================================
+
+===============================================================================
+APPROXIMATE PERFORMANCE
+===============================================================================
+
+With the linked Grade 5 Increased Range and Mass Manager FSD engineering:
+
+Approximate maximum unladen jump:
+- About 72 LY with only the fuel needed for one maximum-range jump
+
+Guardian FSD Booster contribution:
+- +9.25 LY
+
+Fuel capacity:
+- 32 tonnes
+
+Cargo capacity:
+- 8 tonnes
+
+SRVs:
+- 1
+
+
+These figures are approximate and can change slightly with module engineering,
+fuel level, cargo and any additional modules fitted to the empty slots.
+
+===============================================================================
+CORE INTERNALS
+===============================================================================
+
+-------------------------------------------------------------------------------
+BULKHEADS
+-------------------------------------------------------------------------------
+
+LIGHTWEIGHT ALLOY
+
+Purpose:
+- Keeps the ship as light as possible
+- Maximises jump range
+- Costs nothing to replace because it is the standard hull armour
+
+Strength:
+- Best choice for a dedicated taxi or explorer
+
+Weakness:
+- Minimal protection in combat or after shield failure
+
+Recommended engineering:
+- Heavy Duty
+- Deep Plating
+
+Heavy Duty engineering on Lightweight Alloy adds useful hull strength without
+the normal mass penalty because the base armour has zero mass.
+
+This is optional. The ship should still avoid combat.
+
+-------------------------------------------------------------------------------
+POWER PLANT
+-------------------------------------------------------------------------------
+
+3A POWER PLANT
+
+The DBX has a Class 4 Power Plant slot, but this build uses an undersized 3A
+plant.
+
+Purpose:
+- Saves mass
+- Provides enough power for the lightweight travel equipment
+- A-rating gives good heat efficiency
+
+Why it suits the build:
+- The ship has no weapons
+- Most optional equipment has modest power requirements
+- AFMUs and repair equipment can be disabled until needed
+
+
+
+-------------------------------------------------------------------------------
+THRUSTERS
+-------------------------------------------------------------------------------
+
+4D THRUSTERS
+
+Purpose:
+- Low mass
+- Adequate normal flight and planetary landing performance
+- Preserves jump range
+
+Strength:
+- Appropriate for a travel ship
+
+Weakness:
+- Not designed for aggressive combat manoeuvring
+- Care is required on high-gravity planets
+
+Recommended engineering options:
+
+Taxi and escape focus:
+- Dirty Drive Tuning
+- Drag Drives
+
+Cooler exploration focus:
+- Clean Drive Tuning
+- Drive Distributors or Stripped Down
+
+Dirty Drives are useful for escaping interdictions, but increase thermal load.
+
+-------------------------------------------------------------------------------
+FRAME SHIFT DRIVE
+-------------------------------------------------------------------------------
+
+5A FRAME SHIFT DRIVE
+
+Engineering encoded in the shared build:
+- Grade 5 Increased Range
+- Mass Manager Experimental Effect
+
+This is the heart of the build.
+
+Purpose:
+- Provides the ship's long normal jump range
+- Reduces travel time between engineers, material sites and distant systems
+- Combines with the Guardian FSD Booster
+
+The build uses the normal engineerable Legacy 5A FSD.
+
+It does not rely on:
+- SCO
+- Live-only FSD technology
+- Odyssey mechanics
+
+Recommended use:
+- Keep this module at 100% integrity before major journeys
+- Add an AFMU before repeated neutron-star boosting
+- Never sell it accidentally when changing ships
+
+-------------------------------------------------------------------------------
+LIFE SUPPORT
+-------------------------------------------------------------------------------
+
+3D LIFE SUPPORT
+
+Purpose:
+- Saves mass
+- Provides normal cockpit life support
+
+Strength:
+- Standard exploration and taxi choice
+
+Weakness:
+- D-rated emergency oxygen duration is limited after canopy breach
+
+Recommended engineering:
+- Lightweight
+
+Carry Life Support synthesis materials on long trips.
+
+-------------------------------------------------------------------------------
+POWER DISTRIBUTOR
+-------------------------------------------------------------------------------
+
+3D POWER DISTRIBUTOR
+
+The ship has a Class 4 slot, but this build uses an undersized 3D distributor.
+
+Purpose:
+- Saves mass
+- Retains enough engine capacitor capacity to boost
+- Suitable because the ship has no weapons
+
+Strength:
+- Efficient mass-saving choice
+
+Weakness:
+- Slower repeated boosting than a larger distributor
+- Poor weapon and systems endurance
+
+Recommended engineering:
+
+Travel and escape:
+- Engine Focused
+- Cluster Capacitors
+
+Balanced alternative:
+- Charge Enhanced
+- Super Conduits
+
+The main requirement is preserving the ability to boost.
+
+-------------------------------------------------------------------------------
+SENSORS
+-------------------------------------------------------------------------------
+
+3D SENSORS
+
+Purpose:
+- Lowest practical mass
+- Adequate for normal navigation, docking and mission use
+
+Recommended engineering:
+- Lightweight
+
+This ship is not intended to perform long-range combat target detection.
+
+-------------------------------------------------------------------------------
+FUEL TANK
+-------------------------------------------------------------------------------
+
+5C FUEL TANK — 32 TONNES
+
+Purpose:
+- Provides several jumps between fuel stops
+- Makes long-distance travel forgiving
+- Reduces the chance of becoming stranded
+
+Important:
+- A full tank adds substantial mass
+- Maximum displayed jump range rises as fuel is consumed
+- Do not intentionally fly nearly empty unless a fuel star is safely reachable
+
+The standard tank is a good compromise for Bubble travel and exploration.
+
+===============================================================================
+OPTIONAL INTERNALS — LINKED BUILD
+===============================================================================
+
+The DBX optional slots are:
+
+- Class 4
+- Class 4
+- Class 3
+- Class 3
+- Class 2
+- Class 2
+- Class 1
+- Class 1
+- Built-in Planetary Approach Suite
+
+The linked build fills them as follows.
+
+-------------------------------------------------------------------------------
+CLASS 4 SLOT — 4A FUEL SCOOP
+-------------------------------------------------------------------------------
+
+Purpose:
+- Refuels from K, G, B, F, O, A and M stars
+- Allows indefinite travel without buying fuel
+- Required for neutron-star FSD supercharging
+
+Strength:
+- Largest Fuel Scoop the DBX can fit
+
+Limitation:
+- The DBX cannot fit the very large scoops available to an Asp Explorer, Krait
+  Phantom or Anaconda
+- Refuelling can therefore feel slower on repeated long journeys
+
+Practical method:
+- Begin scooping immediately after arrival
+- Arc around the star while aligning with the next jump
+- Leave before excessive heat accumulates
+
+The Fuel Scoop should remain fitted for nearly every role in this guide.
+
+-------------------------------------------------------------------------------
+CLASS 4 SLOT — 4H GUARDIAN FSD BOOSTER
+-------------------------------------------------------------------------------
+
+Jump-range bonus:
+- +9.25 LY
+
+Purpose:
+- Adds a fixed jump-range increase
+- Greatly improves taxi and exploration efficiency
+- Reduces the number of jumps required for engineer and material trips
+
+Strength:
+- One of the most valuable modules on the ship
+
+Limitation:
+- Uses a valuable Class 4 compartment
+- Draws additional power
+- Must first be unlocked at a Guardian Technology Broker
+
+Do not remove it unless temporarily converting the ship for specialised cargo
+or SRV capacity.
+
+-------------------------------------------------------------------------------
+CLASS 3 SLOT — 3D SHIELD GENERATOR
+-------------------------------------------------------------------------------
+
+Purpose:
+- Protects against docking bumps
+- Protects against rough planetary landings
+- Gives limited protection during an interdiction escape
+
+Strength:
+- Lightweight compared with stronger shield choices
+
+Weakness:
+- Not a combat shield
+- Will not withstand determined attackers
+- Does not make high-gravity mistakes safe
+
+
+For this ship, the shield is landing insurance rather than battle protection.
+
+-------------------------------------------------------------------------------
+CLASS 3 SLOT — 3E CARGO RACK
+-------------------------------------------------------------------------------
+
+Capacity:
+- 8 tonnes
+
+Purpose:
+- Carries small engineer-unlock commodities
+- Carries rare goods in limited quantities
+- Carries mission cargo
+- Carries limpets if a controller is temporarily installed
+- Allows limited commodity trading or salvage
+
+Useful examples:
+- One Meta-Alloy
+- Three Soontill Relics
+- Eight HN Shock Mounts
+- Small delivery missions
+- Small quantities of rare goods
+- Guardian Ancient Keys
+- Guardian commodities where required
+
+Important limitation:
+Many engineer unlocks require 25, 50 or 200 tonnes.
+
+This eight-tonne rack is not enough for large engineer donations in one trip.
+
+For major cargo unlocks, use:
+- Multiple trips where partial donation is accepted
+- A temporary cargo conversion
+- A Python, Type-7, Type-9, Anaconda or other cargo ship
+
+-------------------------------------------------------------------------------
+CLASS 2 SLOT — 2G PLANETARY VEHICLE HANGAR
+-------------------------------------------------------------------------------
+
+Capacity:
+- One SRV
+
+Purpose:
+- Guardian structures
+- Jameson Crash Site
+- Crystalline Shard sites
+- Brain-tree sites
+- Dav's Hope
+- Surface coordinate navigation
+- Raw-material collection
+- Surface exploration
+
+Strength:
+- G-rated hangar is the lightweight choice
+
+Weakness:
+- Only one SRV
+- Losing the SRV ends surface-material activity until the ship reaches a
+  suitable station
+
+Before remote trips, stock:
+- SRV fuel synthesis materials
+- SRV repair synthesis materials
+- SRV ammunition synthesis materials
+
+-------------------------------------------------------------------------------
+CLASS 2 SLOT — EMPTY
+-------------------------------------------------------------------------------
+
+This is the most important unused slot.
+
+Recommended default addition:
+
+    2A AUTO FIELD-MAINTENANCE UNIT
+
+Why:
+- Repairs the FSD after neutron boosts
+- Repairs the Fuel Scoop and other modules
+- Makes the ship substantially safer for deep exploration
+
+The AFMU can remain disabled until needed.
+
+Alternative uses:
+- Additional 4-tonne Cargo Rack
+- Supercruise Assist
+- Repair Limpet Controller
+- Second small SRV hangar is not available in this Class 2 slot beyond the same
+  one-bay arrangement
+
+-------------------------------------------------------------------------------
+CLASS 1 SLOT — EMPTY
+-------------------------------------------------------------------------------
+
+Recommended default addition:
+
+    1I DETAILED SURFACE SCANNER
+
+This is strongly recommended.
+
+Purpose:
+- Maps planets
+- Reveals Legacy surface POIs
+- Locates Guardian, Geological and Biological signals
+- Increases exploration value
+- Supports material-farming expeditions
+
+Recommended engineering:
+- Expanded Probe Scanning Radius
+
+The linked build as supplied does not include a Detailed Surface Scanner.
+
+Without one, it remains an excellent Bubble taxi, but it is incomplete as a
+general exploration and material-farming ship.
+
+-------------------------------------------------------------------------------
+CLASS 1 SLOT — EMPTY
+-------------------------------------------------------------------------------
+
+Recommended choices:
+
+General taxi:
+- Supercruise Assist
+
+Long-range safety: (Optional)
+- 1A AFMU as a backup or primary unit (Optional)
+
+Cargo support:
+- 1E Cargo Rack for 2 additional tonnes
+
+Hull repair support: (Optional)
+- Small Repair Limpet Controller, with cargo space for limpets (Optional)
+
+Minimalist range:
+- Leave empty
+
+The best choice depends on whether the ship is being used as a taxi or explorer.
+
+-------------------------------------------------------------------------------
+BUILT-IN SLOT — PLANETARY APPROACH SUITE
+-------------------------------------------------------------------------------
+
+Legacy module:
+- Planetary Approach Suite
+
+Purpose:
+- Allows orbital cruise and planetary approach on landable Horizons planets
+
+This built-in module does not use one of the normal optional slots.
+
+Do not look for the Live-only "Advanced" version on Xbox or PlayStation.
+
+===============================================================================
+HARDPOINTS
+===============================================================================
+
+LARGE HARDPOINT:
+- Empty
+
+MEDIUM HARDPOINT:
+- Empty
+
+MEDIUM HARDPOINT:
+- Empty
+
+Purpose of leaving all weapons empty:
+- Saves mass
+- Saves power
+- Improves jump range
+- Makes the ship's role clear: travel, not combat
+
+This ship should not remain and fight after interdiction.
+
+Recommended response:
+1. Submit to the interdiction.
+2. Put four pips to ENG and two to SYS.
+3. Boost away.
+4. Charge the FSD.
+5. High-wake to another system if mass-locked.
+
+
+===============================================================================
+UTILITY MOUNTS
+===============================================================================
+
+UTILITY 1:
+- Heat Sink Launcher
+
+UTILITY 2:
+- Empty
+
+UTILITY 3:
+- Empty
+
+UTILITY 4:
+- Empty
+
+-------------------------------------------------------------------------------
+HEAT SINK LAUNCHER
+-------------------------------------------------------------------------------
+
+Purpose:
+- Emergency cooling
+- Safer fuel-scooping recovery
+- Protection after arriving between close stars
+- Helps during accidental overheating
+- Useful during emergency neutron-cone recovery
+
+
+The Heat Sink Launcher is a sensible general exploration utility.
+
+-------------------------------------------------------------------------------
+EMPTY UTILITY OPTIONS
+-------------------------------------------------------------------------------
+
+POINT DEFENCE (Optional)
+
+Recommended for Guardian surface structures.
+
+Before a Guardian-site trip:
+- Temporarily install one Point Defence
+- Use a utility position with a clear upper firing arc
+- Park close enough for it to intercept Sentinel missiles
+
+FRAME SHIFT WAKE SCANNER (Optional)
+
+Useful for:
+- Wake-data farming
+- Datamined Wake Exceptions
+- Scanning station traffic
+
+It adds mass and power use, so fit it only when needed.
+
+
+===============================================================================
+RECOMMENDED FINISHED CONFIGURATIONS
+===============================================================================
+
+-------------------------------------------------------------------------------
+A. GENERAL BUBBLE TAXI
+-------------------------------------------------------------------------------
+
+Keep the linked modules and add:
+
+Class 2:
+- Supercruise Assist or 2A AFMU (Optional)
+
+Class 1:
+- Detailed Surface Scanner
+
+Class 1:
+- Supercruise Assist, 1A AFMU or leave empty (Optional)
+
+Best for:
+- Engineer travel
+- Courier missions
+- Material Traders
+- Technology Brokers
+- Permit missions
+- Rare-good shopping
+- Visiting remote stations
+- Mission-board travel
+
+-------------------------------------------------------------------------------
+B. EXPLORATION CONFIGURATION
+-------------------------------------------------------------------------------
+
+Keep the linked modules and add:
+
+Class 2: (Optional)
+- 2A AFMU (Optional)
+
+Class 1:
+- Detailed Surface Scanner
+
+Class 1:
+- Supercruise Assist (Optional), backup AFMU (Optional) or leave empty 
+
+Keep:
+- Heat Sink Launcher
+- Shield
+- SRV
+- Cargo Rack
+
+Best for:
+- Short and medium expeditions
+- Road-to-Riches-style exploration
+- Guardian regions
+- Surface POIs
+- Colonia travel with careful repair planning
+
+For true deep-space self-sufficiency, consider replacing a convenience slot
+with a Repair Limpet Controller and carrying or synthesising limpets.
+
+-------------------------------------------------------------------------------
+C. ENGINEER-UNLOCK CONFIGURATION
+-------------------------------------------------------------------------------
+
+Keep:
+- Fuel Scoop
+- Guardian FSD Booster
+- Shield
+- Cargo Rack
+- SRV
+- Detailed Surface Scanner
+
+Optional:
+- Replace the empty Class 2 slot with another Cargo Rack for four more tonnes
+- Use the empty Class 1 slot for another two tonnes
+
+Possible cargo total with those additions:
+- 14 tonnes
+
+If both Class 1 slots are cargo racks instead of a DSS:
+- 16 tonnes
+
+This still does not handle large 25-, 50- or 200-tonne donations efficiently.
+
+Use the DBX for the travel-heavy tasks, then switch to a cargo ship for bulk
+deliveries.
+
+-------------------------------------------------------------------------------
+D. GUARDIAN-SITE CONFIGURATION
+-------------------------------------------------------------------------------
+
+Keep:
+- Guardian FSD Booster
+- Fuel Scoop
+- Shield
+- SRV
+- Cargo Rack if carrying Ancient Keys
+
+Add:
+- Detailed Surface Scanner
+- Point Defence in a utility mount
+
+Optional:
+- 2A AFMU (Optional)
+
+Best for:
+- Module Blueprint sites
+- Weapon Blueprint sites
+- Vessel Blueprint sites
+- Guardian obelisk-data collection
+- Guardian component farming
+
+The single SRV is the main weakness. Bring synthesis materials and drive
+carefully.
+
+-------------------------------------------------------------------------------
+E. MATERIAL-FARMING CONFIGURATION
+-------------------------------------------------------------------------------
+
+Keep:
+- Fuel Scoop
+- Guardian FSD Booster
+- SRV
+- Shield
+
+Add:
+- Detailed Surface Scanner
+- AFMU for distant raw-material trips (Optional)
+
+Useful for:
+- Jameson Crash Site
+- Dav's Hope
+- Crystalline Shard planets
+- Selenium brain-tree sites
+- Guardian structures
+- Surface coordinates
+
+The build is especially good for sites where travel distance matters more than
+cargo capacity.
+
+-------------------------------------------------------------------------------
+F. COURIER AND NAVAL-RANK CONFIGURATION
+-------------------------------------------------------------------------------
+
+Keep the build almost unchanged.
+
+Recommended:
+- Add Supercruise Assist (Optional)
+- Keep shield and Heat Sink Launcher
+- Leave weapons empty
+
+Best for:
+- Ngalinn–Mainani Imperial courier loop
+- Ceos–Sothis Federal courier work
+- Ordinary data courier missions
+- Permit unlock missions
+- Naval promotion courier missions
+
+Advantages:
+- Courier missions require no cargo
+- DBX can land at outposts
+- Long range reduces route jumps
+- Low rebuy makes the grind safer
+- Small ship is easy to dock
+
+For Canopus–Exphiay cargo stacking, use a larger cargo ship instead.
+
+===============================================================================
+WHAT THIS BUILD IS ESPECIALLY GOOD FOR
+===============================================================================
+
+ENGINEER TRAVEL
+
+The long range makes it excellent for:
+- Visiting engineer workshops
+- Reaching rare-good source stations
+- Travelling to Maia for a Meta-Alloy
+- Visiting Sirius, Alioth, Sol and Achenar after permits
+- Returning to engineers for Experimental Effects
+- Visiting Material Traders between engineering sessions
+
+-------------------------------------------------------------------------------
+
+COURIER MISSIONS
+
+Data courier missions use no cargo space.
+
+The ship can:
+- Stack many courier missions
+- Land at small and medium pads
+- Cross large distances quickly
+- Escape rather than fight
+
+-------------------------------------------------------------------------------
+
+MATERIAL FARMING
+
+The SRV, Fuel Scoop and range make it a very good collection ship.
+
+The DSS should be added before relying on mapped surface signals.
+
+Encoded:
+- Jameson Crash Site
+- Guardian obelisks
+- Surface data points
+
+Raw:
+- Crystalline Shards
+- Brain trees
+- Geological sites
+
+Manufactured:
+- Dav's Hope
+- Signal-source travel
+
+For High Grade Emissions farming, a Collector Limpet Controller and cargo rack
+with limpets may be more convenient in another ship.
+
+-------------------------------------------------------------------------------
+
+GUARDIAN TECHNOLOGY
+
+The DBX is one of the best affordable ships for Guardian unlock travel.
+
+Advantages:
+- Long range
+- Small landing footprint
+- SRV
+- Cargo for Ancient Keys
+- Utility slots for Point Defence
+- Low rebuy
+
+-------------------------------------------------------------------------------
+
+EXPLORATION
+
+After adding DSS and AFMU:
+- Maps valuable worlds
+- Visits remote systems
+- Lands at surface POIs
+- Uses neutron boosts with FSD repairs
+- Carries small amounts of recovered cargo
+
+The main exploration compromise is the 4A Fuel Scoop. It is the largest the DBX
+can fit, but slower than the large scoops on bigger exploration ships.
+
+-------------------------------------------------------------------------------
+
+GENERAL TAXI
+
+This is perhaps the build's best everyday use.
+
+Use it to:
+- Move between stored ships
+- Visit engineers
+- Collect modules
+- Reach permit systems
+- Pick up mission rewards
+- Visit Guardian Technology Brokers
+- Visit Material Traders
+- Scout routes
+- Reach distant community or personal destinations in Legacy
+
+===============================================================================
+WHAT THIS BUILD IS NOT GOOD FOR
+===============================================================================
+
+COMBAT
+
+Reasons:
+- No weapons
+- Weak shield
+- Lightweight armour
+- Small distributor
+- Undersized Power Plant
+
+Do not bounty hunt or enter Conflict Zones in this configuration.
+
+-------------------------------------------------------------------------------
+
+BULK CARGO
+
+Eight tonnes is only enough for small deliveries.
+
+It is inefficient for:
+- 25 Modular Terminals
+- 50-tonne rare-good unlocks
+- 200 tonnes of Gold
+- 200 tonnes of Landmines
+- Large trade missions
+- Canopus–Exphiay cargo stacking
+
+-------------------------------------------------------------------------------
+
+PASSENGER MISSIONS
+
+No passenger cabins are installed.
+
+The Dolphin or Python is better for passenger work.
+
+-------------------------------------------------------------------------------
+
+MINING
+
+No mining equipment, refinery, limpets or substantial cargo capacity.
+
+-------------------------------------------------------------------------------
+
+ANTI-XENO COMBAT
+
+This is not an AX build.
+
+The Heat Sink and Guardian travel capability do not make it combat-ready.
+
+-------------------------------------------------------------------------------
+
+LONG NEUTRON TRAVEL 
+
+Build has no AFMU.
+
+Do not repeatedly neutron-boost without first fitting an AFMU because each
+supercharge damages the FSD.
+
+===============================================================================
+RECOMMENDED ENGINEERING
+===============================================================================
+
+The linked build already includes:
+
+5A Frame Shift Drive:
+- Grade 5 Increased Range
+- Mass Manager
+
+
+===============================================================================
+SUGGESTED POWER PRIORITIES (OPTIONAL)
+===============================================================================
+
+PRIORITY 1:
+- Thrusters
+- Frame Shift Drive
+- Life Support
+
+PRIORITY 2:
+- Shield Generator
+- Sensors
+- Fuel Scoop
+
+PRIORITY 3:
+- Guardian FSD Booster
+- Heat Sink Launcher
+- Detailed Surface Scanner
+
+PRIORITY 4:
+- Cargo Hatch
+- Planetary Vehicle Hangar
+- Supercruise Assist
+
+PRIORITY 5 OR NORMALLY DISABLED:
+- AFMU
+- Repair Limpet Controller
+- Temporary scanners
+
+The exact priorities matter little while all modules fit within the 3A Power
+Plant output, but a sensible layout helps if the Power Plant becomes damaged.
+
+===============================================================================
+HOW TO FLY IT
+===============================================================================
+
+NORMAL TRAVEL
+
+1. Plot using Fastest Routes.
+2. Keep scoopable stars enabled.
+3. Scoop while turning toward the next destination.
+4. Avoid carrying unnecessary cargo.
+5. Use Supercruise Assist only as a convenience, not a substitute for attention.
+
+-------------------------------------------------------------------------------
+
+INTERDICTION ESCAPE
+
+1. Submit intentionally.
+2. Put four pips to ENG and two to SYS.
+3. Boost.
+4. Keep boosting as the distributor permits.
+5. Charge the FSD.
+6. High-wake if mass-locked.
+
+Do not deploy hardpoints because none are fitted.
+
+-------------------------------------------------------------------------------
+
+PLANETARY LANDING
+
+1. Check gravity before descent.
+2. Keep the shield active.
+3. Approach slowly.
+4. Avoid steep descents on high-gravity worlds.
+5. Land close enough to the target to reduce SRV driving.
+6. Keep enough fuel to return to orbit and reach a scoopable star.
+
+-------------------------------------------------------------------------------
+
+NEUTRON USE
+
+Only after fitting an AFMU:
+
+1. Enter the outer part of the neutron cone in supercruise.
+2. Travel generally away from the star.
+3. Wait for FRAME SHIFT DRIVE SUPERCHARGED.
+4. Exit the cone.
+5. Make the boosted jump.
+6. Repair the FSD around 90% integrity.
+7. Avoid allowing it to fall below 80%.
+
+===============================================================================
+PRACTICAL ENGINEER-UNLOCK EXAMPLES
+===============================================================================
+
+GOOD MATCHES FOR THE EIGHT-TONNE RACK
+
+Felicity Farseer:
+- One Meta-Alloy
+
+Elvira Martuuk:
+- Three Soontill Relics
+
+Guardian FSD Booster:
+- Eight HN Shock Mounts
+
+Guardian vessel farming:
+- Ancient Keys
+
+Small cargo or courier invitation missions:
+- Usually manageable
+
+
+
+===============================================================================
+BUYING AND BUILDING ORDER
+===============================================================================
+
+1. Buy the Diamondback Explorer.
+2. Fit the 5A Frame Shift Drive.
+3. Fit the 4A Fuel Scoop.
+4. Fit lightweight D-rated core modules.
+5. Fit the 3D Shield Generator.
+6. Fit the 8-tonne Cargo Rack.
+7. Fit the 2G SRV Hangar.
+8. Fit the Heat Sink Launcher.
+9. Add a Detailed Surface Scanner.
+10. Engineer the FSD to Grade 5 Increased Range.
+11. Apply Mass Manager.
+12. Unlock and fit the Class 4 Guardian FSD Booster.
+13. Add a 2A AFMU before long or neutron-assisted travel.
+14. Engineer support modules only after the main build is functional.
+
+===============================================================================
+FINAL ASSESSMENT
+===============================================================================
+
+OVERALL ROLE:
+
+    LONG-RANGE LEGACY CONSOLE UTILITY TAXI
+
+EXCELLENT FOR:
+- Engineer unlocking
+- Courier missions
+- Federal and Imperial courier loops
+- Guardian technology trips
+- Material-farming travel
+- Small rare-good collections
+- Surface POIs
+- General Bubble movement
+- Short and medium exploration
+- Long exploration after adding DSS and AFMU
+
+POOR FOR:
+- Combat
+- Bulk cargo
+- Passenger work
+- Mining
+- AX combat
+- Repeated neutron travel without an AFMU
+
+The build's greatest strength is that it removes travel friction.
+
+It is inexpensive compared with larger exploration ships, lands almost
+anywhere, reaches distant systems quickly, carries an SRV and enough cargo for
+small objectives, and can be adapted with the empty slots without rebuilding
+the entire ship.
+
+The two most important additions are:
+
+    1I DETAILED SURFACE SCANNER
+    2A AUTO FIELD-MAINTENANCE UNIT
+
+With those installed, it becomes a genuinely strong exploration and
+engineering-progression ship rather than only a fast taxi.
+
+
+
+===============================================================================
+END OF GUIDE
+===============================================================================

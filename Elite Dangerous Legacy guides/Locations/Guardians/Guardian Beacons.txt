@@ -1,0 +1,11 @@
+System Name                 | Planetary Body | Coordinates | Blueprint Type      
+----------------------------+----------------+-------------+---------------------
+Synuefe KU-F b44-4          | 4              | N/A         | Vessel (Ancient Key)
+NGC 2451A Sector LX-U d2-25 | 3              | N/A         | Vessel (Ancient Key)
+Synuefe OF-E b45-4          | B 1            | N/A         | Vessel (Ancient Key)
+Synuefe IL-N c23-15         | 2 A            | N/A         | Vessel (Ancient Key)
+Synuefe ZG-J d10-49         | 2 A            | N/A         | Vessel (Ancient Key)
+IC 2391 Sector MX-T b3-6    | A 1            | N/A         | Vessel (Ancient Key)
+Synuefe QA-E b45-4          | 3              | N/A         | Vessel (Ancient Key)
+HIP 36823                   | 1              | N/A         | Vessel (Ancient Key)
+Synuefe CS-H d11-121        | 3              | N/A         | Vessel (Ancient Key)

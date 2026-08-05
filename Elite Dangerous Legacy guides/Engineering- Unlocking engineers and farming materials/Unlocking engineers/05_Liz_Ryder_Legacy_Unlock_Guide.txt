@@ -1,0 +1,77 @@
+ELITE DANGEROUS LEGACY CONSOLE
+LIZ RYDER — STANDALONE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+UNLOCK PATH
+===============================================================================
+
+Starting engineer
+
+Referral engineers normally become known after ranking the preceding
+engineer beyond Grade 3 and making some progress toward Grade 4.
+
+Dynamic mission availability, faction states, commodity supplies and
+rare-good allocations must be checked in the separate Legacy galaxy.
+
+===============================================================================
+5. LIZ RYDER
+===============================================================================
+
+Location:
+- System: Eurybia
+- Base: Demolition Unlimited
+
+How she becomes known:
+- Publicly known starting engineer
+
+Meeting requirement:
+- Become Cordial or Friendly with Eurybia Blue Mafia
+- Complete their engineer invitation mission when offered
+
+Unlock donation:
+- 200 tonnes of Landmines
+
+Best reason to unlock:
+- Grade 5 Missile Rack
+- Grade 5 Seeker Missile Rack
+- Grade 5 Torpedo Pylon
+
+Efficient reputation method:
+- Sell exploration data at a station controlled by Eurybia Blue Mafia.
+- Alternatively complete missions for the faction.
+
+Landmines:
+- Landmines are normal cargo, commonly available from appropriate military or
+  industrial markets.
+- Use a large cargo ship to reduce the number of trips.
+- Verify supply using the Legacy in-game market.
+
+Procedure:
+[ ] Reach Cordial or Friendly with Eurybia Blue Mafia.
+[ ] Complete the engineer invitation mission.
+[ ] Source and deliver 200 tonnes of Landmines.
+[ ] Rank Liz beyond Grade 3.
+[ ] Confirm discovery of Hera Tani.
+
+-------------------------------------------------------------------------------
+PHASE 2 — ELVIRA'S BRANCH: QWENT, PALIN, SEDESI, NEMO AND JAMESON
+-------------------------------------------------------------------------------
+
+
+===============================================================================
+STANDALONE CHECKLIST
+===============================================================================
+
+[ ] Engineer discovered or publicly known
+[ ] Meeting requirement completed
+[ ] Invitation or permit obtained, where required
+[ ] Unlock donation collected
+[ ] Donation delivered to the engineer
+[ ] Engineer ranked high enough for desired blueprints or referrals
+[ ] Desired blueprint pinned
+[ ] Required experimental effects applied in person
+
+===============================================================================
+END OF GUIDE
+===============================================================================

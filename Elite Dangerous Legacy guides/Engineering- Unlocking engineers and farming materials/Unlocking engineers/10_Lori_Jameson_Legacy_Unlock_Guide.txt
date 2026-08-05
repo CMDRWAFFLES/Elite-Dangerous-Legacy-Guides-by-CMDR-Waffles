@@ -1,0 +1,74 @@
+ELITE DANGEROUS LEGACY CONSOLE
+LORI JAMESON — STANDALONE ENGINEER UNLOCK GUIDE
+Xbox / PlayStation — Horizons 3.8 / Pre-Update 14
+
+===============================================================================
+UNLOCK PATH
+===============================================================================
+
+Elvira Martuuk → Marco Qwent → Lori Jameson
+
+Referral engineers normally become known after ranking the preceding
+engineer beyond Grade 3 and making some progress toward Grade 4.
+
+Dynamic mission availability, faction states, commodity supplies and
+rare-good allocations must be checked in the separate Legacy galaxy.
+
+===============================================================================
+10. LORI JAMESON
+===============================================================================
+
+Location:
+- System: Shinrarta Dezhra — permit required
+- Base: Jameson Base
+
+Discovered from:
+- Marco Qwent at approximately Grade 3 to Grade 4
+
+Meeting requirements:
+- Combat rank Dangerous or higher
+- Access to Shinrarta Dezhra by reaching Elite in at least one main career rank
+
+Unlock donation:
+- 25 Kongga Ale
+
+Rare-good source:
+- System: Kongga
+- Station: Laplace Ring
+
+Best reason to unlock:
+- Grade 5 Sensors
+- Grade 5 Detailed Surface Scanner
+- Grade 4 Life Support, Fuel Scoop, AFMU and Refinery
+
+Procedure:
+[ ] Reach combat rank Dangerous.
+[ ] Reach Elite in at least one qualifying career rank for the Shinrarta permit.
+[ ] Buy Kongga Ale at Laplace Ring.
+[ ] Deliver 25 total to Jameson Base.
+[ ] Rank Lori as desired.
+
+This is normally one of the last engineers unlocked because of the Dangerous
+combat-rank gate and Shinrarta permit.
+
+-------------------------------------------------------------------------------
+PHASE 3 — THE DWELLER'S BRANCH: LEI CHEUNG AND RAM TAH
+-------------------------------------------------------------------------------
+
+
+===============================================================================
+STANDALONE CHECKLIST
+===============================================================================
+
+[ ] Engineer discovered or publicly known
+[ ] Meeting requirement completed
+[ ] Invitation or permit obtained, where required
+[ ] Unlock donation collected
+[ ] Donation delivered to the engineer
+[ ] Engineer ranked high enough for desired blueprints or referrals
+[ ] Desired blueprint pinned
+[ ] Required experimental effects applied in person
+
+===============================================================================
+END OF GUIDE
+===============================================================================
