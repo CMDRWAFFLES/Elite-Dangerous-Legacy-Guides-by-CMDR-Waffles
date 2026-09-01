@@ -1,0 +1,525 @@
+===============================================================================
+ ELITE DANGEROUS: LEGACY 3.8 / CONSOLE
+ GALAXY MAP & ROUTE PLANNING GUIDE
+===============================================================================
+
+This guide explains how to plan safe exploration routes in Legacy.
+
+
+===============================================================================
+ 1. THE TWO NORMAL ROUTE MODES
+===============================================================================
+
+The Galaxy Map gives you two main route styles:
+
+  FASTEST ROUTES
+  ECONOMICAL ROUTES
+
+
++-------------------+-----------------------+-----------------------------------+
+| Route Type        | Plotting Limit        | What It Does                      |
++-------------------+-----------------------+-----------------------------------+
+| Fastest Routes    | Up to ~20,000 LY      | Uses longer jumps                 |
+| Economical Routes | Up to ~1,000 LY       | Uses many short, fuel-cheap jumps |
++-------------------+-----------------------+-----------------------------------+
+
+
+FASTEST ROUTES
+--------------
+
+Use this when:
+
+  - Travelling to a destination
+  - Going to Colonia
+  - Going toward Sagittarius A*
+  - Leaving the Bubble quickly
+  - You have a Fuel Scoop
+
+Advantages:
+
+  - Far fewer jumps
+  - Much faster travel
+
+Disadvantages:
+
+  - Long jumps consume much more fuel than short jumps
+
+
+ECONOMICAL ROUTES
+-----------------
+
+Use this when:
+
+  - You deliberately want to visit many systems
+  - You are searching for undiscovered systems
+  - You want maximum exploration density
+  - You are exploring a small region in detail
+
+Advantages:
+
+  - Visits many more stars
+  - Much lower fuel use per distance travelled
+
+Disadvantages:
+
+  - Extremely slow for long-distance travel
+
+
+BEGINNER RULE:
+
+  TRAVELLING somewhere:
+      Use FASTEST.
+
+  EXPLORING a local patch thoroughly:
+      Use ECONOMICAL.
+
+
+===============================================================================
+ 2. FUEL-STAR FILTER
+===============================================================================
+
+Fuel-scoopable main star classes are:
+
+  O
+  B
+  A
+  F
+  G
+  K
+  M
+
+
+Mnemonic:
+
+  KGB FOAM
+
+
+In the Galaxy Map:
+
+  1. Open the star-class filter.
+  2. Select:
+       O B A F G K M
+  3. Enable:
+       APPLY FILTER TO ROUTE
+
+
+This forces the route planner to favour scoopable main stars.
+
+
+WHY THIS MATTERS
+----------------
+
+Without the filter, a route can pass through long runs of unscoopable stars.
+
+That becomes particularly dangerous around regions containing many:
+
+  - L dwarfs
+  - T dwarfs
+  - Y dwarfs
+
+
+There is also a broad brown-dwarf-heavy layer around parts of the galactic
+plane.
+
+If your route suddenly becomes full of unscoopable stars:
+
+  Move higher or lower on the galactic Z-axis and replot.
+
+
+===============================================================================
+ 3. DO NOT FILTER TOO AGGRESSIVELY IN SPARSE SPACE
+===============================================================================
+
+The KGB FOAM filter is excellent where star density is high.
+
+Near the galactic rim or other sparse regions:
+
+  A strict scoopable-only route may FAIL even though a route exists.
+
+
+If plotting fails:
+
+  1. Remove the strict star-class filter.
+  2. Plot through whatever stars are reachable.
+  3. Manually ensure that you periodically reach a scoopable star.
+
+
+Sparse-space exploration requires more manual planning.
+
+
+===============================================================================
+ 4. FASTEST ROUTE + FUEL SCOOP = NORMAL EXPLORER SETUP
+===============================================================================
+
+For normal exploration travel:
+
+  Route Mode:
+      FASTEST
+
+  Star Filter:
+      O B A F G K M
+
+  Apply Filter To Route:
+      YES
+
+  Fuel Scoop:
+      FITTED
+
+
+This is the simplest safe setup for beginners.
+
+
+===============================================================================
+ 5. JET-CONE BOOST SETTING
+===============================================================================
+
+The Galaxy Map also has an option to use:
+
+  JET-CONE BOOST
+
+
+This allows the route planner to include jumps using:
+
+  - Neutron Stars
+  - White Dwarfs
+
+
+For a beginner who is NOT deliberately using neutron travel:
+
+  LEAVE IT OFF.
+
+
+Turn it on only after you understand:
+
+  - How to supercharge safely
+  - FSD damage
+  - AFMU repairs
+  - Fuel management
+
+
+For serious neutron-highway travel:
+
+  Use the separate Legacy Jumpconda Neutron Highway guide.
+
+
+===============================================================================
+ 6. FSD BOOST / INJECTION SETTING
+===============================================================================
+
+The Galaxy Map can also display boosted jump capability for:
+
+  Basic FSD Injection:
+      +25%
+
+  Standard:
+      +50%
+
+  Premium:
+      +100%
+
+
+This setting does NOT magically create the boost.
+
+You must have the correct synthesis materials and actually synthesize the
+injection.
+
+For normal travelling:
+
+  Leave FSD Boost disabled.
+
+Use it when manually planning a difficult jump in sparse space.
+
+
+===============================================================================
+ 7. YOUR JUMP RANGE CHANGES
+===============================================================================
+
+Your actual jump range changes with ship mass.
+
+Things that reduce range include:
+
+  - Fuel
+  - Cargo
+  - Limpets
+  - Heavy modules
+
+
+Example:
+
+A ship might display:
+
+  Maximum / low-fuel range:
+      82 LY
+
+but with:
+
+  Full fuel:
+      79 LY
+
+and with cargo:
+      even less
+
+
+IMPORTANT:
+
+If you load cargo or limpets after plotting a route:
+
+  REPLOT THE ROUTE.
+
+Otherwise the Galaxy Map may have planned a jump that the heavier ship can no
+longer make.
+
+
+===============================================================================
+ 8. HOW TO FIND UNDISCOVERED SPACE
+===============================================================================
+
+The obvious routes are heavily travelled.
+
+Examples:
+
+  Sol -> Colonia
+  Sol -> Sagittarius A*
+  Colonia -> Sagittarius A*
+  Routes directly toward famous nebulae
+  Routes directly toward famous tourist systems
+
+
+If your goal is FIRST DISCOVERIES:
+
+  Do not simply follow the most obvious straight line.
+
+
+A good method:
+
+  1. Leave the Bubble using Fastest Routes.
+
+  2. Travel a few thousand light-years away from populated space.
+
+  3. Move away from the obvious travel corridor.
+
+  4. Add a vertical or sideways detour.
+
+  5. Once you start finding untagged systems, slow down and explore.
+
+
+A useful detour might be:
+
+  Several hundred to roughly 1,500 LY above or below the route corridor.
+
+This is NOT a magic number.
+
+The purpose is simply to leave the line that thousands of other commanders
+have already followed.
+
+
+===============================================================================
+ 9. GALACTIC Z-AXIS
+===============================================================================
+
+Think of the galaxy as a disc.
+
+You can travel:
+
+  Toward / away from the core
+  Left / right across the disc
+  ABOVE the galactic plane
+  BELOW the galactic plane
+
+
+Beginners often think only in two dimensions.
+
+Moving vertically is one of the easiest ways to escape heavily travelled
+routes.
+
+
+BUT:
+
+As you move very far above or below the disc:
+
+  Star density drops.
+
+Eventually:
+
+  Route plotting becomes difficult or impossible.
+
+
+===============================================================================
+ 10. WHEN THE ROUTE PLOTTER FAILS
+===============================================================================
+
+Possible reasons:
+
+  1. Your destination is outside the plotting limit.
+
+  2. Your ship does not have enough jump range.
+
+  3. Star density is too low.
+
+  4. Your star filter removed the only usable stars.
+
+  5. A permit-locked region blocks the direct route.
+
+  6. Your current cargo/fuel mass is greater than expected.
+
+  7. The route expects an FSD boost you have not actually applied.
+
+
+TRY THIS:
+
+  [ ] Check Fastest vs Economical.
+
+  [ ] Remove star filters temporarily.
+
+  [ ] Check current jump range.
+
+  [ ] Replot after changing cargo.
+
+  [ ] Move sideways / above / below the blockage.
+
+  [ ] Plot to an intermediate system.
+
+  [ ] In sparse space, select individual stars manually.
+
+
+===============================================================================
+ 11. ROUTING AROUND PERMIT-LOCKED REGIONS
+===============================================================================
+
+Some large areas contain systems that cannot be entered without permits.
+
+This can make the route planner appear broken.
+
+If a route repeatedly fails in a region:
+
+  - Move several hundred LY sideways
+  - Move above or below the blocked region
+  - Plot an intermediate destination
+  - Replot from there
+
+
+Do not assume that a failed route means your ship lacks jump range.
+
+
+===============================================================================
+ 12. SPANSH
+===============================================================================
+
+Spansh is extremely useful for long-distance exploration planning.
+
+Useful functions include:
+
+  - Neutron routing
+  - Long-distance galaxy plotting
+
+
+PHYSICAL DATA RULE
+------------------
+
+Star positions are physical Stellar Forge galaxy data.
+
+Therefore neutron-star positions and physical route geometry are useful for
+Legacy.
+
+
+DO NOT TREAT SPANSH AS LEGACY MARKET TRUTH FOR:
+
+  - Current Fleet Carrier locations
+  - Current carrier services
+  - Current commodity markets
+  - Supply / demand
+
+
+===============================================================================
+ 13. SIMPLE ROUTE SETUPS
+===============================================================================
+
+NORMAL LONG-DISTANCE EXPLORATION
+--------------------------------
+
+  Fastest:
+      ON
+
+  OBAFGKM filter:
+      ON
+
+  Apply filter to route:
+      ON
+
+  Jet-Cone Boost:
+      OFF unless deliberately using it
+
+  FSD Injection:
+      OFF unless deliberately using it
+
+
+HUNTING FIRST DISCOVERIES
+-------------------------
+
+  First:
+      Fastest route away from populated space
+
+  Then:
+      Move off the obvious corridor
+
+  Finally:
+      Economical routing through the chosen search area
+
+
+NEUTRON HIGHWAY
+---------------
+
+  Use:
+      Spansh
+
+  Ship:
+      Follow the separate Jumpconda guide
+
+
+GALACTIC RIM
+------------
+
+  Expect:
+      Manual jumps
+      Sparse stars
+      FSD injections
+      Careful return planning
+
+
+===============================================================================
+ 14. BEGINNER ROUTE CHECKLIST
+===============================================================================
+
+Before plotting:
+
+  [ ] Fuel Scoop fitted
+
+  [ ] Know your FULL-FUEL jump range
+
+  [ ] Fastest Route selected for travel
+
+  [ ] O B A F G K M selected
+
+  [ ] Apply Filter To Route enabled
+
+  [ ] Jet-Cone Boost off unless intended
+
+  [ ] FSD Boost off unless intended
+
+
+During travel:
+
+  [ ] Watch fuel gauge
+
+  [ ] Scoop regularly
+
+  [ ] Replot if cargo mass changes
+
+  [ ] Do not follow unscoopable stars until nearly empty
+
+  [ ] If hunting discoveries, leave the obvious corridor
+
+
+===============================================================================
+ END OF GALAXY MAP & ROUTE PLANNING GUIDE
+===============================================================================

@@ -1,0 +1,1281 @@
+===============================================================================
+ ELITE DANGEROUS: LEGACY 3.8 / CONSOLE
+ EXPLORATION SHIPS, MODULES, ENGINEERING & NEUTRON HIGHWAY GUIDE
+===============================================================================
+
+This guide is specifically for:
+
+  Elite Dangerous: Legacy / Console
+  Horizons 3.8
+  Pre-November-2022 gameplay
+
+
+===============================================================================
+ 1. THE SHORT VERSION
+===============================================================================
+
+Best cheap explorer:
+  DIAMONDBACK EXPLORER
+
+Best beginner all-round explorer:
+  ASP EXPLORER
+
+Best comfortable long-range medium explorer:
+  KRAIT PHANTOM
+
+Best very cheap starter:
+  HAULER
+
+Best small cool-running alternative:
+  DOLPHIN
+
+Best maximum-range / heavy expedition ship:
+  ANACONDA
+
+
+For almost every exploration ship:
+
+  ESSENTIAL:
+    A-rated Frame Shift Drive
+    Fuel Scoop
+    Detailed Surface Scanner
+
+  STRONGLY RECOMMENDED:
+    Guardian FSD Booster
+    Small Shield Generator
+
+  LONG TRIP:
+    AFMU
+    Heat Sink Launcher
+    Scarab SRV + Planetary Vehicle Hangar
+
+  NEUTRON HIGHWAY:
+    Fuel Scoop
+    AFMU
+    Preferably 2 AFMUs
+    Materials for AFMU refills
+
+
+===============================================================================
+ 2. RECOMMENDED EXPLORATION SHIPS
+===============================================================================
+
++----------------------+--------------+----------+-----------------------------------------+
+| Ship                 | Base Price   | Pad Size | Best For                                |
++----------------------+--------------+----------+-----------------------------------------+
+| Hauler               | 52,720 Cr    | Small    | Extremely cheap starter                |
+| Dolphin              | 1.34m Cr     | Small    | Cool-running, comfortable budget ship  |
+| Diamondback Explorer | 1.89m Cr     | Small    | Best cheap dedicated explorer          |
+| Asp Explorer         | 6.66m Cr     | Medium   | Excellent beginner / all-round choice  |
+| Krait Phantom        | 37.47m Cr    | Medium   | Comfortable long expeditions           |
+| Anaconda             | 146.97m Cr   | Large    | Maximum-range expedition builds        |
++----------------------+--------------+----------+-----------------------------------------+
+
+
+===============================================================================
+ 3. WHICH ONE SHOULD I BUY?
+===============================================================================
+
+HAULER
+------
+
+Price:
+  52,720 Cr
+
+Advantages:
+  + Almost free
+  + Good jump range for the money
+  + Small landing footprint
+  + Excellent first exploration ship
+
+Disadvantages:
+  - Very few module slots
+  - Tiny fuel tank
+  - Small Fuel Scoop
+  - Poor choice for very long expeditions
+
+Recommended for:
+  New commanders who want to try exploration immediately.
+
+
+DOLPHIN
+-------
+
+Price:
+  1,337,330 Cr
+
+Advantages:
+  + Runs extremely cool
+  + Small landing footprint
+  + Plenty of internal slots
+  + Comfortable for long trips
+  + Can charge the FSD while fuel scooping with very little heat trouble
+
+Disadvantages:
+  - Smaller fuel tank than Asp / DBX / Phantom
+  - If using a Class 5 Guardian Booster, use a smaller Fuel Scoop
+
+Recommended for:
+  Commanders who want a cool-running, comfortable small explorer.
+
+
+DIAMONDBACK EXPLORER - DBX
+---------------------------
+
+Price:
+  1,894,760 Cr
+
+Advantages:
+  + Excellent jump range
+  + Very cheap
+  + Runs cool
+  + Small landing footprint
+  + Uses a Class 5 FSD
+  + Can use the pre-engineered 5A FSD V1
+
+Disadvantages:
+  - Maximum Fuel Scoop size is only Class 4
+  - Refuelling is slower than Asp / Phantom
+  - Less internal space than larger explorers
+
+Recommended for:
+  Almost every beginner.
+
+This is one of the best value exploration ships in Legacy.
+
+
+ASP EXPLORER - ASPX
+-------------------
+
+Price:
+  6,661,153 Cr
+
+Advantages:
+  + Excellent cockpit visibility
+  + Good jump range
+  + Class 6 Fuel Scoop
+  + Enough internals for proper expeditions
+  + Uses a Class 5 FSD
+  + Can use the pre-engineered 5A FSD V1
+  + Medium pad
+
+Disadvantages:
+  - More expensive than DBX
+  - Less internal room than Phantom
+  - Canopy is large and vulnerable if you crash
+
+Recommended for:
+  Beginners who want one exploration ship they can keep for a long time.
+
+
+KRAIT PHANTOM
+-------------
+
+Price:
+  37,472,254 Cr
+
+Advantages:
+  + Excellent jump range
+  + Class 6 Fuel Scoop
+  + Lots of internal space
+  + Good cockpit view
+  + Medium landing pad
+  + Uses a Class 5 FSD
+  + Can use the pre-engineered 5A FSD V1
+  + Excellent long-trip ship
+
+Disadvantages:
+  - Much more expensive than Asp / DBX
+
+Recommended for:
+  Long expeditions where comfort and module space matter.
+
+
+ANACONDA
+--------
+
+Price:
+  146,969,450 Cr
+
+Advantages:
+  + Extremely high potential jump range
+  + Huge number of internal slots
+  + Class 7 Fuel Scoop
+  + Can carry almost every expedition module you could want
+  + Excellent for very long-range builds
+
+Disadvantages:
+  - Very expensive
+  - Large landing footprint
+  - Slow turning in Supercruise
+  - Cockpit view is not as good as Asp / Phantom
+  - Requires a Large landing pad
+
+Recommended for:
+  Experienced explorers who want maximum range and expedition equipment.
+
+
+===============================================================================
+ 4. ESSENTIAL MODULES
+===============================================================================
+
+For serious exploration, these are the three modules that matter most.
+
+
+A-RATED FRAME SHIFT DRIVE
+-------------------------
+
+The FSD is the single most important module on an exploration ship.
+
+Always fit the largest A-rated normal FSD the ship can use.
+
++----------------------+----------+---------------+
+| Ship                 | FSD      | Module Price  |
++----------------------+----------+---------------+
+| Hauler               | 2A FSD   | 160,224 Cr    |
+| Dolphin              | 4A FSD   | 1,610,080 Cr  |
+| Diamondback Explorer | 5A FSD   | 5,103,953 Cr  |
+| Asp Explorer         | 5A FSD   | 5,103,953 Cr  |
+| Krait Phantom        | 5A FSD   | 5,103,953 Cr  |
+| Anaconda             | 6A FSD   | 16,179,530 Cr |
++----------------------+----------+---------------+
+
+
+FUEL SCOOP
+----------
+
+A Fuel Scoop is essential for long-range exploration.
+
+Fuel Scoops have ZERO mass.
+
+This means:
+  A bigger / better scoop does NOT reduce your jump range.
+
+Higher-rated scoops simply refuel faster.
+
+Recommended choices:
+
++----------------------+----------------+---------------+
+| Ship                 | Recommended    | Price         |
++----------------------+----------------+---------------+
+| Hauler               | 3A Scoop       | 902,950 Cr    |
+| Dolphin              | 4A Scoop*      | 2,862,360 Cr  |
+| Diamondback Explorer | 4A Scoop       | 2,862,360 Cr  |
+| Asp Explorer         | 6B Scoop       | 7,190,900 Cr  |
+| Asp Explorer         | 6A Scoop       | 28,763,610 Cr |
+| Krait Phantom        | 6B Scoop       | 7,190,900 Cr  |
+| Krait Phantom        | 6A Scoop       | 28,763,610 Cr |
+| Anaconda             | 7B Scoop       | 22,795,160 Cr |
+| Anaconda             | 7A Scoop       | 91,180,640 Cr |
++----------------------+----------------+---------------+
+
+* Dolphin:
+  A Class 5 Scoop fits, but for a long-range build it is often better to put
+  a Class 5 Guardian FSD Booster in that slot and use a Class 4 Fuel Scoop.
+
+B-rated scoop:
+  Much cheaper.
+
+A-rated scoop:
+  Fastest refuelling.
+
+Because Fuel Scoops have no mass, buying B instead of A is mainly a question
+of money and refuelling speed.
+
+
+DETAILED SURFACE SCANNER - DSS
+------------------------------
+
+Price:
+  250,000 Cr
+
+Purpose:
+  Maps planets and moons with probes.
+
+For an explorer:
+  Buy one.
+
+DSS mapping is where a large part of exploration income comes from.
+
+
+===============================================================================
+ 5. BASIC SHIP + ESSENTIAL MODULE COST
+===============================================================================
+
+These totals include ONLY:
+
+  Ship
+  A-rated FSD
+  Detailed Surface Scanner
+  Listed Fuel Scoop
+
+They do NOT include:
+  Shields
+  Guardian FSD Booster
+  AFMU
+  SRV
+  D-rated core modules
+  Engineering
+
++----------------------+----------------+--------------------------------------+
+| Ship                 | Basic Cost     | Scoop Used                           |
++----------------------+----------------+--------------------------------------+
+| Hauler               | ~1.37m Cr      | 3A                                   |
+| Dolphin              | ~6.06m Cr      | 4A                                   |
+| Diamondback Explorer | ~10.11m Cr     | 4A                                   |
+| Asp Explorer         | ~19.21m Cr     | 6B                                   |
+| Asp Explorer         | ~40.78m Cr     | 6A                                   |
+| Krait Phantom        | ~50.02m Cr     | 6B                                   |
+| Krait Phantom        | ~71.59m Cr     | 6A                                   |
+| Anaconda             | ~186.19m Cr    | 7B                                   |
+| Anaconda             | ~254.58m Cr    | 7A                                   |
++----------------------+----------------+--------------------------------------+
+
+
+===============================================================================
+ 6. GUARDIAN FSD BOOSTER
+===============================================================================
+
+The Guardian Frame Shift Drive Booster is NOT engineering.
+
+It is a Guardian Technology Broker module.
+
+It adds a FIXED amount of jump range.
+
++-------+------------------+---------------+
+| Size  | Jump Range Added | Price         |
++-------+------------------+---------------+
+| 1H    | +4.00 LY         | 394,896 Cr    |
+| 2H    | +6.00 LY         | 790,257 Cr    |
+| 3H    | +7.75 LY         | 1,579,920 Cr  |
+| 4H    | +9.25 LY         | 3,163,887 Cr  |
+| 5H    | +10.50 LY        | 6,321,023 Cr  |
++-------+------------------+---------------+
+
+These are the Legacy-era Guardian FSD Booster purchase prices.
+
+Recommended:
+
+  Hauler:
+    3H if you have the slot available
+
+  Dolphin:
+    5H Booster + 4A Fuel Scoop
+
+  Diamondback Explorer:
+    4H Booster
+
+  Asp Explorer:
+    5H Booster
+
+  Krait Phantom:
+    5H Booster
+
+  Anaconda:
+    5H Booster
+
+
+ONE-TIME UNLOCK COST
+--------------------
+
+To permanently unlock Guardian FSD Boosters for purchase:
+
+  1 x Guardian Module Blueprint Fragment
+ 21 x Guardian Power Cell
+ 21 x Guardian Technology Component
+ 24 x Focus Crystals
+  8 x HN Shock Mount
+
+
+
+===============================================================================
+ 7. THE MOST IMPORTANT ENGINEERING
+===============================================================================
+
+Engineering does NOT normally cost credits.
+
+Engineering costs MATERIALS.
+
+The most important exploration engineering is:
+
+  FRAME SHIFT DRIVE:
+    Increased Range
+
+For normal exploration ships:
+
+  Get it to Grade 5.
+
+
+FSD INCREASED RANGE - MATERIAL COST PER ROLL
+--------------------------------------------
+
++-------+--------------------------------------------------------------+
+| Grade | Materials PER ROLL                                           |
++-------+--------------------------------------------------------------+
+| G1    | 1 Atypical Disrupted Wake Echo                               |
+| G2    | 1 Atypical Disrupted Wake Echo + 1 Chemical Processor        |
+| G3    | 1 Phosphorus + 1 Chemical Processor + 1 Strange Wake Solution|
+| G4    | 1 Manganese + 1 Chemical Distillery                          |
+|       | + 1 Eccentric Hyperspace Trajectory                          |
+| G5    | 1 Arsenic + 1 Chemical Manipulator                           |
+|       | + 1 Datamined Wake Exception                                 |
++-------+--------------------------------------------------------------+
+
+IMPORTANT:
+
+Those are PER ROLL.
+
+You normally need multiple rolls while progressing through each grade.
+
+Therefore there is no single exact total material cost.
+
+
+===============================================================================
+ 8. FSD EXPERIMENTAL EFFECT
+===============================================================================
+
+For Class 5 and larger exploration FSDs:
+
+  RECOMMENDED:
+    MASS MANAGER
+
+
+Mass Manager gives:
+  +4% Optimised Mass
+
+Material cost:
+
+  5 x Atypical Disrupted Wake Echoes
+  3 x Galvanising Alloys
+  1 x Eccentric Hyperspace Trajectory
+
+
+USE MASS MANAGER ON:
+
+  Diamondback Explorer - Class 5
+  Asp Explorer         - Class 5
+  Krait Phantom        - Class 5
+  Anaconda             - Class 6
+
+
+CLASS 4 AND SMALLER
+-------------------
+
+Deep Charge can produce slightly more maximum single-jump range on smaller
+FSDs.
+
+However:
+
+  It increases fuel used per jump.
+
+For a beginner long-range ship:
+
+  Mass Manager is simpler if available.
+
+For absolute maximum range on Class 4 and below:
+
+  Deep Charge may give the higher single-jump figure.
+
+
+===============================================================================
+ 9. PRE-ENGINEERED 5A FSD V1
+===============================================================================
+
+This is extremely useful in Legacy.
+
+It is a special pre-engineered Class 5A Frame Shift Drive.
+
+It has BOTH:
+
+  Increased Range
+  Faster Boot Sequence
+
+It can jump roughly 2-3 LY farther than a normal fully-engineered 5A FSD
+with Mass Manager, depending on the ship/build.
+
+
+IT WORKS ON:
+
+  Diamondback Explorer
+  Asp Explorer
+  Krait Phantom
+
+and other ships that use a Class 5 FSD.
+
+
+MATERIAL COST FOR EACH COPY
+---------------------------
+
+ 18 x Datamined Wake Exceptions
+ 26 x Tellurium
+ 26 x Electrochemical Arrays
+ 28 x Chemical Processors
+
+
+IMPORTANT:
+
+You pay these materials EACH TIME you want another V1 FSD.
+
+Do NOT apply a normal engineering blueprint over the V1 drive.
+
+Doing that removes its special double-engineered benefit.
+
+You MAY safely add an Experimental Effect.
+
+Recommended:
+
+  Add MASS MANAGER.
+
+
+===============================================================================
+ 10. DSS ENGINEERING
+===============================================================================
+
+Recommended blueprint:
+
+  EXPANDED PROBE SCANNING RADIUS
+
+
+What it does:
+
+  Each DSS probe covers more of the planet.
+
+This makes it easier to hit the probe-efficiency target.
+
+
+For beginners:
+
+  Grade 3 is already very useful.
+
+Felicity Farseer can take this blueprint to Grade 3.
+
+
++-------+------------------------------------------------------+
+| Grade | Material Cost PER ROLL                               |
++-------+------------------------------------------------------+
+| G1    | 1 Mechanical Scrap                                   |
+| G2    | 1 Mechanical Scrap + 1 Germanium                     |
+| G3    | 1 Mechanical Scrap + 1 Germanium + 1 Phase Alloys    |
++-------+------------------------------------------------------+
+
+Higher engineers can take it to:
+
+  G4 = +40% probe radius
+  G5 = +50% probe radius
+
+
+BEGINNER ENGINEERING TARGET
+---------------------------
+
+If you only want to engineer two things:
+
+  1. FSD Increased Range G5
+  2. DSS Expanded Probe Radius G3
+
+That is enough to make a huge difference.
+
+
+===============================================================================
+ 11. OPTIONAL WEIGHT-SAVING ENGINEERING
+===============================================================================
+
+Once your FSD is finished, you can reduce ship mass further.
+
+Useful optional engineering:
+
+  Sensors:
+    Lightweight
+
+  Life Support:
+    Lightweight
+
+  Shield:
+    Enhanced Low Power can help reduce mass/power use
+
+  Power Plant:
+    Optional safety/heat engineering
+
+These are NOT necessary for a beginner.
+
+Do the FSD first.
+
+
+===============================================================================
+ 12. MODULES RECOMMENDED FOR LONG TRIPS
+===============================================================================
+
+For a trip lasting thousands or tens of thousands of light-years:
+
+
+FUEL SCOOP
+----------
+Required.
+
+
+DSS
+---
+Required if you are actually exploring and mapping.
+
+
+GUARDIAN FSD BOOSTER
+--------------------
+Strongly recommended.
+
+
+SHIELD GENERATOR
+----------------
+Recommended.
+
+Use:
+  A small/light shield.
+
+Purpose:
+  Protects you from:
+    Bad landings
+    Bumps
+    Accidental terrain impacts
+
+
+AFMU
+----
+
+AFMU =
+  Auto Field-Maintenance Unit
+
+Purpose:
+  Repairs damaged internal modules.
+
+Can repair:
+  FSD
+  Thrusters
+  DSS
+  Sensors
+  Most other modules
+
+Cannot repair:
+  Hull
+  Power Plant
+  Itself
+
+Two AFMUs can repair each other.
+
+AFMUs have no mass, so if you have spare internal slots there is little
+jump-range penalty for carrying another one.
+
+
+Example AFMU prices:
+
++------+---------------+
+| AFMU | Price         |
++------+---------------+
+| 2D   | 54,000 Cr     |
+| 2A   | 1,458,000 Cr  |
+| 3D   | 97,200 Cr     |
+| 3A   | 2,624,400 Cr  |
+| 4D   | 174,960 Cr    |
+| 4A   | 4,723,920 Cr  |
++------+---------------+
+
+A-rated:
+  More expensive, more repair capability.
+
+Cheap D/E-rated:
+  Still useful.
+
+For neutron travel:
+  Carry at least one.
+
+
+HEAT SINK LAUNCHER
+------------------
+
+Price:
+  3,500 Cr
+
+Purpose:
+  Emergency heat control.
+
+Recommended:
+  Yes, especially for beginners.
+
+
+PLANETARY VEHICLE HANGAR
+------------------------
+
+Recommended Legacy choice:
+
+  2G Planetary Vehicle Hangar
+
+Price:
+  21,600 Cr
+
+Mass:
+  6 tonnes
+
+Carries:
+  1 SRV
+
+
+SCARAB SRV
+----------
+
+Price:
+  5,270 Cr
+
+Useful for:
+  Surface materials
+  Guardian sites
+  Surface exploration
+  Legacy signal-source POIs
+
+
+REPAIR LIMPET CONTROLLER
+------------------------
+
+Optional.
+
+Useful on extremely long expeditions because:
+
+  AFMU repairs MODULES.
+  Repair Limpets repair HULL.
+
+You also need:
+  A small Cargo Rack
+  Limpets
+
+This is mainly for maximum self-sufficiency.
+
+
+SECOND AFMU
+-----------
+
+Recommended if:
+  You have spare slots
+  You are travelling very far
+  You are using the Neutron Highway heavily
+
+Reason:
+  AFMUs cannot repair themselves.
+  Two AFMUs can repair each other.
+
+
+===============================================================================
+ 13. WHAT NOT TO OVERDO
+===============================================================================
+
+WEAPONS
+-------
+
+Usually unnecessary in deep-space exploration.
+
+Removing them:
+  Reduces mass.
+
+
+GIANT SHIELDS
+-------------
+
+Usually unnecessary.
+
+A small shield is normally enough to protect against landing mistakes.
+
+
+EXTRA FUEL TANKS
+----------------
+
+Usually unnecessary.
+
+More fuel means more carried mass.
+
+Keep the ship's normal fuel tank unless you have a specific reason to change it.
+
+
+ULTRA-LIGHT THRUSTERS
+---------------------
+
+Be careful.
+
+Do not reduce your thrusters or Power Distributor so far that the ship becomes
+unpleasant or cannot boost when you need it.
+
+A few tenths of a light-year are not worth making the ship miserable to fly.
+
+
+===============================================================================
+ 14. LONG EXPEDITION RECOMMENDED LOADOUT
+===============================================================================
+
+A comfortable long-range explorer should ideally carry:
+
+  [YES] A-rated FSD
+  [YES] Fuel Scoop
+  [YES] Detailed Surface Scanner
+  [YES] Guardian FSD Booster
+  [YES] Small Shield
+  [YES] AFMU
+  [YES] Heat Sink Launcher
+  [YES] 2G Planetary Vehicle Hangar
+  [YES] Scarab SRV
+
+If space allows:
+
+  [GOOD] Second AFMU
+  [GOOD] Repair Limpet Controller
+  [GOOD] Small Cargo Rack
+
+
+===============================================================================
+ 15. NEUTRON HIGHWAY - WHAT IS IT?
+===============================================================================
+
+A Neutron Star can supercharge your FSD.
+
+Legacy neutron boost:
+
+  Normal jump range x4
+
+This is often described as:
+
+  +300% bonus
+
+Example:
+
+  Normal jump:
+    60 LY
+
+  Neutron-supercharged jump:
+    Up to about 240 LY
+
+
+WHITE DWARF:
+
+  Normal jump range x1.5
+
+Only:
+  +50%
+
+White Dwarfs are much more dangerous to use because their exclusion zones are
+large relative to their jet cones.
+
+For normal neutron-highway travel:
+
+  USE NEUTRON STARS.
+  AVOID WHITE DWARFS.
+
+
+===============================================================================
+ 16. WHAT YOU NEED FOR NEUTRON TRAVEL
+===============================================================================
+
+ABSOLUTELY TAKE:
+
+  Fuel Scoop
+  AFMU
+
+
+STRONGLY RECOMMENDED:
+
+  Second AFMU
+  Heat Sink Launcher
+  Enough normal fuel for several jumps
+  Materials for AFMU synthesis
+
+
+WHY THE AFMU IS REQUIRED
+------------------------
+
+Every neutron supercharge damages your FSD.
+
+Each neutron supercharge damages the Frame Shift Drive.
+
+Below:
+
+  80% FSD health
+
+the FSD can begin malfunctioning.
+
+For sustained neutron-highway travel, carry an AFMU and repair before reaching
+that threshold.
+
+
+SAFE BEGINNER RULE:
+
+  Repair the FSD around 85-90%.
+
+Do not wait for it to begin malfunctioning.
+
+
+===============================================================================
+ 17. HOW TO USE A NEUTRON STAR SAFELY
+===============================================================================
+
+1. Make sure you have a Fuel Scoop fitted.
+
+2. Stay in Supercruise.
+
+3. Identify the neutron star's jet cone.
+
+4. NEVER fly toward the neutron star itself.
+
+5. Enter near the OUTER END of a jet cone.
+
+6. Point approximately AWAY from the neutron star.
+
+7. Allow the cone to move the ship around.
+
+8. Wait for:
+
+     "FRAME SHIFT DRIVE SUPERCHARGED"
+
+9. Fly OUT of the cone.
+
+10. Select your next destination.
+
+11. Make the boosted jump.
+
+
+NEVER:
+
+  Drop from Supercruise while inside the neutron jet.
+
+This can be extremely dangerous.
+
+
+===============================================================================
+ 18. NEUTRON HIGHWAY FSD REPAIRS
+===============================================================================
+
+After repeated boosts:
+
+  Check:
+    Right Panel -> Modules -> Frame Shift Drive
+
+If FSD health approaches:
+
+  85-90%
+
+stop and repair.
+
+
+SAFE REPAIR METHOD
+------------------
+
+1. Leave the neutron cone.
+
+2. Move to a safe location.
+
+3. Drop from Supercruise.
+
+4. Stop the ship.
+
+5. Activate the AFMU.
+
+6. Select the Frame Shift Drive.
+
+7. Choose Repair.
+
+8. Wait for repair to finish.
+
+9. Re-enable the FSD.
+
+10. Continue travelling.
+
+
+===============================================================================
+ 19. AFMU REFILL MATERIALS
+===============================================================================
+
+For a very long neutron trip, carry materials for AFMU synthesis.
+
+BASIC AFMU REFILL:
+
+  2 Nickel
+  2 Zinc
+  2 Chromium
+  3 Vanadium
+
+
+This refills one AFMU's repair ammunition.
+
+These are normal Horizons raw materials and can be gathered before leaving.
+
+
+===============================================================================
+ 20. NEUTRON HIGHWAY FUEL WARNING
+===============================================================================
+
+NEUTRON STARS ARE NOT FUEL-SCOOPABLE.
+
+It is easy to become focused on jumping:
+
+  Neutron
+  -> Neutron
+  -> Neutron
+  -> Neutron
+
+and forget your fuel.
+
+
+BEGINNER RULE:
+
+  Watch your fuel gauge on EVERY neutron jump.
+
+
+Make regular refuelling stops at:
+
+  O
+  B
+  A
+  F
+  G
+  K
+  M
+
+Remember:
+
+  KGB FOAM
+
+
+===============================================================================
+ 21. GALAXY MAP NEUTRON ROUTING
+===============================================================================
+
+Legacy's Galaxy Map can use neutron boosts when plotting a route.
+
+Use:
+
+  FASTEST ROUTES
+
+and enable:
+
+  JET-CONE BOOST
+
+
+For long neutron routes, external route planners can also be useful.
+
+LEGACY RULE:
+
+Neutron-star positions are physical Stellar Forge galaxy data and can be used
+for route planning.
+
+Fleet Carrier positions, station markets, supply/demand and other
+server-dependent information must be filtered for Legacy / Console.
+
+If a third-party tool has a Legacy / Console option:
+  Use it.
+
+
+===============================================================================
+ 22. PREPARATION BEFORE A VERY LONG TRIP
+===============================================================================
+
+Before going to:
+
+  Colonia
+  Sagittarius A*
+  Beagle Point
+  Galactic rim
+  Multi-week exploration trip
+
+
+CHECK:
+
+  [ ] FSD engineered
+  [ ] Fuel Scoop fitted
+  [ ] DSS fitted
+  [ ] Guardian FSD Booster fitted
+  [ ] Shield fitted
+  [ ] AFMU fitted
+  [ ] Second AFMU if possible
+  [ ] Heat Sink fitted
+  [ ] Scarab SRV fitted
+  [ ] AFMU synthesis materials collected
+  [ ] FSD injection materials collected
+  [ ] Ship can boost
+  [ ] Rebuy covered
+
+
+FSD INJECTION MATERIALS
+-----------------------
+
+Useful for emergencies where stars are far apart.
+
+Basic:
+  +25% jump range
+
+Standard:
+  +50% jump range
+
+Premium:
+  +100% jump range
+
+
+PREMIUM FSD INJECTION:
+
+  1 Carbon
+  1 Germanium
+  1 Arsenic
+  1 Niobium
+  1 Yttrium
+  1 Polonium
+
+
+You may never need it.
+
+But at the edge of the galaxy:
+
+  Jumponium can save your expedition.
+
+
+===============================================================================
+ 23. RECOMMENDED PROGRESSION FOR A BEGINNER
+===============================================================================
+
+STEP 1
+------
+
+Buy:
+
+  Diamondback Explorer
+
+or:
+
+  Asp Explorer
+
+
+STEP 2
+------
+
+Fit:
+
+  A-rated FSD
+  Fuel Scoop
+  DSS
+  Small Shield
+
+
+STEP 3
+------
+
+Unlock:
+
+  Felicity Farseer
+
+
+Engineer:
+
+  FSD Increased Range Grade 5
+
+
+STEP 4
+------
+
+Engineer:
+
+  DSS Expanded Probe Radius Grade 3
+
+
+STEP 5
+------
+
+Unlock:
+
+  Guardian FSD Booster
+
+
+STEP 6
+------
+
+For DBX / Asp / Phantom:
+
+  Consider obtaining the pre-engineered 5A FSD V1.
+
+Add:
+
+  Mass Manager
+
+
+STEP 7
+------
+
+Before a neutron-heavy trip:
+
+  Install at least one AFMU.
+
+Preferably:
+
+  Two AFMUs.
+
+
+===============================================================================
+ 24. SIMPLE SHIP RECOMMENDATIONS
+===============================================================================
+
+"I HAVE ALMOST NO MONEY"
+
+  Hauler
+
+
+"I WANT A CHEAP REAL EXPLORER"
+
+  Diamondback Explorer
+
+
+"I'M NEW AND WANT THE BEST ALL-ROUND CHOICE"
+
+  Asp Explorer
+
+
+"I WANT A SMALL SHIP THAT RUNS VERY COOL"
+
+  Dolphin
+
+
+"I'M GOING ON A VERY LONG TRIP AND WANT COMFORT"
+
+  Krait Phantom
+
+
+"I WANT TO CHASE MAXIMUM JUMP RANGE"
+
+  Anaconda
+
+
+===============================================================================
+ 25. FINAL BEGINNER RULES
+===============================================================================
+
+1. Buy the best FSD before buying fancy optional equipment.
+
+2. Engineer the FSD before worrying about minor engineering.
+
+3. A Fuel Scoop is mandatory for serious deep-space travel.
+
+4. A DSS is mandatory if you want proper exploration mapping payouts.
+
+5. Guardian FSD Booster is one of the best exploration upgrades in Legacy.
+
+6. For Class 5 ships, the pre-engineered 5A FSD V1 is excellent.
+
+7. Carry an AFMU if you use neutron stars.
+
+8. Repair the FSD BEFORE it falls below 80%.
+
+9. Do not use White Dwarfs just because the route planner offers one.
+
+10. Do not forget to refuel while chaining neutron stars.
+
+11. A small shield is worth losing a tiny amount of jump range.
+
+12. Do not sacrifice so much weight that the ship becomes horrible to fly.
+
+13. Long expeditions are about reliability, not just the biggest LY number.
+
+14. Keep enough credits for your rebuy.
+
+15. Use equipment and engineering instructions specifically written for
+    Legacy / Horizons 3.8.
+
+===============================================================================
+ END OF GUIDE
+===============================================================================

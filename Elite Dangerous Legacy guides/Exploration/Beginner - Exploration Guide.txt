@@ -1,0 +1,741 @@
+===============================================================================
+ ELITE DANGEROUS: LEGACY 3.8 / CONSOLE
+ BEGINNER EXPLORATION GUIDE
+===============================================================================
+
+This guide is for:
+
+  Elite Dangerous: Legacy / Console
+  Horizons 3.8
+
+It is written for beginners and focuses on:
+
+  - What exploration is
+  - What modules you actually need
+  - What modules are optional
+  - What each module does
+  - How to scan a system
+  - How to map planets
+  - What to sell
+  - How to avoid losing your data
+
+
+===============================================================================
+ 1. WHAT IS EXPLORATION?
+===============================================================================
+
+Exploration is the process of travelling through star systems, scanning stars
+and planets, mapping valuable worlds, and selling the data to Universal
+Cartographics.
+
+The basic loop is:
+
+  1. Jump into a system
+  2. Honk the system 
+  3. Scan bodies with the FSS
+  4. DSS-map valuable planets
+  5. Move to the next system
+  6. Return safely
+  7. Sell the data
+
+
+===============================================================================
+ 2. WHAT DO YOU ACTUALLY NEED?
+===============================================================================
+
+STRICTLY NECESSARY
+------------------
+
+You can technically explore with almost any ship.
+
+You do NOT need a special exploration ship.
+
+The game already gives you access to the basic scanning tools needed to find
+and identify bodies.
+
+
+PRACTICALLY NECESSARY FOR REAL EXPLORATION
+-------------------------------------------
+
+FUEL SCOOP
+
+  Purpose:
+    Refuels your ship directly from suitable stars.
+
+  Why it matters:
+    Without a Fuel Scoop, long-distance exploration becomes extremely limited.
+
+  Beginner verdict:
+    ESSENTIAL for serious exploration.
+
+
+DETAILED SURFACE SCANNER - DSS
+
+  Purpose:
+    Maps planets and moons using probes.
+
+  Why it matters:
+    Mapping valuable planets can pay much more than only scanning them.
+
+  Beginner verdict:
+    ESSENTIAL if you want good exploration payouts.
+
+
+===============================================================================
+ 3. BUILT-IN SCANNING TOOLS
+===============================================================================
+
+DISCOVERY SCANNER - "HONK"
+--------------------------
+
+Purpose:
+  Detects the system's astronomical signals.
+
+What you do:
+  Enter Analysis Mode and charge the Discovery Scanner.
+
+Use it:
+  Every time you enter a new system.
+
+Beginner rule:
+
+  HONK EVERY SYSTEM.
+
+
+FULL SPECTRUM SYSTEM SCANNER - FSS
+----------------------------------
+
+Purpose:
+  Identifies planets and moons from a distance.
+
+What it does:
+  Lets you scan bodies without flying to each one.
+
+How to use it:
+  1. Stay in Supercruise.
+  2. Throttle down.
+  3. Open the FSS.
+  4. Tune the frequency bar.
+  5. Find a signal.
+  6. Zoom in until the body is resolved.
+
+Beginner rule:
+
+  FSS is how you identify what is actually in the system.
+
+
+===============================================================================
+ 4. MODULES - WHAT IS REQUIRED AND WHAT IS OPTIONAL?
+===============================================================================
+
++--------------------------------+----------------------+--------------------------------------+
+| Module                         | Importance           | What it does                         |
++--------------------------------+----------------------+--------------------------------------+
+| Fuel Scoop                     | ESSENTIAL            | Refuels from scoopable stars         |
+| Detailed Surface Scanner       | ESSENTIAL            | Maps planets with probes             |
+| Frame Shift Drive              | REQUIRED             | Lets you jump between systems        |
+| Shield Generator               | OPTIONAL             | Protects against bad landings        |
+| AFMU                           | OPTIONAL              | Repairs damaged internal modules     |
+| Heat Sink Launcher             | OPTIONAL             | Helps recover from overheating       |
+| Planetary Vehicle Hangar       | OPTIONAL             | Lets you carry an SRV                |
+| SRV                            | OPTIONAL             | Lets you drive on planetary surfaces |
+| Repair Limpet Controller       | OPTIONAL             | Repairs hull damage                  |
+| Cargo Rack                     | OPTIONAL             | Needed only for certain supplies     |
+| Supercruise Assist             | OPTIONAL             | Helps with long Supercruise travel   |
+| Docking Computer               | OPTIONAL             | Helps with docking                   |
++--------------------------------+----------------------+--------------------------------------+
+
+
+===============================================================================
+ 5. FUEL SCOOP
+===============================================================================
+
+The Fuel Scoop is the most important exploration module after your Frame Shift
+Drive.
+
+You can scoop fuel from these star classes:
+
+  O
+  B
+  A
+  F
+  G
+  K
+  M
+
+
+A common way to remember them is:
+
+  KGB FOAM
+
+
+You cannot normally scoop fuel from:
+
+  - Brown Dwarfs
+  - T Tauri stars
+  - Neutron Stars
+  - White Dwarfs
+  - Black Holes
+
+
+BEGINNER TIP
+------------
+
+Do not wait until your fuel tank is nearly empty before looking for a
+scoopable star.
+
+Refuel regularly.
+
+
+===============================================================================
+ 6. DETAILED SURFACE SCANNER - DSS
+===============================================================================
+
+The DSS is used to map planets and moons.
+
+The difference is:
+
+  HONK
+    Finds the system signals.
+
+  FSS
+    Identifies the body.
+
+  DSS
+    Maps the body.
+
+
+To use the DSS:
+
+  1. Select the planet.
+  2. Fly close enough in Supercruise.
+  3. Enter Analysis Mode.
+  4. Activate the DSS.
+  5. Fire probes at the planet.
+  6. Cover enough of the surface to complete the map.
+
+
+DSS EFFICIENCY
+--------------
+
+The DSS gives you a probe efficiency target.
+
+Example:
+
+  Efficiency Target: 6 Probes
+
+If you complete the map using 6 probes or fewer:
+
+  You receive the efficiency bonus.
+
+If you use more:
+
+  You still complete the map,
+  but you lose the efficiency bonus.
+
+
+===============================================================================
+ 7. SHIELD GENERATOR
+===============================================================================
+
+A Shield Generator is optional for exploration.
+
+Reasons to bring one:
+
+  - Protects you from rough planetary landings
+  - Protects against minor collisions
+  - Gives beginners more room for mistakes
+
+
+Reasons to leave it behind:
+
+  - Takes mass
+  - Uses power
+  - Slightly reduces jump range
+
+
+BEGINNER VERDICT:
+
+  A small shield is a good idea if you plan to land on planets.
+
+
+===============================================================================
+ 8. AUTO FIELD-MAINTENANCE UNIT - AFMU
+===============================================================================
+
+AFMU means:
+
+  Auto Field-Maintenance Unit
+
+
+Purpose:
+
+  Repairs damaged internal modules.
+
+
+Useful for:
+
+  - Very long expeditions
+  - Neutron Star travel
+  - Accidental heat damage
+  - Long trips far from stations
+
+
+Important:
+
+  An AFMU cannot repair your ship's hull.
+
+  It repairs modules.
+
+
+BEGINNER VERDICT:
+
+  Optional for short trips.
+  Recommended for long-distance exploration.
+
+
+===============================================================================
+ 9. HEAT SINK LAUNCHER
+===============================================================================
+
+Purpose:
+
+  Dumps heat quickly.
+
+
+Useful when:
+
+  - You get too close to a star
+  - You accidentally drop near a hot object
+  - Your ship begins overheating
+  - You need to escape a dangerous heat situation
+
+
+BEGINNER VERDICT:
+
+  Optional, but useful emergency equipment.
+
+
+===============================================================================
+ 10. PLANETARY VEHICLE HANGAR AND SRV
+===============================================================================
+
+Purpose:
+
+  Lets you land and drive on suitable planetary surfaces.
+
+
+You need it if you want to:
+
+  - Explore surface locations
+  - Visit Guardian sites
+  - Collect surface materials
+  - Drive around planets
+  - Investigate surface points of interest
+
+
+You do NOT need an SRV just to:
+
+  - Honk systems
+  - Use the FSS
+  - DSS-map planets
+  - Earn normal exploration credits
+
+
+LEGACY SURFACE NOTE:
+
+  Legacy 3.8 uses the Horizons surface signal / navigation-target system.
+
+  For surface sites and material farming, follow instructions specifically
+  written for Legacy / Horizons 3.8.
+
+
+===============================================================================
+ 11. REPAIR LIMPET CONTROLLER
+===============================================================================
+
+Purpose:
+
+  Repairs hull damage.
+
+
+Useful for:
+
+  - Extremely long expeditions
+  - Players who land often
+  - Recovering from accidental hull damage
+
+
+You also need:
+
+  - Cargo space for limpets
+
+
+BEGINNER VERDICT:
+
+  Not necessary for normal beginner exploration.
+
+
+===============================================================================
+ 12. SUPERCRUISE ASSIST
+===============================================================================
+
+Purpose:
+
+  Helps control long Supercruise approaches.
+
+
+Advantages:
+
+  - Convenient for long flights
+  - Useful when travelling to distant planets
+
+
+Disadvantages:
+
+  - Takes a module slot
+  - Not needed for exploration itself
+
+
+BEGINNER VERDICT:
+
+  Purely optional convenience.
+
+
+===============================================================================
+ 13. DOCKING COMPUTER
+===============================================================================
+
+Purpose:
+
+  Helps automate docking.
+
+
+Advantages:
+
+  - Easier for beginners
+  - Reduces stress when returning with valuable data
+
+
+Disadvantages:
+
+  - Uses a module slot
+
+
+BEGINNER VERDICT:
+
+  Optional.
+
+  Bring one if it makes docking safer for you.
+
+
+===============================================================================
+ 14. A SIMPLE BEGINNER EXPLORATION LOADOUT
+===============================================================================
+
+A very basic exploration ship should have:
+
+  MUST HAVE:
+
+    Fuel Scoop
+    Detailed Surface Scanner
+
+
+  GOOD TO HAVE:
+
+    Small Shield Generator
+
+
+  OPTIONAL:
+
+    AFMU
+    Heat Sink Launcher
+    Planetary Vehicle Hangar
+    SRV
+    Supercruise Assist
+    Docking Computer
+
+
+You do NOT need to fill every module slot.
+
+Lighter ships generally jump farther.
+
+
+===============================================================================
+ 15. WHAT SHOULD YOU SCAN?
+===============================================================================
+
+When you enter a system:
+
+  1. Honk
+  2. Open FSS
+  3. Identify the bodies
+
+
+Good bodies to look for:
+
+  Earth-like Worlds
+  Water Worlds
+  Ammonia Worlds
+  High Metal Content Worlds
+  Metal-Rich Bodies
+
+
+Also check whether a body is:
+
+  A CANDIDATE FOR TERRAFORMING
+
+
+Terraformability can greatly increase its value.
+
+
+===============================================================================
+ 16. WHAT SHOULD YOU DSS-MAP?
+===============================================================================
+
+For good exploration credits, prioritize:
+
+  Earth-like Worlds
+  Terraformable Water Worlds
+  Terraformable High Metal Content Worlds
+  Ammonia Worlds
+  Terraformable Rocky Bodies
+  Water Worlds
+
+
+Also worth considering:
+
+  Metal-Rich Bodies
+  Class II Gas Giants
+  High Metal Content Worlds
+
+
+Usually not worth a long detour purely for credits:
+
+  Icy Bodies
+  Rocky-Ice Bodies
+  Ordinary Rocky Bodies
+  Most low-value Gas Giants
+
+
+===============================================================================
+ 17. FIRST DISCOVERY AND FIRST MAPPED
+===============================================================================
+
+If nobody has previously discovered and sold the body:
+
+  You may receive:
+
+    FIRST DISCOVERED BY
+
+
+If nobody has previously DSS-mapped and sold the body:
+
+  You may receive:
+
+    FIRST MAPPED BY
+
+
+You must survive and sell the data before the tag is secured.
+
+
+===============================================================================
+ 18. YOUR DATA CAN BE LOST
+===============================================================================
+
+Unsold exploration data is carried on your ship.
+
+If your ship is destroyed before you sell it:
+
+  THE UNSOLD EXPLORATION DATA IS LOST.
+
+
+This can include:
+
+  - Exploration credits
+  - First Discovery claims
+  - First Mapping claims
+  - Hours or days of work
+
+
+BEGINNER RULE:
+
+  The data is not safe until you sell it.
+
+
+===============================================================================
+ 19. SELLING EXPLORATION DATA
+===============================================================================
+
+Exploration data is sold through:
+
+  UNIVERSAL CARTOGRAPHICS
+
+
+Normal station:
+
+  100% payout
+
+
+Fleet Carrier Universal Cartographics:
+
+  75% payout
+
+
+Fleet Carrier penalty:
+
+  -25%
+
+
+Example:
+
+  Normal value:          100,000,000 Cr
+  Station payout:        100,000,000 Cr
+  Fleet Carrier payout:  75,000,000 Cr
+  Lost to carrier fee:   25,000,000 Cr
+
+
+Fleet Carriers are useful for:
+
+  - Safety
+  - Convenience
+  - Selling data far from civilisation
+
+
+For maximum credits:
+
+  Sell at a normal station.
+
+
+LEGACY WARNING:
+
+  Fleet Carrier positions and market information are server-dependent.
+
+  When using a third-party tool, use its Legacy / Console filter if available.
+
+
+===============================================================================
+ 20. SIMPLE BEGINNER WORKFLOW
+===============================================================================
+
+Every system:
+
+  1. Jump in
+
+  2. Honk
+
+  3. Refuel if needed
+
+  4. Throttle down
+
+  5. Open FSS
+
+  6. Scan interesting bodies
+
+  7. Check the System Map
+
+  8. Look for terraformable planets
+
+  9. Fly to valuable planets
+
+ 10. DSS-map them
+
+ 11. Try to hit the DSS efficiency target
+
+ 12. Jump to the next system
+
+
+When finished:
+
+ 13. Return safely
+
+ 14. Dock carefully
+
+ 15. Sell at Universal Cartographics
+
+
+===============================================================================
+ 21. BEGINNER CHECKLIST
+===============================================================================
+
+Before leaving:
+
+  [ ] Fuel Scoop installed
+
+  [ ] Detailed Surface Scanner installed
+
+  [ ] Enough jump range for your planned route
+
+  [ ] Route includes scoopable stars
+
+  [ ] Optional shield if landing
+
+  [ ] Optional AFMU for long trips
+
+  [ ] Optional SRV if doing surface exploration
+
+
+While exploring:
+
+  [ ] Honk every system
+
+  [ ] FSS interesting bodies
+
+  [ ] Check for terraformability
+
+  [ ] DSS valuable planets
+
+  [ ] Refuel regularly
+
+  [ ] Avoid unnecessary risks
+
+
+Before selling:
+
+  [ ] Return carefully
+
+  [ ] Avoid combat
+
+  [ ] Dock safely
+
+  [ ] Sell at Universal Cartographics
+
+
+===============================================================================
+ 22. THE MOST IMPORTANT THINGS TO REMEMBER
+===============================================================================
+
+  FUEL SCOOP
+    Essential for long trips.
+
+  DSS
+    Essential if you want good mapping payouts.
+
+  FSS
+    Identifies planets and moons.
+
+  HONK
+    Do it when you enter a system.
+
+  TERRAFORMABLE
+    Often means much more valuable.
+
+  FIRST DISCOVERY / FIRST MAPPED
+    Only secured after you successfully sell the data.
+
+  UNSOLD DATA
+    Lost if your ship is destroyed.
+
+  NORMAL STATION
+    100% Universal Cartographics payout.
+
+  FLEET CARRIER
+    75% payout.
+
+  LEGACY
+    Use Legacy / Console filters for market and Fleet Carrier information.
+
+
+===============================================================================
+ END OF BEGINNER EXPLORATION GUIDE
+===============================================================================

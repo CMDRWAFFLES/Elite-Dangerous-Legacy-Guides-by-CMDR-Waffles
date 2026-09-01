@@ -1,0 +1,1082 @@
+===============================================================================
+ ELITE DANGEROUS: LEGACY 3.8 / CONSOLE
+ LONG EXPEDITION SURVIVAL & REPAIR GUIDE
+===============================================================================
+
+The goal of a long expedition is not just to get far away.
+
+It is to:
+
+  GET HOME ALIVE WITH THE DATA.
+
+
+Unsold exploration data is lost if your ship is destroyed.
+
+
+===============================================================================
+ 1. RECOMMENDED LONG-TRIP SAFETY EQUIPMENT
+===============================================================================
+
++--------------------------+--------------------+--------------------------------+
+| Equipment                | Recommendation     | Purpose                        |
++--------------------------+--------------------+--------------------------------+
+| Fuel Scoop               | ESSENTIAL          | Refuel away from stations      |
+| Small Shield             | RECOMMENDED        | Landing / collision protection |
+| AFMU                     | STRONGLY RECOMM.   | Repair internal modules        |
+| Second AFMU              | RECOMMENDED        | AFMUs can repair each other    |
+| Heat Sink Launcher       | RECOMMENDED        | Emergency heat control         |
+| Repair Limpet Controller | LONG TRIP OPTION   | Repair hull damage             |
+| Small Cargo Rack         | With repair limpets| Holds synthesized limpets      |
+| SRV                      | RECOMMENDED        | Gather raw materials           |
++--------------------------+--------------------+--------------------------------+
+
+
+===============================================================================
+ 2. WHAT THE AFMU REPAIRS
+===============================================================================
+
+AFMU:
+
+  Auto Field-Maintenance Unit
+
+
+It can repair most internal modules.
+
+Examples:
+
+  - Frame Shift Drive
+  - Thrusters
+  - Sensors
+  - Life Support
+  - Detailed Surface Scanner
+  - Power Distributor
+  - Fuel Scoop
+
+
+It can also repair an UNBROKEN cockpit canopy.
+
+
+===============================================================================
+ 3. WHAT THE AFMU CANNOT REPAIR
+===============================================================================
+
+An AFMU cannot normally repair:
+
+  - The ship's HULL
+  - The POWER PLANT
+  - ITSELF
+  - A canopy that has already completely shattered
+
+
+This is why:
+
+  TWO AFMUs are useful.
+
+AFMU #1 repairs AFMU #2.
+
+AFMU #2 repairs AFMU #1.
+
+
+===============================================================================
+ 4. HOW TO USE THE AFMU SAFELY
+===============================================================================
+
+Do not repair important flight modules while in Supercruise.
+
+
+SAFE METHOD:
+
+  1. Move away from stars / hazards.
+
+  2. Drop into normal space.
+
+  3. Stop the ship.
+
+  4. Open:
+       Right Panel -> Modules
+
+  5. Switch on the AFMU if it is normally powered off.
+
+  6. Select the damaged module.
+
+  7. Choose:
+       Repair
+
+  8. Wait.
+
+  9. Re-enable the repaired module.
+
+ 10. Switch the AFMU off again if desired.
+
+
+The module being repaired is OFFLINE while the AFMU works.
+
+
+IMPORTANT:
+
+Repairing:
+
+  THRUSTERS
+  or
+  FRAME SHIFT DRIVE
+
+while in Supercruise can force you out of Supercruise.
+
+
+===============================================================================
+ 5. NEUTRON DAMAGE
+===============================================================================
+
+Repeated neutron supercharging damages the FSD.
+
+Once the FSD falls below:
+
+  80%
+
+it can begin malfunctioning.
+
+
+Safe neutron-travel habit:
+
+  Repair around:
+      85-90%
+
+
+This keeps a safety margin.
+
+
+===============================================================================
+ 6. AFMU REFILL SYNTHESIS
+===============================================================================
+
+AFMU ammunition can be synthesized in deep space.
+
+
+BASIC AFMU REFILL:
+
+  2 Nickel
+  2 Zinc
+  2 Chromium
+  3 Vanadium
+
+
+This is why long-range explorers should leave with useful raw materials already
+stocked.
+
+
+===============================================================================
+ 7. HULL DAMAGE
+===============================================================================
+
+AFMUs do NOT repair hull damage.
+
+
+To repair your own hull in deep space, fit:
+
+  REPAIR LIMPET CONTROLLER
+  +
+  CARGO RACK
+
+
+Then launch a Repair Limpet with no external target selected.
+
+
+===============================================================================
+ 8. SYNTHESIZING LIMPETS
+===============================================================================
+
+You do not need to carry dozens of limpets from the Bubble.
+
+Legacy synthesis:
+
+  10 Iron
+  10 Nickel
+
+creates:
+
+  4 Limpets
+
+
+This is excellent for explorers because cargo has mass.
+
+
+A good strategy:
+
+  Carry:
+      0-4 limpets
+
+  Keep:
+      Iron
+      Nickel
+
+  Synthesize more only if needed.
+
+
+===============================================================================
+ 9. CANOPY DAMAGE
+===============================================================================
+
+There are two different situations.
+
+
+DAMAGED BUT STILL INTACT CANOPY
+-------------------------------
+
+An AFMU can repair it.
+
+
+FULLY BROKEN CANOPY
+-------------------
+
+The cockpit depressurizes.
+
+Your Life Support emergency oxygen begins counting down.
+
+An AFMU cannot restore an already shattered canopy.
+
+
+Your priorities become:
+
+  1. Do not panic.
+  2. Find somewhere to dock.
+  3. Use Life Support synthesis if needed.
+
+
+===============================================================================
+ 10. LIFE SUPPORT SYNTHESIS
+===============================================================================
+
+Legacy Life Support refill:
+
+  2 Iron
+  1 Nickel
+
+
+This refills the emergency oxygen supply.
+
+
+If the canopy is broken:
+
+  Keep these materials available.
+
+
+Do not wait until only seconds remain before synthesizing.
+
+
+===============================================================================
+ 11. POWER PLANT DAMAGE
+===============================================================================
+
+The Power Plant is the explorer's major repair limitation.
+
+An AFMU cannot repair it normally.
+
+
+Therefore:
+
+  Avoid severe overheating.
+  Avoid crashing.
+  Avoid unnecessary combat.
+
+
+If the Power Plant becomes badly damaged:
+
+  Your safest plan is to reach a station or suitable repair facility.
+
+
+===============================================================================
+ 12. REBOOT / REPAIR
+===============================================================================
+
+There is an emergency function:
+
+  REBOOT / REPAIR
+
+
+Location:
+
+  Right Panel -> Ship / Functions area
+
+
+Purpose:
+
+  It can cannibalize integrity from healthier modules to bring broken modules
+  back online.
+
+
+Use it if something critical is at:
+
+  0%
+
+
+Examples:
+
+  Thrusters
+  Sensors
+  FSD
+
+
+IMPORTANT:
+
+Reboot / Repair:
+
+  - Is an emergency procedure
+  - Turns the ship systems off temporarily
+  - Does NOT repair hull
+  - Does NOT repair a failed canopy
+
+
+Use an AFMU first when possible.
+
+
+===============================================================================
+ 13. HEAT EMERGENCIES
+===============================================================================
+
+Common causes:
+
+  - Flying too close to a star
+  - Charging FSD while still deep in the star's heat
+  - Dropping too close to a stellar object
+  - Bad neutron / white-dwarf handling
+
+
+IF HEAT IS RISING:
+
+  1. Point away from the heat source.
+
+  2. Stop fuel scooping if necessary.
+
+  3. Move away.
+
+  4. Cancel unnecessary heat-producing actions.
+
+  5. Use a Heat Sink if needed.
+
+
+Repeated or severe overheating can damage modules and eventually the hull.
+
+
+===============================================================================
+ 14. HIGH-GRAVITY PLANET LANDINGS
+===============================================================================
+
+High gravity can destroy an exploration ship faster than almost anything else.
+
+
+BEFORE DESCENDING:
+
+  CHECK THE PLANET'S GRAVITY.
+
+
+The important Legacy flight-model detail is:
+
+  The ship's VENTRAL / UP thrusters
+  and
+  the ship's REAR / MAIN forward engines
+
+receive special high-gravity assistance from Flight Assist.
+
+This is why even a lightly-built exploration ship can land on and leave very
+high-G worlds if flown correctly.
+
+
+DO NOT THINK OF THE VERTICAL THRUSTERS AS "TOO SMALL"
+------------------------------------------------------
+
+Although the manoeuvring thrusters look much smaller than the main engines,
+Elite Dangerous deliberately boosts the upward / ventral thrust available in
+high gravity.
+
+With the ship kept LEVEL and its BELLY facing the planet:
+
+  UPWARD VERTICAL THRUST can hold the ship against gravity.
+
+This is the safest basic high-G technique.
+
+
+SAFE CONTROLLED DESCENT
+-----------------------
+
+For a normal controlled high-G landing:
+
+  1. Exit glide with plenty of altitude.
+
+  2. Keep the ship almost LEVEL.
+
+  3. Keep the BELLY facing the planet.
+
+  4. Avoid rolling or flying inverted.
+
+  5. Keep your descent rate LOW.
+
+  6. Use the UP / VERTICAL thrusters to arrest the descent.
+
+  7. Make small, patient reductions in altitude.
+
+  8. Do not allow a large downward velocity to build up.
+
+
+The important danger is MOMENTUM.
+
+Even though the ventral thrusters can oppose the gravity, they still need time
+to remove a fast downward velocity.
+
+
+===============================================================================
+ HIGH-RATE DESCENT: 90-DEGREE MAIN-THRUSTER BRAKING
+===============================================================================
+
+If you are already descending too quickly AND still have enough altitude, you
+can deliberately rotate the ship so the MAIN ENGINES point directly away from
+the planet.
+
+In other words:
+
+  NOSE:
+      90 DEGREES STRAIGHT UP
+
+  MAIN / REAR THRUSTERS:
+      POINTING DOWN TOWARD THE PLANET
+
+Then apply:
+
+  FORWARD THROTTLE
+
+and, if your ship can boost and the situation requires it:
+
+  BOOST
+
+
+This turns the powerful rear/main thrust into upward acceleration and can help
+arrest a dangerous descent.
+
+
+IMPORTANT:
+
+  Do this while you still have ALTITUDE.
+
+  Do NOT wait until you are only a few hundred metres above the ground.
+
+
+WHY THE 90-DEGREE ANGLE MATTERS
+-------------------------------
+
+The useful high-G thrust directions are:
+
+  BELLY-DOWN / VENTRAL UP THRUST
+
+and:
+
+  NOSE-UP / REAR MAIN THRUST
+
+
+Do NOT:
+
+  - Roll onto your side
+  - Go inverted
+  - Pitch beyond 90 degrees so your back faces the planet
+
+
+The lateral and topside thrust directions do NOT receive the same useful
+gravity compensation.
+
+A bad roll on a very high-G world can make the ship start falling extremely
+quickly.
+
+
+THE TRANSITION IS THE DANGEROUS PART
+------------------------------------
+
+When changing from:
+
+  BELLY-DOWN VERTICAL THRUST
+
+to:
+
+  90-DEGREE MAIN-ENGINE THRUST
+
+the rear thrusters may need a short moment to build their high-G thrust.
+
+During that transition:
+
+  THE SHIP CAN CONTINUE FALLING.
+
+
+Therefore:
+
+  - Start the manoeuvre high enough
+  - Do not pitch up too late
+  - Watch vertical speed / altitude
+  - Be ready to return to a level belly-down attitude if necessary
+
+
+BEGINNER RECOMMENDATION
+-----------------------
+
+For a normal landing:
+
+  KEEP THE SHIP LEVEL
+  +
+  USE VERTICAL UP THRUST
+
+
+If you have built up too much downward speed and still have plenty of altitude:
+
+  ROTATE NOSE-UP TO 90 DEGREES
+  +
+  USE THE MAIN ENGINES TO BRAKE THE DESCENT
+
+
+If the situation is desperate and your ship can boost:
+
+  90-DEGREE NOSE-UP
+  +
+  FULL MAIN THRUST
+  +
+  BOOST
+
+can provide an emergency recovery attempt.
+
+
+SHIELDS
+-------
+
+Use a shield when attempting high-G landings.
+
+A small shield can turn a minor mistake into:
+
+  SHIELD DAMAGE
+
+instead of:
+
+  LOST SHIP
+  LOST EXPLORATION DATA
+
+
+HIGH-G BEGINNER RULES
+---------------------
+
+  CHECK GRAVITY BEFORE LANDING.
+
+  KEEP THE BELLY TOWARD THE PLANET.
+
+  KEEP DESCENT SPEED LOW.
+
+  DO NOT ROLL.
+
+  DO NOT GO INVERTED.
+
+  USE VERTICAL UP THRUST FOR CONTROLLED DESCENT.
+
+  USE 90-DEGREE NOSE-UP MAIN-THRUSTER BRAKING IF YOU NEED TO ARREST A
+  FASTER DESCENT AND STILL HAVE ENOUGH ALTITUDE.
+
+  NEVER WAIT UNTIL THE LAST MOMENT.
+
+
+===============================================================================
+ 15. FUEL EMERGENCY - USE JUMPONIUM BEFORE GIVING UP
+===============================================================================
+
+If your fuel is dangerously low:
+
+  STOP MAKING RANDOM JUMPS.
+
+
+A very important emergency option is:
+
+  FSD INJECTION / "JUMPONIUM"
+
+
+Jumponium does NOT add fuel to your tank.
+
+Instead, it increases the Frame Shift Drive's jump range for ONE jump.
+
+
++-------------------+------------+---------------------------------------------+
+| FSD Injection     | Range      | Legacy 3.8 Materials                        |
++-------------------+------------+---------------------------------------------+
+| BASIC             | +25%       | 1 Carbon                                    |
+|                   |            | 1 Vanadium                                  |
+|                   |            | 1 Germanium                                 |
++-------------------+------------+---------------------------------------------+
+| STANDARD          | +50%       | 1 Carbon                                    |
+|                   |            | 1 Vanadium                                  |
+|                   |            | 1 Germanium                                 |
+|                   |            | 1 Cadmium                                   |
+|                   |            | 1 Niobium                                   |
++-------------------+------------+---------------------------------------------+
+| PREMIUM           | +100%      | 1 Carbon                                    |
+|                   |            | 1 Germanium                                 |
+|                   |            | 1 Arsenic                                   |
+|                   |            | 1 Niobium                                   |
+|                   |            | 1 Yttrium                                   |
+|                   |            | 1 Polonium                                  |
++-------------------+------------+---------------------------------------------+
+
+
+QUICK COPY VERSION
+------------------
+
+BASIC +25%:
+
+  1 Carbon
+  1 Vanadium
+  1 Germanium
+
+
+STANDARD +50%:
+
+  1 Carbon
+  1 Vanadium
+  1 Germanium
+  1 Cadmium
+  1 Niobium
+
+
+PREMIUM +100%:
+
+  1 Carbon
+  1 Germanium
+  1 Arsenic
+  1 Niobium
+  1 Yttrium
+  1 Polonium
+
+
+These are the Legacy / Horizons 3.8 FSD Injection recipes.
+
+
+WHY THIS CAN SAVE YOU
+---------------------
+
+When you have only a small amount of fuel left, the nearest scoopable star may
+be outside your normal remaining jump capability.
+
+An FSD Injection increases the distance your FSD can cover on that next jump.
+
+In practical terms, this can let the small amount of fuel you still have carry
+you far enough to reach a scoopable star that was otherwise unreachable.
+
+
+EXAMPLE:
+
+  Maximum jump you can currently make:
+      12 LY
+
+  Nearest scoopable star:
+      14 LY away
+
+
+Without injection:
+
+      YOU CANNOT REACH IT.
+
+
+Basic Jumponium:
+
+      12 LY x 1.25
+          =
+      15 LY
+
+
+The 14 LY fuel star may now be reachable.
+
+
+IMPORTANT:
+
+  Jumponium does NOT create fuel.
+
+  It only increases the FSD's available range for that one jump.
+
+  You still need enough fuel remaining for the boosted jump itself.
+
+
+EMERGENCY PROCEDURE
+-------------------
+
+  1. STOP jumping.
+
+  2. Open the Galaxy Map.
+
+  3. Look for the nearest scoopable star:
+
+       O
+       B
+       A
+       F
+       G
+       K
+       M
+
+  4. Check your current available jump range.
+
+  5. If the star is just outside normal range:
+
+       Try BASIC first:
+           +25%
+
+  6. If Basic is not enough:
+
+       Try STANDARD:
+           +50%
+
+  7. If Standard is not enough:
+
+       Try PREMIUM:
+           +100%
+
+  8. Synthesize the smallest injection that reaches the fuel star.
+
+  9. Target the scoopable star directly.
+
+ 10. Make the boosted jump.
+
+ 11. FUEL SCOOP IMMEDIATELY after arrival.
+
+
+HOW TO SYNTHESIZE IT
+--------------------
+
+Open:
+
+  RIGHT PANEL
+      ->
+  INVENTORY
+      ->
+  SYNTHESIS
+      ->
+  FSD INJECTION
+
+
+Choose:
+
+  BASIC
+  STANDARD
+  or
+  PREMIUM
+
+
+Then make the boosted hyperspace jump.
+
+
+WHY USE THE SMALLEST INJECTION?
+-------------------------------
+
+Premium Jumponium uses rare materials such as:
+
+  Yttrium
+  Polonium
+
+
+Do not waste a Premium injection if:
+
+  Basic
+  or
+  Standard
+
+will reach the star.
+
+
+ALSO CHECK FOR A SCOOPABLE SECONDARY STAR
+-----------------------------------------
+
+The star you arrive beside is normally the system's primary arrival star.
+
+A system can still contain another scoopable star farther away.
+
+Before spending Jumponium materials:
+
+  Open the System Map.
+
+If the same system contains a reachable:
+
+  O / B / A / F / G / K / M star
+
+you may be able to fly to it in Supercruise and refuel without making another
+hyperspace jump.
+
+
+FUEL EMERGENCY ORDER
+--------------------
+
+When low on fuel:
+
+  1. Check the CURRENT SYSTEM for a scoopable secondary star.
+
+  2. Check nearby scoopable systems in the Galaxy Map.
+
+  3. Use Basic / Standard / Premium Jumponium if it makes one reachable.
+
+  4. Do NOT waste fuel on experimental jumps.
+
+  5. If you still cannot reach fuel:
+       STOP.
+
+  6. Contact the Fuel Rats.
+
+
+===============================================================================
+ 16. FUEL RATS
+===============================================================================
+
+The Fuel Rats are a player rescue organization specialising in fuel emergencies.
+
+They support multiple game platforms, including Legacy-related rescue cases.
+
+
+If you are stranded:
+
+  DO NOT keep jumping around.
+
+  DO NOT self-destruct.
+
+  Contact:
+      Fuel Rats
+
+
+When requesting rescue, be ready to provide:
+
+  - Commander name
+  - Platform
+  - Game branch / Legacy
+  - Current system
+  - Oxygen status if canopy is broken
+
+
+If oxygen is already counting down:
+
+  Tell them immediately.
+
+
+===============================================================================
+ 17. UNSOLD EXPLORATION DATA
+===============================================================================
+
+Remember:
+
+  UNSOLD DATA DIES WITH THE SHIP.
+
+
+If you have been away for weeks or months:
+
+  Treat the return trip seriously.
+
+
+When you reach inhabited space:
+
+  - Avoid unnecessary combat
+  - Do not fly recklessly
+  - Do not attempt a silly high-G landing
+  - Dock carefully
+  - Sell the data
+
+
+===============================================================================
+ 18. FLEET CARRIER DATA SALE
+===============================================================================
+
+A Fleet Carrier can be useful as a safety checkpoint.
+
+But Universal Cartographics on a carrier pays the commander:
+
+  75%
+
+of the normal payout.
+
+
+Normal Universal Cartographics:
+
+  100%
+
+
+Carrier sale:
+
+  75%
+
+
+Penalty:
+
+  -25%
+
+
+Use a carrier when:
+
+  Safety is worth more to you than the lost credits.
+
+
+Use a normal station when:
+
+  You want maximum payout.
+
+
+Legacy warning:
+
+  Current carrier locations on modern third-party tools are server-dependent.
+
+  Use Legacy / Console data where available.
+
+
+===============================================================================
+ 19. MATERIALS WORTH CARRYING
+===============================================================================
+
+Useful expedition materials include:
+
+
+AFMU REFILL:
+
+  Nickel
+  Zinc
+  Chromium
+  Vanadium
+
+
+LIMPET SYNTHESIS:
+
+  Iron
+  Nickel
+
+
+LIFE SUPPORT:
+
+  Iron
+  Nickel
+
+
+FSD INJECTIONS:
+
+  Carbon
+  Vanadium
+  Germanium
+  Arsenic
+  Cadmium
+  Niobium
+  Yttrium
+  Polonium
+
+
+===============================================================================
+ 20. WHAT AN SRV ADDS TO SURVIVAL
+===============================================================================
+
+An SRV lets you gather raw materials while far from civilisation.
+
+This can replenish materials for:
+
+  - FSD injections
+  - AFMU refills
+  - Limpet synthesis
+  - Life Support synthesis
+  - SRV repairs / fuel / ammunition
+
+
+For a serious long expedition:
+
+  Bringing an SRV is recommended.
+
+
+===============================================================================
+ 21. PRE-FLIGHT SURVIVAL CHECKLIST
+===============================================================================
+
+Before a very long trip:
+
+  [ ] Fuel Scoop fitted
+
+  [ ] Shield fitted
+
+  [ ] AFMU fitted
+
+  [ ] Second AFMU if space permits
+
+  [ ] Heat Sink fitted
+
+  [ ] Repair Limpet Controller if desired
+
+  [ ] Cargo Rack if using repair limpets
+
+  [ ] SRV fitted
+
+  [ ] AFMU refill materials stocked
+
+  [ ] Iron stocked
+
+  [ ] Nickel stocked
+
+  [ ] Jumponium materials stocked
+
+  [ ] Rebuy money available
+
+
+===============================================================================
+ 22. DAMAGE CHECKLIST WHILE TRAVELLING
+===============================================================================
+
+Occasionally check:
+
+  HULL:
+      Should remain healthy
+
+  FSD:
+      Especially after neutron use
+
+  POWER PLANT:
+      Cannot be normally repaired by AFMU
+
+  CANOPY:
+      Repair while still intact
+
+  AFMU:
+      Check ammunition remaining
+
+
+===============================================================================
+ 23. SIMPLE EMERGENCY DECISION TREE
+===============================================================================
+
+FSD / MODULE DAMAGE?
+
+  -> AFMU
+
+
+HULL DAMAGE?
+
+  -> Repair Limpets
+
+
+AFMU DAMAGED?
+
+  -> Second AFMU
+
+
+BROKEN CRITICAL MODULE AT 0%?
+
+  -> Reboot / Repair if necessary
+
+
+BROKEN CANOPY?
+
+  -> Life Support synthesis + reach repair facility
+
+
+LOW FUEL?
+
+  -> Check current system for a scoopable secondary star
+
+  -> Check nearby scoopable systems
+
+  -> Use Jumponium if it makes a fuel star reachable
+
+  -> Fuel Rats if still stranded
+
+
+NO WAY OUT?
+
+  -> Stop and think before making the situation worse
+
+
+===============================================================================
+ END OF LONG EXPEDITION SURVIVAL GUIDE
+===============================================================================

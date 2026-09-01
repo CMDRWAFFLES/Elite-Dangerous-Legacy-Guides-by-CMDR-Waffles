@@ -1,0 +1,1221 @@
+===============================================================================
+ ELITE DANGEROUS: LEGACY 3.8 / CONSOLE
+ BEGINNER NEUTRON HIGHWAY GUIDE - ANACONDA
+===============================================================================
+
+This guide is ONLY for:
+
+  Elite Dangerous: Legacy / Console
+  Horizons 3.8
+
+My personal recommended ship in this guide:
+
+  ANACONDA
+
+You do not necessarily need to use the Anaconda but I strongly recommend it to
+take full effect of the neutron highway due to the Anaconda having the best
+jumprange in Legacy. 
+Link to my personal build: https://sh.orbis.zone/w945JTpOqq
+Website for plotting Neutron Highway route: https://spansh.co.uk/plotter
+
+===============================================================================
+ 1. WHAT IS THE NEUTRON HIGHWAY?
+===============================================================================
+
+A Neutron Star has large jet cones coming from its poles.
+
+If your ship has a FUEL SCOOP fitted, you can fly through one of those jet
+cones in Supercruise and temporarily SUPERCHARGE your Frame Shift Drive.
+
+A Neutron Star supercharge gives:
+
+  NORMAL JUMP RANGE x 4
+
+Example:
+
+  Normal Anaconda jump range:       70 LY
+  Neutron-supercharged jump range: 280 LY
+
+
+The supercharge lasts for ONE hyperspace jump.
+
+After that jump, you must supercharge again at another Neutron Star.
+
+The "Neutron Highway" is simply a route that chains large numbers of Neutron
+Stars together:
+
+  Neutron Star
+       |
+       | Supercharge
+       v
+  ~280 LY jump
+       |
+       v
+  Next Neutron Star
+       |
+       | Supercharge
+       v
+  ~280 LY jump
+       |
+       v
+  Next Neutron Star...
+
+
+Instead of making hundreds of ordinary jumps, you use a much smaller number
+of very long boosted jumps.
+
+
+===============================================================================
+ 2. WHY THIS GUIDE RECOMMENDS THE ANACONDA
+===============================================================================
+
+The Anaconda is extremely well suited to long-distance Legacy travel because
+it can combine:
+
+  - Very high engineered jump range
+  - Class 6 Frame Shift Drive
+  - Class 7 Fuel Scoop
+  - Class 5 Guardian FSD Booster
+  - Multiple AFMUs
+  - Shield Generator
+  - SRV
+  - Detailed Surface Scanner
+  - Large number of optional internal slots
+
+
+A practical long-range Legacy Anaconda can comfortably reach around:
+
+  ~65-75+ LY per normal jump
+
+Highly specialised builds can go farther.
+
+For this beginner guide, all examples use:
+
+  70 LY NORMAL JUMP RANGE
+
+Neutron range:
+
+  70 x 4 = 280 LY
+
+
+===============================================================================
+ 3. HOW MUCH FASTER IS IT?
+===============================================================================
+
+IMPORTANT:
+
+The figures below are examples, not guaranteed route counts.
+
+"Normal Minimum" is simply:
+
+  straight-line distance / 70 LY
+
+"All-Neutron Minimum" is the impossible perfect case where every jump could be
+a full 280 LY neutron jump.
+
+"Typical Spansh Estimate" is a realistic beginner planning range for a
+70-ish LY Anaconda. Your actual route changes with:
+
+  - Exact jump range
+  - Route efficiency setting
+  - Neutron Star density
+  - Refuelling stops
+  - Detours
+  - Your current position
+
+
++---------------------------+-----------+----------------+------------------+----------------------+
+| Journey                   | Distance  | Normal Minimum | Neutron Minimum  | Typical Spansh Route |
++---------------------------+-----------+----------------+------------------+----------------------+
+| Sol -> Colonia            | 22,000 LY |  315 jumps     |   79 jumps       | ~100-140             |
+| Sol -> Sagittarius A*     | 25,900 LY |  370 jumps     |   93 jumps       | ~120-165             |
+| Colonia -> Sagittarius A* | 11,367 LY |  163 jumps     |   41 jumps       | ~55-80               |
+| Sol -> Beagle Point       | 65,279 LY |  933 jumps     |  234 jumps       | ~280-380             |
++---------------------------+-----------+----------------+------------------+----------------------+
+
+
+WHAT THAT MEANS
+---------------
+
+SOL -> COLONIA
+
+  Ordinary 70 LY travel:
+    At least ~315 jumps before routing inefficiency.
+
+  Neutron Highway:
+    Roughly ~100-140 jumps is a sensible planning expectation.
+
+  Jump reduction:
+    Often around 60-70% fewer jumps.
+
+
+SOL -> SAGITTARIUS A*
+
+  Ordinary 70 LY travel:
+    At least ~370 jumps before routing inefficiency.
+
+  Neutron Highway:
+    Roughly ~120-165 jumps is a sensible planning expectation.
+
+  Jump reduction:
+    Often around 55-70% fewer jumps.
+
+
+COLONIA -> SAGITTARIUS A*
+
+  Ordinary 70 LY travel:
+    At least ~163 jumps.
+
+  Neutron Highway:
+    Roughly ~55-80 jumps.
+
+
+SOL -> BEAGLE POINT
+
+  Ordinary 70 LY travel:
+    At least ~933 jumps.
+
+  Neutron Highway:
+    Roughly ~280-380 jumps is a useful planning range.
+
+
+These numbers are deliberately conservative.
+
+Experienced speed-runners can do much better.
+
+
+===============================================================================
+ 4. HOW MUCH REAL TIME CAN IT SAVE?
+===============================================================================
+
+Neutron travel does NOT make the trip exactly four times faster.
+
+Why?
+
+A normal jump is simple:
+
+  Jump
+  -> Scoop
+  -> Jump
+
+
+A neutron jump requires:
+
+  Enter system
+  -> Fly into jet
+  -> Wait for supercharge
+  -> Leave jet
+  -> Select next system
+  -> Jump
+  -> Occasionally refuel
+  -> Occasionally repair FSD
+
+
+Even so, the reduction in total jumps is enormous.
+
+
+ROUGH BEGINNER EXPECTATIONS
+---------------------------
+
+These are travel estimates, NOT promises.
+
+They assume:
+
+  - ~70 LY Anaconda
+  - Spansh route
+  - Mostly continuous travel
+  - Little exploration stopping
+  - Safe neutron technique
+
+
+Sol -> Colonia:
+
+  Ordinary fast travel:
+    Roughly 5-7+ hours
+
+  Neutron Highway:
+    Roughly 2.5-4 hours
+
+
+Sol -> Sagittarius A*:
+
+  Ordinary fast travel:
+    Roughly 6-8+ hours
+
+  Neutron Highway:
+    Roughly 3-5 hours
+
+
+Colonia -> Sagittarius A*:
+
+  Neutron Highway:
+    Roughly 1.5-3 hours
+
+
+Do NOT treat these as speed-run times.
+
+A beginner learning neutron scooping should go slower.
+
+
+HISTORICAL PERSPECTIVE
+----------------------
+
+A pre-split 2019 Anaconda speed run completed:
+
+  Sol -> Colonia
+
+in:
+
+  1 hour 38 minutes 11 seconds
+
+using:
+
+  76 total jumps
+
+That was a highly optimised record attempt.
+
+The pilot stated that the 76-jump route was around 27% shorter than the best
+Spansh route they had compared against.
+
+For a beginner:
+
+  Do not try to match speed-run times.
+
+Use them only to understand how powerful neutron travel can be.
+
+
+===============================================================================
+ 5. USE SPANSH
+===============================================================================
+
+Recommended website:
+
+  https://www.spansh.co.uk/
+
+
+Use the:
+
+  NEUTRON ROUTER
+
+
+Spansh is especially useful because the in-game route planner tries to keep
+you relatively close to a direct route.
+
+Spansh can deliberately make small detours in order to hit more Neutron Stars.
+
+More neutron jumps usually means:
+
+  FAR FEWER TOTAL JUMPS
+
+
+LEGACY VALIDITY
+---------------
+
+Neutron Star positions are physical galaxy data.
+
+Legacy and the other galaxy branch share the same Stellar Forge galaxy
+generation.
+
+Therefore:
+
+  SPANSH NEUTRON STAR POSITIONS ARE USEFUL FOR LEGACY.
+
+
+Do NOT use Spansh's current server-dependent information as Legacy truth for:
+
+  - Fleet Carrier positions
+  - Markets
+  - Commodity prices
+  - Supply / demand
+
+If a tool offers a Legacy / Console filter for server-dependent information,
+use it.
+
+
+===============================================================================
+ 6. HOW TO SET UP SPANSH
+===============================================================================
+
+Open:
+
+  https://www.spansh.co.uk/
+
+
+Select:
+
+  NEUTRON ROUTER
+
+
+Enter:
+
+  SOURCE SYSTEM
+    Example:
+      Sol
+
+  DESTINATION SYSTEM
+    Example:
+      Colonia
+
+  RANGE
+    Enter your REALISTIC normal jump range.
+
+    For safety, use the range your Anaconda has with fuel onboard.
+
+    Do NOT enter an empty-tank fantasy maximum if your ship cannot normally
+    achieve it.
+
+
+EFFICIENCY
+----------
+
+A good starting value is:
+
+  60%
+
+
+Lower efficiency:
+
+  - Allows larger detours
+  - Searches for more Neutron Stars
+  - Can reduce total jump count
+
+
+Higher efficiency:
+
+  - Keeps the route straighter
+  - May use fewer Neutron Stars
+
+
+Beginner recommendation:
+
+  Start at 60%.
+
+If the route looks strange:
+
+  Try 65%
+  Try 70%
+
+
+===============================================================================
+ 7. HOW TO FOLLOW A SPANSH ROUTE
+===============================================================================
+
+Spansh gives you a list of systems.
+
+Your routine is:
+
+  1. Copy the NEXT SYSTEM NAME.
+
+  2. Open the Galaxy Map.
+
+  3. Search for that system.
+
+  4. Select / target it.
+
+  5. Supercharge at your current Neutron Star.
+
+  6. Make the boosted jump.
+
+  7. Repeat.
+
+
+IMPORTANT:
+
+The simple Neutron Router does NOT manage your fuel for you.
+
+You must watch your own fuel gauge.
+
+
+===============================================================================
+ 8. THE ANACONDA - ESSENTIAL NEUTRON HIGHWAY MODULES
+===============================================================================
+
++--------------------------------+------------------+------------------------------------------+
+| Module                         | Recommendation   | Why                                      |
++--------------------------------+------------------+------------------------------------------+
+| 6A Frame Shift Drive           | REQUIRED         | Main jump-range module                   |
+| Fuel Scoop                     | REQUIRED         | Required to neutron-supercharge          |
+| AFMU                           | REQUIRED         | Repairs neutron damage to the FSD        |
+| 5H Guardian FSD Booster        | STRONGLY REC.    | Adds +10.5 LY normal jump range          |
+| Heat Sink Launcher             | STRONGLY REC.    | Emergency heat control                   |
+| Shield Generator               | RECOMMENDED      | Protects against accidents               |
+| Second AFMU                    | RECOMMENDED      | Can repair the primary AFMU              |
+| Detailed Surface Scanner       | RECOMMENDED      | You are travelling through deep space    |
+| Planetary Vehicle Hangar + SRV | OPTIONAL         | Surface exploration / materials          |
+| Repair Limpet Controller       | OPTIONAL         | Repairs hull on very long expeditions    |
++--------------------------------+------------------+------------------------------------------+
+
+
+===============================================================================
+ 9. RECOMMENDED ANACONDA NEUTRON BUILD
+===============================================================================
+
+This is a SAFE long-distance concept.
+
+It is not a paper-thin maximum-jump-range record build.
+
+
+CORE INTERNALS
+--------------
+
+FRAME SHIFT DRIVE
+
+  6A Frame Shift Drive
+
+  Engineering:
+    Increased Range Grade 5
+
+  Experimental:
+    Mass Manager
+
+  THIS IS THE MOST IMPORTANT ENGINEERING ON THE SHIP.
+
+
+POWER PLANT
+
+  Use a smaller A-rated Power Plant that can safely power your build.
+
+  Do not reduce it so far that you constantly have power problems.
+
+  Recommended engineering if power allows:
+
+    Low Emissions
+    Thermal Spread
+
+  Reliability matters more than gaining a tiny amount of extra jump range.
+
+
+THRUSTERS
+
+  D-rate where practical to reduce mass.
+
+  Keep enough performance that the ship is comfortable and safe to fly.
+
+
+LIFE SUPPORT
+
+  D-rated
+
+  Engineering:
+    Lightweight
+
+
+POWER DISTRIBUTOR
+
+  Use the lightest distributor that still gives you the flight performance
+  you want.
+
+  Being able to BOOST is recommended.
+
+
+SENSORS
+
+  D-rated
+
+  Engineering:
+    Lightweight
+
+
+FUEL TANK
+
+  Keep the normal 32-tonne tank.
+
+  Do NOT aggressively reduce your fuel capacity for a neutron trip.
+
+
+===============================================================================
+ 10. OPTIONAL INTERNAL MODULES
+===============================================================================
+
+FUEL SCOOP
+----------
+
+BEST:
+  7A Fuel Scoop
+
+Price:
+  ~91.18m Cr
+
+
+CHEAPER:
+  7B Fuel Scoop
+
+Price:
+  ~22.80m Cr
+
+
+For a journey like Sol -> Colonia:
+
+  A 7A scoop is wonderful.
+
+But:
+
+  A 7B works perfectly well if you do not want to spend ~91 million credits.
+
+
+FUEL SCOOPS HAVE ZERO MASS.
+
+Using a 7A instead of a 7B does NOT reduce jump range.
+
+
+AFMU
+----
+
+AFMU means:
+
+  Auto Field-Maintenance Unit
+
+
+Take at least:
+
+  1 AFMU
+
+
+Recommended:
+
+  2 AFMUs
+
+
+AFMUs have zero mass.
+
+So if you have the internal slots:
+
+  TAKE TWO.
+
+
+Why two?
+
+  An AFMU cannot repair itself.
+
+But:
+
+  AFMU #1 can repair AFMU #2
+  AFMU #2 can repair AFMU #1
+
+
+GUARDIAN FSD BOOSTER
+--------------------
+
+Use:
+
+  5H Guardian Frame Shift Drive Booster
+
+Jump-range increase:
+
+  +10.5 LY
+
+Legacy-era module price:
+
+  ~6.32m Cr
+
+
+SHIELD
+------
+
+Use a lightweight shield.
+
+You do not need a giant combat shield.
+
+The purpose is simply to survive:
+
+  - Bad landings
+  - Bumps
+  - Accidental impacts
+
+
+DETAILED SURFACE SCANNER
+------------------------
+
+Recommended.
+
+You are travelling through thousands of light-years of exploration space.
+
+If you see:
+
+  Earth-like World
+  Water World
+  Ammonia World
+  Terraformable planet
+
+you may as well map it.
+
+
+SRV
+---
+
+Optional.
+
+Useful if you want to:
+
+  - Land on planets
+  - Gather raw materials
+  - Visit surface sites
+
+For a pure high-speed Sol -> Colonia run:
+
+  Not necessary.
+
+
+===============================================================================
+ 11. APPROXIMATE COST
+===============================================================================
+
+ANACONDA
+
+  Base ship:
+    ~146.97m Cr
+
+
+6A FRAME SHIFT DRIVE
+
+  ~16.18m Cr
+
+
+7A FUEL SCOOP
+
+  ~91.18m Cr
+
+
+OR:
+
+7B FUEL SCOOP
+
+  ~22.80m Cr
+
+
+5H GUARDIAN FSD BOOSTER
+
+  ~6.32m Cr
+
+
+DETAILED SURFACE SCANNER
+
+  250,000 Cr
+
+
+A comfortable neutron Anaconda can therefore easily cost:
+
+  ~250m-300m+ Cr
+
+depending on the Fuel Scoop and other modules.
+
+
+ALWAYS KEEP REBUY MONEY.
+
+
+===============================================================================
+ 12. ENGINEERING PRIORITY
+===============================================================================
+
+If you do nothing else:
+
+  ENGINEER THE FSD.
+
+
+PRIORITY #1
+-----------
+
+6A Frame Shift Drive
+
+  Increased Range Grade 5
+
+  Experimental:
+    Mass Manager
+
+
+PRIORITY #2
+-----------
+
+Reduce unnecessary mass.
+
+Good choices:
+
+  Life Support:
+    Lightweight
+
+  Sensors:
+    Lightweight
+
+
+PRIORITY #3
+-----------
+
+Power Plant reliability / heat.
+
+A cool-running ship makes neutron work more comfortable.
+
+
+PRIORITY #4
+-----------
+
+DSS Expanded Probe Radius
+
+Only important if you plan to map planets along the journey.
+
+
+===============================================================================
+ 13. HOW TO SUPERCHARGE SAFELY
+===============================================================================
+
+NEUTRON STAR ONLY FOR BEGINNERS.
+
+
+DO THIS
+-------
+
+1. Arrive at the Neutron Star.
+
+2. Identify one of the two jet cones.
+
+3. Stay WELL AWAY from the star itself.
+
+4. Fly toward the OUTER END of the jet.
+
+5. Reduce throttle.
+
+6. Enter the cone while pointing generally AWAY from the Neutron Star.
+
+7. The turbulence will push the ship around.
+
+8. Stay inside until you hear / see:
+
+     FRAME SHIFT DRIVE SUPERCHARGED
+
+9. Fly out of the jet.
+
+10. Select the next Spansh system.
+
+11. Jump.
+
+
+===============================================================================
+ 14. DO NOT USE WHITE DWARFS FOR THIS
+===============================================================================
+
+White Dwarfs can also supercharge the FSD.
+
+But they only give:
+
+  NORMAL RANGE x 1.5
+
+
+Neutron Star:
+
+  NORMAL RANGE x 4
+
+
+White Dwarfs also have a much more dangerous relationship between their
+exclusion zone and jet cone.
+
+
+BEGINNER RULE:
+
+  USE NEUTRON STARS.
+
+  SKIP WHITE DWARFS.
+
+
+===============================================================================
+ 15. FSD DAMAGE
+===============================================================================
+
+Every Neutron Star supercharge damages your Frame Shift Drive slightly.
+
+This damage builds up over repeated boosts.
+
+
+IMPORTANT NUMBER:
+
+  BELOW 80% FSD HEALTH
+
+the Frame Shift Drive can begin malfunctioning.
+
+
+Recommended:
+
+  Repair around 85-90%.
+
+Do not wait until the drive starts failing.
+
+
+===============================================================================
+ 16. HOW TO REPAIR THE FSD
+===============================================================================
+
+Do NOT try to repair while inside a neutron jet.
+
+
+Safe procedure:
+
+  1. Leave the Neutron Star.
+
+  2. Get well clear.
+
+  3. Drop into normal space somewhere safe.
+
+  4. Open:
+       Right Panel -> Modules
+
+  5. Select:
+       Frame Shift Drive
+
+  6. Choose:
+       Repair
+
+  7. The FSD switches off.
+
+  8. Let the AFMU repair it.
+
+  9. Re-enable the FSD.
+
+ 10. Continue your journey.
+
+
+===============================================================================
+ 17. FUEL - THE BIG BEGINNER TRAP
+===============================================================================
+
+THIS IS IMPORTANT:
+
+  NEUTRON STARS DO NOT REFUEL YOUR SHIP.
+
+
+The Fuel Scoop is required to supercharge.
+
+But you still need ordinary scoopable stars for FUEL.
+
+
+Fuel stars:
+
+  O
+  B
+  A
+  F
+  G
+  K
+  M
+
+
+Remember:
+
+  KGB FOAM
+
+
+A common mistake is:
+
+  Neutron
+  -> Neutron
+  -> Neutron
+  -> Neutron
+  -> OUT OF FUEL
+
+
+Watch your fuel gauge.
+
+
+When fuel gets low:
+
+  1. Leave the Spansh neutron chain.
+
+  2. Jump to a nearby scoopable star.
+
+  3. Refill.
+
+  4. Return to the next neutron system on your Spansh route.
+
+
+===============================================================================
+ 18. WHY THE 7A FUEL SCOOP IS SO GOOD
+===============================================================================
+
+On a normal exploration ship, scoop speed is convenient.
+
+On a Neutron Highway ship, scoop speed directly affects travel time.
+
+You repeatedly:
+
+  - Leave the neutron chain
+  - Refuel
+  - Return to the route
+
+
+A very fast scoop means less time sitting beside stars.
+
+
+If you can afford it:
+
+  7A FUEL SCOOP
+
+
+If you cannot:
+
+  7B FUEL SCOOP
+
+is still completely usable.
+
+
+===============================================================================
+ 19. THE NEUTRON HIGHWAY IS NOT THE BEST WAY TO EXPLORE
+===============================================================================
+
+The Neutron Highway is designed for:
+
+  GETTING SOMEWHERE QUICKLY.
+
+
+It is NOT ideal if your goal is:
+
+  - Discovering lots of systems
+  - FSS scanning everything
+  - Mapping lots of planets
+  - Taking scenic detours
+
+
+Why?
+
+You skip enormous sections of space with each jump.
+
+
+Example:
+
+  Normal jump:
+    70 LY
+
+  Neutron jump:
+    280 LY
+
+
+If your goal is:
+
+  "I want to reach Colonia"
+
+use the Neutron Highway.
+
+
+If your goal is:
+
+  "I want to explore everything on the way"
+
+use a normal route and take your time.
+
+
+===============================================================================
+ 20. BEGINNER PRE-FLIGHT CHECKLIST
+===============================================================================
+
+Before leaving Sol for Colonia / Sag A*:
+
+
+SHIP
+----
+
+  [ ] Anaconda
+
+
+JUMP RANGE
+----------
+
+  [ ] Around 65-75+ LY recommended
+
+
+ESSENTIAL
+---------
+
+  [ ] 6A FSD
+
+  [ ] G5 Increased Range
+
+  [ ] Mass Manager
+
+  [ ] Fuel Scoop
+
+  [ ] AFMU
+
+
+STRONGLY RECOMMENDED
+--------------------
+
+  [ ] 5H Guardian FSD Booster
+
+  [ ] Second AFMU
+
+  [ ] Heat Sink Launcher
+
+  [ ] Lightweight Shield
+
+
+OPTIONAL EXPLORATION EQUIPMENT
+------------------------------
+
+  [ ] Detailed Surface Scanner
+
+  [ ] SRV
+
+  [ ] Repair Limpet Controller
+
+
+BEFORE DEPARTURE
+----------------
+
+  [ ] Full fuel tank
+
+  [ ] Enough credits for rebuy
+
+  [ ] AFMU has full repair ammunition
+
+  [ ] Spansh route prepared
+
+  [ ] Know how to neutron scoop BEFORE travelling 20,000 LY
+
+
+===============================================================================
+ 21. PRACTICE FIRST
+===============================================================================
+
+Do NOT make your first-ever neutron scoop halfway to Colonia.
+
+Practice near civilisation first.
+
+A well-known Neutron Star relatively close to the Bubble is:
+
+  JACKSON'S LIGHTHOUSE
+
+
+Practice:
+
+  Entering the outer jet
+
+  Getting supercharged
+
+  Leaving safely
+
+  Making the boosted jump
+
+  Checking FSD health
+
+
+Once you can do that comfortably:
+
+  Start your long route.
+
+
+===============================================================================
+ 22. SIMPLE SOL -> COLONIA ROUTINE
+===============================================================================
+
+1. Build ~70 LY Anaconda.
+
+2. Fit:
+     6A G5 Range FSD + Mass Manager
+     Fuel Scoop
+     AFMU
+     Guardian FSD Booster
+
+3. Open:
+     https://www.spansh.co.uk/
+
+4. Select:
+     Neutron Router
+
+5. Enter:
+
+     Source:
+       Sol
+
+     Destination:
+       Colonia
+
+     Range:
+       ~70 LY
+
+     Efficiency:
+       60%
+
+6. Generate route.
+
+7. Copy first system.
+
+8. Travel to it.
+
+9. Neutron supercharge.
+
+10. Copy next system.
+
+11. Jump.
+
+12. Repeat.
+
+13. Refuel whenever necessary.
+
+14. Check FSD health regularly.
+
+15. Repair around 85-90%.
+
+16. Continue until Colonia.
+
+
+===============================================================================
+ 23. MOST IMPORTANT RULES
+===============================================================================
+
+  NEUTRON BOOST:
+    x4 normal jump range.
+
+  70 LY ANACONDA:
+    About 280 LY per neutron jump.
+
+  SPANSH:
+    Recommended for neutron routing.
+
+  SPANSH EFFICIENCY:
+    Start around 60%.
+
+  FUEL SCOOP:
+    Required to supercharge.
+
+  AFMU:
+    Required for sustained neutron travel.
+
+  SECOND AFMU:
+    Strongly recommended.
+
+  FSD HEALTH:
+    Repair around 85-90%.
+
+  BELOW 80%:
+    FSD can malfunction.
+
+  NEUTRON STAR:
+    Use it.
+
+  WHITE DWARF:
+    Beginner should skip it.
+
+  FUEL:
+    Neutron Stars do NOT refuel you.
+
+  REFUEL:
+    O B A F G K M stars.
+
+  SOL -> COLONIA:
+    ~22,000 LY.
+
+  SOL -> SAGITTARIUS A*:
+    ~25,900 LY.
+
+  ANACONDA:
+    Excellent Legacy Neutron Highway ship.
+
+
+===============================================================================
+ 24. LEGACY NOTES
+===============================================================================
+
+The Spansh neutron routing use in this guide relies on physical star positions.
+
+Physical Stellar Forge galaxy structure is valid for Legacy.
+
+
+===============================================================================
+ END OF LEGACY 3.8 ANACONDA NEUTRON HIGHWAY GUIDE
+===============================================================================

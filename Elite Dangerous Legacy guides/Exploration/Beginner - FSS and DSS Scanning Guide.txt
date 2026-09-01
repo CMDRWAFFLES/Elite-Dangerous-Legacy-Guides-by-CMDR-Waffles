@@ -1,0 +1,926 @@
+===============================================================================
+ ELITE DANGEROUS: LEGACY 3.8 / CONSOLE
+ BEGINNER FSS + DSS EXPLORATION SCANNING GUIDE
+===============================================================================
+
+This guide is specifically for:
+
+  Elite Dangerous: Legacy / Console
+  Horizons 3.8
+
+
+The normal exploration scanning flow is:
+
+  HONK
+    ->
+  FSS
+    ->
+  CHECK SYSTEM MAP
+    ->
+  DSS VALUABLE BODIES
+    ->
+  INVESTIGATE SURFACE SITES IF WANTED
+
+
+===============================================================================
+ 1. THE THREE MAIN EXPLORATION SCANNERS
+===============================================================================
+
+DISCOVERY SCANNER
+-----------------
+
+Player nickname:
+
+  HONK
+
+Purpose:
+
+  Detects the system's astronomical signals.
+
+Use it:
+
+  Every time you enter a new system.
+
+
+FSS
+---
+
+Full Spectrum System Scanner.
+
+Purpose:
+
+  Identifies planets, moons and other system signals from a distance.
+
+
+DSS
+---
+
+Detailed Surface Scanner.
+
+Purpose:
+
+  Maps an individual planet, moon or ring using probes.
+
+
+Simple way to remember:
+
+  HONK:
+      "What signals are in this system?"
+
+  FSS:
+      "What are those signals?"
+
+  DSS:
+      "I want to fully map this body."
+
+
+===============================================================================
+ 2. STEP 1 - HONK THE SYSTEM
+===============================================================================
+
+When you enter a new system:
+
+  1. Stay in Supercruise.
+
+  2. Enter Analysis Mode.
+
+  3. Charge the Discovery Scanner.
+
+  4. Complete the honk.
+
+
+This gives you the system's basic signal information.
+
+
+BEGINNER RULE:
+
+  HONK EVERY SYSTEM.
+
+
+===============================================================================
+ 3. STEP 2 - OPEN THE FSS
+===============================================================================
+
+After the honk:
+
+  1. Stay in Supercruise.
+
+  2. Throttle down.
+
+  3. Open the Full Spectrum System Scanner.
+
+
+The FSS lets you identify bodies without flying to each one.
+
+
+===============================================================================
+ 4. HOW THE FSS WORKS
+===============================================================================
+
+At the bottom of the FSS screen is the:
+
+  FREQUENCY SPECTRUM
+
+
+Different body types appear in different parts of the spectrum.
+
+
+Basic method:
+
+  1. Move along the frequency bar.
+
+  2. Find a signal.
+
+  3. Move the targeting circle over it.
+
+  4. Zoom in.
+
+  5. Keep resolving the signal until the body is identified.
+
+
+Once resolved:
+
+  The body is FSS-scanned.
+
+
+===============================================================================
+ 5. FSS SIGNAL TYPES TO WATCH FOR
+===============================================================================
+
+For exploration credits, pay special attention to:
+
+  Earth-like Worlds
+
+  Water Worlds
+
+  Ammonia Worlds
+
+  High Metal Content Worlds
+
+  Metal-Rich Bodies
+
+
+Also watch for:
+
+  Notable Stellar Phenomena
+
+  Unusual signal groups
+
+  Multiple-star systems
+
+
+===============================================================================
+ 6. DO YOU HAVE TO FSS EVERYTHING?
+===============================================================================
+
+No.
+
+
+When learning:
+
+  Scanning the whole system is useful practice.
+
+
+Later:
+
+  You can become selective.
+
+
+Good reasons to FSS everything:
+
+  - Learning the scanner
+  - Hunting First Discoveries
+  - Completion
+  - Searching for unusual bodies
+  - Looking for biological / geological surface sites
+
+
+Good reasons to be selective:
+
+  - Fast travel
+  - Neutron Highway
+  - Credit efficiency
+
+
+===============================================================================
+ 7. STEP 3 - CHECK THE SYSTEM MAP
+===============================================================================
+
+After FSS-scanning interesting bodies:
+
+  Open the System Map.
+
+
+Check important planets for:
+
+  TERRAFORMABILITY
+
+
+Look for:
+
+  "This body is a candidate for terraforming."
+
+
+This matters especially for:
+
+  Water Worlds
+
+  High Metal Content Worlds
+
+  Rocky Bodies
+
+
+Terraformability can massively increase exploration value.
+
+
+===============================================================================
+ 8. WHICH BODIES SHOULD A BEGINNER DSS?
+===============================================================================
+
+For good exploration payouts, prioritize:
+
+  Earth-like Worlds
+
+  Terraformable Water Worlds
+
+  Terraformable High Metal Content Worlds
+
+  Ammonia Worlds
+
+  Terraformable Rocky Bodies
+
+  Normal Water Worlds
+
+
+Also worth considering:
+
+  Metal-Rich Bodies
+
+  Class II Gas Giants
+
+  Normal High Metal Content Worlds
+
+
+Usually not worth a long detour purely for credits:
+
+  Icy Bodies
+
+  Rocky-Ice Bodies
+
+  Ordinary Rocky Bodies
+
+  Most low-value Gas Giants
+
+
+===============================================================================
+ 9. WHAT DO YOU NEED FOR DSS?
+===============================================================================
+
+You need:
+
+  DETAILED SURFACE SCANNER
+
+
+It is an Optional Internal module.
+
+
+Normal price:
+
+  250,000 Cr
+
+
+Before leaving on an exploration trip:
+
+  1. Fit the DSS.
+
+  2. Assign it to a Fire Group.
+
+
+Use it in:
+
+  ANALYSIS MODE
+
+
+The DSS has effectively unlimited probes.
+
+You do NOT need to buy probe ammunition.
+
+
+===============================================================================
+ 10. STEP 4 - FLY TO THE PLANET
+===============================================================================
+
+To DSS-map a body:
+
+  1. Target it.
+
+  2. Fly toward it in Supercruise.
+
+  3. Throttle down as you approach.
+
+  4. When close enough, enter Analysis Mode.
+
+  5. Activate the DSS.
+
+
+===============================================================================
+ 11. HOW TO MAP THE BODY
+===============================================================================
+
+The DSS fires probes at the planet.
+
+
+Basic method:
+
+  1. Fire probes around the visible side.
+
+  2. Spread them out.
+
+  3. Avoid hitting the same area repeatedly.
+
+  4. Use far-side shots to reach behind the planet.
+
+  5. Reach 90% coverage.
+
+
+At:
+
+  90% COVERAGE
+
+
+the game automatically completes the map to:
+
+  100%
+
+
+You do NOT need to manually cover every tiny gap.
+
+
+===============================================================================
+ 12. THE EFFICIENCY TARGET
+===============================================================================
+
+The DSS screen displays:
+
+  EFFICIENCY TARGET
+
+
+Example:
+
+  Efficiency Target:
+      6 Probes
+
+
+If you map the body using no more than that number:
+
+  You receive the efficiency bonus.
+
+
+Legacy 3.8 bonus:
+
+  x1.25 mapped payout
+
+
+That is:
+
+  +25%
+
+
+===============================================================================
+ 13. WHAT IF YOU MISS THE EFFICIENCY TARGET?
+===============================================================================
+
+Finish the map anyway.
+
+
+You still receive:
+
+  - Normal DSS mapping payout
+  - First Mapped bonus if eligible
+  - Surface-site information if the body has sites
+
+
+You only lose:
+
+  The +25% efficiency bonus
+
+
+===============================================================================
+ 14. HOW FAR-SIDE PROBES WORK
+===============================================================================
+
+This is the most important DSS skill.
+
+
+If you aim:
+
+  AT THE CENTRE
+
+the probe hits the visible face.
+
+
+If you aim:
+
+  NEAR THE EDGE
+
+the probe lands near the horizon.
+
+
+If you aim:
+
+  BEYOND THE EDGE
+
+the planet's gravity bends the probe around the body.
+
+
+If you aim too far:
+
+  The DSS shows:
+
+      MISS
+
+
+For a far-side hit:
+
+  Aim beyond the visible edge
+  but
+  stop before MISS appears.
+
+
+===============================================================================
+ 15. SIMPLE BEGINNER PROBE METHOD
+===============================================================================
+
+Do not memorize complicated patterns at first.
+
+
+Try this:
+
+  1. Fire one or two probes at the visible face.
+
+  2. Fire around the edges:
+       Top
+       Bottom
+       Left
+       Right
+
+  3. Use far-side shots between the horizon and MISS.
+
+  4. Check the opposite-side view.
+
+  5. Fill the biggest uncovered gaps.
+
+
+Think:
+
+  EVEN COVERAGE
+
+not:
+
+  PERFECT PATTERN
+
+
+===============================================================================
+ 16. USE THE FAR-SIDE VIEW
+===============================================================================
+
+The DSS interface lets you switch between:
+
+  FRONT
+  and
+  BACK
+
+
+Use this to see:
+
+  - Which areas are already covered
+  - Where the biggest gaps are
+  - Whether your far-side shots worked
+
+
+This is especially useful on:
+
+  Large planets
+
+  Gas Giants
+
+
+===============================================================================
+ 17. YOU CAN FIRE PROBES QUICKLY
+===============================================================================
+
+You do not need to wait for one probe to land before firing the next.
+
+
+You can:
+
+  Aim
+  Fire
+  Aim
+  Fire
+  Aim
+  Fire
+
+
+Then watch the coverage update.
+
+
+Probe supply is effectively:
+
+  UNLIMITED
+
+
+===============================================================================
+ 18. FIRST MAPPED BY
+===============================================================================
+
+If nobody has previously mapped the body and successfully sold the data:
+
+  You may earn:
+
+    FIRST MAPPED BY:
+        YOUR COMMANDER NAME
+
+
+Important:
+
+  The tag is not permanently yours until the data is sold.
+
+
+You must:
+
+  1. Map the body.
+
+  2. Survive.
+
+  3. Sell the data.
+
+
+===============================================================================
+ 19. FIRST DISCOVERED VS FIRST MAPPED
+===============================================================================
+
+FIRST DISCOVERED
+----------------
+
+You were the first commander to discover the body and sell the data.
+
+
+FIRST MAPPED
+------------
+
+You were the first commander to DSS-map the body and sell the data.
+
+
+You can get:
+
+  First Discovered only
+
+  First Mapped only
+
+  or
+
+  BOTH
+
+
+===============================================================================
+ 20. LEGACY SURFACE POIs AFTER DSS MAPPING
+===============================================================================
+
+This is very important for console.
+
+
+Legacy uses the Horizons surface-site system.
+
+
+After DSS mapping a suitable landable body, exact surface targets can appear in
+the Navigation Panel.
+
+
+Examples:
+
+  Geological Site 1
+
+  Geological Site 2
+
+  Biological Site 1
+
+  Biological Site 2
+
+
+You can:
+
+  1. Select the numbered site.
+
+  2. Fly directly to it.
+
+  3. Land.
+
+  4. Deploy the SRV.
+
+
+===============================================================================
+ 21. WHAT CAN APPEAR AT LEGACY SURFACE SITES?
+===============================================================================
+
+GEOLOGICAL SITES
+----------------
+
+Examples:
+
+  Geysers
+
+  Fumaroles
+
+  Gas Vents
+
+  Lava Spouts
+
+
+BIOLOGICAL SITES
+----------------
+
+Examples:
+
+  Bark Mounds
+
+  Brain Trees
+
+  Crystalline Shards
+
+  Sinuous Tubers
+
+  Other Legacy biological structures
+
+
+Not every landable planet has these sites.
+
+
+===============================================================================
+ 22. CRYSTALLINE SHARD EXAMPLE
+===============================================================================
+
+Legacy material-farming flow:
+
+  FSS THE BODY
+
+      ->
+
+  DSS MAP THE BODY
+
+      ->
+
+  OPEN NAVIGATION PANEL
+
+      ->
+
+  SELECT:
+      BIOLOGICAL SITE X
+
+      ->
+
+  LAND
+
+      ->
+
+  DEPLOY SRV
+
+      ->
+
+  FARM MATERIALS
+
+
+===============================================================================
+ 23. MAPPING PLANETARY RINGS
+===============================================================================
+
+The DSS can also fire probes into planetary rings.
+
+
+This reveals:
+
+  MINING HOTSPOTS
+
+
+Examples:
+
+  Platinum
+
+  Painite
+
+  Low Temperature Diamonds
+
+
+This is mainly useful for mining.
+
+It does not make the planet's normal exploration scan value higher.
+
+
+===============================================================================
+ 24. NORMAL DSS ENGINEERING
+===============================================================================
+
+The normal Legacy DSS can be engineered with:
+
+  EXPANDED PROBE SCANNING RADIUS
+
+
+This increases the area covered by each probe.
+
+
+Benefits:
+
+  - Easier mapping
+  - Less probe overlap
+  - Easier efficiency bonus
+
+
+Felicity Farseer can engineer it to:
+
+  Grade 3
+
+
+Grade 3 gives:
+
+  +30% Probe Radius
+
+
+Higher Legacy engineers can take it to:
+
+  Grade 5
+
+
+Grade 5 gives:
+
+  +50% Probe Radius
+
+
+For beginners:
+
+  A normal unengineered DSS is completely usable.
+
+  Engineering is a useful upgrade, not a requirement.
+
+
+===============================================================================
+ 25. COMMON FSS MISTAKES
+===============================================================================
+
+MISTAKE:
+
+  Opening FSS while still flying quickly.
+
+FIX:
+
+  Throttle down first.
+
+
+MISTAKE:
+
+  Not honking first.
+
+FIX:
+
+  Honk the system before using FSS.
+
+
+MISTAKE:
+
+  Staying on the wrong part of the frequency bar.
+
+FIX:
+
+  Move along the spectrum until the signal becomes clear.
+
+
+MISTAKE:
+
+  Ignoring the System Map after scanning.
+
+FIX:
+
+  Check valuable worlds for terraformability.
+
+
+===============================================================================
+ 26. COMMON DSS MISTAKES
+===============================================================================
+
+MISTAKE:
+
+  DSS will not activate.
+
+CHECK:
+
+  [ ] Planet targeted
+
+  [ ] In Supercruise
+
+  [ ] Analysis Mode
+
+  [ ] Close enough
+
+  [ ] DSS assigned to Fire Group
+
+
+MISTAKE:
+
+  All probes hit the visible front side.
+
+FIX:
+
+  Aim beyond the horizon for far-side shots.
+
+
+MISTAKE:
+
+  Too much overlap.
+
+FIX:
+
+  Spread probes across new surface.
+
+
+MISTAKE:
+
+  Used too many probes.
+
+FIX:
+
+  Finish the map.
+  You only lose the efficiency bonus.
+
+
+MISTAKE:
+
+  Trying to manually reach 100%.
+
+FIX:
+
+  90% completes the map automatically.
+
+
+===============================================================================
+ 27. FULL BEGINNER SCANNING ROUTINE
+===============================================================================
+
+Every new system:
+
+
+  1. HONK
+
+  2. THROTTLE DOWN
+
+  3. OPEN FSS
+
+  4. IDENTIFY INTERESTING BODIES
+
+  5. OPEN SYSTEM MAP
+
+  6. CHECK FOR TERRAFORMABILITY
+
+  7. TARGET VALUABLE PLANETS
+
+  8. FLY TO THEM
+
+  9. OPEN DSS
+
+ 10. CHECK EFFICIENCY TARGET
+
+ 11. FIRE EVENLY SPACED PROBES
+
+ 12. USE FAR-SIDE SHOTS
+
+ 13. REACH 90%
+
+ 14. LET THE MAP COMPLETE TO 100%
+
+ 15. CHECK NAVIGATION PANEL FOR SURFACE SITES
+
+ 16. CONTINUE EXPLORING
+
+ 17. SURVIVE
+
+ 18. SELL THE DATA
+
+
+===============================================================================
+ 28. THE SIX THINGS TO REMEMBER
+===============================================================================
+
+1. HONK FINDS THE SYSTEM SIGNALS.
+
+2. FSS IDENTIFIES PLANETS AND MOONS.
+
+3. CHECK THE SYSTEM MAP FOR TERRAFORMABILITY.
+
+4. DSS MAPS INDIVIDUAL BODIES.
+
+5. 90% COVERAGE COMPLETES THE DSS MAP.
+
+6. LEGACY SURFACE SITES APPEAR AS NUMBERED NAVIGATION TARGETS.
+
+
+===============================================================================
+ END OF BEGINNER FSS + DSS GUIDE
+===============================================================================

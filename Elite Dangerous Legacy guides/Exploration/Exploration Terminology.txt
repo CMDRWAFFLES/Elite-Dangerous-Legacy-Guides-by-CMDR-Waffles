@@ -1,0 +1,1511 @@
+===============================================================================
+ ELITE DANGEROUS: LEGACY 3.8 / CONSOLE
+ EXPLORATION TERMINOLOGY GLOSSARY - ORGANIZED BY TOPIC
+===============================================================================
+
+This glossary is specifically for:
+
+  Elite Dangerous: Legacy / Console
+  Horizons 3.8
+
+It groups exploration terms by subject so beginners can quickly find what they
+need.
+
+
+===============================================================================
+ 1. STELLAR BODIES
+===============================================================================
+
+STAR
+----
+
+A stellar body.
+
+Explorers scan stars automatically / through normal system exploration and sell
+their data to Universal Cartographics.
+
+
+BH
+--
+
+Black Hole.
+
+
+BLACK HOLE
+----------
+
+A stellar remnant.
+
+Black Holes are classic exploration targets and are generally worth more than
+ordinary stars when scanned.
+
+
+NS
+--
+
+Neutron Star.
+
+
+NEUTRON STAR
+------------
+
+A compact stellar remnant with powerful jet cones.
+
+Useful for:
+
+  - Exploration
+  - Codex discoveries
+  - FSD supercharging
+
+
+A Neutron Star can boost your current FSD jump range to:
+
+  x4
+
+for one jump.
+
+
+WD
+--
+
+White Dwarf.
+
+
+WHITE DWARF
+-----------
+
+A compact stellar remnant with jet cones.
+
+A White Dwarf can boost your current FSD jump range to:
+
+  x1.5
+
+for one jump.
+
+They are generally more dangerous for beginners than Neutron Stars because of
+their exclusion-zone / jet-cone geometry.
+
+
+BROWN DWARF
+-----------
+
+Very low-mass stellar objects.
+
+Common classes:
+
+  L
+  T
+  Y
+
+They are NOT fuel-scoopable.
+
+
+SCOOPABLE STAR
+--------------
+
+A star from which a Fuel Scoop can collect hydrogen fuel.
+
+Main scoopable classes:
+
+  O
+  B
+  A
+  F
+  G
+  K
+  M
+
+
+KGB FOAM
+--------
+
+Player mnemonic for the scoopable main star classes:
+
+  K
+  G
+  B
+  F
+  O
+  A
+  M
+
+The order is only for remembering them.
+
+The scoopable classes are:
+
+  O B A F G K M
+
+
+SAG A*
+------
+
+Short for:
+
+  Sagittarius A*
+
+The Supermassive Black Hole at the centre of the Milky Way.
+
+
+SAGITTARIUS A*
+--------------
+
+See:
+
+  Sag A*
+
+
+GALACTIC CORE
+-------------
+
+The dense central part of the galaxy.
+
+Sagittarius A* is located there.
+
+
+THE CORE
+--------
+
+Player nickname for:
+
+  The Galactic Core
+
+
+===============================================================================
+ 2. PLANETS, MOONS & PLANETOID TYPES
+===============================================================================
+
+ELW
+---
+
+Earth-like World.
+
+
+EARTH-LIKE WORLD
+----------------
+
+One of the most valuable normal exploration planet types.
+
+Usually worth:
+
+  FSS scanning
+  DSS mapping
+
+
+WW
+--
+
+Water World.
+
+
+WATER WORLD
+-----------
+
+A valuable planet type.
+
+Always check whether it is also:
+
+  Terraformable
+
+
+TWW
+---
+
+Terraformable Water World.
+
+A Water World marked as:
+
+  "a candidate for terraforming"
+
+Very valuable for exploration.
+
+
+AW
+--
+
+Ammonia World.
+
+
+AMMONIA WORLD
+-------------
+
+A rare and valuable planet type.
+
+Usually worth:
+
+  FSS scanning
+  DSS mapping
+
+
+HMC
+---
+
+High Metal Content World.
+
+
+HIGH METAL CONTENT WORLD
+------------------------
+
+A common rocky planet type.
+
+Normal HMCs are moderately valuable.
+
+Terraformable HMCs are much more valuable.
+
+
+THMC
+----
+
+Terraformable High Metal Content World.
+
+One of the more valuable exploration planet types.
+
+
+MRB
+---
+
+Metal-Rich Body.
+
+
+METAL-RICH BODY
+---------------
+
+A rocky planet class that generally pays more than a normal HMC.
+
+
+ROCKY BODY
+----------
+
+A common low-value planet type.
+
+Normally worth little for exploration credits.
+
+If terraformable, however, its value can increase dramatically.
+
+
+ICY BODY
+--------
+
+A common low-value planet / moon type.
+
+Usually not worth a long DSS detour purely for credits.
+
+
+ROCKY-ICE BODY
+--------------
+
+A mixed rocky / icy planet or moon type.
+
+Usually low-value for exploration credits.
+
+
+GG
+--
+
+Gas Giant.
+
+
+GAS GIANT
+---------
+
+Large gaseous planet.
+
+Common categories include:
+
+  Class I
+  Class II
+  Class III
+  Class IV
+  Class V
+
+Class II is generally the most valuable normal Gas Giant type for exploration.
+
+
+TERRAFORMABLE / TF
+------------------
+
+A planet whose System Map description says it is:
+
+  "a candidate for terraforming"
+
+Terraformability can greatly increase exploration value.
+
+
+TF
+--
+
+Short for:
+
+  Terraformable
+
+
+HIGH-G WORLD
+------------
+
+A landable planet with unusually high surface gravity.
+
+Interesting to visit, but potentially dangerous to land on.
+
+
+RINGED WORLD
+------------
+
+A planet, moon or other body surrounded by planetary rings.
+
+Rings may be:
+
+  Icy
+  Rocky
+  Metallic
+  Metal Rich
+
+
+===============================================================================
+ 3. SCANNING & MAPPING
+===============================================================================
+
+HONK
+----
+
+Player nickname for using the Discovery Scanner.
+
+The scanner makes a distinctive sound when charged.
+
+Basic beginner rule:
+
+  Honk every new system.
+
+
+DISCOVERY SCANNER
+-----------------
+
+Built-in scanner used to perform the system:
+
+  Honk
+
+It detects the system's astronomical signals.
+
+
+FSS
+---
+
+Full Spectrum System Scanner.
+
+Built-in scanner used to identify:
+
+  - Planets
+  - Moons
+  - Other system signals
+
+Basic exploration flow:
+
+  Honk
+      ->
+  FSS
+      ->
+  DSS valuable bodies
+
+
+FULL SPECTRUM SYSTEM SCANNER
+----------------------------
+
+See:
+
+  FSS
+
+
+DSS
+---
+
+Detailed Surface Scanner.
+
+Optional internal module used to fire probes at:
+
+  - Planets
+  - Moons
+  - Rings
+
+Used to:
+
+  - Map planets
+  - Increase exploration payout
+  - Earn First Mapped tags
+  - Reveal Legacy Geological Sites
+  - Reveal Legacy Biological Sites
+  - Reveal ring resource hotspots
+
+
+DETAILED SURFACE SCANNER
+------------------------
+
+See:
+
+  DSS
+
+
+DSS EFFICIENCY BONUS
+--------------------
+
+Extra mapping payout earned when a body is mapped using no more probes than the
+displayed:
+
+  Efficiency Target
+
+
+PROBE EFFICIENCY
+----------------
+
+See:
+
+  DSS Efficiency Bonus
+
+
+PRE-ENGINEERED DSS
+------------------
+
+Special Technology Broker Detailed Surface Scanner with improved probe coverage.
+
+Valid Legacy equipment.
+
+
+COMPOSITION SCANNER
+-------------------
+
+Short for:
+
+  Short Range Composition Scanner
+
+Built into ships and SRVs.
+
+Used in Analysis Mode to scan:
+
+  - Biological structures
+  - Geological structures
+  - Objects inside Notable Stellar Phenomena
+
+
+SHORT RANGE COMPOSITION SCANNER
+-------------------------------
+
+See:
+
+  Composition Scanner
+
+
+===============================================================================
+ 4. EXPLORATION MODULES
+===============================================================================
+
+FSD
+---
+
+Frame Shift Drive.
+
+Used for:
+
+  - Hyperspace jumps between star systems
+  - Supercruise inside a system
+
+
+FUEL SCOOP
+----------
+
+Module used to refuel directly from scoopable stars.
+
+Essential for serious exploration.
+
+
+AFMU
+----
+
+Auto Field-Maintenance Unit.
+
+Repairs damaged internal modules while away from stations.
+
+Useful for:
+
+  - FSD repairs
+  - Neutron Highway travel
+  - Long expeditions
+
+AFMUs cannot normally repair:
+
+  - Hull
+  - Power Plant
+  - Themselves
+
+Two AFMUs can repair each other.
+
+
+GUARDIAN FSD BOOSTER
+--------------------
+
+Guardian optional internal module that adds a fixed amount of jump range.
+
+Largest version:
+
+  5H
+
+Adds:
+
+  +10.5 LY
+
+Very popular on exploration ships.
+
+
+HEAT SINK
+---------
+
+Heat Sink Launcher.
+
+Utility module used to rapidly reduce ship heat.
+
+Useful for:
+
+  - Accidental overheating
+  - Bad star approaches
+  - Emergency heat management
+
+
+REPAIR LIMPET CONTROLLER
+------------------------
+
+Optional module used to repair ship hull damage.
+
+Requires:
+
+  Cargo Rack
+  Limpets
+
+
+PLANETARY VEHICLE HANGAR
+------------------------
+
+Optional internal module used to carry an SRV.
+
+
+SRV
+---
+
+Surface Recon Vehicle.
+
+In Legacy the standard exploration SRV is the:
+
+  Scarab
+
+Used for:
+
+  - Surface driving
+  - Material collection
+  - Guardian sites
+  - Geological Sites
+  - Biological Sites
+
+
+SUPERCRUISE ASSIST
+------------------
+
+Optional convenience module that can automate parts of Supercruise travel.
+
+
+SC ASSIST
+---------
+
+Short for:
+
+  Supercruise Assist
+
+
+DOCKING COMPUTER
+----------------
+
+Optional module used to automate docking.
+
+Not required for exploration.
+
+
+===============================================================================
+ 5. EXPLORATION SHIPS & SHIP NICKNAMES
+===============================================================================
+
+DBX
+---
+
+Diamondback Explorer.
+
+Popular cheap exploration ship.
+
+Known for:
+
+  - Excellent jump range
+  - Low cost
+  - Small landing footprint
+  - Class 4 maximum Fuel Scoop
+
+
+ASPX
+----
+
+Asp Explorer.
+
+One of the classic exploration ships.
+
+Known for:
+
+  - Good jump range
+  - Excellent cockpit view
+  - Class 6 Fuel Scoop
+  - Medium pad size
+
+
+KRAIT PHANTOM
+-------------
+
+Popular medium long-range exploration ship.
+
+Known for:
+
+  - Strong jump range
+  - Good internal space
+  - Class 6 Fuel Scoop
+  - Medium pad size
+
+
+DOLPHIN
+-------
+
+Small exploration-capable ship famous for running very cool.
+
+Useful for:
+
+  - Budget exploration
+  - Comfortable fuel scooping
+  - Small landing footprint
+
+
+ANACONDA
+--------
+
+Large ship with extremely high potential jump range.
+
+Often used for:
+
+  - Long expeditions
+  - Neutron Highway travel
+  - Maximum-range builds
+
+
+JUMPCONDA
+---------
+
+Player nickname for an Anaconda built primarily for:
+
+  Maximum or very high jump range
+
+Usually includes:
+
+  - Lightweight modules
+  - Engineered 6A FSD
+  - Guardian FSD Booster
+  - Large Fuel Scoop
+
+
+JUMP RANGE BUILD
+----------------
+
+Ship build designed mainly to reduce mass and maximize hyperspace jump range.
+
+
+===============================================================================
+ 6. ROUTING, DISTANCE & TRAVEL
+===============================================================================
+
+LY
+--
+
+Light-Year.
+
+Standard unit for:
+
+  - Distance between star systems
+  - Ship jump range
+
+
+JUMP RANGE
+----------
+
+Maximum hyperspace distance your ship can currently travel in one jump.
+
+Affected by:
+
+  - Ship mass
+  - Fuel
+  - Cargo
+  - FSD
+  - Engineering
+  - Guardian FSD Booster
+
+
+SC
+--
+
+Supercruise.
+
+
+SUPERCRUISE
+-----------
+
+Faster-than-light travel inside a star system.
+
+Used to travel between:
+
+  - Stars
+  - Planets
+  - Moons
+  - Stations
+  - Signal sources
+
+
+FASTEST ROUTE
+-------------
+
+Galaxy Map route mode that uses longer jumps.
+
+Best for:
+
+  Travelling somewhere quickly.
+
+
+ECONOMICAL ROUTE
+----------------
+
+Galaxy Map route mode that uses many shorter jumps.
+
+Best for:
+
+  - Visiting many systems
+  - Searching for undiscovered systems
+  - Detailed regional exploration
+
+
+NEUTRON HIGHWAY
+---------------
+
+Player term for a long-distance route that chains Neutron Stars together.
+
+Each Neutron Star can give:
+
+  x4 current jump range
+
+for one jump.
+
+
+NEUTRON ROUTE
+-------------
+
+A route deliberately planned through multiple Neutron Stars.
+
+
+NEUTRON SCOOPING
+----------------
+
+Player term for flying through a Neutron Star jet cone to supercharge the FSD.
+
+Requires:
+
+  Fuel Scoop
+
+Repeated use damages the FSD.
+
+
+JET-CONE BOOST
+--------------
+
+Galaxy Map routing option that allows routes to use:
+
+  Neutron Stars
+  White Dwarfs
+
+
+SUPERCHARGE
+-----------
+
+Usually means temporarily increasing FSD jump range using:
+
+  Neutron Star jet
+  or
+  White Dwarf jet
+
+
+FSD BOOST
+---------
+
+Can refer to:
+
+  FSD Injection / Jumponium
+
+or:
+
+  Neutron / White Dwarf supercharging
+
+Check the context.
+
+
+JUMONIUM / JUMPONIUM
+--------------------
+
+Community nickname for:
+
+  FSD Injection
+
+A synthesized one-jump range boost.
+
+Correct common spelling:
+
+  Jumponium
+
+
+FSD INJECTION
+-------------
+
+Synthesized one-jump FSD range boost.
+
+Legacy levels:
+
+  Basic:
+      +25%
+
+  Standard:
+      +50%
+
+  Premium:
+      +100%
+
+
+GALACTIC PLANE
+--------------
+
+The broad flat disc of the galaxy.
+
+Explorers often travel above or below it to escape heavily travelled routes.
+
+
+GALACTIC RIM
+------------
+
+Sparse outer edge of the galaxy.
+
+High jump range and Jumponium become increasingly useful there.
+
+
+THE RIM
+-------
+
+Player nickname for:
+
+  Galactic Rim
+
+
+BEAGLE POINT
+------------
+
+Famous remote exploration destination near the far side of the galaxy.
+
+
+COLONIA
+-------
+
+Major inhabited region roughly 22,000 LY from Sol.
+
+One of the classic long-distance destinations.
+
+
+JACKSON'S LIGHTHOUSE
+--------------------
+
+Well-known Neutron Star relatively close to the Bubble.
+
+Often used for practicing neutron supercharging.
+
+
+===============================================================================
+ 7. ENGINEERING, MATERIALS & SYNTHESIS
+===============================================================================
+
+MATS
+----
+
+Short for:
+
+  Materials
+
+
+RAW MATS
+--------
+
+Raw Materials.
+
+Examples:
+
+  Carbon
+  Vanadium
+  Germanium
+  Arsenic
+  Niobium
+  Yttrium
+  Polonium
+
+
+ENGINEERED FSD
+--------------
+
+Frame Shift Drive modified by an Engineer.
+
+For explorers, the most important blueprint is usually:
+
+  Increased Range
+
+
+MASS MANAGER
+------------
+
+Frame Shift Drive experimental effect.
+
+Commonly used on larger exploration FSDs to increase jump range.
+
+
+PRE-ENGINEERED FSD / FSD V1
+----------------------------
+
+Special Technology Broker Frame Shift Drive with engineering already applied.
+
+The famous exploration version is:
+
+  5A FSD V1
+
+Useful on ships such as:
+
+  - Diamondback Explorer
+  - Asp Explorer
+  - Krait Phantom
+
+Valid Legacy equipment.
+
+
+JUMPONIUM
+---------
+
+See:
+
+  FSD Injection
+
+
+BASIC FSD INJECTION
+-------------------
+
+One-jump boost:
+
+  +25%
+
+Legacy materials:
+
+  1 Carbon
+  1 Vanadium
+  1 Germanium
+
+
+STANDARD FSD INJECTION
+----------------------
+
+One-jump boost:
+
+  +50%
+
+Legacy materials:
+
+  1 Carbon
+  1 Vanadium
+  1 Germanium
+  1 Cadmium
+  1 Niobium
+
+
+PREMIUM FSD INJECTION
+---------------------
+
+One-jump boost:
+
+  +100%
+
+Legacy materials:
+
+  1 Carbon
+  1 Germanium
+  1 Arsenic
+  1 Niobium
+  1 Yttrium
+  1 Polonium
+
+
+===============================================================================
+ 8. SURFACE EXPLORATION & POIs
+===============================================================================
+
+POI
+---
+
+Point of Interest.
+
+General term for a location worth visiting.
+
+
+GEO SITE
+--------
+
+Short for:
+
+  Geological Site
+
+In Legacy, DSS mapping suitable bodies can reveal numbered targets such as:
+
+  Geological Site 1
+  Geological Site 2
+
+
+These can contain:
+
+  - Geysers
+  - Fumaroles
+  - Gas Vents
+  - Lava Spouts
+  - Material-bearing crystals
+
+
+BIO SITE
+--------
+
+Short for:
+
+  Biological Site
+
+In Legacy, DSS mapping suitable bodies can reveal numbered targets such as:
+
+  Biological Site 1
+  Biological Site 2
+
+
+These can contain:
+
+  - Crystalline Shards
+  - Brain Trees
+  - Bark Mounds
+  - Sinuous Tubers
+  - Other Legacy biological structures
+
+
+CRYSTALLINE SHARDS
+------------------
+
+Legacy biological structures used for high-grade raw-material farming.
+
+Classic systems include:
+
+  HIP 36601
+  Outotz LS-K d8-3
+
+
+BRAIN TREES
+-----------
+
+Legacy surface biological structures commonly associated with regions of
+Guardian activity.
+
+
+BARK MOUNDS
+-----------
+
+Legacy fungal-like surface biological structures.
+
+
+SINUOUS TUBERS
+--------------
+
+Legacy colourful tubular biological structures found on suitable airless
+volcanic worlds.
+
+
+NSP
+---
+
+Notable Stellar Phenomena.
+
+
+NOTABLE STELLAR PHENOMENA
+-------------------------
+
+Persistent FSS signal sources containing unusual deep-space objects.
+
+Can contain:
+
+  - Lagrange Clouds
+  - Crystals
+  - Molluscs
+  - Pods
+  - Tree-like organisms
+  - Anomalies
+
+
+LAGRANGE CLOUD
+--------------
+
+A cloud-like space phenomenon found inside some Notable Stellar Phenomena.
+
+May contain other scannable objects.
+
+
+RING HOTSPOT
+------------
+
+Mining-resource area revealed by firing a DSS probe into a planetary ring.
+
+Examples:
+
+  - Platinum
+  - Painite
+  - Low Temperature Diamonds
+
+Hotspots are mining information, not an exploration payout multiplier.
+
+
+===============================================================================
+ 9. DISCOVERY TAGS, CODEX & DATA
+===============================================================================
+
+UC
+--
+
+Universal Cartographics.
+
+
+UNIVERSAL CARTOGRAPHICS
+-----------------------
+
+Service used to sell exploration data.
+
+
+EXPLORATION DATA
+----------------
+
+Data collected by scanning stars, planets and moons.
+
+Unsold exploration data is lost if your ship is destroyed.
+
+
+FD
+--
+
+First Discovery / First Discovered.
+
+
+FIRST DISCOVERED / FIRST DISCOVERY
+----------------------------------
+
+Permanent commander tag given if you are the first commander to discover a
+body and successfully sell the data.
+
+
+FM
+--
+
+First Mapped.
+
+
+FIRST MAPPED
+------------
+
+Permanent commander tag given if you are the first commander to DSS-map a body
+and successfully sell the data.
+
+
+TAG
+---
+
+Player term for a commander name attached to a body.
+
+Examples:
+
+  First Discovered By
+  First Mapped By
+
+
+TAGGING
+-------
+
+Trying to obtain First Discovery and First Mapped commander tags.
+
+
+UNTAGGED
+--------
+
+Player term for a body or system with no visible First Discovered / First
+Mapped commander tag.
+
+
+VIRGIN SYSTEM
+-------------
+
+Player nickname for a system that appears never to have been previously
+discovered and sold.
+
+
+CODEX
+-----
+
+In-game exploration record system.
+
+The galaxy is divided into:
+
+  42 Codex regions
+
+
+The Codex tracks categories such as:
+
+  - Stellar bodies
+  - Biological entities
+  - Geological entities
+  - Other exploration discoveries
+
+
+CODEX - RUMOURED
+----------------
+
+The game suggests that a discovery type may exist in that galactic region.
+
+
+CODEX - REPORTED
+----------------
+
+Another Legacy commander has reported that type of discovery in that region.
+
+
+CODEX - CONFIRMED / DISCOVERED BY YOU
+-------------------------------------
+
+You personally found and scanned that type of discovery in the region.
+
+
+===============================================================================
+ 10. FLEET CARRIERS & RESCUE
+===============================================================================
+
+FC
+--
+
+Fleet Carrier.
+
+
+FLEET CARRIER
+-------------
+
+Player-owned mobile megaship.
+
+Can provide useful deep-space services.
+
+Legacy Fleet Carrier positions and markets are separate server-dependent data.
+
+Use Legacy / Console filters on third-party tools where available.
+
+
+FLEET CARRIER UNIVERSAL CARTOGRAPHICS
+-------------------------------------
+
+Allows exploration data to be sold aboard a Fleet Carrier.
+
+Commander payout:
+
+  75%
+
+Normal station payout:
+
+  100%
+
+Carrier penalty:
+
+  -25%
+
+
+DSSA
+----
+
+Deep Space Support Array.
+
+Community project involving Fleet Carriers positioned in remote areas.
+
+IMPORTANT:
+
+Current carrier positions are server-dependent.
+
+Do not assume current PC DSSA positions are identical in Legacy.
+
+
+FUEL RAT
+--------
+
+Member of:
+
+  The Fuel Rats
+
+A player rescue organisation specializing in commanders stranded without fuel.
+
+
+===============================================================================
+ 11. COMMON EXPLORER NICKNAMES & SLANG
+===============================================================================
+
+BUBBLE
+------
+
+Player nickname for the main human-inhabited region around Sol and nearby
+populated systems.
+
+
+THE BLACK
+---------
+
+Common explorer nickname for:
+
+  Deep space
+
+
+DEEP BLACK
+----------
+
+Informal term for very remote deep space.
+
+
+HEADING INTO THE BLACK
+----------------------
+
+Means:
+
+  Leaving inhabited space to explore.
+
+
+BUCKYBALLING
+------------
+
+Player term for travelling as fast as possible.
+
+Usually involves:
+
+  - Minimal stopping
+  - High jump range
+  - Fast routing
+  - Sometimes Neutron Highway use
+
+
+SPACE MADNESS
+-------------
+
+Joking term for boredom or strange behaviour caused by very long repetitive
+exploration trips.
+
+
+FLYING PAPER
+------------
+
+Informal description of an extremely lightweight exploration ship with very
+little protection.
+
+Usually sacrifices:
+
+  - Shields
+  - Hull strength
+  - Thruster performance
+  - Other safety margins
+
+for:
+
+  Maximum jump range
+
+
+JUMPING ON THE HIGHWAY
+----------------------
+
+Usually means:
+
+  Starting a Neutron Highway route.
+
+
+GOING TO SAG A*
+---------------
+
+Travelling to:
+
+  Sagittarius A*
+
+
+===============================================================================
+ 12. QUICK ABBREVIATION TABLE
+===============================================================================
+
++----------+----------------------------------------------------------+
+| Term     | Meaning                                                  |
++----------+----------------------------------------------------------+
+| AFMU     | Auto Field-Maintenance Unit                              |
+| ASPX     | Asp Explorer                                             |
+| AW       | Ammonia World                                            |
+| BH       | Black Hole                                               |
+| DBX      | Diamondback Explorer                                     |
+| DSS      | Detailed Surface Scanner                                 |
+| ELW      | Earth-like World                                         |
+| FC       | Fleet Carrier                                            |
+| FD       | First Discovery / First Discovered                       |
+| FM       | First Mapped                                             |
+| FSD      | Frame Shift Drive                                        |
+| FSS      | Full Spectrum System Scanner                             |
+| GG       | Gas Giant                                                |
+| HMC      | High Metal Content World                                 |
+| LY       | Light-Year                                               |
+| MATS     | Materials                                                |
+| MRB      | Metal-Rich Body                                          |
+| NS       | Neutron Star                                             |
+| NSP      | Notable Stellar Phenomena                                |
+| POI      | Point of Interest                                        |
+| SC       | Supercruise                                              |
+| SRV      | Surface Recon Vehicle                                    |
+| TF       | Terraformable                                            |
+| THMC     | Terraformable High Metal Content World                   |
+| TWW      | Terraformable Water World                                |
+| UC       | Universal Cartographics                                  |
+| WD       | White Dwarf                                              |
+| WW       | Water World                                              |
++----------+----------------------------------------------------------+
+
+
+===============================================================================
+ 13. QUICK NICKNAME TABLE
+===============================================================================
+
++----------------------+------------------------------------------------------+
+| Nickname             | Meaning                                              |
++----------------------+------------------------------------------------------+
+| Bubble               | Main human-inhabited region                          |
+| Buckyballing         | Travelling as fast as possible                       |
+| Deep Black           | Remote deep space                                    |
+| Honk                 | Use the Discovery Scanner                            |
+| Jumpconda            | Long-range Anaconda build                            |
+| Jumponium            | Synthesized FSD Injection                            |
+| KGB FOAM             | Scoopable-star mnemonic                              |
+| Neutron Highway      | Chain of Neutron Stars used for fast travel          |
+| Sag A*               | Sagittarius A*                                       |
+| Tag                  | First Discovered / First Mapped commander name        |
+| The Black            | Deep space                                           |
+| The Core             | Galactic Core                                        |
+| The Rim              | Galactic Rim                                         |
+| Virgin System        | Apparently previously undiscovered system            |
++----------------------+------------------------------------------------------+
+
+
+===============================================================================
+ END OF EXPLORATION TERMINOLOGY GLOSSARY
+===============================================================================

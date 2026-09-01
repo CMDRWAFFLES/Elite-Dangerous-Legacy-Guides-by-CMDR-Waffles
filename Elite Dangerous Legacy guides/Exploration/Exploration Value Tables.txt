@@ -1,0 +1,92 @@
+ELITE DANGEROUS: LEGACY 3.8 / CONSOLE
+BEGINNER EXPLORATION VALUE CHEAT SHEET
+
+===============================================================================
+IMPORTANT NOTES
+===============================================================================
+NORMAL UNIVERSAL CARTOGRAPHICS = 100% PAYOUT FLEET CARRIER CARTOGRAPHICS = 75% PAYOUT FLEET CARRIER PENALTY = -25%
+Selling exploration data to Universal Cartographics on a Fleet Carrier has one major disadvantage:
+You lose 25% of the normal exploration payout.
+A Fleet Carrier's Universal Cartographics service deducts a fixed 25% service fee from the value of the data.
+
+Example:
+Normal station payout:     1,000,000 Cr
+Fleet Carrier payout:        750,000 Cr
+Credits lost:                250,000 Cr
+
+Or
+
+Example:
+Exploration data worth:   500,000,000 Cr
+Sold at normal station:    500,000,000 Cr
+Sold on Fleet Carrier:     375,000,000 Cr
+Credits lost:              125,000,000 Cr
+
+All values are approximate Legacy 3.8 payouts.
+k = thousand credits
+m = million credits
+
+===============================================================================
+STARS
+===============================================================================
+
++----------------------+----------------------+----------------------+------------------------------+
+| Star Type            | Normal Scan         | First Discovery      | Notes                        |
++----------------------+----------------------+----------------------+------------------------------+
+| Normal Star          | ~1.2k-3k+           | ~3.1k-8k+            | Value rises with star mass   |
+| White Dwarf          | ~14k                | ~37k                 | Higher than normal stars     |
+| Neutron Star         | ~23k                | ~60k                 | Very good stellar scan       |
+| Black Hole           | ~24k-40k+           | ~61k-103k+           | Value rises with mass        |
+| Sagittarius A*       | ~261.8k             | Not available        | Already discovered           |
++----------------------+----------------------+----------------------+------------------------------+
+
+Notes:
+- Stars cannot be DSS-mapped.
+- "First Discovery" only applies if nobody has previously discovered and sold
+  that star.
+- Normal stars include O, B, A, F, G, K, M, L, T, Y and most other ordinary
+  stellar classes.
+
+
+===============================================================================
+PLANETS / MOONS
+===============================================================================
+
++--------------------------------+-------------+-------------+-------------+-------------+
+| Planet / Moon Type             | FSS Scan    | DSS Mapped  | First Map   | FD + FM     |
++--------------------------------+-------------+-------------+-------------+-------------+
+| Earth-like World               | ~270k       | ~1.126m     | ~2.735m     | ~3.250m     |
+| Terraformable Water World      | ~269k       | ~1.119m     | ~2.718m     | ~3.230m     |
+| Terraformable HMC World        | ~164k       | ~683k       | ~1.659m     | ~1.971m     |
+| Ammonia World                  | ~143k       | ~598k       | ~1.452m     | ~1.725m     |
+| Terraformable Rocky Body       | ~130k       | ~540k       | ~1.311m     | ~1.557m     |
+| Water World                    | ~100k       | ~416k       | ~1.009m     | ~1.199m     |
+| Metal-Rich Body                | ~31.6k      | ~131.8k     | ~320k       | ~380k       |
+| Class II Gas Giant             | ~28.4k      | ~118.4k     | ~287k       | ~342k       |
+| HMC World                      | ~14.1k      | ~58.6k      | ~142k       | ~169k       |
+| Class I Gas Giant              | ~3.85k      | ~16.0k      | ~38.9k      | ~46.2k      |
+| Class IV Gas Giant             | ~1.12k      | ~4.66k      | ~11.3k      | ~13.5k      |
+| Class III Gas Giant            | ~995        | ~4.15k      | ~10.1k      | ~12.0k      |
+| Class V Gas Giant              | ~966        | ~4.02k      | ~9.77k      | ~11.6k      |
+| Helium-Rich Gas Giant          | ~900        | ~3.75k      | ~9.11k      | ~10.8k      |
+| GG with Water-Based Life       | ~883        | ~3.68k      | ~8.94k      | ~10.6k      |
+| GG with Ammonia-Based Life     | ~774        | ~3.23k      | ~7.84k      | ~9.31k      |
+| Water Giant                    | ~667        | ~2.78k      | ~6.75k      | ~8.02k      |
+| Rocky-Ice Body                 | ~500        | ~1.75k      | ~4.26k      | ~5.06k      |
+| Icy Body                       | ~500        | ~1.57k      | ~3.81k      | ~4.53k      |
+| Rocky Body                     | ~500        | ~1.48k      | ~3.59k      | ~4.26k      |
+| Asteroid Belt / Cluster        | 0           | 0           | 0           | 0           |
++--------------------------------+-------------+-------------+-------------+-------------+
+
+Column meanings:
+- FSS Scan   = normal full scan value
+- DSS Mapped = efficiently mapped, already discovered and already mapped before
+- First Map  = you are the first commander to map it
+- FD + FM    = you are first to discover AND first to map it
+
+Important:
+- "Terraformable" means the System Map says the body is a candidate for
+  terraforming.
+- DSS values assume you hit the probe-efficiency target.
+- Exact payouts vary slightly with body mass.
+- Current Live market / Fleet Carrier data is not reliable for Legacy console.

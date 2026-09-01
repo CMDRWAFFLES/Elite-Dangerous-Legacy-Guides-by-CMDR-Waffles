@@ -1,0 +1,885 @@
+===============================================================================
+ ELITE DANGEROUS: LEGACY 3.8 / CONSOLE
+ THINGS TO DISCOVER WHILE EXPLORING
+===============================================================================
+
+Exploration is not only about credits.
+
+Legacy contains a huge number of unusual stellar, planetary, geological and
+biological discoveries.
+
+This guide gives beginners a list of things worth watching for.
+
+
+===============================================================================
+ 1. HIGH-VALUE PLANETS
+===============================================================================
+
+The classic valuable discoveries are:
+
+  EARTH-LIKE WORLD
+
+  WATER WORLD
+
+  AMMONIA WORLD
+
+  TERRAFORMABLE HIGH METAL CONTENT WORLD
+
+  TERRAFORMABLE ROCKY BODY
+
+
+These are worth checking and usually worth DSS mapping.
+
+
+===============================================================================
+ 2. TERRAFORMABLE WORLDS
+===============================================================================
+
+Terraformability can massively increase exploration value.
+
+
+After FSS scanning:
+
+  Open the System Map.
+
+Look for:
+
+  "This body is a candidate for terraforming."
+
+
+Check especially:
+
+  - Water Worlds
+  - High Metal Content Worlds
+  - Rocky Bodies
+
+
+A seemingly ordinary body can become a very valuable discovery if it is a
+terraforming candidate.
+
+
+===============================================================================
+ 3. RARE OR INTERESTING PLANET CLASSES
+===============================================================================
+
+Other interesting finds include:
+
+  Metal-Rich Bodies
+
+  Gas Giants with Water-Based Life
+
+  Gas Giants with Ammonia-Based Life
+
+  Water Giants
+
+  Helium-Rich Gas Giants
+
+  Helium Gas Giants
+
+  Ringed worlds
+
+  Extremely hot worlds
+
+  Extremely cold worlds
+
+  Very high-gravity landable worlds
+
+
+Not all of these pay well.
+
+They are interesting because they are uncommon or visually unusual.
+
+
+===============================================================================
+ 4. INTERESTING STARS
+===============================================================================
+
+Keep an eye out for:
+
+  O-class stars
+
+  Giant stars
+
+  Supergiants
+
+  Carbon stars
+
+  Wolf-Rayet stars
+
+  White Dwarfs
+
+  Neutron Stars
+
+  Black Holes
+
+
+Some are rare.
+
+Some are visually spectacular.
+
+Some are useful for travel.
+
+
+===============================================================================
+ 5. BLACK HOLES
+===============================================================================
+
+Black Holes are among the classic deep-space discoveries.
+
+Interesting targets include:
+
+  - Stellar-mass Black Holes
+  - Multiple-Black-Hole systems
+  - Black Holes with nearby stars
+  - Planetary systems orbiting Black Holes
+  - Sagittarius A*
+
+
+Their gravitational lensing makes them visually distinctive.
+
+
+===============================================================================
+ 6. NEUTRON STARS
+===============================================================================
+
+Neutron Stars are interesting for two reasons:
+
+  1. Exploration / Codex interest
+  2. FSD supercharging
+
+
+A neutron supercharge gives:
+
+  NORMAL RANGE x4
+
+
+If you plan to use them repeatedly:
+
+  Carry an AFMU.
+
+
+===============================================================================
+ 7. MULTIPLE-STAR SYSTEMS
+===============================================================================
+
+Do not ignore ordinary stars just because they pay little.
+
+Unusual system architecture can be more memorable than credits.
+
+
+Look for:
+
+  Binary stars
+
+  Triple-star systems
+
+  Four or more stars
+
+  Very close stellar pairs
+
+  Planets orbiting multiple stars
+
+  Moons with dramatic nearby parent planets
+
+  Bodies orbiting distant secondary stars
+
+
+===============================================================================
+ 8. RINGS
+===============================================================================
+
+Interesting ring discoveries include:
+
+  Huge ring systems
+
+  Extremely narrow rings
+
+  Multiple ring bands
+
+  Moons orbiting close to rings
+
+  Ringed landable bodies
+
+  Ringed high-value worlds
+
+  Ring systems with unusual lighting
+
+
+Ring composition may be:
+
+  Icy
+
+  Rocky
+
+  Metallic
+
+  Metal Rich
+
+
+DSS probe a ring if you also want to reveal mining hotspots.
+
+
+===============================================================================
+ 9. HIGH-GRAVITY WORLDS
+===============================================================================
+
+Some landable worlds have extremely high gravity.
+
+These are interesting exploration targets.
+
+They are also dangerous.
+
+
+Before landing:
+
+  CHECK GRAVITY.
+
+
+A high-G landing can destroy an exploration ship carrying weeks of data.
+
+Visit them only if you are comfortable with planetary flight.
+
+
+===============================================================================
+ 10. GEOLOGICAL SITES - LEGACY
+===============================================================================
+
+Legacy can contain surface geology such as:
+
+  Fumaroles
+
+  Ice Fumaroles
+
+  Gas Vents
+
+  Geysers
+
+  Ice Geysers
+
+  Lava Spouts
+
+
+After DSS mapping a suitable body, these appear as numbered navigation targets:
+
+  Geological Site 1
+  Geological Site 2
+  etc.
+
+
+You can:
+
+  Select the site
+  Land
+  Deploy the SRV
+  Explore it directly
+
+
+Many geological formations also have material-bearing crystals nearby.
+
+
+===============================================================================
+ 11. LEGACY BIOLOGICAL SITES
+===============================================================================
+
+Legacy contains pre-split Horizons biological discoveries.
+
+Examples include:
+
+  Amphora Plants
+
+  Anemones
+
+  Bark Mounds
+
+  Brain Trees
+
+  Crystalline Shards
+
+  Sinuous Tubers
+
+
+These are NOT the modern on-foot biological exploration loop.
+
+
+Legacy method:
+
+  1. DSS map the body.
+  2. Select the numbered Biological Site.
+  3. Land.
+  4. Use ship / SRV exploration tools.
+
+
+===============================================================================
+ 12. SHORT RANGE COMPOSITION SCANNER
+===============================================================================
+
+Every ship and SRV has an integrated:
+
+  SHORT RANGE COMPOSITION SCANNER
+
+
+It was added with Beyond 3.3.
+
+
+Use it in:
+
+  ANALYSIS MODE
+
+
+It can scan:
+
+  - Geological formations
+  - Biological structures
+  - Objects inside Notable Stellar Phenomena
+
+
+Successful scans can add discoveries to the:
+
+  CODEX
+
+
+You do not need to buy this scanner.
+
+It is built into the ship / SRV.
+
+
+===============================================================================
+ 13. NOTABLE STELLAR PHENOMENA
+===============================================================================
+
+One of the most interesting Legacy discoveries is:
+
+  NOTABLE STELLAR PHENOMENA
+
+
+These were added in Beyond 3.3.
+
+
+They appear as persistent signal sources.
+
+You can find them with the:
+
+  FSS
+
+
+They may contain:
+
+  Lagrange Clouds
+
+  Strange mineral formations
+
+  Spaceborne organic structures
+
+  Mollusc-like life
+
+  Pods
+
+  Tree-like structures
+
+  Anomalies
+
+
+When one appears in the Navigation Panel:
+
+  GO LOOK.
+
+
+===============================================================================
+ 14. LAGRANGE CLOUDS
+===============================================================================
+
+Lagrange Clouds can appear at stable points in star systems.
+
+They may be:
+
+  Different colours
+
+  Filled with crystals
+
+  Filled with organic structures
+
+  Electrically active
+
+
+Some storm-cloud variants can be hazardous.
+
+Approach unusual phenomena carefully.
+
+
+===============================================================================
+ 15. THINGS INSIDE NOTABLE STELLAR PHENOMENA
+===============================================================================
+
+Legacy NSPs may contain families such as:
+
+
+MINERAL / CRYSTAL FORMATIONS
+----------------------------
+
+  Calcite Plates
+  Ice Crystals
+  Metallic Crystals
+  Silicate Crystals
+  Mineral Spheres
+
+
+MOLLUSCS
+--------
+
+Examples include:
+
+  Bell Molluscs
+  Bulb Molluscs
+  Globe Molluscs
+  Squid Molluscs
+  Torus Molluscs
+
+
+PODS
+----
+
+Examples include:
+
+  Aster Pods
+  Gyre Pods
+  Peduncle Pods
+  Stolon Pods
+
+
+TREE-LIKE ORGANISMS
+-------------------
+
+Examples include:
+
+  Aster Trees
+  Gyre Trees
+  Peduncle Trees
+  Stolon Trees
+
+
+ANOMALIES
+---------
+
+Different anomaly families include:
+
+  E-Type
+  K-Type
+  L-Type
+  P-Type
+  Q-Type
+  T-Type
+
+
+You do not need to memorize these.
+
+If the FSS shows a Notable Stellar Phenomena:
+
+  Investigate it.
+
+
+===============================================================================
+ 16. CRYSTALLINE SHARDS
+===============================================================================
+
+Crystalline Shards are both:
+
+  Interesting biological discoveries
+
+and:
+
+  Extremely useful raw-material farming sites
+
+
+Classic Legacy examples exist around:
+
+  HIP 36601
+  Outotz LS-K d8-3
+
+
+Legacy workflow:
+
+  DSS map body
+      ->
+  Select numbered Biological Site
+      ->
+  Land
+      ->
+  SRV
+
+
+These sites are particularly useful for stocking high-grade raw materials
+before long expeditions.
+
+
+===============================================================================
+ 17. BRAIN TREES
+===============================================================================
+
+Brain Trees are surface biological structures.
+
+They are commonly associated with areas of space connected with Guardian
+activity.
+
+If DSS mapping reveals Biological Sites in those regions:
+
+  They are worth investigating.
+
+
+They can also contain material-bearing growths.
+
+
+===============================================================================
+ 18. BARK MOUNDS
+===============================================================================
+
+Bark Mounds are fungal-like surface structures.
+
+They have historically been found near nebulae and on suitable volcanic,
+airless worlds.
+
+
+They are a classic Horizons biological discovery.
+
+
+===============================================================================
+ 19. SINUOUS TUBERS
+===============================================================================
+
+Sinuous Tubers are colourful tubular surface organisms.
+
+They occur on suitable airless volcanic bodies and are particularly associated
+with some areas toward the denser inner galaxy.
+
+
+They are another classic Legacy Codex discovery.
+
+
+===============================================================================
+ 20. ANEMONES
+===============================================================================
+
+Anemones are old Horizons biological structures found on suitable airless
+worlds.
+
+Some occur on:
+
+  Hot planets
+  High-gravity planets
+
+
+Use:
+
+  Ship or SRV Composition Scanner
+
+
+Do not risk a dangerous landing just to scan one.
+
+
+===============================================================================
+ 21. THE CODEX
+===============================================================================
+
+YES:
+
+  THE CODEX STILL WORKS IN LEGACY.
+
+
+It was added long before the Legacy split and remains part of the Legacy /
+Console exploration system.
+
+
+The Codex divides the galaxy into:
+
+  42 REGIONS
+
+
+It records categories such as:
+
+  Stellar bodies
+
+  Biological entities
+
+  Geological entities
+
+  Civilisation / xenological discoveries
+
+
+===============================================================================
+ SHARED CODEX INFORMATION VS YOUR PERSONAL CODEX
+===============================================================================
+
+The Codex is BOTH:
+
+  SHARED
+  and
+  PERSONAL
+
+
+The important states are:
+
+
+RUMOURED
+--------
+
+The game suggests that a certain type of object may exist somewhere in that
+galactic region.
+
+Nobody has necessarily confirmed it yet.
+
+
+REPORTED
+--------
+
+Another commander has found and scanned that type of discovery in the region.
+
+This is SHARED regional Codex information.
+
+If another LEGACY commander finds and reports something new for that region,
+the shared Legacy Codex can be updated.
+
+
+CONFIRMED / DISCOVERED BY YOU
+-----------------------------
+
+You personally found and scanned that type of object.
+
+That becomes part of YOUR own Codex record.
+
+
+Simple example:
+
+  Another Legacy commander finds a rare biological object.
+
+  Their discovery can make that object:
+
+      REPORTED
+
+  for the region.
+
+
+  You later find and scan the same type yourself.
+
+  Your personal Codex then records that YOU have confirmed / discovered it.
+
+
+===============================================================================
+ LEGACY SERVER SEPARATION
+===============================================================================
+
+Legacy and the current PC game are separate server environments.
+
+Therefore:
+
+  A new discovery made in the current PC game should NOT be assumed to update
+  the Legacy Codex.
+
+For this guide:
+
+  Treat Legacy Codex reports as part of the Legacy / Console game state.
+
+
+===============================================================================
+ 22. CODEX VS FIRST DISCOVERED / FIRST MAPPED
+===============================================================================
+
+These are DIFFERENT systems.
+
+
+FIRST DISCOVERED BY
+-------------------
+
+Applies to astronomical bodies such as:
+
+  Stars
+  Planets
+  Moons
+
+
+To receive the tag:
+
+  1. Discover the body.
+  2. Survive.
+  3. Sell the exploration data.
+
+
+FIRST MAPPED BY
+---------------
+
+Applies to DSS mapping.
+
+To receive the tag:
+
+  1. DSS-map the body.
+  2. Survive.
+  3. Sell the exploration data.
+
+
+CODEX
+-----
+
+The Codex does NOT simply list every planet or star discovered by every
+commander.
+
+Instead, it tracks:
+
+  TYPES of discoveries
+  and
+  REGIONAL examples / records.
+
+
+Examples:
+
+  A certain star class in a region
+
+  A particular biological structure
+
+  A geological phenomenon
+
+  A Notable Stellar Phenomena object
+
+
+The shared Codex can tell you that another Legacy commander has REPORTED a
+type of discovery in that region.
+
+Your personal Codex separately records whether YOU have confirmed it.
+
+
+===============================================================================
+ SIMPLE WAY TO REMEMBER IT
+===============================================================================
+
+FIRST DISCOVERED / FIRST MAPPED:
+
+  "Was I the first commander to discover or map THIS BODY?"
+
+
+CODEX - REPORTED:
+
+  "Has any Legacy commander reported THIS TYPE OF THING in this region?"
+
+
+CODEX - PERSONAL CONFIRMATION:
+
+  "Have I personally found and scanned THIS TYPE OF THING in this region?"
+
+
+===============================================================================
+ WHY THE CODEX IS USEFUL
+===============================================================================
+
+Use the Codex when you want an exploration goal other than:
+
+  "Fly randomly."
+
+
+Example goals:
+
+  Find something only listed as RUMOURED.
+
+  Personally confirm something already REPORTED.
+
+  Fill out your own Codex entries for a galactic region.
+
+  Search for biological, geological or stellar discoveries you have never
+  personally scanned before.
+
+
+===============================================================================
+ 23. SEARCHING FOR UNDISCOVERED SYSTEMS
+===============================================================================
+
+Avoid obvious highways.
+
+Highly travelled:
+
+  Sol -> Colonia
+
+  Sol -> Sagittarius A*
+
+  Colonia -> Sagittarius A*
+
+  Famous nebula routes
+
+
+Better method:
+
+  1. Travel several thousand LY from inhabited space.
+
+  2. Move sideways / above / below the obvious route.
+
+  3. Watch system maps for missing commander tags.
+
+  4. Once you find virgin systems:
+       Slow down.
+
+
+===============================================================================
+ 24. WHAT MAKES A SYSTEM MEMORABLE?
+===============================================================================
+
+Credits are only one reason to explore.
+
+A memorable system may have:
+
+  - Earth-like World
+  - Black Hole
+  - Multiple Neutron Stars
+  - Close binary planets
+  - Huge rings
+  - High-G landable world
+  - Biological Sites
+  - Geological Sites
+  - Notable Stellar Phenomena
+  - Strange moon arrangements
+  - Fantastic lighting
+  - A view of a nebula
+
+
+Take screenshots.
+
+Bookmark unusual systems.
+
+
+===============================================================================
+ 25. BEGINNER "GO LOOK AT THIS" LIST
+===============================================================================
+
+If you see:
+
+  Earth-like World
+      -> DSS it.
+
+  Ammonia World
+      -> DSS it.
+
+  Water World
+      -> Check terraformability and DSS it.
+
+  Black Hole
+      -> Scan and look around.
+
+  Neutron Star
+      -> Scan; supercharge only if prepared.
+
+  Biological Sites
+      -> Consider landing.
+
+  Geological Sites
+      -> Consider landing.
+
+  Notable Stellar Phenomena
+      -> Investigate.
+
+  Huge / unusual rings
+      -> Look closer.
+
+  Very high gravity
+      -> Interesting, but land carefully.
+
+  Untagged system
+      -> You may have found virgin space.
+
+
+===============================================================================
+ END OF THINGS TO DISCOVER GUIDE
+===============================================================================
