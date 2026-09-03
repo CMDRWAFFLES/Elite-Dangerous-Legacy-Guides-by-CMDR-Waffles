@@ -1,0 +1,2090 @@
+===============================================================================
+ ELITE DANGEROUS: LEGACY / CONSOLE - HORIZONS 3.8
+ BEGINNER GUIDE:
+ UNLOCK FELICITY FARSEER + ENGINEER YOUR FIRST G5 FSD
+===============================================================================
+
+PURPOSE
+-------
+
+This guide takes a brand-new commander through the ENTIRE process:
+
+  1. Reach Scout exploration rank
+  2. Unlock Felicity Farseer
+  3. Get the Meta-Alloy
+  4. Gather every material needed for:
+       FSD Increased Range G1 -> G5
+  5. Add:
+       Mass Manager
+       or
+       Deep Charge
+  6. Choose the correct Experimental Effect for your ship
+
+
+This guide is written specifically for:
+
+  ELITE DANGEROUS LEGACY / CONSOLE
+  HORIZONS 3.8
+
+
+===============================================================================
+ 1. THE SHORT VERSION
+===============================================================================
+
+BEGINNER ROUTE:
+
+  GET SCOUT EXPLORATION RANK
+      ->
+  DAV'S HOPE
+      Manufactured materials
+      ->
+  JAMESON CRASH SITE
+      Encoded materials
+      ->
+  RAY GATEWAY
+      Encoded Material Trader
+      ->
+  ORRERE 2 B
+      Raw materials
+      ->
+  KENNEDY DOCK
+      Raw Material Trader
+      ->
+  DARNIELLE'S PROGRESS
+      Buy 1 Meta-Alloy
+      ->
+  FARSEER INC.
+      Unlock Felicity
+      Sell saved exploration data
+      Engineer FSD to G5
+      Add Experimental Effect
+
+
+IMPORTANT:
+
+  Buy the Meta-Alloy near the END of the trip.
+
+It is cargo.
+
+There is no reason to carry it around while farming materials.
+
+
+===============================================================================
+ 2. WHAT SHIP EQUIPMENT DO I NEED?
+===============================================================================
+
+RECOMMENDED:
+
+  Fuel Scoop
+
+  Detailed Surface Scanner
+
+  Planetary Vehicle Hangar
+
+  Scarab SRV
+
+  Small Shield Generator
+
+  At least 1 tonne of Cargo Rack space
+
+
+OPTIONAL:
+
+  Frame Shift Wake Scanner
+
+
+WHY 1 TONNE OF CARGO SPACE?
+---------------------------
+
+The Meta-Alloy needed to unlock Felicity is a:
+
+  COMMODITY
+
+
+It occupies:
+
+  1 TONNE
+
+
+Engineering materials do NOT use normal cargo space.
+
+
+===============================================================================
+ 3. VERY IMPORTANT: FSS VS DSS VS COORDINATES
+===============================================================================
+
+FSS
+---
+
+Full Spectrum System Scanner.
+
+The FSS identifies:
+
+  Stars
+  Planets
+  Moons
+  System signals
+
+
+It does NOT normally give you the exact location of a fixed surface crash site
+or settlement.
+
+
+DSS
+---
+
+Detailed Surface Scanner.
+
+In Legacy, DSS mapping can reveal fixed surface POIs such as:
+
+  Dav's Hope
+
+  Jameson Crash Site
+
+
+When the DSS reveals the site:
+
+  It appears in the Navigation Panel
+
+and you can target it directly.
+
+
+COORDINATES
+-----------
+
+Some older fixed sites are easiest to find the FIRST time by using:
+
+  Latitude
+  Longitude
+
+
+Once certain sites have been scanned:
+
+  They can become permanent Navigation Panel targets for that commander.
+
+
+===============================================================================
+ 4. LOCATION / NAVIGATION QUICK TABLE
+===============================================================================
+
++----------------------+--------------------------+-----------------------------+
+| Location             | Body                     | How a beginner finds it     |
++----------------------+--------------------------+-----------------------------+
+| Dav's Hope           | Hyades DR-V c2-23 A 5   | DSS reveals named POI       |
+| Jameson Crash Site   | HIP 12099 1 B           | DSS reveals named POI       |
+| Orrere wreck         | Orrere 2 B               | Use coords first visit      |
+| Koli Discii wreck    | Koli Discii C 6 A       | Use coords first visit      |
+| Darnielle's Progress | Maia A 2 a               | Surface port / Nav Panel    |
+| Farseer Inc.         | Deciat 6 A               | Engineer base / Nav Panel   |
++----------------------+--------------------------+-----------------------------+
+
+
+FSS alone is NOT the tool used to locate these surface sites.
+
+
+===============================================================================
+ 5. IMPORTANT LOCATIONS - DISTANCE FROM SOL
+===============================================================================
+
+Approximate straight-line SYSTEM distances from Sol:
+
+
++--------------------------------------+---------------------------+-------------+
+| Location                             | System                    | From Sol    |
++--------------------------------------+---------------------------+-------------+
+| Orrere crashed Anaconda              | Orrere                    | ~114.05 LY  |
+| Ray Gateway                          | Diaguandri                | ~127.32 LY  |
+| Kennedy Dock                         | Ritila                    | ~127.58 LY  |
+| Farseer Inc.                         | Deciat                    | ~131.43 LY  |
+| Koli Discii wreck                    | Koli Discii               | ~149.24 LY  |
+| Stillman Hub                         | Concordia                 | ~152.94 LY  |
+| Dav's Hope                           | Hyades Sector DR-V c2-23  | ~184.45 LY  |
+| Jameson Crash Site                   | HIP 12099                 | ~216.61 LY  |
+| Darnielle's Progress                 | Maia                      | ~383.31 LY  |
++--------------------------------------+---------------------------+-------------+
+
+
+Your plotted route distance will be longer.
+
+The number of jumps depends on your ship's current jump range.
+
+
+===============================================================================
+ 6. STEP ONE - REACH SCOUT EXPLORATION RANK
+===============================================================================
+
+Felicity Farseer's meeting requirement is:
+
+  EXPLORATION RANK:
+      SCOUT
+
+
+Scout is reached at roughly:
+
+  270,000 Cr
+
+of exploration profit.
+
+
+This is a VERY small amount.
+
+
+EASIEST BEGINNER METHOD
+-----------------------
+
+Do not make a special grind out of this.
+
+While travelling around:
+
+  1. Honk every system.
+
+  2. Use the FSS.
+
+  3. Scan planets and moons.
+
+  4. DSS-map valuable bodies if convenient.
+
+  5. Sell enough data at Universal Cartographics to reach Scout.
+
+
+Check your Exploration rank in:
+
+  RIGHT PANEL
+      ->
+  STATUS
+
+
+Once it says:
+
+  SCOUT
+
+or higher:
+
+  Felicity's meeting requirement is complete.
+
+
+===============================================================================
+ 7. IMPORTANT - SAVE SOME EXPLORATION DATA AFTER REACHING SCOUT
+===============================================================================
+
+Once you have reached Scout:
+
+  DO NOT automatically sell every new piece of exploration data.
+
+
+Keep collecting data while travelling to:
+
+  Dav's Hope
+  Jameson
+  Orrere
+  Maia
+
+
+WHY?
+----
+
+After Felicity is unlocked:
+
+  You can sell exploration data at Farseer Inc.
+
+
+That increases:
+
+  FELICITY FARSEER REPUTATION
+
+
+Higher reputation means:
+
+  Fewer low-grade engineering rolls
+  Faster access to higher grades
+
+
+If you already have a large amount of exploration data:
+
+  Selling roughly 16 million Cr of exploration data / profit at an Engineer
+  base is enough to reach the highest Engineer reputation tier.
+
+
+You do NOT need to grind 16 million just for this guide.
+
+Any saved exploration data helps.
+
+Engineering rolls themselves also increase her reputation.
+
+
+===============================================================================
+ 8. FELICITY FARSEER - WHAT SHE NEEDS
+===============================================================================
+
+ENGINEER:
+
+  Felicity Farseer
+
+
+SYSTEM:
+
+  Deciat
+
+
+BASE:
+
+  Farseer Inc.
+
+
+BODY:
+
+  Deciat 6 A
+
+
+DISTANCE FROM SOL:
+
+  ~131.43 LY
+
+
+DISTANCE FROM ARRIVAL STAR:
+
+  ~2,040 LS
+
+
+MEETING REQUIREMENT:
+
+  Scout exploration rank or higher
+
+
+UNLOCK REQUIREMENT:
+
+  1 Meta-Alloy
+
+
+Felicity can engineer:
+
+  FRAME SHIFT DRIVE
+      Increased Range
+      to GRADE 5
+
+
+===============================================================================
+ 9. DO I NEED COORDINATES FOR FARSEER INC?
+===============================================================================
+
+NO.
+
+
+Once you have Felicity's invitation:
+
+  Travel to:
+
+      Deciat
+
+
+Then use:
+
+  Navigation Panel
+      or
+  System Map
+
+
+Target:
+
+  Farseer Inc.
+  Deciat 6 A
+
+
+You do NOT need:
+
+  FSS
+  DSS
+  Coordinates
+
+
+It is an Engineer surface base.
+
+
+BEGINNER SAFETY NOTE
+--------------------
+
+Deciat has historically been a popular place for commanders to attack new
+players travelling to their first Engineer.
+
+If you do not want that risk:
+
+  USE SOLO
+  or
+  PRIVATE GROUP
+
+
+===============================================================================
+ 10. EASIEST META-ALLOY - DARNIELLE'S PROGRESS
+===============================================================================
+
+The easiest Legacy beginner method is:
+
+  BUY ONE.
+
+
+SYSTEM:
+
+  Maia
+
+
+DISTANCE FROM SOL:
+
+  ~383.31 LY
+
+
+STATION:
+
+  Darnielle's Progress
+
+
+BODY:
+
+  Maia A 2 a
+
+
+DISTANCE FROM ARRIVAL:
+
+  ~632 LS
+
+
+TYPE:
+
+  Surface Port
+
+
+WHAT TO DO:
+
+  Dock
+      ->
+  Commodities Market
+      ->
+  Buy 1 Meta-Alloy
+
+
+Darnielle's Progress was the traditional pre-split source for purchasing
+Meta-Alloys.
+
+Supply is limited, so you normally only need:
+
+  ONE
+
+
+===============================================================================
+ 11. DO I NEED FSS, DSS OR COORDINATES FOR DARNIELLE'S PROGRESS?
+===============================================================================
+
+Normally:
+
+  NO COORDINATES.
+
+
+It is a normal Surface Port.
+
+
+When you enter Maia:
+
+  Look for:
+
+      Darnielle's Progress
+
+in:
+
+  Navigation Panel
+      or
+  System Map
+
+
+IF YOU CANNOT SEE IT
+--------------------
+
+Do this:
+
+  1. Target the Maia Nav Beacon.
+
+  2. Drop out of Supercruise at the beacon.
+
+  3. Target the physical Nav Beacon.
+
+  4. Scan it.
+
+
+That downloads the system navigation data.
+
+
+Then look again for:
+
+  Darnielle's Progress
+
+
+BACKUP METHOD
+-------------
+
+If necessary:
+
+  Fly to Maia A 2 a
+
+and DSS-map the body.
+
+
+You do NOT need coordinates.
+
+
+===============================================================================
+ 12. GET THE ENGINEERING MATERIALS BEFORE BUYING THE META-ALLOY
+===============================================================================
+
+The clean beginner order is:
+
+  Farm materials FIRST.
+
+Then:
+
+  Buy the Meta-Alloy.
+
+Then:
+
+  Go directly to Farseer Inc.
+
+
+That avoids carrying valuable cargo around unnecessarily.
+
+
+===============================================================================
+ 13. EXACT FSD INCREASED RANGE RECIPE
+===============================================================================
+
+These costs are:
+
+  PER ENGINEERING ROLL
+
+
++-------+--------------------------------------------------------------+
+| Grade | Material cost per roll                                       |
++-------+--------------------------------------------------------------+
+| G1    | 1 Atypical Disrupted Wake Echo                               |
++-------+--------------------------------------------------------------+
+| G2    | 1 Atypical Disrupted Wake Echo                               |
+|       | 1 Chemical Processor                                         |
++-------+--------------------------------------------------------------+
+| G3    | 1 Phosphorus                                                 |
+|       | 1 Chemical Processor                                         |
+|       | 1 Strange Wake Solution                                      |
++-------+--------------------------------------------------------------+
+| G4    | 1 Manganese                                                  |
+|       | 1 Chemical Distillery                                        |
+|       | 1 Eccentric Hyperspace Trajectory                            |
++-------+--------------------------------------------------------------+
+| G5    | 1 Arsenic                                                    |
+|       | 1 Chemical Manipulator                                       |
+|       | 1 Datamined Wake Exception                                   |
++-------+--------------------------------------------------------------+
+
+
+IMPORTANT:
+
+You normally need MULTIPLE rolls.
+
+The exact number varies with:
+
+  Engineer reputation
+  Grade progress
+
+
+Do not collect exactly:
+
+  1 of each.
+
+
+===============================================================================
+ 14. COMPLETE UNIQUE MATERIAL LIST
+===============================================================================
+
+RAW MATERIALS
+-------------
+
+  Phosphorus
+
+  Manganese
+
+  Arsenic
+
+
+MANUFACTURED MATERIALS
+----------------------
+
+  Chemical Processors
+
+  Chemical Distillery
+
+  Chemical Manipulators
+
+  Galvanising Alloys
+
+
+ENCODED MATERIALS
+-----------------
+
+  Atypical Disrupted Wake Echoes
+
+  Strange Wake Solutions
+
+  Eccentric Hyperspace Trajectories
+
+  Datamined Wake Exceptions
+
+
+TOTAL:
+
+  11 UNIQUE MATERIALS
+
+
+===============================================================================
+ 15. MANUFACTURED MATERIALS - DAV'S HOPE
+===============================================================================
+
+RECOMMENDED BEGINNER FARM:
+
+  DAV'S HOPE
+
+
+SYSTEM:
+
+  Hyades Sector DR-V c2-23
+
+
+DISTANCE FROM SOL:
+
+  ~184.45 LY
+
+
+BODY:
+
+  A 5
+
+
+DISTANCE FROM ARRIVAL:
+
+  ~60 LS
+
+
+LEGACY COORDINATES:
+
+  Latitude:
+       44.818
+
+  Longitude:
+      -31.389
+
+
+MATERIALS NEEDED FROM HERE:
+
+  Chemical Processors
+
+  Chemical Distillery
+
+  Chemical Manipulators
+
+  Galvanising Alloys
+
+
+===============================================================================
+ 16. HOW DO I FIND DAV'S HOPE?
+===============================================================================
+
+YOU DO NOT NEED TO FLY BY COORDINATES.
+
+
+Use:
+
+  FSS
+      ->
+  Identify planet A 5
+
+
+Then:
+
+  DSS-MAP A 5
+
+
+Once mapped:
+
+  DAV'S HOPE
+
+should appear as a named target in the:
+
+  Navigation Panel
+
+
+Then:
+
+  Target Dav's Hope
+      ->
+  Fly directly to it
+
+
+Coordinates are included only as:
+
+  BACKUP
+
+
+===============================================================================
+ 17. HOW TO FARM DAV'S HOPE
+===============================================================================
+
+1. Land near Dav's Hope.
+
+2. Deploy the SRV.
+
+3. Open the SRV Cargo Scoop.
+
+4. Drive around the settlement.
+
+5. Target and collect the loose manufactured materials.
+
+6. Complete the loop.
+
+7. Log out to:
+
+     MAIN MENU
+
+8. Log back in.
+
+9. Materials respawn.
+
+10. Repeat.
+
+
+For a first FSD:
+
+  Several loops gives you a useful buffer.
+
+
+Dav's Hope is not necessarily the absolute fastest manufactured-material farm
+for an experienced commander.
+
+It IS one of the easiest fixed, predictable methods for a beginner.
+
+
+===============================================================================
+ 18. ENCODED MATERIALS - JAMESON CRASH SITE
+===============================================================================
+
+RECOMMENDED BEGINNER BULK FARM:
+
+  JAMESON CRASH SITE
+
+
+SYSTEM:
+
+  HIP 12099
+
+
+DISTANCE FROM SOL:
+
+  ~216.61 LY
+
+
+BODY:
+
+  1 B
+
+
+LEGACY COORDINATES:
+
+  Latitude:
+      -54.3803
+
+  Longitude:
+      -50.3575
+
+
+The Legacy site uses:
+
+  FOUR COMMS CONTROLS
+
+
+===============================================================================
+ 19. HOW DO I FIND JAMESON CRASH SITE?
+===============================================================================
+
+Use:
+
+  FSS
+      ->
+  Identify HIP 12099 1 B
+
+
+Then:
+
+  DSS-MAP 1 B
+
+
+In Legacy:
+
+  Jameson Crash Site
+
+appears as a surface POI in the:
+
+  Navigation Panel
+
+
+Then:
+
+  Target it
+      ->
+  Fly directly to it
+
+
+You normally do NOT need the coordinates.
+
+They are included as a backup.
+
+
+===============================================================================
+ 20. HOW TO FARM JAMESON
+===============================================================================
+
+1. Land near the crashed Cobra.
+
+2. Deploy the SRV.
+
+3. Use the SRV turret.
+
+4. Use:
+
+     DATA LINK SCANNER
+
+5. Scan all FOUR Comms Controls.
+
+6. Log out to:
+
+     MAIN MENU
+
+7. Log back in.
+
+8. Scan the four controls again.
+
+9. Repeat.
+
+
+Jameson gives high-grade encoded materials such as:
+
+  Adaptive Encryptors Capture
+
+and other encoded data.
+
+
+These are NOT necessarily the exact Wake Scan materials needed by the FSD.
+
+That is fine.
+
+
+You trade them at an:
+
+  ENCODED MATERIAL TRADER
+
+
+===============================================================================
+ 21. ENCODED TRADER - RAY GATEWAY
+===============================================================================
+
+PRIMARY RECOMMENDATION AFTER JAMESON:
+
+  RAY GATEWAY
+
+
+SYSTEM:
+
+  Diaguandri
+
+
+DISTANCE FROM SOL:
+
+  ~127.32 LY
+
+
+STATION DISTANCE:
+
+  ~520 LS
+
+
+TYPE:
+
+  Coriolis Starport
+
+
+MATERIAL TRADER:
+
+  ENCODED
+
+
+Historical pre-split farming guides specifically identify Ray Gateway as the
+closest Encoded Material Trader to Jameson Crash Site.
+
+
+At the trader, obtain:
+
+  Atypical Disrupted Wake Echoes
+
+  Strange Wake Solutions
+
+  Eccentric Hyperspace Trajectories
+
+  Datamined Wake Exceptions
+
+
+===============================================================================
+ 22. STILLMAN HUB - ENCODED TRADER ALTERNATIVE
+===============================================================================
+
+ALTERNATIVE:
+
+  STILLMAN HUB
+
+
+SYSTEM:
+
+  Concordia
+
+
+DISTANCE FROM SOL:
+
+  ~152.94 LY
+
+
+STATION DISTANCE:
+
+  ~1,040 LS
+
+
+MATERIAL TRADER:
+
+  ENCODED
+
+
+Stillman Hub is another useful Encoded Material Trader.
+
+
+For Jameson specifically:
+
+  Ray Gateway is the shorter trip.
+
+
+Use Stillman Hub if it fits your route better.
+
+
+===============================================================================
+ 23. DIRECT WAKE SCANNING - ALTERNATIVE ENCODED METHOD
+===============================================================================
+
+You can also collect the exact FSD Wake Scan materials directly.
+
+
+Fit:
+
+  FRAME SHIFT WAKE SCANNER
+
+
+Go to a busy station.
+
+Scan:
+
+  HIGH ENERGY FSD WAKES
+
+
+The Wake Scan family contains:
+
+  Atypical Disrupted Wake Echoes
+
+  Strange Wake Solutions
+
+  Eccentric Hyperspace Trajectories
+
+  Datamined Wake Exceptions
+
+
+ADVANTAGE:
+
+  No Jameson farm required.
+
+
+DISADVANTAGE:
+
+  Datamined Wake Exceptions are rare.
+
+
+BEGINNER VERDICT:
+
+  Need only a few materials?
+      Wake scan.
+
+  Starting from nearly empty and want G5?
+      Jameson + Encoded Trader is more predictable.
+
+
+===============================================================================
+ 24. RAW MATERIALS - ORRERE 2 B
+===============================================================================
+
+RECOMMENDED BEGINNER BULK RAW FARM:
+
+  ORRERE CRASHED ANACONDA
+
+
+SYSTEM:
+
+  Orrere
+
+
+DISTANCE FROM SOL:
+
+  ~114.05 LY
+
+
+BODY:
+
+  Orrere 2 B
+
+
+DISTANCE FROM ARRIVAL:
+
+  ~1,700 LS
+
+
+COORDINATES:
+
+  Latitude:
+       43.8122
+
+  Longitude:
+     -173.9722
+
+
+The wreck contains Cargo Racks that can drop high-grade raw materials such as:
+
+  Antimony
+
+  Ruthenium
+
+  Tellurium
+
+  Tungsten
+
+  Zirconium
+
+
+You then trade these for:
+
+  Phosphorus
+
+  Manganese
+
+  Arsenic
+
+
+===============================================================================
+ 25. HOW DO I FIND THE ORRERE CRASHED ANACONDA?
+===============================================================================
+
+For a FIRST visit:
+
+  USE THE COORDINATES.
+
+
+The FSS only identifies:
+
+  Orrere 2 B
+
+
+Do not depend on the FSS to reveal the crash site.
+
+
+For this guide:
+
+  The reliable first-visit method is coordinate navigation.
+
+
+Once you reach the wreck:
+
+  Scan the:
+
+      SHIP DATA CORE
+
+
+After it has been scanned:
+
+  The wreck can appear as a Navigation Panel target for future visits.
+
+
+DSS:
+
+  You may DSS-map the body, but this guide does NOT require DSS to find the
+  Orrere wreck.
+
+Use the coordinates for the first trip.
+
+
+===============================================================================
+ 26. ORRERE LANDING WARNING
+===============================================================================
+
+The wreck is on:
+
+  ROUGH / SLOPED TERRAIN
+
+
+Use:
+
+  Small or medium ship if possible
+
+  Shield Generator
+
+  Careful landing
+
+
+Material fragments can roll downhill.
+
+
+Do not land somewhere your SRV cannot climb back to the ship.
+
+
+===============================================================================
+ 27. HOW TO FARM THE ORRERE WRECK
+===============================================================================
+
+1. Land near the wreck.
+
+2. Deploy SRV.
+
+3. Find the Cargo Racks.
+
+4. Shoot the Cargo Racks.
+
+5. Target the raw material fragments.
+
+6. Open Cargo Scoop.
+
+7. Scoop the materials.
+
+8. Log out to:
+
+     MAIN MENU
+
+9. Log back in.
+
+10. Cargo Racks respawn.
+
+11. Repeat.
+
+
+Engineering materials remain in material storage.
+
+They do NOT use ship cargo capacity.
+
+
+===============================================================================
+ 28. RAW MATERIAL TRADER - KENNEDY DOCK
+===============================================================================
+
+After farming Orrere:
+
+  Go to:
+
+      KENNEDY DOCK
+
+
+SYSTEM:
+
+  Ritila
+
+
+DISTANCE FROM SOL:
+
+  ~127.58 LY
+
+
+DISTANCE FROM ORRERE:
+
+  ~22 LY
+
+
+STATION DISTANCE:
+
+  ~2,180 LS
+
+
+MATERIAL TRADER:
+
+  RAW
+
+
+Kennedy Dock is the traditional nearby Raw Material Trader for the Orrere
+crashed-Anaconda farm.
+
+
+Trade your high-grade raw materials for:
+
+  Phosphorus
+
+  Manganese
+
+  Arsenic
+
+
+===============================================================================
+ 29. KOLI DISCII - RAW FARM ALTERNATIVE
+===============================================================================
+
+ALTERNATIVE CRASHED ANACONDA:
+
+  KOLI DISCII
+
+
+SYSTEM:
+
+  Koli Discii
+
+
+DISTANCE FROM SOL:
+
+  ~149.24 LY
+
+
+BODY:
+
+  C 6 A
+
+
+COORDINATES:
+
+  Latitude:
+       28.577
+
+  Longitude:
+        7.219
+
+
+DISTANCE FROM ARRIVAL:
+
+  Roughly:
+
+      90,000 LS
+
+
+ADVANTAGE:
+
+  Flatter and easier terrain than Orrere.
+
+
+DISADVANTAGE:
+
+  Very long Supercruise trip.
+
+
+BEGINNER NAVIGATION:
+
+  Use the coordinates on the first visit.
+
+  Scan the Ship Data Core when you arrive so the site is easier to return to.
+
+
+This is an ALTERNATIVE.
+
+Use whichever crashed-Anaconda site you prefer.
+
+
+===============================================================================
+ 30. SIMPLE RAW-MATERIAL ALTERNATIVE - SURFACE PROSPECTING
+===============================================================================
+
+You do NOT have to farm a crashed Anaconda.
+
+
+You can instead land on planets containing:
+
+  Phosphorus
+
+  Manganese
+
+  Arsenic
+
+
+Then use:
+
+  SRV Wave Scanner
+      ->
+  Find rocks
+      ->
+  Shoot rocks
+      ->
+  Scoop materials
+
+
+This is simple.
+
+But:
+
+  It is less predictable than farming high-grade raws and trading them down.
+
+
+For a full G5 FSD from nearly empty material storage:
+
+  Orrere + Kennedy Dock is usually easier.
+
+
+===============================================================================
+ 31. NOW BUY THE META-ALLOY
+===============================================================================
+
+Once the engineering materials are ready:
+
+  Travel to:
+
+      Maia
+
+      Darnielle's Progress
+
+      Maia A 2 a
+
+
+Buy:
+
+  1 Meta-Alloy
+
+
+Make sure:
+
+  It is physically in your cargo hold.
+
+
+Then:
+
+  Fly directly to:
+
+      Deciat
+      Farseer Inc.
+
+
+===============================================================================
+ 32. UNLOCK FELICITY FARSEER
+===============================================================================
+
+At:
+
+  Farseer Inc.
+  Deciat 6 A
+
+
+Open the Engineer interface.
+
+
+Donate:
+
+  1 Meta-Alloy
+
+
+Felicity is now unlocked.
+
+
+IF SERVICES DO NOT APPEAR
+-------------------------
+
+Legacy-era Engineer guidance notes that services may not appear immediately
+after the unlock.
+
+
+If that happens:
+
+  Log out to:
+
+      MAIN MENU
+
+  Then:
+
+      Log back in
+
+
+===============================================================================
+ 33. BEFORE ENGINEERING - SELL SAVED EXPLORATION DATA
+===============================================================================
+
+After Felicity is unlocked:
+
+  Open:
+
+      UNIVERSAL CARTOGRAPHICS
+
+
+Sell the exploration data you saved during the trip.
+
+
+This raises:
+
+  FELICITY FARSEER REPUTATION
+
+
+The higher your reputation:
+
+  The fewer rolls you generally need at the lower grades.
+
+
+Do this BEFORE spending engineering materials.
+
+
+===============================================================================
+ 34. HOW TO ENGINEER THE FSD
+===============================================================================
+
+At Farseer Inc:
+
+  1. Open Engineer Workshop.
+
+  2. Select your Frame Shift Drive.
+
+  3. Select:
+
+       INCREASED RANGE
+
+  4. Apply Grade 1 rolls.
+
+
+As soon as Grade 2 unlocks:
+
+  MOVE TO GRADE 2.
+
+
+Do NOT waste materials completely filling Grade 1 if Grade 2 is already
+available.
+
+
+Continue:
+
+  G1
+    ->
+  G2
+    ->
+  G3
+    ->
+  G4
+    ->
+  G5
+
+
+At Grade 5:
+
+  Continue until the Grade 5 improvement is completed to the level you want.
+
+
+For an exploration ship:
+
+  Normally complete G5 for maximum range.
+
+
+===============================================================================
+ 35. PIN THE BLUEPRINT
+===============================================================================
+
+A useful blueprint to pin at Felicity is:
+
+  FSD - INCREASED RANGE
+
+
+Pinning allows you to perform that blueprint later through:
+
+  REMOTE ENGINEERING
+
+
+IMPORTANT:
+
+Remote Engineering:
+
+  DOES NOT increase Felicity reputation.
+
+and:
+
+  CANNOT apply Experimental Effects.
+
+
+Therefore:
+
+  Apply your Experimental Effect while physically at an Engineer.
+
+
+===============================================================================
+ 36. MASS MANAGER
+===============================================================================
+
+MATERIAL COST:
+
+  5 Atypical Disrupted Wake Echoes
+
+  3 Galvanising Alloys
+
+  1 Eccentric Hyperspace Trajectory
+
+
+EFFECT:
+
+  +4% Optimised Mass
+
+
+MAIN ADVANTAGE:
+
+  More jump range without increasing the FSD's maximum fuel-per-jump figure.
+
+
+BEST RULE:
+
+  CLASS 5 FSD OR LARGER:
+      MASS MANAGER
+
+
+For the classic Legacy exploration ships:
+
+  Diamondback Explorer
+      Class 5 FSD
+      -> MASS MANAGER
+
+  Asp Explorer
+      Class 5 FSD
+      -> MASS MANAGER
+
+  Krait Phantom
+      Class 5 FSD
+      -> MASS MANAGER
+
+  Orca
+      Class 5 FSD
+      -> MASS MANAGER
+
+  Anaconda
+      Class 6 FSD
+      -> MASS MANAGER
+
+  Beluga Liner
+      Class 7 FSD
+      -> MASS MANAGER
+
+
+===============================================================================
+ 37. DEEP CHARGE
+===============================================================================
+
+MATERIAL COST:
+
+  5 Atypical Disrupted Wake Echoes
+
+  3 Galvanising Alloys
+
+  1 Eccentric Hyperspace Trajectory
+
+
+Yes:
+
+  MASS MANAGER
+  and
+  DEEP CHARGE
+
+use the SAME materials.
+
+
+EFFECT:
+
+  +10% Maximum Fuel Per Jump
+
+
+IMPORTANT:
+
+That does NOT mean:
+
+  +10% jump range.
+
+
+It allows the FSD to burn more fuel on a maximum-distance jump.
+
+
+On smaller FSD classes this can give a slightly longer maximum single jump.
+
+
+===============================================================================
+ 38. MASS MANAGER VS DEEP CHARGE - SIMPLE RULE
+===============================================================================
+
++-------------+--------------------------+------------------------------------+
+| FSD Class   | Maximum-range choice     | Beginner exploration advice        |
++-------------+--------------------------+------------------------------------+
+| Class 2     | Deep Charge              | Deep Charge if chasing max range   |
+| Class 3     | Deep Charge              | Deep Charge if chasing max range   |
+| Class 4     | Deep Charge by a tiny    | Either; Mass Manager saves fuel    |
+|             | amount                   |                                    |
+| Class 5+    | Mass Manager             | Mass Manager                       |
++-------------+--------------------------+------------------------------------+
+
+
+CLASS 4 NOTE
+------------
+
+Deep Charge is only very slightly better for maximum single-jump range.
+
+The difference is tiny.
+
+Mass Manager avoids the extra maximum fuel-per-jump consumption.
+
+For a long-distance explorer:
+
+  Mass Manager is perfectly sensible on a Class 4.
+
+
+===============================================================================
+ 39. COMMON LEGACY SHIPS - WHICH EXPERIMENTAL?
+===============================================================================
+
++--------------------------+-----------+--------------------------------------+
+| Ship                     | FSD Class | Recommended                         |
++--------------------------+-----------+--------------------------------------+
+| Hauler                   | 2         | Deep Charge for max single jump      |
+| Adder                    | 3         | Deep Charge for max single jump      |
+| Imperial Courier         | 3         | Deep Charge for max single jump      |
+| Cobra Mk III             | 4         | Deep Charge max / MM for fuel        |
+| Dolphin                  | 4         | Deep Charge max / MM for fuel        |
+| Type-6 Transporter       | 4         | Deep Charge max / MM for fuel        |
+| Asp Scout                | 4         | Deep Charge max / MM for fuel        |
+| Diamondback Explorer     | 5         | Mass Manager                         |
+| Asp Explorer             | 5         | Mass Manager                         |
+| Krait Phantom            | 5         | Mass Manager                         |
+| Orca                     | 5         | Mass Manager                         |
+| Python                   | 5         | Mass Manager                         |
+| Anaconda                 | 6         | Mass Manager                         |
+| Beluga Liner             | 7         | Mass Manager                         |
++--------------------------+-----------+--------------------------------------+
+
+
+MM = Mass Manager
+
+
+===============================================================================
+ 40. WHICH ONE SHOULD A BEGINNER ACTUALLY PICK?
+===============================================================================
+
+IF YOUR SHIP HAS:
+
+  CLASS 5 OR LARGER FSD
+
+pick:
+
+  MASS MANAGER
+
+
+IF YOUR SHIP HAS:
+
+  CLASS 2 OR CLASS 3
+
+and you want the absolute best single-jump range:
+
+  DEEP CHARGE
+
+
+IF YOUR SHIP HAS:
+
+  CLASS 4
+
+you have two reasonable choices:
+
+
+ABSOLUTE MAXIMUM SINGLE JUMP:
+
+  Deep Charge
+
+
+BETTER FUEL ECONOMY / SIMPLE EXPLORATION CHOICE:
+
+  Mass Manager
+
+
+The range difference on Class 4 is very small.
+
+
+===============================================================================
+ 41. FINAL BEGINNER CHECKLIST
+===============================================================================
+
+SHIP:
+
+  [ ] Fuel Scoop
+
+  [ ] Detailed Surface Scanner
+
+  [ ] Planetary Vehicle Hangar
+
+  [ ] Scarab SRV
+
+  [ ] Shield
+
+  [ ] 1 tonne Cargo Rack
+
+
+FARSEER REQUIREMENTS:
+
+  [ ] Scout exploration rank
+
+  [ ] Felicity invitation received
+
+  [ ] 1 Meta-Alloy
+
+
+RAW:
+
+  [ ] Phosphorus
+
+  [ ] Manganese
+
+  [ ] Arsenic
+
+
+MANUFACTURED:
+
+  [ ] Chemical Processors
+
+  [ ] Chemical Distillery
+
+  [ ] Chemical Manipulators
+
+  [ ] Galvanising Alloys
+
+
+ENCODED:
+
+  [ ] Atypical Disrupted Wake Echoes
+
+  [ ] Strange Wake Solutions
+
+  [ ] Eccentric Hyperspace Trajectories
+
+  [ ] Datamined Wake Exceptions
+
+
+AT FARSEER:
+
+  [ ] Donate Meta-Alloy
+
+  [ ] Relog if services do not appear
+
+  [ ] Sell saved exploration data
+
+  [ ] Increased Range G1
+
+  [ ] Increased Range G2
+
+  [ ] Increased Range G3
+
+  [ ] Increased Range G4
+
+  [ ] Increased Range G5
+
+  [ ] Apply Experimental Effect
+
+  [ ] Pin Increased Range blueprint
+
+
+===============================================================================
+ 42. ONE-PAGE NAVIGATION SUMMARY
+===============================================================================
+
+DAV'S HOPE
+----------
+
+System:
+  Hyades Sector DR-V c2-23
+
+Planet:
+  A 5
+
+Distance from Sol:
+  ~184.45 LY
+
+Find it:
+  FSS body
+  ->
+  DSS planet
+  ->
+  Dav's Hope appears in Navigation Panel
+
+Coords needed?
+  NO
+
+Backup coords:
+  44.818 / -31.389
+
+
+JAMESON CRASH SITE
+------------------
+
+System:
+  HIP 12099
+
+Planet:
+  1 B
+
+Distance from Sol:
+  ~216.61 LY
+
+Find it:
+  FSS body
+  ->
+  DSS planet
+  ->
+  Jameson Crash Site appears in Navigation Panel
+
+Coords needed?
+  NO
+
+Backup coords:
+  -54.3803 / -50.3575
+
+Legacy:
+  FOUR Comms Controls
+
+
+ORRERE CRASHED ANACONDA
+-----------------------
+
+System:
+  Orrere
+
+Planet:
+  2 B
+
+Distance from Sol:
+  ~114.05 LY
+
+Find it:
+  Use coordinates first visit
+
+Coords:
+  43.8122 / -173.9722
+
+FSS?
+  Identifies the planet only
+
+DSS?
+  Not required for this guide
+
+After arrival:
+  Scan Ship Data Core to make return visits easier
+
+
+KOLI DISCII CRASHED ANACONDA - ALTERNATIVE
+-------------------------------------------
+
+System:
+  Koli Discii
+
+Planet:
+  C 6 A
+
+Distance from Sol:
+  ~149.24 LY
+
+Find it:
+  Use coordinates first visit
+
+Coords:
+  28.577 / 7.219
+
+FSS?
+  Identifies body only
+
+DSS?
+  Not required for this guide
+
+
+DARNIELLE'S PROGRESS
+--------------------
+
+System:
+  Maia
+
+Planet:
+  Maia A 2 a
+
+Distance from Sol:
+  ~383.31 LY
+
+Station distance:
+  ~632 LS
+
+Find it:
+  Navigation Panel / System Map
+
+Coords needed?
+  NO
+
+If missing:
+  Scan Maia Nav Beacon
+  or
+  DSS Maia A 2 a
+
+
+FARSEER INC.
+------------
+
+System:
+  Deciat
+
+Planet:
+  Deciat 6 A
+
+Distance from Sol:
+  ~131.43 LY
+
+Station distance:
+  ~2,040 LS
+
+Find it:
+  Navigation Panel / System Map
+
+Coords needed?
+  NO
+
+
+RAY GATEWAY
+-----------
+
+System:
+  Diaguandri
+
+Distance from Sol:
+  ~127.32 LY
+
+Station distance:
+  ~520 LS
+
+Purpose:
+  Encoded Material Trader
+
+
+STILLMAN HUB
+------------
+
+System:
+  Concordia
+
+Distance from Sol:
+  ~152.94 LY
+
+Station distance:
+  ~1,040 LS
+
+Purpose:
+  Encoded Material Trader alternative
+
+
+KENNEDY DOCK
+------------
+
+System:
+  Ritila
+
+Distance from Sol:
+  ~127.58 LY
+
+Station distance:
+  ~2,180 LS
+
+Purpose:
+  Raw Material Trader
+
+
+===============================================================================
+ 43. THE ABSOLUTE SHORTEST EXPLANATION
+===============================================================================
+
+1.
+
+Reach Scout:
+
+  Sell about 270,000 Cr of exploration data.
+
+
+2.
+
+Farm Dav's Hope:
+
+  Manufactured materials.
+
+
+3.
+
+Farm Jameson:
+
+  Encoded materials.
+
+
+4.
+
+Trade at Ray Gateway:
+
+  Get the exact Wake Scan data.
+
+
+5.
+
+Farm Orrere 2 B:
+
+  High-grade raw materials.
+
+
+6.
+
+Trade at Kennedy Dock:
+
+  Get Phosphorus, Manganese, Arsenic.
+
+
+7.
+
+Go to Darnielle's Progress:
+
+  Buy 1 Meta-Alloy.
+
+
+8.
+
+Go to Farseer Inc:
+
+  Donate Meta-Alloy.
+
+
+9.
+
+Sell saved exploration data at Farseer Inc.
+
+
+10.
+
+Engineer:
+
+  Increased Range
+  G1 -> G5
+
+
+11.
+
+Experimental:
+
+  Class 5+:
+      Mass Manager
+
+  Class 2-3:
+      Deep Charge for absolute max jump
+
+  Class 4:
+      Deep Charge for tiny max-range edge
+      or
+      Mass Manager for better fuel economy
+
+
+
+===============================================================================
+ END OF GUIDE
+===============================================================================
