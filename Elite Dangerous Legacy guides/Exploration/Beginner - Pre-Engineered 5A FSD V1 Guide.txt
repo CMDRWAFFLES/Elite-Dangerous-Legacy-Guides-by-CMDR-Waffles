@@ -1,0 +1,1791 @@
+===============================================================================
+ ELITE DANGEROUS: LEGACY / CONSOLE - HORIZONS 3.8
+ BEGINNER GUIDE:
+ HOW TO GET THE PRE-ENGINEERED 5A FSD V1
+===============================================================================
+
+This guide is specifically for:
+
+  Elite Dangerous: Legacy / Console
+  Horizons 3.8
+
+
+MODULE:
+
+  ENGINEERED FSD V1
+
+
+Sometimes players call it:
+
+  PRE-ENGINEERED FSD
+  DOUBLE-ENGINEERED FSD
+  5A FSD V1
+
+
+It is:
+
+  CLASS 5
+  RATING A
+
+
+===============================================================================
+ 1. WHY SHOULD YOU GET IT?
+===============================================================================
+
+For a ship that uses a Class 5 Frame Shift Drive:
+
+  THIS IS THE BEST LEGACY CLASS 5 FSD FOR JUMP RANGE.
+
+
+It comes with TWO engineering blueprints already applied:
+
+  INCREASED RANGE
+
+and:
+
+  FASTER BOOT SEQUENCE
+
+
+A normal FSD can only have one normal engineering blueprint.
+
+The V1 therefore gets a special combination that a commander cannot reproduce
+by normal engineering.
+
+
+WHY IT IS GOOD FOR BEGINNERS
+----------------------------
+
+You do NOT need to unlock Felicity Farseer first.
+
+You do NOT need to roll:
+
+  G1
+  G2
+  G3
+  G4
+  G5
+
+
+Instead:
+
+  Gather four materials
+      ->
+  Visit a Human Technology Broker
+      ->
+  Exchange the materials
+      ->
+  Receive the FSD
+
+
+It also normally gives a few LY more jump range than a normal 5A FSD with
+Grade 5 Increased Range on the same ship.
+
+Exact gain depends on:
+
+  Ship
+  Fuel
+  Cargo
+  Total mass
+  Other modules
+
+
+===============================================================================
+ 2. HOW MUCH DOES IT COST?
+===============================================================================
+
+CREDIT COST AT THE TECHNOLOGY BROKER:
+
+  0 Cr
+
+
+You pay with MATERIALS.
+
+
+ONE FSD V1 costs:
+
+  18 Datamined Wake Exceptions
+
+  26 Tellurium
+
+  26 Electrochemical Arrays
+
+  28 Chemical Processors
+
+
+TOTAL MATERIAL UNITS:
+
+  98
+
+
+IMPORTANT:
+
+This is NOT a permanent unlock that lets you buy unlimited copies for credits.
+
+
+EVERY ADDITIONAL FSD V1 requires the full material cost again.
+
+
+===============================================================================
+ 3. CREDIT VALUE COMPARISON
+===============================================================================
+
+A normal stock:
+
+  5A FRAME SHIFT DRIVE
+
+costs approximately:
+
+  5,103,953 Cr
+
+
+The FSD V1 itself costs:
+
+  0 Cr
+  +
+  Materials
+
+
+So in direct module-purchase credits:
+
+  You save roughly:
+
+      5.1 MILLION Cr
+
+
+The real "cost" is the time spent gathering the materials.
+
+
+===============================================================================
+ 4. SHOULD A BEGINNER GET THIS OR ENGINEER A NORMAL FSD?
+===============================================================================
+
+IF YOUR SHIP USES A CLASS 5 FSD:
+
+  GETTING THE FSD V1 MAKES A LOT OF SENSE.
+
+
+Reasons:
+
+  - Better range than a normal G5 5A FSD
+  - No Engineer unlock required to obtain it
+  - No random engineering rolls
+  - Only four material types required
+  - Can later receive an Experimental Effect
+  - Can be moved between ships that use a Class 5 FSD
+
+
+A normal engineered FSD still matters for ships that use:
+
+  Class 2
+  Class 3
+  Class 4
+  Class 6
+  Class 7
+
+
+The FSD V1 only exists as:
+
+  CLASS 5A
+
+
+===============================================================================
+ 5. WHICH SHIPS BENEFIT MOST?
+===============================================================================
+
+The FSD V1 makes the MOST sense on ships where jump range matters and the ship
+uses a Class 5 FSD.
+
+
+HIGHLY RECOMMENDED
+------------------
+
+  Diamondback Explorer
+
+  Asp Explorer
+
+  Krait Phantom
+
+
+These are classic exploration ships and benefit enormously from the V1.
+
+
+VERY USEFUL
+-----------
+
+  Krait Mk II
+
+  Python
+
+  Orca
+
+
+These ships may not always be dedicated explorers, but the extra jump range is
+excellent for:
+
+  Travel
+  Missions
+  Material gathering
+  Passenger work
+  Bubble transport
+
+
+SIMPLE RULE
+-----------
+
+If your ship's normal FSD slot is:
+
+  CLASS 5
+
+the V1 is normally worth considering.
+
+
+If the ship needs another FSD class:
+
+  It cannot use this module.
+
+
+===============================================================================
+ 6. THE MATERIAL LIST
+===============================================================================
+
++--------------------------------------+-------------+--------------------------+
+| Material                             | Type        | Amount                   |
++--------------------------------------+-------------+--------------------------+
+| Datamined Wake Exceptions            | Encoded G5  | 18                       |
+| Tellurium                            | Raw G4      | 26                       |
+| Electrochemical Arrays               | Manu G3     | 26                       |
+| Chemical Processors                  | Manu G2     | 28                       |
++--------------------------------------+-------------+--------------------------+
+
+
+FOR MASS MANAGER LATER:
+
++--------------------------------------+-------------+--------------------------+
+| Material                             | Type        | Amount                   |
++--------------------------------------+-------------+--------------------------+
+| Atypical Disrupted Wake Echoes       | Encoded G1  | 5                        |
+| Galvanising Alloys                   | Manu G2     | 3                        |
+| Eccentric Hyperspace Trajectory      | Encoded G4  | 1                        |
++--------------------------------------+-------------+--------------------------+
+
+
+===============================================================================
+ 7. BEGINNER FARMING ROUTE
+===============================================================================
+
+A simple Legacy route is:
+
+  DAV'S HOPE
+      ->
+  JAMESON CRASH SITE
+      ->
+  RAY GATEWAY
+      ->
+  ORRERE 2 B
+      ->
+  HUMAN TECHNOLOGY BROKER
+
+
+This gets you:
+
+  Manufactured materials
+  Encoded materials
+  Tellurium
+  The FSD itself
+
+
+===============================================================================
+ 8. MANUFACTURED MATERIALS - DAV'S HOPE
+===============================================================================
+
+YOU NEED:
+
+  26 Electrochemical Arrays
+
+  28 Chemical Processors
+
+
+ALSO COLLECT FOR MASS MANAGER:
+
+  3 Galvanising Alloys
+
+
+LOCATION
+--------
+
+System:
+
+  Hyades Sector DR-V c2-23
+
+
+Distance from Sol:
+
+  ~184.45 LY
+
+
+Body:
+
+  A 5
+
+
+Distance from arrival:
+
+  ~60 LS
+
+
+Legacy coordinates:
+
+  44.818
+  -31.389
+
+
+===============================================================================
+ 9. HOW TO FIND DAV'S HOPE
+===============================================================================
+
+Bring:
+
+  Detailed Surface Scanner
+  Planetary Vehicle Hangar
+  Scarab SRV
+
+
+Beginner method:
+
+  1. Enter Hyades Sector DR-V c2-23.
+
+  2. Honk.
+
+  3. FSS-identify:
+
+       A 5
+
+  4. Fly to A 5.
+
+  5. DSS-map the body.
+
+  6. Check the Navigation Panel for:
+
+       DAV'S HOPE
+
+
+If the marker does not appear:
+
+  Use the coordinates:
+
+      44.818
+      -31.389
+
+
+===============================================================================
+ 10. HOW TO FARM DAV'S HOPE
+===============================================================================
+
+1. Land near the settlement.
+
+2. Deploy the SRV.
+
+3. Open the SRV Cargo Scoop.
+
+4. Drive around the settlement.
+
+5. Collect every manufactured material you see.
+
+6. Complete the loop.
+
+7. Log out to:
+
+     MAIN MENU
+
+8. Log back in.
+
+9. The loose materials respawn.
+
+10. Repeat.
+
+
+DIRECTLY WATCH FOR:
+
+  Electrochemical Arrays
+
+  Chemical Processors
+
+  Galvanising Alloys
+
+
+Dav's Hope can spawn all three.
+
+
+Because the drops are random:
+
+  COLLECT EVERYTHING.
+
+
+If you finish with too much of one manufactured material and too little of
+another:
+
+  Use a Manufactured Material Trader.
+
+
+===============================================================================
+ 11. NEARBY MANUFACTURED TRADER
+===============================================================================
+
+A useful trader near Dav's Hope is:
+
+  VAUCANSON GATEWAY
+
+
+System:
+
+  HIP 12067
+
+
+Station type:
+
+  Coriolis Starport
+
+
+Station distance:
+
+  ~378 LS
+
+
+Material Trader:
+
+  MANUFACTURED
+
+
+It is roughly:
+
+  ~43 LY
+
+from Dav's Hope.
+
+
+Use it if RNG leaves you short on:
+
+  Electrochemical Arrays
+
+or:
+
+  Chemical Processors
+
+
+===============================================================================
+ 12. DATAMINED WAKE EXCEPTIONS - JAMESON METHOD
+===============================================================================
+
+YOU NEED:
+
+  18 Datamined Wake Exceptions
+
+
+The easiest predictable beginner bulk method is:
+
+  JAMESON CRASH SITE
+      +
+  ENCODED MATERIAL TRADER
+
+
+Jameson does NOT directly give Datamined Wake Exceptions.
+
+Instead:
+
+  Farm high-grade encoded data
+      ->
+  Trade it for Datamined Wake Exceptions
+
+
+===============================================================================
+ 13. JAMESON CRASH SITE
+===============================================================================
+
+System:
+
+  HIP 12099
+
+
+Distance from Sol:
+
+  ~216.61 LY
+
+
+Body:
+
+  1 B
+
+
+Legacy coordinates:
+
+  -54.3803
+  -50.3575
+
+
+LEGACY SITE:
+
+  FOUR COMMS CONTROLS
+
+
+===============================================================================
+ 14. HOW TO FIND JAMESON
+===============================================================================
+
+Bring:
+
+  Detailed Surface Scanner
+  Planetary Vehicle Hangar
+  Scarab SRV
+
+
+Method:
+
+  1. Enter HIP 12099.
+
+  2. Honk.
+
+  3. FSS-identify:
+
+       1 B
+
+  4. Fly to 1 B.
+
+  5. DSS-map it.
+
+  6. Check Navigation Panel for:
+
+       JAMESON CRASH SITE
+
+
+If necessary:
+
+  Use coordinates:
+
+      -54.3803
+      -50.3575
+
+
+===============================================================================
+ 15. HOW TO FARM JAMESON
+===============================================================================
+
+1. Land near the crashed Cobra.
+
+2. Deploy SRV.
+
+3. Enter SRV turret.
+
+4. Use:
+
+     DATA LINK SCANNER
+
+5. Scan all FOUR Comms Controls.
+
+6. Log out to:
+
+     MAIN MENU
+
+7. Log back in.
+
+8. Scan all four again.
+
+9. Repeat.
+
+
+The important high-grade material is:
+
+  ADAPTIVE ENCRYPTORS CAPTURE
+
+
+It is:
+
+  ENCODED G5
+
+
+===============================================================================
+ 16. TRADE JAMESON DATA FOR DATAMINED WAKE EXCEPTIONS
+===============================================================================
+
+Go to an:
+
+  ENCODED MATERIAL TRADER
+
+
+A classic Legacy choice is:
+
+  RAY GATEWAY
+
+
+System:
+
+  Diaguandri
+
+
+Distance from Sol:
+
+  ~127.32 LY
+
+
+Station distance:
+
+  roughly 500-600 LS
+
+
+Ray Gateway is approximately:
+
+  ~93 LY
+
+from HIP 12099.
+
+
+===============================================================================
+ 17. IMPORTANT TRADE MATH
+===============================================================================
+
+Adaptive Encryptors Capture:
+
+  G5
+
+
+Datamined Wake Exceptions:
+
+  G5
+
+
+They are in DIFFERENT encoded families.
+
+
+Cross-family same-grade exchange:
+
+  6 : 1
+
+
+Therefore:
+
+  18 Datamined Wake Exceptions
+
+requires:
+
+  108 Adaptive Encryptors Capture
+
+
+BUT:
+
+The storage cap for a G5 encoded material is:
+
+  100
+
+
+So you cannot get all 18 DWE from one full 100-stack.
+
+
+EASY METHOD
+-----------
+
+FIRST JAMESON FARM:
+
+  Fill Adaptive Encryptors Capture close to 100.
+
+
+At Ray Gateway:
+
+  Trade:
+
+      96 Adaptive Encryptors Capture
+
+  for:
+
+      16 Datamined Wake Exceptions
+
+
+Then farm at least:
+
+  12 more Adaptive Encryptors Capture
+
+
+Trade those for:
+
+  2 more Datamined Wake Exceptions
+
+
+TOTAL:
+
+  18 DWE
+
+
+===============================================================================
+ 18. MASS MANAGER ENCODED MATERIALS
+===============================================================================
+
+While using the Encoded Trader:
+
+Also make sure you have:
+
+  5 Atypical Disrupted Wake Echoes
+
+  1 Eccentric Hyperspace Trajectory
+
+
+You can get both from:
+
+  Direct High Energy Wake scanning
+
+or:
+
+  Material trading
+
+
+Since you are already farming Jameson:
+
+  Trading is convenient.
+
+
+===============================================================================
+ 19. DIRECT WAKE SCANNING - ALTERNATIVE
+===============================================================================
+
+You can obtain Datamined Wake Exceptions directly.
+
+
+Fit:
+
+  FRAME SHIFT WAKE SCANNER
+
+
+Go to:
+
+  Busy station
+  High-traffic system
+
+
+Scan:
+
+  HIGH ENERGY FSD WAKES
+
+
+This can directly give:
+
+  Datamined Wake Exceptions
+
+
+ADVANTAGE:
+
+  No Jameson-to-trader loop.
+
+
+DISADVANTAGE:
+
+  Datamined Wake Exceptions are rare.
+
+
+BEGINNER VERDICT:
+
+For 18 DWE from nearly empty storage:
+
+  Jameson + trader is more predictable.
+
+
+===============================================================================
+ 20. TELLURIUM - ORRERE 2 B
+===============================================================================
+
+YOU NEED:
+
+  26 Tellurium
+
+
+A good Bubble-area Legacy method is:
+
+  ORRERE CRASHED ANACONDA
+
+
+System:
+
+  Orrere
+
+
+Distance from Sol:
+
+  ~114.05 LY
+
+
+Body:
+
+  Orrere 2 B
+
+
+Distance from arrival:
+
+  ~1,700 LS
+
+
+Coordinates:
+
+  43.812
+  -173.972
+
+
+===============================================================================
+ 21. HOW TO FIND THE ORRERE WRECK
+===============================================================================
+
+Bring:
+
+  SRV
+
+
+Recommended:
+
+  DSS
+  Shield Generator
+
+
+Method:
+
+  1. Enter Orrere.
+
+  2. Honk.
+
+  3. FSS-identify:
+
+       Orrere 2 B
+
+  4. Fly to the body.
+
+  5. DSS-map it.
+
+  6. Check the Navigation Panel.
+
+
+For a FIRST visit:
+
+  Keep the coordinates ready:
+
+      43.812
+      -173.972
+
+
+If no crash-site marker appears:
+
+  Fly to the coordinates.
+
+
+The terrain is:
+
+  ROUGH
+  SLOPED
+
+
+Land carefully.
+
+
+===============================================================================
+ 22. HOW TO FARM TELLURIUM AT ORRERE
+===============================================================================
+
+1. Land near the crashed Anaconda.
+
+2. Deploy SRV.
+
+3. Find the Cargo Racks.
+
+4. Shoot them.
+
+5. Target the raw-material fragments.
+
+6. Scoop them.
+
+7. Watch specifically for:
+
+     TELLURIUM
+
+8. Log out to:
+
+     MAIN MENU
+
+9. Log back in.
+
+10. Cargo Racks respawn.
+
+11. Repeat until you have at least:
+
+      26 Tellurium
+
+
+The wreck can also drop:
+
+  Antimony
+
+  Ruthenium
+
+  Tungsten
+
+  Zirconium
+
+
+Keep those too.
+
+
+===============================================================================
+ 23. TELLURIUM - LONG-DISTANCE ALTERNATIVE
+===============================================================================
+
+For commanders who later want to fill large amounts of raw-material storage:
+
+  HIP 36601
+
+
+Tellurium body:
+
+  HIP 36601 C 3 B
+
+
+Legacy Crystalline Shards can provide large quantities of Tellurium.
+
+
+Distance from Sol:
+
+  roughly 1,600 LY
+
+
+For ONE beginner FSD V1:
+
+  Orrere is much closer and usually makes more sense.
+
+
+===============================================================================
+ 24. WHERE DO I ACTUALLY GET THE FSD?
+===============================================================================
+
+You need a:
+
+  HUMAN TECHNOLOGY BROKER
+
+
+Any Human Technology Broker that offers the module can be used.
+
+
+A simple Legacy-era verified example is:
+
+  TANI HUB
+
+
+System:
+
+  Ainunnicori
+
+
+Distance from Sol:
+
+  ~96.45 LY
+
+
+Station:
+
+  Tani Hub
+
+
+Station distance:
+
+  ~35 LS
+
+
+Station type:
+
+  Coriolis Starport
+
+
+Broker:
+
+  HUMAN TECHNOLOGY BROKER
+
+
+===============================================================================
+ 25. BUYING THE FSD V1
+===============================================================================
+
+At the Technology Broker:
+
+  Open:
+
+      CONTACTS
+      ->
+      TECHNOLOGY BROKER
+
+
+Find:
+
+  ENGINEERED FSD V1
+  CLASS 5
+
+
+Exchange:
+
+  18 Datamined Wake Exceptions
+
+  26 Tellurium
+
+  26 Electrochemical Arrays
+
+  28 Chemical Processors
+
+
+The module is then placed into:
+
+  LOCAL MODULE STORAGE
+
+
+IMPORTANT:
+
+It may NOT automatically install itself.
+
+
+Go to:
+
+  OUTFITTING
+      ->
+  STORED MODULES
+
+
+Find the pre-engineered:
+
+  5A FRAME SHIFT DRIVE
+
+
+Transfer it into your ship.
+
+
+===============================================================================
+ 26. DO NOT ACCIDENTALLY DESTROY THE SPECIAL ENGINEERING
+===============================================================================
+
+VERY IMPORTANT:
+
+The V1 has TWO special normal engineering effects.
+
+
+DO NOT APPLY A NORMAL ENGINEERING BLUEPRINT TO IT.
+
+
+If you overwrite it with something like:
+
+  Normal Increased Range
+
+or:
+
+  Shielded
+
+or:
+
+  Faster Boot
+
+
+you can remove the special double-engineered combination.
+
+
+SAFE:
+
+  ADDING AN EXPERIMENTAL EFFECT
+
+
+NOT SAFE:
+
+  APPLYING ANOTHER NORMAL BLUEPRINT
+
+
+===============================================================================
+ 27. WHICH EXPERIMENTAL EFFECT SHOULD I USE?
+===============================================================================
+
+FOR THE PRE-ENGINEERED 5A FSD V1:
+
+  USE MASS MANAGER.
+
+
+This is a:
+
+  CLASS 5 FSD
+
+
+Mass Manager is the range-maximising experimental for:
+
+  CLASS 5 AND LARGER FSDs
+
+
+===============================================================================
+ 28. MASS MANAGER
+===============================================================================
+
+Effect:
+
+  +4% Optimised Mass
+
+
+Cost:
+
+  5 Atypical Disrupted Wake Echoes
+
+  3 Galvanising Alloys
+
+  1 Eccentric Hyperspace Trajectory
+
+
+You can obtain the extra materials during the same farms used for the FSD:
+
+  Galvanising Alloys:
+      Dav's Hope
+
+  Atypical Disrupted Wake Echoes:
+      Wake scanning
+      or
+      Encoded Trader
+
+  Eccentric Hyperspace Trajectory:
+      Wake scanning
+      or
+      Encoded Trader
+
+
+===============================================================================
+ 29. DO NOT USE DEEP CHARGE ON THE V1 FOR RANGE
+===============================================================================
+
+Deep Charge gives:
+
+  +10% Maximum Fuel Per Jump
+
+
+On smaller FSD classes it can sometimes produce a tiny single-jump advantage.
+
+
+BUT:
+
+The FSD V1 is:
+
+  CLASS 5
+
+
+For Class 5:
+
+  MASS MANAGER gives better range.
+
+
+It also avoids increasing the maximum fuel-per-jump figure.
+
+
+BEGINNER RULE:
+
+  5A FSD V1
+      ->
+  MASS MANAGER
+
+
+===============================================================================
+ 30. HOW TO APPLY MASS MANAGER
+===============================================================================
+
+You need an Engineer who can work on Frame Shift Drives.
+
+
+The easiest beginner Engineer is normally:
+
+  FELICITY FARSEER
+
+
+You do NOT need Felicity to GET the FSD V1.
+
+
+You only need an Engineer if you want to ADD the Experimental Effect.
+
+
+At the Engineer:
+
+  1. Fit the FSD V1 to your ship.
+
+  2. Open Frame Shift Drive engineering.
+
+  3. Select an FSD blueprint screen.
+
+  4. DO NOT PRESS APPLY on the normal blueprint.
+
+  5. Choose:
+
+       EXPERIMENTAL EFFECT
+
+  6. Select:
+
+       MASS MANAGER
+
+  7. Apply it.
+
+
+Mass Manager is safe to add.
+
+It does NOT remove the V1's special double engineering.
+
+
+===============================================================================
+ 31. IF YOU HAVE NOT UNLOCKED FELICITY YET
+===============================================================================
+
+You have two choices.
+
+
+OPTION A
+--------
+
+Use the FSD V1 immediately WITHOUT an Experimental Effect.
+
+It is already excellent.
+
+
+Then unlock Felicity later and add:
+
+  Mass Manager
+
+
+OPTION B
+--------
+
+Unlock Felicity now.
+
+Her requirements are:
+
+  Scout exploration rank
+
+  1 Meta-Alloy
+
+
+See the separate beginner guide:
+
+  Unlock Felicity Farseer + Engineer G5 FSD
+
+
+===============================================================================
+ 32. BEST SHIPS FOR THE V1
+===============================================================================
+
+EXPLORATION
+-----------
+
+DIAMONDBACK EXPLORER
+
+  Excellent choice.
+  Class 5 FSD.
+  One of the best uses of the module.
+
+
+ASP EXPLORER
+
+  Excellent choice.
+  Class 5 FSD.
+  Very strong exploration / material-gathering ship.
+
+
+KRAIT PHANTOM
+
+  Excellent choice.
+  Class 5 FSD.
+  Excellent long-range explorer.
+
+
+GENERAL PURPOSE
+---------------
+
+KRAIT MK II
+
+  Very useful.
+  Extra range greatly improves general travel.
+
+
+PYTHON
+
+  Very useful.
+  Excellent for passenger, mission and material-farming travel.
+
+
+ORCA
+
+  Very useful.
+  Class 5 FSD and good long-distance potential.
+
+
+===============================================================================
+ 33. IS IT WORTH BUYING MORE THAN ONE?
+===============================================================================
+
+Maybe.
+
+
+Remember:
+
+  EACH COPY costs:
+
+      18 Datamined Wake Exceptions
+      26 Tellurium
+      26 Electrochemical Arrays
+      28 Chemical Processors
+
+
+You can move one FSD between ships through module storage.
+
+
+BEGINNER RECOMMENDATION:
+
+  GET ONE FIRST.
+
+
+Use it in your main:
+
+  DBX
+  Asp Explorer
+  Krait Phantom
+  or other Class 5 ship
+
+
+Only farm another complete set if you want separate permanently fitted copies.
+
+
+===============================================================================
+ 34. HOW MUCH FARMING IS THIS REALLY?
+===============================================================================
+
+FIXED BROKER COST:
+
+  18 DWE
+  26 Tellurium
+  26 Electrochemical Arrays
+  28 Chemical Processors
+
+
+WITH MASS MANAGER:
+
+Add:
+
+  5 Atypical Disrupted Wake Echoes
+  3 Galvanising Alloys
+  1 Eccentric Hyperspace Trajectory
+
+
+TOTAL DIFFERENT MATERIAL TYPES:
+
+  7
+
+
+CREDIT COST FOR THE FSD ITSELF:
+
+  0 Cr
+
+
+NORMAL 5A FSD CREDIT PRICE:
+
+  ~5.1 million Cr
+
+
+You therefore pay primarily with:
+
+  TRAVEL
+  MATERIAL FARMING
+
+
+not:
+
+  CREDITS
+
+
+===============================================================================
+ 35. BEGINNER SHOPPING / EQUIPMENT CHECKLIST
+===============================================================================
+
+FOR DAV'S HOPE:
+
+  [ ] Fuel Scoop
+
+  [ ] Detailed Surface Scanner
+
+  [ ] Planetary Vehicle Hangar
+
+  [ ] Scarab SRV
+
+
+FOR JAMESON:
+
+  [ ] Fuel Scoop
+
+  [ ] Detailed Surface Scanner
+
+  [ ] Planetary Vehicle Hangar
+
+  [ ] Scarab SRV
+
+
+FOR ORRERE:
+
+  [ ] Fuel Scoop
+
+  [ ] SRV
+
+  [ ] DSS recommended
+
+  [ ] Shield recommended
+
+
+FOR DIRECT WAKE SCANNING:
+
+  [ ] Frame Shift Wake Scanner
+
+
+===============================================================================
+ 36. COMPLETE BEGINNER ROUTE
+===============================================================================
+
+STEP 1
+------
+
+Go to:
+
+  DAV'S HOPE
+
+System:
+
+  Hyades Sector DR-V c2-23
+
+Body:
+
+  A 5
+
+
+Collect:
+
+  26 Electrochemical Arrays
+
+  28 Chemical Processors
+
+  3 Galvanising Alloys
+
+
+If RNG is poor:
+
+  Use Vaucanson Gateway
+  HIP 12067
+  Manufactured Material Trader
+
+
+STEP 2
+------
+
+Go to:
+
+  JAMESON CRASH SITE
+
+System:
+
+  HIP 12099
+
+Body:
+
+  1 B
+
+
+Farm:
+
+  Adaptive Encryptors Capture
+
+
+STEP 3
+------
+
+Go to:
+
+  RAY GATEWAY
+
+System:
+
+  Diaguandri
+
+
+Trade for:
+
+  18 Datamined Wake Exceptions
+
+
+Also make sure you have:
+
+  5 Atypical Disrupted Wake Echoes
+
+  1 Eccentric Hyperspace Trajectory
+
+
+STEP 4
+------
+
+Go to:
+
+  ORRERE
+
+Body:
+
+  2 B
+
+Coords:
+
+  43.812
+  -173.972
+
+
+Farm:
+
+  26 Tellurium
+
+
+STEP 5
+------
+
+Go to:
+
+  TANI HUB
+
+System:
+
+  Ainunnicori
+
+
+Open:
+
+  Human Technology Broker
+
+
+Exchange the four required materials.
+
+
+STEP 6
+------
+
+Open:
+
+  Outfitting
+      ->
+  Stored Modules
+
+
+Fit:
+
+  ENGINEERED FSD V1
+
+
+STEP 7 - OPTIONAL BUT RECOMMENDED
+---------------------------------
+
+Visit:
+
+  Felicity Farseer
+  or
+  another FSD Engineer
+
+
+Apply ONLY:
+
+  MASS MANAGER
+
+
+Do NOT overwrite the normal blueprint.
+
+
+===============================================================================
+ 37. ONE-PAGE LOCATION SUMMARY
+===============================================================================
+
+DAV'S HOPE
+----------
+
+Purpose:
+  Electrochemical Arrays
+  Chemical Processors
+  Galvanising Alloys
+
+System:
+  Hyades Sector DR-V c2-23
+
+Body:
+  A 5
+
+From Sol:
+  ~184.45 LY
+
+Find:
+  FSS body
+  ->
+  DSS body
+  ->
+  Navigation Panel
+
+Backup coords:
+  44.818 / -31.389
+
+
+JAMESON CRASH SITE
+------------------
+
+Purpose:
+  Encoded trading material
+
+System:
+  HIP 12099
+
+Body:
+  1 B
+
+From Sol:
+  ~216.61 LY
+
+Find:
+  FSS body
+  ->
+  DSS body
+  ->
+  Navigation Panel
+
+Backup coords:
+  -54.3803 / -50.3575
+
+Legacy:
+  FOUR Comms Controls
+
+
+RAY GATEWAY
+-----------
+
+Purpose:
+  Encoded Material Trader
+
+System:
+  Diaguandri
+
+From Sol:
+  ~127.32 LY
+
+Station distance:
+  ~500-600 LS
+
+
+ORRERE CRASHED ANACONDA
+-----------------------
+
+Purpose:
+  Tellurium
+
+System:
+  Orrere
+
+Body:
+  2 B
+
+From Sol:
+  ~114.05 LY
+
+Distance from arrival:
+  ~1,700 LS
+
+Coords:
+  43.812 / -173.972
+
+
+TANI HUB
+--------
+
+Purpose:
+  Human Technology Broker
+  Obtain Engineered FSD V1
+
+System:
+  Ainunnicori
+
+From Sol:
+  ~96.45 LY
+
+Station distance:
+  ~35 LS
+
+
+===============================================================================
+ 38. THE FIVE THINGS TO REMEMBER
+===============================================================================
+
+1.
+
+The FSD V1 is:
+
+  CLASS 5A ONLY.
+
+
+2.
+
+It costs:
+
+  MATERIALS
+  NOT CREDITS.
+
+
+3.
+
+Each extra copy costs the full material bundle again.
+
+
+4.
+
+For jump range:
+
+  APPLY MASS MANAGER.
+
+
+5.
+
+NEVER overwrite the V1 with a normal engineering blueprint.
+
+Only add:
+
+  AN EXPERIMENTAL EFFECT.
+
+
+===============================================================================
+ 39. FINAL VERDICT
+===============================================================================
+
+IF YOU OWN:
+
+  Diamondback Explorer
+
+  Asp Explorer
+
+  Krait Phantom
+
+or another ship that uses a:
+
+  CLASS 5 FSD
+
+
+the Engineered FSD V1 is one of the most worthwhile Legacy upgrades you can
+obtain.
+
+
+It gives:
+
+  Better jump range than a normal engineered 5A
+
+  No need to unlock an Engineer before obtaining it
+
+  No random G1-G5 engineering rolls
+
+  Zero direct credit purchase cost
+
+  Compatibility with Mass Manager
+
+
+For a beginner explorer using a Class 5 FSD:
+
+  GETTING ONE IS HIGHLY RECOMMENDED.
+
+
+===============================================================================
+ END OF GUIDE
+===============================================================================
